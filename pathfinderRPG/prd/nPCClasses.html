@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <title>NPC Classes</title>
+        <link href="/pathfinderRPG/prd/include/prd-template.css" rel="stylesheet" type="text/css" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
+        <script type="text/javascript" src="/pathfinderRPG/prd/include/iscroll.js"></script>
+        <script type="text/javascript" src="/pathfinderRPG/prd/include/wondaculous-min.js"></script>
+        <script type="text/javascript">var globalTitle="NPC Classes",globalNavPath=[];</script>
+        <script type="text/javascript" src="/pathfinderRPG/prd/include/prd-scripts-min.js"></script>
+    </head>
+    <body onload="setupPage()">
+
+
+
+        <div id="body"><a  id="chapter-14"><h1 id="adept">Adept</h1>
+				<p><b>Alignment</b>: Any.</p>
+				<p><b>Hit Die</b>: d6.</p>
+				<h2>Class Skills</h2>
+				<p>The adept's class skills (and the key ability for each skill) are <a href="skills/craft.html#_craft" >Craft</a> (<a href="gettingStarted.html#_intelligence" >Int</a>), <a href="skills/handleAnimal.html#_handle-animal" >Handle Animal</a> (<a href="gettingStarted.html#_charisma-new" >Cha</a>), <a href="skills/heal.html#_heal" >Heal</a> (<a href="gettingStarted.html#_wisdom" >Wis</a>), <a href="skills/knowledge.html#_knowledge" >Knowledge</a> (all skills taken individually) (<a href="gettingStarted.html#_intelligence" >Int</a>), <a href="skills/profession.html#_profession" >Profession</a> (<a href="gettingStarted.html#_wisdom" >Wis</a>), <a href="skills/spellcraft.html#_spellcraft" >Spellcraft</a> (<a href="gettingStarted.html#_intelligence" >Int</a>), and <a href="skills/survival.html#_survival" >Survival</a> (<a href="gettingStarted.html#_wisdom" >Wis</a>). </p>
+				<p><b>Skill Ranks per Level</b>: 2 + <a href="gettingStarted.html#_intelligence" >Int</a> modifier.</p>
+				<table id="table-14-1-adept"><caption>Table: Adept</caption>
+<thead><tr><th rowspan="2">Level</th><th rowspan="2">Base Attack Bonus</th><th rowspan="2">Fort Save</th><th rowspan="2">Ref Save</th><th rowspan="2">Will Save</th><th rowspan="2">Special</th><th colspan="6">Spells per Day</th></tr>
+<tr><th>0</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th></tr></thead>
+<tr class="odd"><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td style="white-space: normal;"></td><td>3</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="even"><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td style="white-space: normal;"><a href="#summon-familiar" >Summon familiar</a></td><td>3</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="odd"><td>3rd</td><td>+1</td><td>+1</td><td>+1</td><td>+3</td><td style="white-space: normal;"></td><td>3</td><td>2</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="even"><td>4th</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td style="white-space: normal;"></td><td>3</td><td>2</td><td>0</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="odd"><td>5th</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td style="white-space: normal;"></td><td>3</td><td>2</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="even"><td>6th</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td style="white-space: normal;"></td><td>3</td><td>2</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="odd"><td>7th</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>2</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="even"><td>8th</td><td>+4</td><td>+2</td><td>+2</td><td>+6</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>2</td><td>0</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="odd"><td>9th</td><td>+4</td><td>+3</td><td>+3</td><td>+6</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>2</td><td>1</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="even"><td>10th</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>2</td><td>1</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="odd"><td>11th</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>3</td><td>2</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr class="even"><td>12th</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>3</td><td>2</td><td>0</td><td>&mdash;</td></tr>
+<tr class="odd"><td>13th</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>&mdash;</td></tr>
+<tr class="even"><td>14th</td><td>+7/+2</td><td>+4</td><td>+4</td><td>+9</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>&mdash;</td></tr>
+<tr class="odd"><td>15th</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+9</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>&mdash;</td></tr>
+<tr class="even"><td>16th</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>0</td></tr>
+<tr class="odd"><td>17th</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td></tr>
+<tr class="even"><td>18th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td></tr>
+<tr class="odd"><td>19th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
+<tr class="even"><td>20th</td><td>+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td style="white-space: normal;"></td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td></tr></table>
+
+				<h2>Class Features</h2>
+				<p>All of the following are class features of the adept NPC class.</p>
+				<p><b>Weapon and Armor Proficiency</b>: Adepts are skilled with all simple weapons. Adepts are not proficient with any type of armor or shield.</p>
+				<p><b>Spells</b>: An adept casts divine spells, which are drawn from the adept spell list. Like a cleric, an adept must choose and prepare her spells in advance. Unlike a cleric, an adept cannot spontaneously cast <i>cure</i> or <i>inflict</i> spells.</p>
+				<p>To prepare or cast a spell, an adept must have a <a href="gettingStarted.html#_wisdom" >Wisdom</a> score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an adept's spell is 10 + the spell level + the adept's <a href="gettingStarted.html#_wisdom" >Wisdom</a> modifier.</p>
+				<p>Adepts, unlike wizards, do not acquire their spells from books or scrolls, nor do they prepare them through study. Instead, they meditate or pray for their spells, receiving them as divine inspiration or through their own strength of faith. Each adept must choose a time each day during which she must spend an hour in quiet contemplation or supplication to regain her daily allotment of spells. Time spent resting has no effect on whether an adept can prepare spells.</p>
+				<p>Like other spellcasters, an adept can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table 14&ndash;1. In addition, she receives bonus spells per day if she has a high <a href="gettingStarted.html#_wisdom" >Wisdom</a> score.</p>
+				<p>Where Table 14&ndash;1 indicates that the adept gets 0 spells per day of a given spell level, she gains only the bonus spells she would be entitled to based on her <a href="gettingStarted.html#_wisdom" >Wisdom</a> score for that spell level.</p>
+				<p>Each adept has a particular holy symbol (as a divine focus) depending on the adept's magical tradition.</p>
+				<p id="summon-familiar"><b>Summon Familiar</b>: At 2nd level, an adept can call a <a href="classes/wizard.html#_familiars" >familiar</a>, just as a wizard can using the arcane bond ability.</p>
+				<h2 id="adept-spell-list">Adept Spell List</h2>
+				<p>Adepts choose their spells from the following list.</p>
+				<p>0 Level: <i><a href="spells/createWater.html#_create-water" >create water</a>, <a href="spells/detectMagic.html#_detect-magic" >detect magic</a>, <a href="spells/ghostSound.html#_ghost-sound" >ghost sound</a>, <a href="spells/guidance.html#_guidance" >guidance</a>, <a href="spells/light.html#_light" >light</a>, <a href="spells/mending.html#_mending" >mending</a>, <a href="spells/purifyFoodAndDrink.html#_purify-food-and-drink" >purify food and drink</a>, <a href="spells/readMagic.html#_read-magic" >read magic</a>, <a href="spells/stabilize.html#_stabilize" >stabilize</a>, <a href="spells/touchOfFatigue.html#_touch-of-fatigue" >touch of fatigue</a>.</i></p>
+				<p>1st Level: <i><a href="spells/bless.html#_bless" >bless</a>, <a href="spells/burningHands.html#_burning-hands" >burning hands</a>, <a href="spells/causeFear.html#_cause-fear" >cause fear</a>, <a href="spells/command.html#_command" >command</a>, <a href="spells/comprehendLanguages.html#_comprehend-languages" >comprehend languages</a>, <a href="spells/cureLightWounds.html#_cure-light-wounds" >cure light wounds</a>, <a href="spells/detectChaos.html#_detect-chaos" >detect chaos</a>, <a href="spells/detectEvil.html#_detect-evil" >detect evil</a>, <a href="spells/detectGood.html#_detect-good" >detect good</a>, <a href="spells/detectLaw.html#_detect-law" >detect law</a>, <a href="spells/endureElements.html#_endure-elements" >endure elements</a>, <a href="spells/obscuringMist.html#_obscuring-mist" >obscuring mist</a>, <a href="spells/protectionFromChaos.html#_protection-from-chaos" >protection from chaos</a>, <a href="spells/protectionFromEvil.html#_protection-from-evil" >protection from evil</a>, <a href="spells/protectionFromGood.html#_protection-from-good" >protection from good</a>, <a href="spells/protectionFromLaw.html#_protection-from-law" >protection from law</a>, <a href="spells/sleep.html#_sleep" >sleep</a>.</i></p>
+				<p>2nd Level: <i><a href="spells/aid.html#_aid" >aid</a>, <a href="spells/animalTrance.html#_animal-trance" >animal trance</a>, <a href="spells/bearSEndurance.html#_bear-s-endurance" >bear's endurance</a>, <a href="spells/bullSStrength.html#_bull-s-strength" >bull's strength</a>, <a href="spells/catSGrace.html#_cat-s-grace" >cat's grace</a>, <a href="spells/cureModerateWounds.html#_cure-moderate-wounds" >cure moderate wounds</a>, <a href="spells/darkness.html#_darkness" >darkness</a>, <a href="spells/delayPoison.html#_delay-poison" >delay poison</a>, <a href="spells/invisibility.html#_invisibility" >invisibility</a>, <a href="spells/mirrorImage.html#_mirror-image" >mirror image</a>, <a href="spells/resistEnergy.html#_resist-energy" >resist energy</a>, <a href="spells/scorchingRay.html#_scorching-ray" >scorching ray</a>, <a href="spells/seeInvisibility.html#_see-invisibility" >see invisibility</a>, <a href="spells/web.html#_web" >web</a>.</i></p>
+				<p>3rd Level: <i><a href="spells/animateDead.html#_animate-dead" >animate dead</a>, <a href="spells/bestowCurse.html#_bestow-curse" >bestow curse</a>, <a href="spells/contagion.html#_contagion" >contagion</a>, <a href="spells/continualFlame.html#_continual-flame" >continual flame</a>, <a href="spells/cureSeriousWounds.html#_cure-serious-wounds" >cure serious wounds</a>, <a href="spells/daylight.html#_daylight" >daylight</a>, <a href="spells/deeperDarkness.html#_deeper-darkness" >deeper darkness</a>, <a href="spells/lightningBolt.html#_lightning-bolt" >lightning bolt</a>, <a href="spells/neutralizePoison.html#_neutralize-poison" >neutralize poison</a>, <a href="spells/removeCurse.html#_remove-curse" >remove curse</a>, <a href="spells/removeDisease.html#_remove-disease" >remove disease</a>, <a href="spells/tongues.html#_tongues" >tongues</a>.</i></p>
+				<p>4th Level: <i><a href="spells/cureCriticalWounds.html#_cure-critical-wounds" >cure critical wounds</a>, <a href="spells/minorCreation.html#_minor-creation" >minor creation</a>, <a href="spells/polymorph.html#_polymorph" >polymorph</a>, <a href="spells/restoration.html#_restoration" >restoration</a>, <a href="spells/stoneskin.html#_stoneskin" >stoneskin</a>, <a href="spells/wallOfFire.html#_wall-of-fire" >wall of fire</a>.</i></p>
+				<p>5th Level: <i><a href="spells/balefulPolymorph.html#_baleful-polymorph" >baleful polymorph</a>, <a href="spells/breakEnchantment.html#_break-enchantment" >break enchantment</a>, <a href="spells/commune.html#_commune" >commune</a>, <a href="spells/heal.html#_heal" >heal</a>, <a href="spells/majorCreation.html#_major-creation" >major creation</a>, <a href="spells/raiseDead.html#_raise-dead" >raise dead</a>, <a href="spells/trueSeeing.html#_true-seeing" >true seeing</a>, <a href="spells/wallOfStone.html#_wall-of-stone" >wall of stone</a>.</i></p>
+				<h1 id="aristocrat">Aristocrat</h1>
+				<p><b>Alignment</b>: Any.</p>
+				<p><b>Hit Die</b>: d8.</p>
+				<h2>Class Skills</h2>
+				<p>The aristocrat's class skills (and the key ability for each skill) are <a href="skills/appraise.html#_appraise" >Appraise</a> (<a href="gettingStarted.html#_intelligence" >Int</a>), <a href="skills/bluff.html#_bluff" >Bluff</a> (<a href="gettingStarted.html#_charisma-new" >Cha</a>), <a href="skills/craft.html#_craft" >Craft</a> (<a href="gettingStarted.html#_intelligence" >Int</a>), <a href="skills/diplomacy.html#_diplomacy" >Diplomacy</a> (<a href="gettingStarted.html#_charisma-new" >Cha</a>), <a href="skills/disguise.html#_disguise" >Disguise</a> (<a href="gettingStarted.html#_charisma-new" >Cha</a>), <a href="skills/handleAnimal.html#_handle-animal" >Handle Animal</a> (<a href="gettingStarted.html#_charisma-new" >Cha</a>), <a href="skills/intimidate.html#_intimidate" >Intimidate</a> (<a href="gettingStarted.html#_charisma-new" >Cha</a>), <a href="skills/knowledge.html#_knowledge" >Knowledge</a> (all skills taken individually) (<a href="gettingStarted.html#_intelligence" >Int</a>), <a href="skills/linguistics.html#_linguistics" >Linguistics</a> (<a href="gettingStarted.html#_intelligence" >Int</a>), <a href="skills/perception.html#_perception" >Perception</a> (<a href="gettingStarted.html#_wisdom" >Wis</a>), <a href="skills/perform.html#_perform" >Perform</a> (<a href="gettingStarted.html#_charisma-new" >Cha</a>), <a href="skills/profession.html#_profession" >Profession</a> (<a href="gettingStarted.html#_wisdom" >Wis</a>), <a href="skills/ride.html#_ride" >Ride</a> (<a href="gettingStarted.html#_dexterity" >Dex</a>), <a href="skills/senseMotive.html#_sense-motive" >Sense Motive</a> (<a href="gettingStarted.html#_wisdom" >Wis</a>), <a href="skills/swim.html#_swim" >Swim</a> (<a href="gettingStarted.html#_strength" >Str</a>), and <a href="skills/survival.html#_survival" >Survival</a> (<a href="gettingStarted.html#_wisdom" >Wis</a>). </p>
+				<p><b>Skill Ranks per Level</b>: 4 + <a href="gettingStarted.html#_intelligence" >Int</a> modifier.</p>
+					<table id="table-14-2-aristocrat"><caption>Table: Aristocrat</caption>
+<thead><tr><th>Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th></tr></thead>
+<tr class="odd"><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td></tr>
+<tr class="even"><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td></tr>
+<tr class="odd"><td>3rd</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td></tr>
+<tr class="even"><td>4th</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td></tr>
+<tr class="odd"><td>5th</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td></tr>
+<tr class="even"><td>6th</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td></tr>
+<tr class="odd"><td>7th</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td></tr>
+<tr class="even"><td>8th</td><td>+6/+1</td><td>+2</td><td>+2</td><td>+6</td></tr>
+<tr class="odd"><td>9th</td><td>+6/+1</td><td>+3</td><td>+3</td><td>+6</td></tr>
+<tr class="even"><td>10th</td><td>+7/+2</td><td>+3</td><td>+3</td><td>+7</td></tr>
+<tr class="odd"><td>11th</td><td>+8/+3</td><td>+3</td><td>+3</td><td>+7</td></tr>
+<tr class="even"><td>12th</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td></tr>
+<tr class="odd"><td>13th</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td></tr>
+<tr class="even"><td>14th</td><td>+10/+5</td><td>+4</td><td>+4</td><td>+9</td></tr>
+<tr class="odd"><td>15th</td><td>+11/+6/+1</td><td>+5</td><td>+5</td><td>+9</td></tr>
+<tr class="even"><td>16th</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td></tr>
+<tr class="odd"><td>17th</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td></tr>
+<tr class="even"><td>18th</td><td>+13/+8/+3</td><td>+6</td><td>+6</td><td>+11</td></tr>
+<tr class="odd"><td>19th</td><td>+14/+9/+4</td><td>+6</td><td>+6</td><td>+11</td></tr>
+<tr class="even"><td>20th</td><td>+15/+10/+5</td><td>+6</td><td>+6</td><td>+12</td></tr></table>
+
+				<h2>Class Features</h2>
+				<p>The following is a class feature of the aristocrat NPC class.</p>
+				<p><b>Weapon and Armor Proficiency</b>: The aristocrat is proficient in the use of all simple and martial weapons and with all types of armor and shields.</p>
+				<h1 id="commoner">Commoner</h1>
+				<p><b>Alignment</b>: Any.</p>
+				<p><b>Hit Die</b>: d6.</p>
+				<h2>Class Skills</h2>
+				<p>The commoner's class skills (and the key ability for each skill) are <a href="skills/climb.html#_climb" >Climb</a> (<a href="gettingStarted.html#_strength" >Str</a>), <a href="skills/craft.html#_craft" >Craft</a> (<a href="gettingStarted.html#_intelligence" >Int</a>), <a href="skills/handleAnimal.html#_handle-animal" >Handle Animal</a> (<a href="gettingStarted.html#_charisma-new" >Cha</a>), <a href="skills/perception.html#_perception" >Perception</a> (<a href="gettingStarted.html#_wisdom" >Wis</a>), <a href="skills/profession.html#_profession" >Profession</a> (<a href="gettingStarted.html#_wisdom" >Wis</a>), <a href="skills/ride.html#_ride" >Ride</a> (<a href="gettingStarted.html#_dexterity" >Dex</a>), and <a href="skills/swim.html#_swim" >Swim</a> (<a href="gettingStarted.html#_strength" >Str</a>).</p>
+				<p><b>Skill Ranks per Level</b>: 2 + <a href="gettingStarted.html#_intelligence" >Int</a> modifier.</p>
+							<table id="table-14-3-commoner"><caption>Table: Commoner</caption>
+<thead><tr><th>Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th></tr></thead>
+<tr class="odd"><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td></tr>
+<tr class="even"><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+0</td></tr>
+<tr class="odd"><td>3rd</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td></tr>
+<tr class="even"><td>4th</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td></tr>
+<tr class="odd"><td>5th</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td></tr>
+<tr class="even"><td>6th</td><td>+3</td><td>+2</td><td>+2</td><td>+2</td></tr>
+<tr class="odd"><td>7th</td><td>+3</td><td>+2</td><td>+2</td><td>+2</td></tr>
+<tr class="even"><td>8th</td><td>+4</td><td>+2</td><td>+2</td><td>+2</td></tr>
+<tr class="odd"><td>9th</td><td>+4</td><td>+3</td><td>+3</td><td>+3</td></tr>
+<tr class="even"><td>10th</td><td>+5</td><td>+3</td><td>+3</td><td>+3</td></tr>
+<tr class="odd"><td>11th</td><td>+5</td><td>+3</td><td>+3</td><td>+3</td></tr>
+<tr class="even"><td>12th</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+4</td></tr>
+<tr class="odd"><td>13th</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+4</td></tr>
+<tr class="even"><td>14th</td><td>+7/+2</td><td>+4</td><td>+4</td><td>+4</td></tr>
+<tr class="odd"><td>15th</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+5</td></tr>
+<tr class="even"><td>16th</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+5</td></tr>
+<tr class="odd"><td>17th</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+5</td></tr>
+<tr class="even"><td>18th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+6</td></tr>
+<tr class="odd"><td>19th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+6</td></tr>
+<tr class="even"><td>20th</td><td>+10/+5</td><td>+6</td><td>+6</td><td>+6</td></tr></table>
+				<h2>Class Features</h2>
+				<p>The following is a class feature of the commoner NPC class.</p>
+				<p><b>Weapon and Armor Proficiency</b>: The commoner is proficient with one simple weapon. He is not proficient with any other weapons, nor is he proficient with any type of armor or shield.</p>
+				<h1 id="expert">Expert</h1>
+				<p><b>Alignment</b>: Any.</p>
+				<p><b>Hit Die</b>: d8.</p>
+				<h2>Class Skills</h2>
+				<p>The expert can choose any 10 skills to be class skills.</p>
+				<p><b>Skill Ranks per Level</b>: 6 + <a href="gettingStarted.html#_intelligence" >Int</a> modifier.</p>
+				<table id="table-14-4-expert"><caption>Table: Expert</caption>
+<thead><tr><th>Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th></tr></thead>
+<tr class="odd"><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td></tr>
+<tr class="even"><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td></tr>
+<tr class="odd"><td>3rd</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td></tr>
+<tr class="even"><td>4th</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td></tr>
+<tr class="odd"><td>5th</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td></tr>
+<tr class="even"><td>6th</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td></tr>
+<tr class="odd"><td>7th</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td></tr>
+<tr class="even"><td>8th</td><td>+6/+1</td><td>+2</td><td>+2</td><td>+6</td></tr>
+<tr class="odd"><td>9th</td><td>+6/+1</td><td>+3</td><td>+3</td><td>+6</td></tr>
+<tr class="even"><td>10th</td><td>+7/+2</td><td>+3</td><td>+3</td><td>+7</td></tr>
+<tr class="odd"><td>11th</td><td>+8/+3</td><td>+3</td><td>+3</td><td>+7</td></tr>
+<tr class="even"><td>12th</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td></tr>
+<tr class="odd"><td>13th</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td></tr>
+<tr class="even"><td>14th</td><td>+10/+5</td><td>+4</td><td>+4</td><td>+9</td></tr>
+<tr class="odd"><td>15th</td><td>+11/+6/+1</td><td>+5</td><td>+5</td><td>+9</td></tr>
+<tr class="even"><td>16th</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td></tr>
+<tr class="odd"><td>17th</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td></tr>
+<tr class="even"><td>18th</td><td>+13/+8/+3</td><td>+6</td><td>+6</td><td>+11</td></tr>
+<tr class="odd"><td>19th</td><td>+14/+9/+4</td><td>+6</td><td>+6</td><td>+11</td></tr>
+<tr class="even"><td>20th</td><td>+15/+10/+5</td><td>+6</td><td>+6</td><td>+12</td></tr></table>
+				<h2>Class Features</h2>
+				<p>The following is a class feature of the expert NPC class.</p>
+				<p><b>Weapon and Armor Proficiency</b>: The expert is proficient in the use of all simple weapons and with light armor, but not with any type of shield. </p>
+				<h1 id="warrior">Warrior</h1>
+				<p><b>Alignment</b>: Any.</p>
+				<p><b>Hit Die</b>: d10.</p>
+				<h2>Class Skills</h2>
+				<p>The warrior's class skills (and the key ability for each skill) are <a href="skills/climb.html#_climb" >Climb</a> (<a href="gettingStarted.html#_strength" >Str</a>), <a href="skills/craft.html#_craft" >Craft</a> (<a href="gettingStarted.html#_intelligence" >Int</a>), <a href="skills/handleAnimal.html#_handle-animal" >Handle Animal</a> (<a href="gettingStarted.html#_charisma-new" >Cha</a>), <a href="skills/intimidate.html#_intimidate" >Intimidate</a> (<a href="gettingStarted.html#_charisma-new" >Cha</a>), <a href="skills/profession.html#_profession" >Profession</a> (<a href="gettingStarted.html#_wisdom" >Wis</a>), <a href="skills/ride.html#_ride" >Ride</a> (<a href="gettingStarted.html#_dexterity" >Dex</a>), and <a href="skills/swim.html#_swim" >Swim</a> (<a href="gettingStarted.html#_strength" >Str</a>).</p>
+				<p><b>Skill Ranks per Level</b>: 2 + <a href="gettingStarted.html#_intelligence" >Int</a> modifier.</p>
+				<table id="table-14-5-warrior"><caption>Table: Warrior</caption>
+<thead><tr><th>Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th></tr></thead>
+<tr class="odd"><td>1st</td><td>+1</td><td>+2</td><td>+0</td><td>+0</td></tr>
+<tr class="even"><td>2nd</td><td>+2</td><td>+3</td><td>+0</td><td>+0</td></tr>
+<tr class="odd"><td>3rd</td><td>+3</td><td>+3</td><td>+1</td><td>+1</td></tr>
+<tr class="even"><td>4th</td><td>+4</td><td>+4</td><td>+1</td><td>+1</td></tr>
+<tr class="odd"><td>5th</td><td>+5</td><td>+4</td><td>+1</td><td>+1</td></tr>
+<tr class="even"><td>6th</td><td>+6/+1</td><td>+5</td><td>+2</td><td>+2</td></tr>
+<tr class="odd"><td>7th</td><td>+7/+2</td><td>+5</td><td>+2</td><td>+2</td></tr>
+<tr class="even"><td>8th</td><td>+8/+3</td><td>+6</td><td>+2</td><td>+2</td></tr>
+<tr class="odd"><td>9th</td><td>+9/+4</td><td>+6</td><td>+3</td><td>+3</td></tr>
+<tr class="even"><td>10th</td><td>+10/+5</td><td>+7</td><td>+3</td><td>+3</td></tr>
+<tr class="odd"><td>11th</td><td>+11/+6/+1</td><td>+7</td><td>+3</td><td>+3</td></tr>
+<tr class="even"><td>12th</td><td>+12/+7/+2</td><td>+8</td><td>+4</td><td>+4</td></tr>
+<tr class="odd"><td>13th</td><td>+13/+8/+3</td><td>+8</td><td>+4</td><td>+4</td></tr>
+<tr class="even"><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+4</td><td>+4</td></tr>
+<tr class="odd"><td>15th</td><td>+15/+10/+5</td><td>+9</td><td>+5</td><td>+5</td></tr>
+<tr class="even"><td>16th</td><td>+16/+11/+6/+1</td><td>+10</td><td>+5</td><td>+5</td></tr>
+<tr class="odd"><td>17th</td><td>+17/+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td></tr>
+<tr class="even"><td>18th</td><td>+18/+13/+8/+3</td><td>+11</td><td>+6</td><td>+6</td></tr>
+<tr class="odd"><td>19th</td><td>+19/+14/+9/+4</td><td>+11</td><td>+6</td><td>+6</td></tr>
+<tr class="even"><td>20th</td><td>+20/+15/+10/+5</td><td>+12</td><td>+6</td><td>+6</td></tr></table>
+
+				<h2>Class Features</h2>
+				<p>The following is a class feature of the warrior NPC class.</p>
+				<p><b>Weapon and Armor Proficiency</b>: The warrior is proficient in the use of all simple and martial weapons and with all types of armor and shields.</p>
+
+
+
+        </div>
+
+
+
+    </body>
+</html>
+
