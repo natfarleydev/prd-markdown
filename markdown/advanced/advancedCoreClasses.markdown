@@ -1,28 +1,26 @@
-Core Classes
-============
+# Core Classes
 
 From the noble paladin to the skillful rogue, each core class in the
-*Pathfinder Roleplaying Game* draws upon a central archetype. Yet, beyond
-that basic concept exists the potential for innumerable interpretations,
-details, and refinements. The fighter class, for example, might easily
-be sculpted into a dead-eye archer, a fleet-footed duelist, a stealthy
-jungle hunter, or countless other types of martial masters, all refined
-by a player's choice of details, class options, and specific rules. Yet
-some archetypes prove pervasive and exciting enough to see use in play
-time and time again. To help players interested in creating iconic
-fantasy characters, the following pages explore new rules, options, and
-alternate class features for each core class. So while most druids
-wander the woods, some track through the vast desert, reveling in what
-the wastes have to offer. Such optional features represent a unique view
-of what a class deliberately designed to capture a specific character
-archetype might become. While the types of options presented for each
-core class differ, each subsystem is customized to best serve that
-class, emulate the abilities and talents of classic fantasy archetypes,
-and expand players' freedom to design exactly the characters they
-desire.
+*Pathfinder Roleplaying Game* draws upon a central archetype. Yet,
+beyond that basic concept exists the potential for innumerable
+interpretations, details, and refinements. The fighter class, for
+example, might easily be sculpted into a dead-eye archer, a fleet-footed
+duelist, a stealthy jungle hunter, or countless other types of martial
+masters, all refined by a player's choice of details, class options, and
+specific rules. Yet some archetypes prove pervasive and exciting enough
+to see use in play time and time again. To help players interested in
+creating iconic fantasy characters, the following pages explore new
+rules, options, and alternate class features for each core class. So
+while most druids wander the woods, some track through the vast desert,
+reveling in what the wastes have to offer. Such optional features
+represent a unique view of what a class deliberately designed to capture
+a specific character archetype might become. While the types of options
+presented for each core class differ, each subsystem is customized to
+best serve that class, emulate the abilities and talents of classic
+fantasy archetypes, and expand players' freedom to design exactly the
+characters they desire.
 
-Alternate Class Features
-========================
+# Alternate Class Features
 
 Most of the options presented on the following pages include a host of
 alternate class features. When a character selects a class, he must
@@ -51,8 +49,7 @@ paladin could, however, be both an undead scourge and a warrior of the
 holy light, since none of their new class features replace the same core
 class feature.
 
-Adapting Existing Characters
-============================
+# Adapting Existing Characters
 
 Players with existing characters should talk with their GM about whether
 on not these alternate class features are available in her game, and if
@@ -82,65 +79,61 @@ not allowing players to rebuild characters or by disallowing certain
 options. While the GM should always strive to help players run the
 characters they want, ultimately she knows what's best for the campaign.
 
-Core Class Archetypes
-=====================
+# Core Class Archetypes
 
 The core class archetypes that follow are included in this chapter.
 Characters may take more than one archetype if they meet the
 requirements.
 
-**[Barbarian](#Barbarian)**: Breaker, Brutal Pugilist,
-Drunken Brute, Elemental Kin, Hurler, Invulnerable Rager, Mounted Fury,
-Savage Barbarian, Superstitious, and Totem Warrior. This section also
-includes a host of new rage powers that any barbarian can take.
+**[Barbarian](#Barbarian)**: Breaker, Brutal Pugilist, Drunken Brute,
+Elemental Kin, Hurler, Invulnerable Rager, Mounted Fury, Savage
+Barbarian, Superstitious, and Totem Warrior. This section also includes
+a host of new rage powers that any barbarian can take.
 
-**[Bard](#Bard)**: Arcane Duelist, Archivist, Court
-Bard, Detective, Magician, Sandman, Savage Skald, Sea Singer, and Street
-Performer.
+**[Bard](#Bard)**: Arcane Duelist, Archivist, Court Bard, Detective,
+Magician, Sandman, Savage Skald, Sea Singer, and Street Performer.
 
-**[Cleric](#Cleric)**: Instead of specific archetypes,
-each cleric can choose from a host of subdomains that focus on one
-aspect of their deity's power. Two or more subdomains are presented for
-each domain.
+**[Cleric](#Cleric)**: Instead of specific archetypes, each cleric can
+choose from a host of subdomains that focus on one aspect of their
+deity's power. Two or more subdomains are presented for each domain.
 
-**[Druid](#Druid)**: Aquatic Druid, Arctic Druid, Blight
-Druid, Cave Druid, Desert Druid, Jungle Druid, Mountain Druid, Plains
-Druid, Swamp Druid, and Urban Druid. Alternatively, druid can choose to
-be an animal shaman, such as a Bear Shaman, Eagle Shaman, Lion Shaman,
-Serpent Shaman, or Wolf Shaman.
+**[Druid](#Druid)**: Aquatic Druid, Arctic Druid, Blight Druid, Cave
+Druid, Desert Druid, Jungle Druid, Mountain Druid, Plains Druid, Swamp
+Druid, and Urban Druid. Alternatively, druid can choose to be an animal
+shaman, such as a Bear Shaman, Eagle Shaman, Lion Shaman, Serpent
+Shaman, or Wolf Shaman.
 
-**[Fighter](#Fighter)**: Archer, Crossbowman, Free Hand
-Fighter, Mobile Fighter, Phalanx Soldier, Polearm Master, Roughrider,
-Savage Warrior, Shielded Fighter, Two-Handed Fighter, Two-Weapon
-Warrior, and Weapon Master.
+**[Fighter](#Fighter)**: Archer, Crossbowman, Free Hand Fighter, Mobile
+Fighter, Phalanx Soldier, Polearm Master, Roughrider, Savage Warrior,
+Shielded Fighter, Two-Handed Fighter, Two-Weapon Warrior, and Weapon
+Master.
 
-**[Monk](#Monk)**: Drunken Master, Hungry Ghost Monk,
-*Ki* Mystic, Monk of the Empty Hand, Monk of the Four Winds, Monk of the
-Healing Hand, Monk of the Lotus, Monk of the Sacred Mountain, Weapon
-Adept, Zen Archer.
+**[Monk](#Monk)**: Drunken Master, Hungry Ghost Monk, *Ki* Mystic, Monk
+of the Empty Hand, Monk of the Four Winds, Monk of the Healing Hand,
+Monk of the Lotus, Monk of the Sacred Mountain, Weapon Adept, Zen
+Archer.
 
-**[Paladin](#Paladin)**: Divine Defender, Hospitaler,
-Sacred Servant, Shining Knight, Undead Scourge, and Warrior of the Holy
-Light. This section also includes rules for an alternate version of the
-paladin class, the antipaladin.
+**[Paladin](#Paladin)**: Divine Defender, Hospitaler, Sacred Servant,
+Shining Knight, Undead Scourge, and Warrior of the Holy Light. This
+section also includes rules for an alternate version of the paladin
+class, the antipaladin.
 
-**[Ranger](#Ranger)**: Beast Master, Guide, Horse Lord,
-Infiltrator, Shapeshifter, Skirmisher, Spirit Ranger, and Urban Ranger.
-This section also includes new combat style choices that any ranger can
-take.
+**[Ranger](#Ranger)**: Beast Master, Guide, Horse Lord, Infiltrator,
+Shapeshifter, Skirmisher, Spirit Ranger, and Urban Ranger. This section
+also includes new combat style choices that any ranger can take.
 
-**[Rogue](#Rogue)**: Acrobat, Burglar, Cutpurse,
-Investigator, Poisoner, Rake, Scout, Sniper, Spy, Swashbuckler, Thug,
-and Trapsmith. This section also includes a number of rogue talents and
-advanced rogue talents that any rogue can take.
+**[Rogue](#Rogue)**: Acrobat, Burglar, Cutpurse, Investigator, Poisoner,
+Rake, Scout, Sniper, Spy, Swashbuckler, Thug, and Trapsmith. This
+section also includes a number of rogue talents and advanced rogue
+talents that any rogue can take.
 
-**[Sorcerer](#Sorcerer)**: Aquatic Bloodline, Boreal
-Bloodline, Deepearth Bloodline, Dreamspun Bloodline, Protean Bloodline,
-Serpentine Bloodline, Shadow Bloodline, Starsoul Bloodline, Stormborn
-Bloodline, and Verdant Bloodline. Unlike other alternate class features,
-a sorcerer may never have more than one bloodline.
+**[Sorcerer](#Sorcerer)**: Aquatic Bloodline, Boreal Bloodline,
+Deepearth Bloodline, Dreamspun Bloodline, Protean Bloodline, Serpentine
+Bloodline, Shadow Bloodline, Starsoul Bloodline, Stormborn Bloodline,
+and Verdant Bloodline. Unlike other alternate class features, a sorcerer
+may never have more than one bloodline.
 
-**[Wizard](#Wizard)**: This section includes four
-elemental wizard schools, air, earth, fire, and water. It also includes
-focused arcane schools, which allow wizards of one school to focus on
-one element of that school's power.
+**[Wizard](#Wizard)**: This section includes four elemental wizard
+schools, air, earth, fire, and water. It also includes focused arcane
+schools, which allow wizards of one school to focus on one element of
+that school's power.
