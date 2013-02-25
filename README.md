@@ -9,6 +9,7 @@ Beta pages
 The following pages have been provisionally formatted (i.e.\ *can* be used in an ebook, but it might not be a pleasurable experience). They need to be checked for links working, spelling, special characters that aren't recognised easily etc.
 
 * advancedFeats.markdown
+* advancedGear.markdown
 
 
 RC pages
