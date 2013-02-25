@@ -6,6 +6,20 @@ A project to convert the pathfinder prd into markdown for the purpose of making 
 Beta pages
 ----------
 
-The following pages have been provisionally formatted (i.e.\ *can* be used in an ebook, but might not be a pleasurable experience). They need to be checked for links working, spelling, special characters that aren't recognised easily etc.
+The following pages have been provisionally formatted (i.e.\ *can* be used in an ebook, but it might not be a pleasurable experience). They need to be checked for links working, spelling, special characters that aren't recognised easily etc.
 
-    advancedFeats.markdown
+* advancedFeats.markdown
+
+
+RC pages
+--------
+The following pages have been checked for link accuracy, special characters etc. They should be ready for publishing, but need to be double checked
+
+* advancedBaseClasses.markdown
+* advancedCoreClasses.markdown
+
+Final pages
+-----------
+These pages should not be changed
+
+* No pages complete yet
