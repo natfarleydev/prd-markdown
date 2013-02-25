@@ -902,23 +902,31 @@ into the ground to ensure that the victim cannot simply crawl away.
 Prying open the jaws or pulling the spike from the ground requires a DC
 20 Strength check.
 
-**Bear Trap CR 1**
-
-**Type** mechanical;
-**[Perception](../skills/perception.html#_perception)** DC 15;
-**[Disable Device](../skills/disableDevice.html#_disable-device)** DC 20
-
-**Effects**
-
-**Trigger** location; **Reset** manual
-
-**Effect** Atk +10 melee (2d6+3); sharp jaws spring shut around the
-creature's ankle and halve the creature's base speed (or hold the
-creature immobile if the trap is attached to a solid object); the
-creature can escape with a DC 20 [Disable
-Device](../skills/disableDevice.html#_disable-device) check, DC 22
-[Escape Artist](../skills/escapeArtist.html#_escape-artist) check, or DC
-26 Strength check
++-----------------------------------------------------------------+
+|**Bear Trap CR 1**                                               |
++-----------------------------------------------------------------+
+|**Type** mechanical;                                             |
+|**[Perception](../skills/perception.html#_perception)** DC 15;   |
+|**[Disable                                                       |
+|Device](../skills/disableDevice.html#_disable-device)** DC 20    |
+|                                                                 |
+|                                                                 |
++-----------------------------------------------------------------+
+|**Effects**                                                      |
++-----------------------------------------------------------------+
+|**Trigger** location; **Reset** manual                           |
++-----------------------------------------------------------------+
+|**Effect** Atk +10 melee (2d6+3); sharp jaws spring shut around  |
+|the creature's ankle and halve the creature's base speed (or hold|
+|the creature immobile if the trap is attached to a solid object);|
+|the creature can escape with a DC 20 [Disable                    |
+|Device](../skills/disableDevice.html#_disable-device) check, DC  |
+|22 [Escape Artist](../skills/escapeArtist.html#_escape-artist)   |
+|check, or DC 26 Strength check                                   |
+|                                                                 |
+|                                                                 |
+|                                                                 |
++-----------------------------------------------------------------+
 
 **Bellows**: Bellows are useful for starting fires, providing a +1
 circumstance bonus on appropriate
