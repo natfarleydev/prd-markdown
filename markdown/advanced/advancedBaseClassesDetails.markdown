@@ -1,4 +1,4 @@
-# Alchemist
+## Alchemist
 
 
 Whether secreted away in a smoky basement laboratory or gleefully
@@ -26,7 +26,7 @@ quite well with most adventuring groups.
 
 **Hit Die**: d8.
 
-# Class Skills
+### Class Skills
 
 
 The alchemist's class skills are
@@ -117,7 +117,7 @@ Table: Alchemist
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
 
 
-# Class Features
+### Class Features
 
 
 The following are class features of the alchemist.
@@ -588,8 +588,8 @@ Wisdom, and Charisma as long as the mutagen persists (see Mutagen). An
 alchemist must possess the grand mutagen discovery before selecting this
 discovery.
 
-Alchemist Formulae
-==================
+### Alchemist Formulae
+
 
 Alchemists gain access to a variety of formulae, allowing them to make
 extracts of the following spells. While most of these spells are found
@@ -737,10 +737,10 @@ walk](#shadow-walk),
 form\*](#twin-form), [wind
 walk](#wind-walk).*
 
-Cavalier
 
-Cavalier
-========
+
+## Cavalier
+
 
 While many warriors strive to perfect their art, spending all of their
 time honing their skill at martial arms, others spend as much effort
@@ -762,8 +762,8 @@ social situations.
 
 **Hit Dice**: d10.
 
-Class Skills
-============
+### Class Skills
+
 
 The cavalier's class skills are [Bluff](#bluff)
 (Cha), [Climb](#climb) (Str),
@@ -803,8 +803,8 @@ Motive](#sense-motive) (Wis), and
 
   : Table: Cavalier
 
-Class Features
-==============
+  
+### Class Features
 
 The following are the class features of the cavalier.
 
@@ -952,16 +952,16 @@ critical hit on a charge attack while mounted, the target is stunned for
 1d4 rounds. A Will save reduces this to staggered for 1d4 rounds. The DC
 is equal to 10 + the cavalier's base attack bonus.
 
-Cavalier Orders
-===============
+### Cavalier Orders
+
 
 The following orders represent the most common chosen by cavaliers.
 Members of these orders are not necessarily bound together, but some
 organizations do exist that are comprised of cavaliers that all belong
 to one specific order.
 
-Order of the Cockatrice
------------------------
+#### Order of the Cockatrice
+
 
 A cavalier who belongs to this order serves only himself, working to
 further his own aims and increase his own prestige. Cavaliers of this
@@ -1011,8 +1011,8 @@ attack rolls, damage rolls, saving throws, and skill checks. This bonus
 is also added to his AC. In addition, any critical threats he makes are
 automatically confirmed. The cavalier can use this ability once per day.
 
-Order of the Dragon
--------------------
+#### Order of the Dragon
+
 
 Cavaliers belonging to the order of the dragon dedicate themselves to a
 group of like-minded individuals, be it a mercenary company or a small
@@ -1065,8 +1065,8 @@ stacks with the bonus from a charge) and all participants receive a +2
 dodge bonus to their AC for 1 round. A cavalier can use this ability
 once per combat.
 
-Order of the Lion
------------------
+
+#### Order of the Lion
 
 A cavalier who belongs to this order has pledged himself to a sovereign;
 be it a king, queen, or even the local warlord. Cavaliers of this order
@@ -1121,8 +1121,8 @@ if the creature could not normally reach or attack the cavalier. The
 cavalier loses any cover or concealment bonuses when subject to the
 redirected attack.
 
-Order of the Shield
--------------------
+
+#### Order of the Shield
 
 Cavaliers who join the order of the shield devote their lives to
 protecting the common folk, from the simple farmer to the honest
@@ -1175,8 +1175,8 @@ movement provokes attacks of opportunity as normal. The cavalier must
 end his movement adjacent to an enemy. On his next turn, the cavalier is
 staggered and cannot use this ability again for 1 round.
 
-Order of the Star
------------------
+
+#### Order of the Star
 
 Cavaliers who join the order of the star dedicate themselves to the
 protection and service of a faith and its members. Cavaliers belonging
@@ -1235,8 +1235,8 @@ a critical hit, the cavalier may treat the enemy as the target of his
 challenge for the attack of opportunity. The cavalier can use this
 ability once per round.
 
-Order of the Sword
-------------------
+
+#### Order of the Sword
 
 Cavaliers who join the order of the sword dedicate their lives to the
 code of chivalry, living a life of honor, valor, and fairness. Cavaliers
@@ -1292,10 +1292,9 @@ rolls made against the target of his challenge. In addition, he receives
 a +4 circumstance bonus on attack rolls made to confirm critical hits
 against the target of his knight's challenge.
 
-Inquisitor
 
-Inquisitor
-==========
+
+## Inquisitor
 
 Grim and determined, the inquisitor roots out enemies of the faith,
 using trickery and guile when righteousness and purity is not enough.
@@ -1315,8 +1314,8 @@ deity's, along either the law/chaos axis or the good/evil axis.
 
 **Hit Dice**: d8.
 
-Class Skills
-============
+### Class Skills
+
 
 The inquisitor's class skills are
 [Bluff](#bluff) (Cha),
@@ -1715,8 +1714,8 @@ spells of an alignment opposed to her own or her deity's (if she has
 one). Spells associated with particular alignments are indicated by the
 chaotic, evil, good and lawful descriptors in their spell descriptions.
 
-Ex-Inquisitors
-==============
+
+### Ex-Inquisitors
 
 An inquisitor who slips into corruption or changes to a prohibited
 alignment loses all spells and the judgment ability. She cannot
@@ -1724,8 +1723,8 @@ thereafter gain levels as an inquisitor until she atones (see the
 *[atonement](#atonement)* spell
 description).
 
-Inquisitor Spells
-=================
+
+### Inquisitor Spells
 
 Inquisitors gain access to the following spells. While most of these
 spells are found in the *Core Rulebook*, those marked with an asterisk
@@ -1946,10 +1945,8 @@ word](#holy-word), [inflict moderate wounds
 death](#undeath-to-death), [word of
 chaos](#word-of-chaos).*
 
-Oracle
 
-Oracle
-======
+## Oracle
 
 Although the gods work through many agents, perhaps none is more
 mysterious than the oracle. These divine vessels are granted power
@@ -1972,8 +1969,8 @@ through fighting mighty battles or tending to the poor and sick.
 
 **Hit Dice**: d8.
 
-Class Skills
-============
+
+### Class Skills
 
 The oracle's class skills are [Craft](#craft)
 (Int), [Diplomacy](#diplomacy) (Cha),
@@ -1989,8 +1986,8 @@ oracle mystery.
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
-Class Features
-==============
+
+### Class Features
 
 Table: Oracle
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
@@ -2242,16 +2239,15 @@ standard action.
 revelation about her mystery, granting her amazing powers and abilities.
 The nature of these bonuses depends upon the oracle's mystery.
 
-Mysteries
-=========
+
+### Mysteries
 
 Each oracle must choose from among the following mysteries. Unless
 otherwise noted, the DC to save against these revelations is equal to 10
 + 1/2 the oracle's level + the oracle's Charisma modifier. Spells marked
 with an asterisk (\*) appear in Chapter 5 of this book.
 
-Battle
-------
+#### Battle
 
 **Class Skills**: An oracle with the battle mystery adds
 [Intimidate](#intimidate),
@@ -2353,8 +2349,8 @@ confirming critical hits against you. When you are below 0 hit points,
 you do not die until your negative total is in excess of twice your
 Constitution score.
 
-Bones
------
+#### Bones
+
 
 **Class Skills**: An oracle with a bones mystery adds
 [Bluff](#bluff),
@@ -2583,8 +2579,8 @@ Spell](#silent-spell), or [Still
 Spell](#still-spell). You do not need to possess these
 feats to use this ability.
 
-Heavens
--------
+
+#### Heavens
 
 **Class Skills**: An oracle with the heavens mystery adds
 [Fly](#fly),
@@ -2703,8 +2699,8 @@ die, you are reborn 3 days later in the form of a star child, who
 matures over the course of 7 days (treat as the
 *[reincarnate](#reincarnate)* spell).
 
-Life
-----
+
+#### Life
 
 **Class Skills**: An oracle with the life mystery adds [Handle
 Animal](#handle-animal),
@@ -2807,8 +2803,8 @@ ability score. You automatically make saving throws against massive
 damage. When you are below 0 hit points, you do not die until your
 negative total is in excess of twice your Constitution score.
 
-Lore
-----
+
+#### Lore
 
 **Class Skills**: An oracle with the lore mystery adds
 [Appraise](#appraise) and all
@@ -2925,8 +2921,8 @@ material component, but the *[wish](#wish)*cannot
 be used to grant ability score bonuses, nor can it be used to replicate
 spells with expensive material components.
 
-Nature
-------
+
+#### Nature
 
 **Class Skills**: An oracle with the nature mystery adds
 [Climb](#climb),
@@ -3054,8 +3050,8 @@ cleansed of all poisons or diseases, are restored to full hit points,
 and heal all ability damage. You must select a new type every time the
 transformation is made.
 
-Stone
------
+
+#### Stone
 
 **Class Skills**: An oracle with the stone mystery adds
 [Appraise](#appraise),
@@ -3172,8 +3168,8 @@ Spell](#extend-spell), [Silent
 Spell](#silent-spell), or [Still
 Spell](#still-spell).
 
-Waves
------
+
+#### Waves
 
 **Class Skills**: An oracle with the waves mystery adds
 [Acrobatics](#acrobatics), [Escape
@@ -3290,8 +3286,8 @@ Spell](#extend-spell), [Silent
 Spell](#silent-spell), or [Still
 Spell](#still-spell).
 
-Wind
-----
+
+#### Wind
 
 **Class Skills**: An oracle with the wind mystery adds
 [Acrobatics](#acrobatics), [Escape
@@ -3402,10 +3398,8 @@ Spell](#extend-spell), [Silent
 Spell](#silent-spell), or [Still
 Spell](#still-spell).
 
-Summoner
 
-Summoner
-========
+## Summoner
 
 While many who dabble in the arcane become adept at beckoning monsters
 from the farthest reaches of the planes, none are more skilled at it
@@ -3427,8 +3421,8 @@ in what they can accomplish together.
 
 **Hit Die**: d8.
 
-Class Skills
-============
+
+### Class Skills
 
 The summoner's class skills are [Craft](#craft)
 (Int), [Fly](#fly) (Dex), [Handle
@@ -3553,8 +3547,8 @@ Table: Summoner Spells Known
 |20th |6    |6    |6    |6    |6    |5    |5    |
 +-----+-----+-----+-----+-----+-----+-----+-----+
 
-Class Features
-==============
+
+### Class Features
 
 The following are the class features of the summoner.
 
@@ -3797,8 +3791,8 @@ of minutes per day equal to his summoner level. This duration does not
 need to be consecutive, but it must be spent in 1-minute increments. The
 summoner can end this effect as a free action.
 
-Eidolons
-========
+
+### Eidolons
 
 An eidolon's abilities are determined by the summoner's level and by the
 choices made using its evolution pool. Table 2–9: Eidolon Base
@@ -3940,8 +3934,8 @@ fails.
 
   : Table: Eidolon Base Statistics
 
-Eidolon Skills
-==============
+
+### Eidolon Skills
 
 The following skills are class skills for eidolons:
 [Bluff](#bluff) (Cha),
@@ -3955,8 +3949,8 @@ for his eidolon. Note that eidolons with a fly speed receive
 [Fly](#fly) (Dex) as a free class skill, even if
 they do not gain a fly speed until a later level.
 
-Base Forms
-----------
+
+#### Base Forms
 
 Each eidolon has one of three base forms that determines its starting
 size, speed, AC, attacks, and ability scores. All natural attacks are
@@ -3980,24 +3974,23 @@ damage of all of its attacks by one step (1d6 becomes 1d4, 1d4 becomes
 the summoner can change the eidolon's evolution pool (which causes it to
 lose these modifiers for being Small).
 
-Quadruped
----------
+#### Quadruped
 
 **Starting Statistics**: **Size** Medium; **Speed** 40 ft.; **AC** +2
 natural armor; **Saves**Fort (good), Ref (good), Will (bad); **Attack**
 bite (1d6); **Ability Scores** Str 14, Dex 14, Con 13, Int 7, Wis 10,
 Cha 11; **Free Evolutions** bite, limbs (legs) (2).
 
-Biped
------
+
+#### Biped
 
 **Starting Statistics**: **Size** Medium; **Speed** 30 ft.; **AC** +2
 natural armor; **Saves**Fort (good), Ref (bad), Will (good); **Attack**
 2 claws (1d4); **Ability Scores** Str 16, Dex 12, Con 13, Int 7, Wis 10,
 Cha 11; **Free Evolutions** claws, limbs (arms), limbs (legs).
 
-Serpentine
-----------
+
+#### Serpentine
 
 **Starting Statistics**: **Size** Medium; **Speed** 20 ft., climb 20
 ft.; **AC** +2 natural armor; **Saves**Fort (bad), Ref (good), Will
@@ -4005,8 +3998,7 @@ ft.; **AC** +2 natural armor; **Saves**Fort (bad), Ref (good), Will
 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11; **Free Evolutions**bite,
 climb, reach (bite), tail, tail slap.
 
-Evolutions
-==========
+### Evolutions
 
 Each eidolon receives a number of evolution points that can be spent to
 give the eidolon new abilities, powers, and other upgrades. These
@@ -4028,8 +4020,8 @@ points cannot be saved. All of the points must be spent whenever the
 summoner gains a level. Unless otherwise noted, each evolution can only
 be selected once.
 
-1-Point Evolutions
-------------------
+
+#### 1-Point Evolutions
 
 The following evolutions cost 1 point from the eidolon's evolution pool.
 
@@ -4189,8 +4181,8 @@ attacks. The wing buffets deal 1d4 points of damage (1d6 if Large, 1d8
 if Huge). The eidolon must possess the flight evolution, with wings, to
 select this evolution.
 
-2-Point Evolutions
-------------------
+
+#### 2-Point Evolutions
 
 The following evolutions cost 2 points from the eidolon's evolution
 pool.
@@ -4319,8 +4311,8 @@ eidolon must possess the bite evolution to select this evolution.
 as a bonus feat. If 2 additional evolution points are spent, it gains
 proficiency with all martial weapons as well.
 
-3-Point Evolutions
-------------------
+
+#### 3-Point Evolutions
 
 The following evolutions cost 3 points from the eidolon's evolution
 pool.
@@ -4396,8 +4388,8 @@ pinpoint any creature touching its webs. The eidolon must possess the
 climb evolution to take this evolution. The summoner must be at least
 7th level before selecting this evolution.
 
-4-Point Evolutions
-------------------
+
+#### 4-Point Evolutions
 
 The following evolutions cost 4 points from the eidolon's evolution
 pool.
@@ -4467,8 +4459,8 @@ eidolon's spell resistance is equal to 11 + the summoner's level. This
 spell resistance does not apply to spells cast by the summoner. The
 summoner must be at least 9th level before selecting this evolution.
 
-Summoner Spells
-===============
+
+### Summoner Spells
 
 Summoners gain access to the following spells. While most of these
 spells are found in the *Core Rulebook*, all spells marked with an
@@ -4650,10 +4642,8 @@ VIII](#summon-monster-viii),
 [sympathy](#sympathy), [teleportation
 circle](#teleportation-circle).*
 
-Witch
 
-Witch
-=====
+## Witch
 
 Some gain power through study, some through devotion, others through
 blood, but the witch gains power from her communion with the unknown.
@@ -4677,8 +4667,8 @@ guide them.
 
 **Hit Die**: d6.
 
-Class Skills
-============
+
+### Class Skills
 
 The witch's class skills are [Craft](#craft)
 (Int), [Fly](#fly) (Dex),
@@ -4696,665 +4686,58 @@ Magic Device](#use-magic-device) (Cha).
 
 Table: Witch
 
-Level
-
-Base Attack Bonus
-
-Fort Save
-
-Ref Save
-
-Will Save
-
-Special
-
-Spells per Day
-
-0
-
-1st
-
-2nd
-
-3rd
-
-4th
-
-5th
-
-6th
-
-7th
-
-8th
-
-9th
-
-1st
-
-+0
-
-+0
-
-+0
-
-+2
-
-[Cantrips](#cantrips), [hex](#hex), [witch's
-familiar](#witch's-familiar)
-
-3
-
-1
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-2nd
-
-+1
-
-+0
-
-+0
-
-+3
-
-[Hex](#hex)
-
-4
-
-2
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-3rd
-
-+1
-
-+1
-
-+1
-
-+3
-
-4
-
-2
-
-1
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-4th
-
-+2
-
-+1
-
-+1
-
-+4
-
-[Hex](#hex)
-
-4
-
-3
-
-2
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-5th
-
-+2
-
-+1
-
-+1
-
-+4
-
-4
-
-3
-
-2
-
-1
-
--
-
--
-
--
-
--
-
--
-
--
-
-6th
-
-+3
-
-+2
-
-+2
-
-+5
-
-[Hex](#hex)
-
-4
-
-3
-
-3
-
-2
-
--
-
--
-
--
-
--
-
--
-
--
-
-7th
-
-+3
-
-+2
-
-+2
-
-+5
-
-4
-
-4
-
-3
-
-2
-
-1
-
--
-
--
-
--
-
--
-
--
-
-8th
-
-+4
-
-+2
-
-+2
-
-+6
-
-[Hex](#hex)
-
-4
-
-4
-
-3
-
-3
-
-2
-
--
-
--
-
--
-
--
-
--
-
-9th
-
-+4
-
-+3
-
-+3
-
-+6
-
-4
-
-4
-
-4
-
-3
-
-2
-
-1
-
--
-
--
-
--
-
--
-
-10th
-
-+5
-
-+3
-
-+3
-
-+7
-
-[Hex](#hex), [major hex](#major-hex)
-
-4
-
-4
-
-4
-
-3
-
-3
-
-2
-
--
-
--
-
--
-
--
-
-11th
-
-+5
-
-+3
-
-+3
-
-+7
-
-4
-
-4
-
-4
-
-4
-
-3
-
-2
-
-1
-
--
-
--
-
--
-
-12th
-
-+6/+1
-
-+4
-
-+4
-
-+8
-
-[Hex](#hex)
-
-4
-
-4
-
-4
-
-4
-
-3
-
-3
-
-2
-
--
-
--
-
--
-
-13th
-
-+6/+1
-
-+4
-
-+4
-
-+8
-
-4
-
-4
-
-4
-
-4
-
-4
-
-3
-
-2
-
-1
-
--
-
--
-
-14th
-
-+7/+2
-
-+4
-
-+4
-
-+9
-
-[Hex](#hex)
-
-4
-
-4
-
-4
-
-4
-
-4
-
-3
-
-3
-
-2
-
--
-
--
-
-15th
-
-+7/+2
-
-+5
-
-+5
-
-+9
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-3
-
-2
-
-1
-
--
-
-16th
-
-+8/+3
-
-+5
-
-+5
-
-+10
-
-[Hex](#hex)
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-3
-
-3
-
-2
-
--
-
-17th
-
-+8/+3
-
-+5
-
-+5
-
-+10
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-3
-
-2
-
-1
-
-18th
-
-+9/+4
-
-+6
-
-+6
-
-+11
-
-[Hex](#hex), [grand hex](#grand-hex)
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-3
-
-3
-
-2
-
-19th
-
-+9/+4
-
-+6
-
-+6
-
-+11
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-3
-
-3
-
-20th
-
-+10/+5
-
-+6
-
-+6
-
-+12
-
-[Hex](#hex)
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-Class Features
-==============
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|Level|Base  |Fort |Ref  |Will |Special                     |0   |1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
+|     |Attack|Save |Save |Save |                            |    |    |    |    |    |    |    |    |    |    |
+|     |Bonus |     |     |     |                            |    |    |    |    |    |    |    |    |    |    |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|1st  |+0    |+0   |+0   |+2   |[Cantrips](#cantrips),      |3   |1   |-   |-   |-   |-   |-   |-   |-   |-   |
+|     |      |     |     |     |[hex](#hex), [witch's       |    |    |    |    |    |    |    |    |    |    |
+|     |      |     |     |     |familiar](#witch's-familiar)|    |    |    |    |    |    |    |    |    |    |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|2nd  |+1    |+0   |+0   |+3   |[Hex](#hex)                 |4   |2   |-   |-   |-   |-   |-   |-   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|3rd  |+1    |+1   |+1   |+3   |                            |4   |2   |1   |-   |-   |-   |-   |-   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|4th  |+2    |+1   |+1   |+4   |[Hex](#hex)                 |4   |3   |2   |-   |-   |-   |-   |-   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|5th  |+2    |+1   |+1   |+4   |                            |4   |3   |2   |1   |-   |-   |-   |-   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|6th  |+3    |+2   |+2   |+5   |[Hex](#hex)                 |4   |3   |3   |2   |-   |-   |-   |-   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|7th  |+3    |+2   |+2   |+5   |                            |4   |4   |3   |2   |1   |-   |-   |-   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|8th  |+4    |+2   |+2   |+6   |[Hex](#hex)                 |4   |4   |3   |3   |2   |-   |-   |-   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|9th  |+4    |+3   |+3   |+6   |                            |4   |4   |4   |3   |2   |1   |-   |-   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|10th |+5    |+3   |+3   |+7   |[Hex](#hex), [major         |4   |4   |4   |3   |3   |2   |-   |-   |-   |-   |
+|     |      |     |     |     |hex](#major-hex)            |    |    |    |    |    |    |    |    |    |    |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|11th |+5    |+3   |+3   |+7   |                            |4   |4   |4   |4   |3   |2   |1   |-   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|12th |+6/+1 |+4   |+4   |+8   |[Hex](#hex)                 |4   |4   |4   |4   |3   |3   |2   |-   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|13th |+6/+1 |+4   |+4   |+8   |                            |4   |4   |4   |4   |4   |3   |2   |1   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|14th |+7/+2 |+4   |+4   |+9   |[Hex](#hex)                 |4   |4   |4   |4   |4   |3   |3   |2   |-   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|15th |+7/+2 |+5   |+5   |+9   |                            |4   |4   |4   |4   |4   |4   |3   |2   |1   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|16th |+8/+3 |+5   |+5   |+10  |[Hex](#hex)                 |4   |4   |4   |4   |4   |4   |3   |3   |2   |-   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|17th |+8/+3 |+5   |+5   |+10  |                            |4   |4   |4   |4   |4   |4   |4   |3   |2   |1   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|18th |+9/+4 |+6   |+6   |+11  |[Hex](#hex), [grand         |4   |4   |4   |4   |4   |4   |4   |3   |3   |2   |
+|     |      |     |     |     |hex](#grand-hex)            |    |    |    |    |    |    |    |    |    |    |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|19th |+9/+4 |+6   |+6   |+11  |                            |4   |4   |4   |4   |4   |4   |4   |4   |3   |3   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+|20th |+10/+5|+6   |+6   |+12  |[Hex](#hex)                 |4   |4   |4   |4   |4   |4   |4   |4   |4   |4   |
++-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
+
+
+### Class Features
 
 The following are the class features of the witch.
 
@@ -5670,16 +5053,18 @@ sky). A witch must concentrate for the duration of this effect. If
 disrupted, the effect immediately ends. A witch can only use this
 ability once per day.
 
-Witch's Familiar
-================
 
-  Witches can add new spells to their familiars through several methods. A witch can only add spells to her familiar if those spells belong to the witch's spell list.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **[Spells](#spells) Gained at a New Level**: A [witch's familiar](#witch's-familiar) learns a certain amount of lore and magic as the witch adventures. Whenever a witch gains a level, she may add two [spells](#spells) from the witch spell list to her familiar. The two free [spells](#spells) must be of spell levels she can cast.
-  **Familiar Teaching Familiar**: A [witch's familiar](#witch's-familiar) can learn [spells](#spells) from another [witch's familiar](#witch's-familiar). To accomplish this, the familiars must spend one hour per level of the spell being taught in communion with one another. At the end of this time, the witch whose familiar is learning a spell must make a [Spellcraft](#spellcraft). Most witches require a spell of equal or greater level in return for this service. If a familiar belongs to a witch that has died, it only retains its knowledge of [spells](#spells) for 24 hours, during which time it is possible to coerce or bribe the familiar into teaching its [spells](#spells) to another, subject to GM discretion.
-  **Learn from a Scroll**: A witch can use a scroll to teach her familiar a new spell. This process takes 1 hour per level of the spell to be learned, during which time the scroll is burned and its ashes used to create a special brew or powder that is consumed by the familiar. This process destroys the scroll. At the end of this time, the witch must make a [Spellcraft](#spellcraft) check (DC 15 + spell level). If the check fails, the process went awry in some way and the spell is not learned, although the scroll is still consumed.
+### Witch's Familiar
 
-  : Adding Spells to a Witch's Familiar
+Witches can add new spells to their familiars through several methods. A witch can only add spells to her familiar if those spells belong to the witch's spell list.
+
+**[Spells](#spells) Gained at a New Level**: A [witch's familiar](#witch's-familiar) learns a certain amount of lore and magic as the witch adventures. Whenever a witch gains a level, she may add two [spells](#spells) from the witch spell list to her familiar. The two free [spells](#spells) must be of spell levels she can cast.
+
+**Familiar Teaching Familiar**: A [witch's familiar](#witch's-familiar) can learn [spells](#spells) from another [witch's familiar](#witch's-familiar). To accomplish this, the familiars must spend one hour per level of the spell being taught in communion with one another. At the end of this time, the witch whose familiar is learning a spell must make a [Spellcraft](#spellcraft). Most witches require a spell of equal or greater level in return for this service. If a familiar belongs to a witch that has died, it only retains its knowledge of [spells](#spells) for 24 hours, during which time it is possible to coerce or bribe the familiar into teaching its [spells](#spells) to another, subject to GM discretion.
+
+**Learn from a Scroll**: A witch can use a scroll to teach her familiar a new spell. This process takes 1 hour per level of the spell to be learned, during which time the scroll is burned and its ashes used to create a special brew or powder that is consumed by the familiar. This process destroys the scroll. At the end of this time, the witch must make a [Spellcraft](#spellcraft) check (DC 15 + spell level). If the check fails, the process went awry in some way and the spell is not learned, although the scroll is still consumed.
+
+#### Adding Spells to a Witch's Familiar
 
 By forging strange bonds with unnameable beings, witches gain the
 service of a mystical advisor, a familiar to both serve her and reveal
@@ -5725,8 +5110,7 @@ dissipates. If the witch activates a hex, her familiar can be used to
 make the touch. She does not have to be in contact with the familiar to
 use this ability.
 
-New Familiars
-=============
+#### New Familiars
 
 In addition to the familiars presented in the *Pathfinder RPG Core
 Rulebook*, witches might select any of the following animals as their
@@ -5752,8 +5136,8 @@ template](#young-creature)), and
   Scorpion    Master gains a +2 bonus on initiative rolls
   Spider      Master gains a +3 bonus on [Climb](#climb) checks
 
-Patron Spells
-=============
+
+### Patron Spells
 
 At 1st level, when a witch gains her familiar, she must also select a
 patron. This patron is a vague and mysterious force, granting the witch
@@ -5926,8 +5310,8 @@ spells](#protection-from-spells)*,
 18th-*[mage's
 disjunction](#mage-s-disjunction)*.
 
-Witch Spells
-============
+
+### Witch Spells
 
 Witches gain access to the following spells. While most of these spells
 are found in the *Core Rulebook*, those marked with an asterisk (\*)
