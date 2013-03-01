@@ -1,7 +1,6 @@
-New Rules
-=========
+# New Rules
 
-Although the *Pathfinder RPG Core Rulebook*provides a complete game,
+Although the *Pathfinder RPG Core Rulebook* provides a complete game,
 along with guidelines and examples to aid GMs in creation of any new
 rules components their adventures might require, the open-ended nature
 of the rules allows for endless expansion and refinement. While any
@@ -45,8 +44,8 @@ from their characters' histories and backgrounds, giving players cause
 to invest more thought into their characters' lives while providing GMs
 with hooks to further link PCs to the greater campaign.
 
-Combat Maneuvers
-================
+
+## Combat Maneuvers
 
 There's much more nuance to the ebb and flow of battle then merely
 charging into the fray and hacking away, or tumbling under an opponent's
@@ -79,8 +78,8 @@ Defense (CMD), the maneuver is a success. The drag and reposition
 maneuvers have varying levels of success depending on how much the
 attacker's roll exceeds the target's CMD.
 
-Dirty Trick
-===========
+
+## Dirty Trick
 
 You can attempt to hinder a foe in melee as a standard action. This
 maneuver covers any sort of situational attack that imposes a penalty on
@@ -106,8 +105,8 @@ for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds
 your opponent's CMD. In addition, removing the condition requires the
 target to spend a standard action.
 
-Drag
-====
+
+## Drag
 
 You can attempt to drag a foe as a standard action. You can only drag an
 opponent who is no more than one size category larger than you. The aim
@@ -137,8 +136,8 @@ sure-footed, making them more difficult to overthrow and move around the
 battlefield. Any racial ability that grants a bonus to CMD versus bull
 rush attempts grants the same bonus against drag combat maneuvers.
 
-Reposition
-==========
+
+## Reposition
 
 You can attempt to reposition a foe to a different location as a
 standard action. You can only reposition an opponent that is no more
@@ -164,8 +163,8 @@ opportunity because of the movement unless you possess the Greater
 Reposition feat. You cannot move a creature into a square that is
 occupied by a solid object or obstacle.
 
-Steal
-=====
+
+## Steal
 
 You can attempt to take an item from a foe as a standard action. This
 maneuver can be used in melee to take any item that is neither held nor
@@ -194,13 +193,12 @@ You must be able to reach the item to be taken (subject to GM
 discretion). Your enemy is immediately aware of this theft unless you
 possess the [Greater Steal](advancedFeats.html#_greater-steal) feat.
 
-Hero Points
-===========
+
+## Hero Points
 
   A PC can elect not to use the hero point system, instead relying more on his skills and abilities. Such characters do not receive hero points, regardless of the source, and can never benefit from their use. In exchange, such characters receive a bonus feat at 1st level. The option to allow such antiheroes in the game is subject to GM discretion.
 
 ### Antiheroes
-
 
   Although all of the options presented in this book should be carefully considered before they are added to your game, hero points deserve closer inspection. Although hero points do not drastically increase the power of the PCs, they do grant the PCs the ability to greatly increase their chances of success during critical moments. While the game itself is set up to give the player characters an edge, hero points take that a bit further, possibly more so than you might be comfortable with.
   
@@ -229,8 +227,8 @@ a character gains levels or whenever a character accomplishes a truly
 heroic feat. The GM is the final arbiter on the award and use of hero
 points.
 
-Awarding Hero Points
-====================
+
+## Awarding Hero Points
 
 Each character begins play with 1 hero point, regardless of her level.
 In addition, whenever a character gains a level, she earns an additional
@@ -286,8 +284,8 @@ dead](../spells/raiseDead.html#_raise-dead)* or
 **Maximum Hero Points**: Characters can have no more than 3 hero points
 at any one time. Excess hero points are lost.
 
-Using Hero Points
------------------
+
+### Using Hero Points
 
 Hero points can be spent at any time and do not require an action to use
 (although the actions they modify consume part of your character's turn
@@ -352,21 +350,21 @@ turn. Cheating death is the only way for a character to spend more than
 to prevent the death of a familiar, animal companion, eidolon, or
 special mount, but not another character or NPC.
 
-Additional Hero Point Rules
----------------------------
+
+### Additional Hero Point Rules
 
 Since hero points themselves are an optional rules system, other
 mechanics that go along with hero points have been included here to
 avoid confusion in the rest of the book. The following feats, spells,
 and magic items all have to do with hero points in one way or another.
 
-Hero Point Feats
-================
+
+## Hero Point Feats
 
 The following feats enhance your ability to store and gain hero points.
 
-Blood of Heroes
----------------
+
+### Blood of Heroes
 
 You have a sense of destiny about you and always seem to succeed, even
 when the odds are against you.
@@ -378,8 +376,8 @@ of 1.
 
 **Normal**: Whenever you gain a level, you gain 1 hero point.
 
-Hero's Fortune
---------------
+
+### Hero's Fortune
 
 Even at the start of your career, it was clear that you had a chance at
 greatness, and your legend continues to grow with every adventure.
@@ -392,8 +390,8 @@ you can have at any one time is increased to 5.
 **Special**: NPCs who take this feat receive 1 hero point and can have
 up to 3 (not 5).
 
-Luck of Heroes
---------------
+
+### Luck of Heroes
 
 To others, it seems that you always have a bit of luck around you.
 
@@ -405,8 +403,8 @@ the hero point is not spent. Whenever you spend a hero point, roll a
 d20. If the result is greater than 15, the hero point is not spent. You
 cannot use this feat when you cheat death.
 
-Hero Point Spells
-=================
+
+## Hero Point Spells
 
 The following spells grant temporary hero points or prevent characters
 from using hero points.
@@ -516,8 +514,8 @@ can reduce this penalty by spending hero points normally, but it takes
 2d6 points of damage for each hero point spent while this spell is in
 effect.
 
-Hero Point Magic Items
-======================
+
+## Hero Point Magic Items
 
 The following magic items grant characters additional hero points or
 allow them the possibility of recovering points as they are spent.
@@ -631,8 +629,8 @@ piece of quartz. It allows the use of the following spells.
 **Requirements** [Craft Staff](../feats.html#_craft-staff), *heroic
 fortune, mass heroic fortune*; **Cost** 37,200 gp
 
-Traits
-======
+
+## Traits
 
 Character traits are abilities that are not tied to your character's
 race or class. They can enhance your character's skills, racial
@@ -666,8 +664,8 @@ feat](advancedFeats.html#_additional-traits). Player characters are
 special; they're the stars of the game, after all, and it makes sense
 that they have an advantage over the NPCs of the world in this way.
 
-Gaining Traits
-==============
+
+## Gaining Traits
 
 When you create your character for a campaign, ask your GM how many
 traits you can select. In most cases, a new PC should gain two traits,
@@ -678,8 +676,8 @@ allow three or more. Even if your GM normally doesn't allow bonus
 traits, you might still be able to pick up some with the [Additional
 Traits feat](advancedFeats.html#_additional-traits).
 
-Types of Traits
-===============
+
+## Types of Traits
 
 There are five types of character traits to choose from: basic (split
 among four categories: Combat, Faith, Magic, and Social), campaign,
@@ -724,8 +722,8 @@ background to justify this trait. Unlike the other categories of traits,
 religion traits can go away if you abandon your religion, as detailed
 below under Restrictions on Trait Selection.
 
-Restrictions on Trait Selection
-===============================
+
+## Restrictions on Trait Selection
 
 There are a few rules governing trait selection. To begin with, your GM
 controls how many bonus traits a PC begins with; the default assumption
@@ -750,8 +748,8 @@ character abandons a religion, he loses the associated religion trait
 until he gains an experience level, at which point he may replace a lost
 religion trait with a basic faith trait.
 
-Basic Traits
-============
+
+## Basic Traits
 
 Basic traits are broken down into four categories. Combat traits focus
 on martial and physical aspects of your character's background. Faith
@@ -759,8 +757,8 @@ traits focus on his religious and philosophical leanings. Magic traits
 focus on any magical events or training he may have had in his past. And
 Social traits focus on your character's social class or upbringing.
 
-Combat Traits
--------------
+
+### Combat Traits
 
 These traits are associated with combat, battle, and physical prowess;
 they give characters minor bonuses in battle and represent conflicts and
@@ -834,8 +832,8 @@ wilds often forced you to subsist on food and water from doubtful
 sources. You've built up your mettle as a result, and gain a +1 trait
 bonus on Fortitude saves.
 
-Faith Traits
-------------
+
+### Faith Traits
 
 These traits rely upon conviction of spirit, perception, and religion,
 but are not directly tied to the worship of a specific deity. You do not
@@ -912,8 +910,8 @@ gain a +1 trait bonus on
 [Knowledge](../skills/knowledge.html#_knowledge) (planes) checks, and
 one of these skills (your choice) is always a class skill for you.
 
-Magic Traits
-------------
+
+### Magic Traits
 
 These traits are associated with magic and focus on spellcasting and
 manipulating magic. You need not be a spellcaster to take a Magic Trait
@@ -989,8 +987,8 @@ and one of these skills (your choice) is always a class skill for you.
 extent that you realized much of it was mere smoke and mirrors. You gain
 a +2 trait bonus on all saving throws against illusions.
 
-Social Traits
--------------
+
+### Social Traits
 
 Social Traits are a sort of catch-all category—these traits reflect the
 social upbringing of your character, your background in high society or
@@ -1067,8 +1065,8 @@ Motive](../skills/senseMotive.html#_sense-motive) checks, and [Sense
 Motive](../skills/senseMotive.html#_sense-motive) is always a class
 skill for you.
 
-Campaign Traits
-===============
+
+## Campaign Traits
 
 Campaign traits are specifically designed to tie your character into a
 campaign's storyline, and often give you a built-in reason to begin the
@@ -1077,8 +1075,8 @@ traits for their PCs. If your GM uses campaign traits, one of your
 starting traits must be a campaign trait. Your other trait can be chosen
 from one of the other types of traits.
 
-Favored Son/Daughter
---------------------
+
+### Favored Son/Daughter
 
 You were born and raised in the town of Sandpoint or its surrounding
 farms. You know many of the region's secrets, and the locals already
@@ -1108,8 +1106,8 @@ guard for help, or give you a one-time +10 bonus on a
 [Intimidate](../skills/intimidate.html#_intimidate) check made against
 any local person.
 
-Black Sheep
------------
+
+### Black Sheep
 
 You were born and raised in town. You know many of the region's secrets
 and the locals already know who you are. You aren't quite hated in town,
@@ -1138,8 +1136,8 @@ Hand](../skills/sleightOfHand.html#_sleight-of-hand), or
 gives you a +1 trait bonus on that skill, and it is always a class skill
 for you.
 
-Outlander
----------
+
+### Outlander
 
 You are not from town; you've recently come from somewhere else and are
 hoping to make your fortune here. Pick one of the following reasons to
@@ -1177,16 +1175,16 @@ spell list. You are particularly adept at casting these spells, so they
 function at +1 caster level when you cast them, and their save DCs (if
 any) gain a +1 bonus.
 
-Race Traits
-===========
+
+## Race Traits
 
 Race traits are tied to specific races or ethnicities. In order to
 select a race trait, your character must be of the specified race or
 ethnicity. Listed below are example traits for each different player
 character race.
 
-Dwarf Race Traits
------------------
+
+### Dwarf Race Traits
 
 Only dwarves may select one of these traits.
 
@@ -1199,8 +1197,8 @@ underground, you receive a +2 trait bonus on initiative checks and a +1
 trait bonus on weapon damage rolls for critical hits (this damage is
 multiplied on a critical hit).
 
-Elf Race Traits
----------------
+
+### Elf Race Traits
 
 Only elves may select one of these traits.
 
@@ -1214,8 +1212,8 @@ and though time has made this training a dim memory, you still have a
 knack for quickly responding to trouble. You gain a +2 trait bonus on
 Initiative checks.
 
-Gnome Race Traits
------------------
+
+### Gnome Race Traits
 
 Only gnomes may select one of these traits.
 
@@ -1233,8 +1231,8 @@ caught. You gain a +1 trait bonus on [Escape
 Artist](../skills/escapeArtist.html#_escape-artist) checks and a +1
 trait bonus on Initiative checks.
 
-Half-Elf Race Traits
---------------------
+
+### Half-Elf Race Traits
 
 Only half-elves may select one of these traits.
 
@@ -1248,8 +1246,8 @@ Unfortunately, you had no arcane talent whatsoever, though you did learn
 a great deal about the workings of spells and how to resist them. You
 gain a +1 trait bonus on saves against arcane spells.
 
-Half-Orc Race Traits
---------------------
+
+### Half-Orc Race Traits
 
 Only half-orcs may select one of these traits.
 
@@ -1266,8 +1264,8 @@ on [Survival](../skills/survival.html#_survival) skill checks, and
 [Survival](../skills/survival.html#_survival) is always a class skill
 for you.
 
-Halfling Race Traits
---------------------
+
+### Halfling Race Traits
 
 Only halflings may select one of these traits.
 
@@ -1288,8 +1286,8 @@ information and [Knowledge](../skills/knowledge.html#_knowledge) (local)
 checks. One of these skills (your choice) is always a class skill for
 you.
 
-Human Race Traits
------------------
+
+### Human Race Traits
 
 Only humans may select one of these traits.
 
@@ -1310,8 +1308,8 @@ offer. Select one of the following skills:
 Motive](../skills/senseMotive.html#_sense-motive). You gain a +1 trait
 bonus on that skill, and it is always a class skill for you.
 
-Regional Traits
-===============
+
+## Regional Traits
 
 Regional traits are tied to particular regions, often specific nations,
 territories, or cities in a campaign. The following regional traits
@@ -1370,8 +1368,8 @@ Artist](../skills/escapeArtist.html#_escape-artist), or [Sleight of
 Hand](../skills/sleightOfHand.html#_sleight-of-hand). You gain a +1
 trait bonus on that skill, and it is always a class skill for you.
 
-Religion Traits
-===============
+
+## Religion Traits
 
 Religion traits are tied to specific deities.
 
