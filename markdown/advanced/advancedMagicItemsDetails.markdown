@@ -2747,23 +2747,23 @@ creation]*; Price
 
 ## Specific Weapons
 
-  Minor    Medium   Major    Specific Weapon                                    Market Price
-  -------- -------- -------- -------------------------------------------------- --------------
-  01-35    —        —        *[Dustburst bullet]*           196 gp
-  36-70    —        —        *[Tangle bolt]*                     226 gp
-  71-80    01-7     —        *[Searing arrow]*                 1,516 gp
-  81-90    08-14    —        *[Sizzling arrow]*               1,516 gp
-  91-100   15-26    —        *[Lance of jousting]*          4,310 gp
-  —        27-41    —        *[Boulderhead mace]*            6,812 gp
-  —        42-53    —        *[Beaststrike club]*            7,300 gp
+  Minor    Medium   Major    Specific Weapon            Market Price
+  -------- -------- -------- -------------------------- --------------
+  01-35    —        —        *[Dustburst bullet]*       196 gp
+  36-70    —        —        *[Tangle bolt]*            226 gp
+  71-80    01-7     —        *[Searing arrow]*          1,516 gp
+  81-90    08-14    —        *[Sizzling arrow]*         1,516 gp
+  91-100   15-26    —        *[Lance of jousting]*      4,310 gp
+  —        27-41    —        *[Boulderhead mace]*       6,812 gp
+  —        42-53    —        *[Beaststrike club]*       7,300 gp
   —        54-60    01-04    *[Trident of stability]*   9,815 gp
-  —        61-70    05-20    *[Blade of binding]*            12,350 gp
+  —        61-70    05-20    *[Blade of binding]*       12,350 gp
   —        71-79    21-37    *[Shieldsplitter lance]*   18,310 gp
-  —        80-87    38-62    *[Ricochet hammer]*              20,301 gp
-  —        88-95    63-82    *[Sparkwake starknife]*     21,324 gp
-  —        96-100   83-88    *[Undercutting axe]*            23,310 gp
-  —        —        89-94    *[Spirit blade]*                    48,502 gp
-  —        —        95-100   *[Guarding blade]*               65,310 gp
+  —        80-87    38-62    *[Ricochet hammer]*        20,301 gp
+  —        88-95    63-82    *[Sparkwake starknife]*    21,324 gp
+  —        96-100   83-88    *[Undercutting axe]*       23,310 gp
+  —        —        89-94    *[Spirit blade]*           48,502 gp
+  —        —        95-100   *[Guarding blade]*         65,310 gp
 
   : Table: Specific Weapons
 
