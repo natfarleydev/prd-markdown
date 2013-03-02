@@ -10,7 +10,7 @@ Rulebook,*including a host of new combat feats and metamagic feats. In
 addition, this chapter also introduces teamwork feats, which function
 only when two characters with the same feat work together.
 
-# Types of Feats
+## Types of Feats
 
 
 While most of the feats presented here are general, and have no special
@@ -18,20 +18,20 @@ rules governing them, some feats have a category associated with them
 that involves special rules. This category is listed after the feat
 name. The following types of feats can be found in this chapter.
 
-## Combat Feats
+### Combat Feats
 
 Any feat designated as a combat feat can be selected as a fighter's
 bonus feat. This designation does not restrict characters of other
 classes from selecting these feats, assuming they meet the
 prerequisites.
 
-## [Metamagic Feats]
+### [Metamagic Feats]
 
 Metamagic feats allow spellcasters to modify and change their spells,
 granting them new powers and effects. Such spells generally take up a
 higher-level spell slot than the normal spell.
 
-## [Teamwork Feats]
+### [Teamwork Feats]
 
 Teamwork feats grant large bonuses, but they only function under
 specific circumstances. In most cases, these feats require an ally who
@@ -40,7 +40,7 @@ Teamwork feats provide no bonus if the listed conditions are not met.
 Note that allies who are paralyzed, stunned, unconscious, or otherwise
 unable to act do not count for the purposes of these feats.
 
-# Feat Descriptions
+## Feat Descriptions
 
 Feats are summarized on the table below. Note that the prerequisites and
 benefits of the feats listed in this table are abbreviated for ease of
@@ -572,7 +572,7 @@ Table: Feats
 \* This is a combat feat and can be selected as a fighter bonus feat.
 
 
-## Additional Traits
+### Additional Traits
 
 
 You have more traits than normal.
@@ -583,7 +583,7 @@ chosen from lists from which you have already selected a character
 trait. You must meet any additional qualifications for the character
 traits you choose.
 
-## Allied Spellcaster (Teamwork)
+### Allied Spellcaster (Teamwork)
 
 
 With the aid of an ally, you are skilled at piercing the protections of
@@ -598,7 +598,7 @@ with a slot available if they are spontaneous spellcasters), this bonus
 increases to +4 and you receive a +1 bonus to the caster level for all
 level-dependent variables, such as duration, range, and effect.
 
-## Arcane Blast
+### Arcane Blast
 
 
 You can convert any spell into an attack.
@@ -612,7 +612,7 @@ deals 2d6 points of damage plus an additional 1d6 points of damage for
 every level of the spell or spell slot you sacrificed. 0-level spells
 may not be sacrificed in this manner.
 
-## Arcane Shield
+### Arcane Shield
 
 
 You can convert any spell into a defense.
@@ -624,7 +624,7 @@ or unused spell slot of 1st level or higher and gain a deflection bonus
 to AC equal to the level of the spell or spell slot you sacrificed for 1
 round. 0-level spells may not be sacrificed in this manner.
 
-## Arcane Talent
+### Arcane Talent
 
 
 Magic is in your blood, and at your fingertips.
@@ -636,7 +636,7 @@ You can cast this spell three times per day as a spell-like ability. The
 caster level is equal to your character level. The save DC is 10 + your
 Charisma modifier.
 
-## Aspect of the Beast
+### Aspect of the Beast
 
 
 Whether by magic or a curse of your blood, some part of you is more
@@ -668,7 +668,7 @@ natural weapon combat style can take this feat without having to meet
 the prerequisites (even if he does not select [Aspect of the
 Beast] as a bonus feat).
 
-## Bashing Finish (Combat)
+### Bashing Finish (Combat)
 
 
 You follow a powerful blow from your weapon with an opportunistic bash
@@ -683,7 +683,7 @@ Fighting](../feats.html#_two-weapon-fighting), base attack bonus +11.
 can make a shield bash attack against the same target using the same
 bonus as a free action.
 
-## Bloody Assault (Combat)
+### Bloody Assault (Combat)
 
 
 Sacrificing accuracy, you can inflict bloody wounds that are slow to
@@ -703,7 +703,7 @@ to use this feat before making the attack roll, and its effects last
 until your next turn (although the bleeding lasts until healed, as
 normal).
 
-## Bodyguard (Combat)
+### Bodyguard (Combat)
 
 
 Your swift strikes ward off enemies attacking nearby allies.
@@ -717,7 +717,7 @@ roll with this attack.
 
 **Normal:** Aid another is a standard action.
 
-## Bouncing Spell (Metamagic)
+### Bouncing Spell (Metamagic)
 
 
 You can direct a failed spell against a different target.
@@ -732,7 +732,7 @@ effect from a successful saving throw) may not be redirected in this
 manner. A bouncing spell uses up a spell slot one level higher than the
 spell's actual level.
 
-## Breadth of Experience
+### Breadth of Experience
 
 
 Although still young for your kind, you have a lifetime of knowledge and
@@ -745,7 +745,7 @@ training.
 [Profession](../skills/profession.html#_profession) skill checks, and
 can make checks with those skills untrained.
 
-## Bull Rush Strike (Combat)
+### Bull Rush Strike (Combat)
 
 
 Your critical hits can push back your foes.
@@ -771,7 +771,7 @@ Strike], [Sundering Strike],
 or [Tripping Strike]. You may choose to use this feat
 after you make your confirmation roll.
 
-## Charge Through (Combat)
+### Charge Through (Combat)
 
 
 You can overrun enemies when charging.
@@ -788,7 +788,7 @@ creature.
 
 **Normal:** You must have a clear path toward the target of your charge.
 
-## Childlike
+### Childlike
 
 
 Your resemblance to a human child tends to make others trust you,
@@ -803,7 +803,7 @@ story makes you appear innocent. You gain a +2 bonus on
 human child, and ignore the check penalties for disguising yourself as a
 different race and age category while doing so.
 
-## Cloud Step
+### Cloud Step
 
 
 Your tread is of unearthly lightness.
@@ -815,7 +815,7 @@ walk](../spells/airWalk.html#_air-walk)* (as the spell) up to half your
 slow fall distance, maximum 50 feet. You must reach a solid, level
 surface by the end of your turn or you will fall.
 
-## Cockatrice Strike (Combat)
+### Cockatrice Strike (Combat)
 
 
 With a single strike, you transmute flesh to stone.
@@ -832,7 +832,7 @@ petrified unless it succeeds on a Fortitude saving throw with a DC of 10
 + 1/2 your character level + your Wisdom modifier. This is a
 supernatural polymorph effect.
 
-## Combat Patrol (Combat)
+### Combat Patrol (Combat)
 
 
 You range across the battlefield, dealing with threats wherever they
@@ -849,7 +849,7 @@ provokes attacks of opportunity. You may move as part of these attacks,
 provided your total movement before your next turn does not exceed your
 speed. Any movement you make provokes attacks of opportunity as normal.
 
-## Cooperative Crafting
+### Cooperative Crafting
 
 
 Your assistance makes item crafting far more efficient.
@@ -867,7 +867,7 @@ item. You provide a +2 circumstance bonus on any
 making an item, and your assistance doubles the gp value of items that
 can be crafted each day.
 
-## Coordinated Defense (Combat, Teamwork)
+### Coordinated Defense (Combat, Teamwork)
 
 
 You are adept at working with allies to avoid being tripped, grappled,
@@ -878,7 +878,7 @@ feat, you receive a +2 competence bonus to your Combat Maneuver Defense.
 This bonus increases to +4 if the creature attempting the maneuver is
 larger than both you and your ally.
 
-## Coordinated Maneuvers (Combat, Teamwork)
+### Coordinated Maneuvers (Combat, Teamwork)
 
 
 You are skilled at working with your allies to perform dangerous combat
@@ -888,7 +888,7 @@ maneuvers.
 feat, you receive a +2 competence bonus on all combat maneuver checks.
 This bonus increases to +4 when attempting to break free from a grapple.
 
-## Cosmopolitan
+### Cosmopolitan
 
 
 Living in large, exotic cities has put you in touch with many diverse
@@ -899,7 +899,7 @@ choice. In addition, choose two Intelligence-, Wisdom-, or
 Charisma-based skills. Those skills always count as class skills for
 you.
 
-## Covering Defense (Combat)
+### Covering Defense (Combat)
 
 
 You are skilled at protecting yourself and your allies with your shield.
@@ -914,7 +914,7 @@ equal to your shield's shield bonus and lasts until the beginning of
 your next turn. Your shield does not provide a cover bonus to Reflex
 saves.
 
-## Crippling Critical (Combat)
+### Crippling Critical (Combat)
 
 
 You are able to maim a target and hinder its movement.
@@ -934,7 +934,7 @@ airborne, and has its maneuverability reduced by one step.
 given critical hit unless you possess [Critical
 Mastery](../feats.html#_critical-mastery).
 
-## Crossbow Mastery (Combat)
+### Crossbow Mastery (Combat)
 
 
 You can load crossbows with blinding speed and even fire them in melee
@@ -957,7 +957,7 @@ opportunity.
 style may select [Crossbow Mastery] as a combat style
 feat.
 
-## Dastardly Finish (Combat)
+### Dastardly Finish (Combat)
 
 
 You can take advantage of an enemy's debilitated state to attempt a coup
@@ -970,7 +970,7 @@ targets.
 
 **Normal:** You can only coup de grace helpless targets.
 
-## Dazing Assault (Combat)
+### Dazing Assault (Combat)
 
 
 You can daze foes with wild attacks.
@@ -986,7 +986,7 @@ save is 10 + your base attack bonus. You must choose to use this feat
 before making the attack roll, and its effects last until your next
 turn.
 
-## Dazing Spell (Metamagic)
+### Dazing Spell (Metamagic)
 
 
 You can daze creatures with the power of your spells.
@@ -1002,7 +1002,7 @@ duration of the spell. A dazing spell uses up a spell slot three levels
 higher than the spell's actual level. Spells that do not inflict damage
 do not benefit from this feat.
 
-## Deep Drinker
+### Deep Drinker
 
 
 You draw greater amounts of *ki* from your libations.
@@ -1012,7 +1012,7 @@ You draw greater amounts of *ki* from your libations.
 **Benefit:** When you gain temporary *ki* from drunken *ki*, you gain 2
 temporary *ki* rather than just 1.
 
-## Deepsight
+### Deepsight
 
 
 Your senses are especially keen in the utter darkness.
@@ -1023,7 +1023,7 @@ Your senses are especially keen in the utter darkness.
 
 **Normal:** Darkvision normally extends 60 or 90 feet.
 
-## Disarming Strike (Combat)
+### Disarming Strike (Combat)
 
 
 Your critical hits can disarm your foes.
@@ -1048,7 +1048,7 @@ Strike], [Sundering Strike],
 or [Tripping Strike]. You may choose to use this feat
 after you make your confirmation roll.
 
-## Disrupting Shot (Combat)
+### Disrupting Shot (Combat)
 
 
 With a well-placed shot, you make it harder for a nearby opponent to
@@ -1061,7 +1061,7 @@ Shot](../feats.html#_point-blank-shot), fighter level 6th.
 within 30 feet and successfully hit that opponent with a ranged attack,
 the concentration DC to successfully cast the spell is increased by +4.
 
-## Disruptive Spell (Metamagic)
+### Disruptive Spell (Metamagic)
 
 
 Your magical energies cling to enemies, interfering with their
@@ -1074,7 +1074,7 @@ being cast) for 1 round. Targets that avoid the spell's effects avoid
 this feat's effect as well. A disruptive spell uses up a spell slot one
 level higher than the spell's actual level.
 
-## Diviner's Delving
+### Diviner's Delving
 
 
 Your keen magical intuition makes reading signs, portents, and mystical
@@ -1091,7 +1091,7 @@ information from the spell 1 round sooner than normal (so you gain
 information from the first 2 rounds with 1 round of concentration, and
 information from the third round in the second round of concentration).
 
-## Dreadful Carnage (Combat)
+### Dreadful Carnage (Combat)
 
 
 Slaying an enemy demoralizes your other nearby foes.
@@ -1105,7 +1105,7 @@ demoralize all enemies within 30 feet as a free action. Enemies that
 cannot see both you and the enemy you reduced to 0 or fewer hit points
 are unaffected.
 
-## Duck and Cover (Teamwork)
+### Duck and Cover (Teamwork)
 
 
 Your allies assist you in avoiding certain attacks.
@@ -1119,7 +1119,7 @@ result you take). If you take your ally's result, you are knocked prone
 knocked prone). In addition, you receive a +2 cover bonus to your AC
 against ranged attacks as long as your ally is wielding a shield.
 
-## Eagle Eyes
+### Eagle Eyes
 
 
 Your vision is especially keen.
@@ -1130,7 +1130,7 @@ Your vision is especially keen.
 [Perception](../skills/perception.html#_perception) checks, allowing you
 to see accurately at much greater distances than most.
 
-## Eclectic
+### Eclectic
 
 
 You have a talent for picking up different vocations.
@@ -1142,7 +1142,7 @@ point or +1 skill point whenever you take a level in that class. If you
 choose a class in which you already have levels, the benefits of this
 feat are retroactive.
 
-## Ectoplasmic Spell (Metamagic)
+### Ectoplasmic Spell (Metamagic)
 
 
 Your spells breach the gulf between dimensions, sending ghostly
@@ -1152,7 +1152,7 @@ emanations into the ether.
 ethereal creatures. An ectoplasmic spell uses up a spell slot one level
 higher than the spell's actual level.
 
-## Eldritch Claws (Combat)
+### Eldritch Claws (Combat)
 
 
 Who needs magic weapons? Eldritch tricks are no match for your bestial
@@ -1163,7 +1163,7 @@ ferocity.
 **Benefit:** You natural weapons are considered both magic and silver
 for purpose of overcoming damage reduction.
 
-## Elemental Fist (Combat)
+### Elemental Fist (Combat)
 
 
 You empower your strike with elemental energy
@@ -1186,7 +1186,7 @@ Fist] attack a number of times per day equal to his
 monk level, plus one more time per day for every four levels he has in
 classes other than monk.
 
-## Elemental Focus
+### Elemental Focus
 
 
 Your spells of a certain element are more difficult to resist.
@@ -1198,7 +1198,7 @@ deal damage of the energy type you select.
 **Special:** You can gain this feat multiple times. Its effects do not
 stack. Each time you take this feat, it applies to a new energy type.
 
-## Elemental Spell (Metamagic)
+### Elemental Spell (Metamagic)
 
 
 You can manipulate the elemental nature of your spells.
@@ -1212,7 +1212,7 @@ higher than the spell's actual level.
 **Special:** You can gain this feat multiple times. Each time you must
 choose a different energy type.
 
-## Elven Accuracy (Combat)
+### Elven Accuracy (Combat)
 
 
 Your sharp eyesight makes difficult shots easier.
@@ -1223,7 +1223,7 @@ Your sharp eyesight makes difficult shots easier.
 with a longbow or shortbow (including composite bows), you can reroll
 your miss chance roll one time to see if you actually hit.
 
-## Enforcer (Combat)
+### Enforcer (Combat)
 
 
 You are skilled at causing fear in those you brutalize.
@@ -1240,7 +1240,7 @@ with a successful [Intimidate](../skills/intimidate.html#_intimidate)
 check, as well as being shaken for a number of rounds equal to the
 damage dealt.
 
-## Expanded Arcana
+### Expanded Arcana
 
 
 Your research has revealed new spells.
@@ -1261,7 +1261,7 @@ as the bard, oracle, and sorcerer.
 
 You can gain [Expanded Arcana] multiple times.
 
-## Extra Bombs
+### Extra Bombs
 
 
 You can throw more bombs per day.
@@ -1273,7 +1273,7 @@ You can throw more bombs per day.
 **Special:** You can gain [Extra Bombs] multiple times.
 Its effects stack.
 
-## Extra Discovery
+### Extra Discovery
 
 
 You have made a new alchemical discovery.
@@ -1286,7 +1286,7 @@ prerequisites for this discovery.
 **Special:** You can gain [Extra Discovery] multiple
 times.
 
-## Extra Hex
+### Extra Hex
 
 
 You have learned the secrets of a new hex.
@@ -1298,7 +1298,7 @@ prerequisites for this hex.
 
 **Special:** You can gain [Extra Hex] multiple times.
 
-## Extra Rage Power
+### Extra Rage Power
 
 
 You have unlocked a new ability to use while raging.
@@ -1311,7 +1311,7 @@ the prerequisites for this rage power.
 **Special:** You can gain [Extra Rage Power] multiple
 times.
 
-## Extra Revelation
+### Extra Revelation
 
 
 You have discovered a new aspect of your mystery.
@@ -1324,7 +1324,7 @@ the prerequisites for this revelation.
 **Special:** You can gain [Extra Revelation] multiple
 times.
 
-## Extra Rogue Talent
+### Extra Rogue Talent
 
 
 Through constant practice, you have learned how to perform a special
@@ -1338,7 +1338,7 @@ the prerequisites for this rogue talent.
 **Special:** You can gain [Extra Rogue Talent]
 multiple times.
 
-## Fast Drinker
+### Fast Drinker
 
 
 You swiftly guzzle spirits to draw forth *ki*.
@@ -1348,7 +1348,7 @@ You swiftly guzzle spirits to draw forth *ki*.
 **Benefit:** Drinking strong alcohol to gain temporary *ki*, takes a
 swift action rather than a standard action.
 
-## Fast Healer
+### Fast Healer
 
 
 You benefit greatly from your healing, be it from spells or natural
@@ -1361,7 +1361,7 @@ healing.
 healing, you recover additional hit points equal to half your
 Constitution modifier (minimum +1).
 
-## Favored Defense
+### Favored Defense
 
 
 Your cunning is your shield against your quarry's attacks.
@@ -1376,7 +1376,7 @@ by a favored enemy.
 stack. Each time you take this feat, it applies to a new favored enemy
 type.
 
-## Fight On
+### Fight On
 
 
 You can keep fighting even after you should be dead.
@@ -1392,7 +1392,7 @@ temporary hit points, you fall unconscious and are dying as normal. If
 you also have the ferocity racial trait, you can use that once you have
 lost the temporary hit points from this feat.
 
-## Focused Shot (Combat)
+### Focused Shot (Combat)
 
 
 Your anatomical insight adds deadliness to your shots.
@@ -1409,7 +1409,7 @@ damage.
 **Special:** Starting at 2nd level, a ranger with the archery combat
 style may select [Focused Shot] as a combat style feat.
 
-## Focused Spell (Metamagic)
+### Focused Spell (Metamagic)
 
 
 When you cast a spell that affects more than one creature, one opponent
@@ -1425,7 +1425,7 @@ spell's actual level.
 Spells that do not require a saving throw to resist or lessen the
 spell's effect do not benefit from this feat.
 
-## Following Step (Combat)
+### Following Step (Combat)
 
 
 You can repeatedly close the distance when foes try to move away,
@@ -1442,7 +1442,7 @@ turn.
 **Normal:** You can only take a 5-foot step to follow an opponent using
 [Step Up](../feats.html#_step-up).
 
-## Furious Focus (Combat)
+### Furious Focus (Combat)
 
 
 Even in the midst of fierce and furious blows, you can find focus in the
@@ -1458,7 +1458,7 @@ Attack](../feats.html#_power-attack)'s penalty on melee attack rolls on
 the first attack you make each turn. You still suffer the penalty on any
 additional attacks, including attacks of opportunity.
 
-## Gang Up (Combat)
+### Gang Up (Combat)
 
 
 You are adept at using greater numbers against foes.
@@ -1473,7 +1473,7 @@ actual positioning.
 **Normal:** You must be positioned opposite an ally to flank an
 opponent.
 
-## Gnome Trickster
+### Gnome Trickster
 
 
 Your arcane talents go beyond the illusory.
@@ -1485,7 +1485,7 @@ also gain the following spell-like abilities: 1/day—*[mage
 hand](../spells/mageHand.html#_mage-hand)* and
 *[prestidigitation](../spells/prestidigitation.html#_prestidigitation)*.
 
-## Go Unnoticed
+### Go Unnoticed
 
 
 Your small size lets you quickly duck out of sight.
@@ -1498,7 +1498,7 @@ considered not to have noticed you yet for the purposes of
 make a [Stealth](../skills/stealth.html#_stealth) check that round to
 hide from them.
 
-## Greater Blind-Fight (Combat)
+### Greater Blind-Fight (Combat)
 
 
 Your enemies cannot hide from you.
@@ -1521,7 +1521,7 @@ invisible.
 is of no use against a character who is the subject of a
 *[blink](../spells/blink.html#_blink)* spell.
 
-## Greater Dirty Trick (Combat)
+### Greater Dirty Trick (Combat)
 
 
 When you pull a dirty trick, your foe is truly hindered.
@@ -1541,7 +1541,7 @@ condition requires the target to spend a standard action.
 plus 1 round for every 5 by which your attack exceeds the target's CMD.
 Removing the condition requires the target to spend a move action.
 
-## Greater Drag (Combat)
+### Greater Drag (Combat)
 
 
 Foes that you drag are thrown out of balance.
@@ -1557,7 +1557,7 @@ from all of your allies (but not you).
 **Normal:** Creatures moved by drag do not provoke attacks of
 opportunity.
 
-## Greater Elemental Focus
+### Greater Elemental Focus
 
 
 Choose an energy type to which you have already applied the [Elemental
@@ -1575,7 +1575,7 @@ stack. Each time you take this feat, it applies to a new energy type to
 which you have already applied the [Elemental Focus]
 feat.
 
-## Greater Reposition (Combat)
+### Greater Reposition (Combat)
 
 
 When you reposition foes, they are left vulnerable to the attacks of
@@ -1594,7 +1594,7 @@ not you).
 **Normal:** Creatures moved by reposition do not provoke attacks of
 opportunity.
 
-## Greater Shield Specialization (Combat)
+### Greater Shield Specialization (Combat)
 
 
 Your masterful shieldwork provides even greater protection to your vital
@@ -1617,7 +1617,7 @@ may negate a critical hit, and damage is instead rolled normally.
 **Special:** You can gain this feat multiple times. Its effects do not
 stack. Each time you take the feat, it applies to a new type of shield.
 
-## Greater Steal (Combat)
+### Greater Steal (Combat)
 
 
 You have a knack for snatching items from your opponents in combat.
@@ -1635,7 +1635,7 @@ or if it attempts to use the missing item.
 **Normal:** Creatures automatically notice items taken from them through
 the steal combat maneuver.
 
-## Groundling
+### Groundling
 
 
 You can speak with burrowing animals.
@@ -1650,7 +1650,7 @@ animals like gophers, moles, and the like. You can still use your gnome
 animals](../spells/speakWithAnimals.html#_speak-with-animals)* ability
 once per day to speak with any animal, as usual.
 
-## Heroic Defiance
+### Heroic Defiance
 
 
 You struggle on when others would fall.
@@ -1665,7 +1665,7 @@ Activating this feat delays the onset of the condition until the end of
 your next turn, after which time the condition takes its normal effect.
 This feat has no effect on hit point damage or ability damage.
 
-## Heroic Recovery
+### Heroic Recovery
 
 
 You can throw off the effects of crippling conditions.
@@ -1681,7 +1681,7 @@ counts toward curing an affliction such as poison or disease. You cannot
 use this feat to recover from instantaneous effects, effects that do not
 allow a saving throw, or effects that do not require a Fortitude save.
 
-## Improved Blind-Fight (Combat)
+### Improved Blind-Fight (Combat)
 
 
 Your keen senses guide your hand against hidden foes.
@@ -1703,7 +1703,7 @@ invisible.
 character who is the subject of a *[blink](../spells/blink.html#_blink)*
 spell.
 
-## Improved Dirty Trick (Combat)
+### Improved Dirty Trick (Combat)
 
 
 You are skilled at pulling dirty tricks on your foes.
@@ -1720,7 +1720,7 @@ you.
 **Normal:** You provoke an attack of opportunity when performing a dirty
 trick combat maneuver.
 
-## Improved Drag (Combat)
+### Improved Drag (Combat)
 
 
 You are skilled at dragging foes around the battlefield.
@@ -1736,7 +1736,7 @@ Defense when an opponent tries to drag you.
 **Normal:** You provoke an attack of opportunity when performing a drag
 combat maneuver.
 
-## Improved Ki Throw (Combat)
+### Improved Ki Throw (Combat)
 
 
 Your enemies are living weapons in your hands.
@@ -1759,7 +1759,7 @@ maneuver check for each target after the first.
 
 **Special:** A monk may take this as a bonus feat at 14th level.
 
-## Improved Reposition (Combat)
+### Improved Reposition (Combat)
 
 
 You have learned how to force your enemies to move around the
@@ -1776,7 +1776,7 @@ Combat Maneuver Defense when an opponent tries to reposition you.
 **Normal:** You provoke an attack of opportunity when performing a
 reposition combat maneuver.
 
-## Improved Second Chance (Combat)
+### Improved Second Chance (Combat)
 
 
 You can turn a missed strike into a second chance without sacrificing
@@ -1793,7 +1793,7 @@ attacks that turn, albeit at a –5 penalty to each attack.
 **Normal:** When using the [Second Chance] feat, you
 must normally forgo the rest of your attacks that turn.
 
-## Improved Share Spells
+### Improved Share Spells
 
 
 You can share spells with those you have a magical connection with.
@@ -1821,7 +1821,7 @@ affect creatures of that type.
 This feat only applies to animal companions, eidolons, familiars, or
 special mounts gained through a class feature.
 
-## Improved Sidestep (Combat)
+### Improved Sidestep (Combat)
 
 
 You are adept at sidestepping your opponent's melee attacks without
@@ -1838,7 +1838,7 @@ to move during your next turn.
 **Normal:** If you use the [Sidestep] feat, you cannot take a
 5-foot step during your next turn.
 
-## Improved Steal (Combat)
+### Improved Steal (Combat)
 
 
 You have a knack for snatching items from your opponents.
@@ -1855,7 +1855,7 @@ you.
 **Normal:** You provoke an attack of opportunity when performing a steal
 combat maneuver.
 
-## Improved Stonecunning
+### Improved Stonecunning
 
 
 Your sense for stonework is uncanny.
@@ -1867,7 +1867,7 @@ Your sense for stonework is uncanny.
 unusual stonework. This bonus replaces the stonecunning ability's normal
 bonus on [Perception](../skills/perception.html#_perception) checks.
 
-## Intensified Spell (Metamagic)
+### Intensified Spell (Metamagic)
 
 
 Your spells can go beyond several normal limitations.
@@ -1880,7 +1880,7 @@ is not modified by caster level are not affected by this feat. An
 intensified spell uses up a spell slot one level higher than the spell's
 actual level.
 
-## In Harm's Way (Combat)
+### In Harm's Way (Combat)
 
 
 You put yourself in danger's path to save your allies.
@@ -1893,7 +1893,7 @@ immediate action, taking full damage from that attack and any associated
 effects (bleed, poison, etc.). A creature cannot benefit from this feat
 more than once per attack.
 
-## Ironguts
+### Ironguts
 
 
 You have an especially strong stomach.
@@ -1906,7 +1906,7 @@ ingested poisons (but not other poisons). In addition, you receive a +2
 bonus on [Survival](../skills/survival.html#_survival) skill checks to
 find food for yourself (and only yourself).
 
-## Ironhide
+### Ironhide
 
 
 Your skin is thicker and more resilient than that of most of your
@@ -1917,7 +1917,7 @@ people.
 **Benefit:** You gain a +1 natural armor bonus due to your unusually
 tough hide.
 
-## Keen Scent
+### Keen Scent
 
 
 Your nose is as sensitive as that of a wild predator.
@@ -1926,7 +1926,7 @@ Your nose is as sensitive as that of a wild predator.
 
 **Benefit:** You gain the scent special ability.
 
-## Ki Throw (Combat)
+### Ki Throw (Combat)
 
 
 Your physical control and mastery of momentum allows you to throw
@@ -1945,7 +1945,7 @@ occupied by other creatures.
 monk with this feat can affect creatures larger than his own size by
 spending 1 *ki* point per size category difference.
 
-## Leaf Singer
+### Leaf Singer
 
 
 Your songs recount the ways and mysteries of your people.
@@ -1959,7 +1959,7 @@ addition, the DC for saving throws against your bardic performance is
 increased by +2 for creatures of the fey type, regardless of where the
 performance occurs.
 
-## Light Step
+### Light Step
 
 
 You pick your way nimbly through even the most dangerous and uneven
@@ -1971,7 +1971,7 @@ terrain.
 **Benefit:** You can ignore the effects of difficult terrain in natural
 environments, as if it were normal terrain.
 
-## Lingering Performance
+### Lingering Performance
 
 
 The effects of your bardic performance carry on, even after you have
@@ -1985,7 +1985,7 @@ such as range or specific conditions, must still be met for the effect
 to continue. If you begin a new bardic performance during this time, the
 effects of the previous performance immediately cease.
 
-## Lingering Spell (Metamagic)
+### Lingering Spell (Metamagic)
 
 
 You spell clings to existence, slowly fading from the world.
@@ -2000,7 +2000,7 @@ beyond 5 feet and total concealment (50% miss chance) beyond 20 feet.
 A lingering spell uses up a spell slot one level higher than the spell's
 actual level.
 
-## Lookout (Combat, Teamwork)
+### Lookout (Combat, Teamwork)
 
 
 Your allies help you avoid being surprised.
@@ -2014,7 +2014,7 @@ lower. If both you and your ally would be able to act in the surprise
 round without the aid of this feat, you may take both a standard and a
 move action (or a full-round action) during the surprise round.
 
-## Low Profile (Combat)
+### Low Profile (Combat)
 
 
 Yours small stature helps you avoid ranged attacks.
@@ -2025,7 +2025,7 @@ Yours small stature helps you avoid ranged attacks.
 addition, you do not provide soft cover to creatures when ranged attacks
 pass through your square.
 
-## Lucky Halfling
+### Lucky Halfling
 
 
 You bring luck to those with whom you travel.
@@ -2039,7 +2039,7 @@ your ally has rolled, but before the GM declares if the roll was a
 success or failure. Your ally may choose to use your saving throw in
 place of his own.
 
-## Major Spell Expertise
+### Major Spell Expertise
 
 
 You can cast a single low-level spell as a spell-like ability.
@@ -2058,7 +2058,7 @@ metamagic feats to this spell.
 **Special:** You can gain this feat multiple times. Its effects do not
 stack. Each time you take the feat, it applies to a new spell.
 
-## Master Alchemist
+### Master Alchemist
 
 
 Your mastery of alchemy is nearly supernatural.
@@ -2079,7 +2079,7 @@ In addition, whenever you make alchemical items or poisons using
 as its sp value when determining your progress (do not multiply the
 item's gp cost by 10 to determine its sp cost).
 
-## Merciful Spell (Metamagic)
+### Merciful Spell (Metamagic)
 
 
 Your damaging spells subdue rather than kill.
@@ -2090,7 +2090,7 @@ type (such as fire) inflict nonlethal damage of that same type. A
 merciful spell does not use up a higher-level spell slot than the
 spell's actual level.
 
-## Minor Spell Expertise
+### Minor Spell Expertise
 
 
 You are able to cast a 1st-level spell as a spell-like ability.
@@ -2108,7 +2108,7 @@ metamagic feats to this spell.
 **Special:** You can gain this feat multiple times. Its effects do not
 stack. Each time you take the feat, it applies to a new spell.
 
-## Missile Shield (Combat)
+### Missile Shield (Combat)
 
 
 You are skilled at deflecting ranged attacks with your shield.
@@ -2122,7 +2122,7 @@ massive ranged weapons), you may deflect it so that you take no damage,
 as if you had the [Deflect Arrows](../feats.html#_deflect-arrows) feat.
 You must be aware of the attack and not flat-footed.
 
-## Mounted Shield (Combat)
+### Mounted Shield (Combat)
 
 
 Your defensive tactics defend both you and your mount.
@@ -2137,7 +2137,7 @@ bonus when making a [Ride](../skills/ride.html#_ride) check to negate a
 hit against your mount using the [Mounted
 Combat](../feats.html#_mounted-combat) feat.
 
-## Mounted Skirmisher (Combat)
+### Mounted Skirmisher (Combat)
 
 
 You are adept at attacking from upon a swift moving steed.
@@ -2151,7 +2151,7 @@ full-attack action.
 **Normal:** If your mount moves more than 5 feet, you can only take an
 attack action.
 
-## Outflank (Combat, Teamwork)
+### Outflank (Combat, Teamwork)
 
 
 You look for every edge when flanking an enemy.
@@ -2164,7 +2164,7 @@ increases to +4. In addition, whenever you score a critical hit against
 the flanked creature, it provokes an attack of opportunity from your
 ally.
 
-## Paired Opportunists (Combat, Teamwork)
+### Paired Opportunists (Combat, Teamwork)
 
 
 You know how to make an enemy pay for lax defenses.
@@ -2178,7 +2178,7 @@ would normally deny you the attack of opportunity). This does not allow
 you to take more than one attack of opportunity against a creature for a
 given action.
 
-## Parry Spell
+### Parry Spell
 
 
 You can throw an enemy spell back at its caster.
@@ -2191,7 +2191,7 @@ You can throw an enemy spell back at its caster.
 to its caster. This works exactly like the *[spell
 turning](../spells/spellTurning.html#_spell-turning)* spell.
 
-## Parting Shot (Combat)
+### Parting Shot (Combat)
 
 
 You are an expert skirmisher, able to rain missiles upon your enemies
@@ -2209,7 +2209,7 @@ make a single ranged attack at any point during your movement.
 **Special:** Starting at 6th level, a ranger with the archery combat
 style may select [Parting Shot] as a combat style feat.
 
-## Pass For Human
+### Pass For Human
 
 
 You're easily mistaken for a human rather than a member of your own
@@ -2229,7 +2229,7 @@ tend to assume you are human unless given a reason to think otherwise.
 [Childlike] feat as a prerequisite. The benefits of the two
 feats stack.
 
-## Perfect Strike (Combat)
+### Perfect Strike (Combat)
 
 
 When wielding a monk weapon, your attacks can be extremely precise.
@@ -2253,7 +2253,7 @@ not meet the prerequisites. A monk may attempt an perfect strike attack
 a number of times per day equal to his monk level, plus one more time
 per day for every four levels he has in classes other than monk.
 
-## Persistent Spell (Metamagic)
+### Persistent Spell (Metamagic)
 
 
 You can modify a spell to become more tenacious when its targets resist
@@ -2269,7 +2269,7 @@ slot two levels higher than the spell's actual level.
 Spells that do not require a saving throw to resist or lessen the
 spell's effect do not benefit from this feat.
 
-## Point Blank Master (Combat)
+### Point Blank Master (Combat)
 
 
 You are adept at firing ranged weapons in close quarters.
@@ -2290,7 +2290,7 @@ style feat, but he must have [Weapon Focus](../feats.html#_weapon-focus)
 instead of [Weapon Specialization](../feats.html#_weapon-specialization)
 in the selected weapon.
 
-## Practiced Tactician
+### Practiced Tactician
 
 
 With only a few quick gestures and commands, you can direct others in
@@ -2304,7 +2304,7 @@ teamwork feat one additional time per day.
 **Special:** You can gain [Practiced Tactician]
 multiple times. Its effects stack.
 
-## Precise Strike (Combat, Teamwork)
+### Precise Strike (Combat, Teamwork)
 
 
 You are skilled at striking where it counts, as long as an ally
@@ -2318,7 +2318,7 @@ precision damage with each successful melee attack. This bonus damage
 stacks with other sources of precision damage, such as sneak attack.
 This bonus damage is not multiplied on a critical hit.
 
-## Preferred Spell
+### Preferred Spell
 
 
 You find it very easy to cast one particular spell.
@@ -2336,7 +2336,7 @@ cast it but does not affect the casting time.
 **Special:** You can gain this feat multiple times. Its effects do not
 stack. Each time you take the feat, it applies to a different spell.
 
-## Punishing Kick (Combat)
+### Punishing Kick (Combat)
 
 
 Your kicks are so powerful you use them to push or knock back your foes.
@@ -2363,7 +2363,7 @@ meet the prerequisites. A monk may attempt a punishing kick attack a
 number of times per day equal to his monk level, plus one more time per
 day for every four levels he has in classes other than monk.
 
-## Pushing Assault (Combat)
+### Pushing Assault (Combat)
 
 
 A strike made with a two-handed weapon can push a similar sized opponent
@@ -2383,7 +2383,7 @@ target must end this move in a safe space it can stand in. You choose
 which effect to apply after the attack roll has been made, but before
 the damage is rolled.
 
-## Racial Heritage
+### Racial Heritage
 
 
 The blood of a non-human ancestor flows in your veins.
@@ -2395,7 +2395,7 @@ that race for any effects related to race. For example, if you choose
 dwarf, you are considered both a human and a dwarf for the purpose of
 taking traits, feats, how spells and magic items affect you, and so on.
 
-## Raging Vitality
+### Raging Vitality
 
 
 While raging, you are full of vigor and health.
@@ -2407,7 +2407,7 @@ Constitution increases by +2. Your rage does not end if you become
 unconscious. While unconscious you must still expend rounds of rage per
 day each round.
 
-## Ray Shield (Combat)
+### Ray Shield (Combat)
 
 
 You can even deflect rays with your shield.
@@ -2421,7 +2421,7 @@ touch attack (including rays and similar magical effects), you may
 deflect it so that you take no damage from it. Your shield suffers the
 full effects of the spell or effect, if applicable.
 
-## Razortusk
+### Razortusk
 
 
 Your powerful jaws and steely teeth are deadly enough to give you a bite
@@ -2436,7 +2436,7 @@ as part of a full attack action, the bite is considered a secondary
 attack and is made at your full base attack bonus –5, and adds half your
 Strength modifier to damage.
 
-## Reach Spell (Metamagic)
+### Reach Spell (Metamagic)
 
 
 Your spells go farther than normal.
@@ -2453,7 +2453,7 @@ ranged touch attacks.
 Spells that do not have a range of touch, close, or medium do not
 benefit from this feat.
 
-## Rending Claws (Combat)
+### Rending Claws (Combat)
 
 
 Your claw attacks do greater harm to your enemy.
@@ -2466,7 +2466,7 @@ turn, the second claw attack deals an additional 1d6 points of damage.
 This damage is precision damage and is not multiplied on a critical hit.
 You can use this feat once per round.
 
-## Repositioning Strike (Combat)
+### Repositioning Strike (Combat)
 
 
 Your critical hits can move your foes where you wish.
@@ -2491,7 +2491,7 @@ Strike], [Sundering Strike],
 or [Tripping Strike]. You may choose to use this feat
 after you make your confirmation roll.
 
-## Saving Shield (Combat)
+### Saving Shield (Combat)
 
 
 You deflect attacks that could mean your ally's death.
@@ -2504,7 +2504,7 @@ can, as an immediate action, grant that adjacent ally a +2 shield bonus
 to AC. You must be wielding a light shield, heavy shield, or tower
 shield to use this feat.
 
-## Second Chance (Combat)
+### Second Chance (Combat)
 
 
 Quick reflexes turn missed strikes into second chances.
@@ -2516,7 +2516,7 @@ Expertise](../feats.html#_combat-expertise), base attack bonus +6.
 attack, you can forgo making any other attacks for the rest of your turn
 to reroll that attack at your highest base attack bonus.
 
-## Selective Spell (Metamagic)
+### Selective Spell (Metamagic)
 
 
 Your allies need not fear friendly fire.
@@ -2535,7 +2535,7 @@ higher than the spell's actual level.
 
 Spells that do not have an area of effect do not benefit from this feat.
 
-## Shadow Strike (Combat)
+### Shadow Strike (Combat)
 
 
 You accurately strike even those you cannot clearly see.
@@ -2545,7 +2545,7 @@ You accurately strike even those you cannot clearly see.
 **Benefit:** You can deal precision damage, such as sneak attack damage,
 against targets with concealment (but not total concealment).
 
-## Shared Insight
+### Shared Insight
 
 
 You deftly direct others' attentions where you wish.
@@ -2557,7 +2557,7 @@ within 30 feet who can see or hear you a +2 bonus on
 [Perception](../skills/perception.html#_perception) checks for a number
 of rounds equal to your Wisdom modifier (minimum 1 round).
 
-## Sharp Senses
+### Sharp Senses
 
 
 Your senses are especially sharp, even for your kind.
@@ -2571,7 +2571,7 @@ replaces the normal bonus from the keen senses racial trait.
 **Normal:** The keen senses trait normally grants a +2 racial bonus on
 [Perception](../skills/perception.html#_perception) skill checks.
 
-## Shield of Swings (Combat)
+### Shield of Swings (Combat)
 
 
 A wild frenzy of attacks serves to bolster your defenses.
@@ -2584,7 +2584,7 @@ two-handed weapon, you can choose to reduce the damage by 1/2 to gain a
 +4 shield bonus to AC and CMD until the beginning of your next turn. The
 reduction in damage applies until the beginning of your next turn.
 
-## Shield Specialization (Combat)
+### Shield Specialization (Combat)
 
 
 You have mastered the use of one type of shield.
@@ -2602,7 +2602,7 @@ bonuses) to your CMD.
 **Special:** You can gain this feat multiple times. Its effects do not
 stack. Each time you take the feat, it applies to a new type of shield.
 
-## Shield Wall (Combat, Teamwork)
+### Shield Wall (Combat, Teamwork)
 
 
 You form a unified defense with those around you.
@@ -2621,7 +2621,7 @@ If an adjacent ally with this feat uses a tower shield to grant total
 cover, you also benefit if an attack targeting you passes through the
 edge of the shield (*Core Rulebook*153).
 
-## Shielded Caster (Teamwork)
+### Shielded Caster (Teamwork)
 
 
 Your allies cover you while you cast complicated spells.
@@ -2635,7 +2635,7 @@ ally has the [Disruptive](../feats.html#_disruptive) feat, or another
 ability that increases the DC of concentration checks, the amount of the
 increase is halved.
 
-## Sickening Spell (Metamagic)
+### Sickening Spell (Metamagic)
 
 
 You can sicken creatures with your spells.
@@ -2653,7 +2653,7 @@ level.
 
 Spells that do not inflict damage do not benefit from this feat.
 
-## Sidestep (Combat)
+### Sidestep (Combat)
 
 
 You can reposition yourself after a foe's missed swing.
@@ -2668,7 +2668,7 @@ opportunity. If you take this step, you cannot take a 5-foot step during
 your next turn. If you take an action to move during your next turn,
 subtract 5 feet from your total movement.
 
-## Smash (Combat)
+### Smash (Combat)
 
 
 You overcome obstacles by breaking them.
@@ -2684,7 +2684,7 @@ Strength checks made to knock down or break open doors.
 or attacks against constructs, only attacks on inanimate, unattended
 objects.
 
-## Smell Fear
+### Smell Fear
 
 
 You can catch the sour scent of fear on the wind.
@@ -2700,7 +2700,7 @@ Motive](../skills/senseMotive.html#_sense-motive) skill checks if the
 subject has one of the previous conditions or is attempting to cover up
 their fear in some way.
 
-## Sociable
+### Sociable
 
 
 You have a way of helping others to get along.
@@ -2712,7 +2712,7 @@ You have a way of helping others to get along.
 [Diplomacy](../skills/diplomacy.html#_diplomacy) checks for a number of
 rounds equal to your Charisma modifier (minimum 1 round).
 
-## Spell Perfection
+### Spell Perfection
 
 
 You are unequaled at the casting of one particular spell.
@@ -2731,7 +2731,7 @@ Penetration](../feats.html#_spell-penetration), [Weapon
 Focus](../feats.html#_weapon-focus) [ray], and so on), double the bonus
 granted by that feat when applied to this spell.
 
-## Spider Step
+### Spider Step
 
 
 Your physical mastery grants you an impossible stride.
@@ -2744,7 +2744,7 @@ distance across a wall or ceiling or across ropes, branches, or even
 water or other surfaces that cannot support your weight. You must reach
 a solid, level surface by the end of your turn or you will fall.
 
-## Stabbing Shot (Combat)
+### Stabbing Shot (Combat)
 
 
 You can clear the way to continue using your bow.
@@ -2764,7 +2764,7 @@ penalty. If your initial attack leaves you with no enemies threatening
 you, you can make the subsequent ranged attack or attacks without
 provoking attacks of opportunity.
 
-## Steel Soul
+### Steel Soul
 
 
 You are especially resistant to magic.
@@ -2778,7 +2778,7 @@ dwarf's hardy racial trait.
 **Normal:** Dwarves normally receive a +2 racial bonus on saving throws
 against spells and spell-like abilities.
 
-## Step Up and Strike (Combat)
+### Step Up and Strike (Combat)
 
 
 When a foe tries to move away, you can follow and make an attack.
@@ -2796,7 +2796,7 @@ number of actions you can usually take each round.
 **Normal:** You can usually only take one standard action and one 5-foot
 step each round.
 
-## Stone-Faced
+### Stone-Faced
 
 
 Rocks show more expression than you.
@@ -2810,7 +2810,7 @@ messages. In addition, the DC for [Sense
 Motive](../skills/senseMotive.html#_sense-motive) checks to get a hunch
 about you is 25 rather than 20.
 
-## Stone Sense
+### Stone Sense
 
 
 You can feel movement in the very earth and stones around you.
@@ -2820,7 +2820,7 @@ You can feel movement in the very earth and stones around you.
 
 **Benefit:** You gain tremorsense to a range of 10 feet.
 
-## Stone Singer
+### Stone Singer
 
 
 Your songs are in accordance with the ways and lands of your people.
@@ -2834,7 +2834,7 @@ your new range. In addition, the DC for saving throws against your
 bardic performance is increased by +2 for creatures of the earth
 subtype, regardless of where the performance occurs.
 
-## Stunning Assault (Combat)
+### Stunning Assault (Combat)
 
 
 You powerful but imprecise attacks can stun your enemies.
@@ -2849,7 +2849,7 @@ DC of this save is 10 + your base attack bonus. You must choose to use
 this feat before making the attack roll, and its effects last until your
 next turn.
 
-## Summoner's Call
+### Summoner's Call
 
 
 Whenever you summon your eidolon, it is more powerful for a brief period
@@ -2861,7 +2861,7 @@ of time.
 enhancement bonus to its Strength, Dexterity, or Constitution. This
 bonus lasts 10 minutes after the summoning ritual is complete.
 
-## Sundering Strike (Combat)
+### Sundering Strike (Combat)
 
 
 Your critical hits can sunder your foes' weapons.
@@ -2887,7 +2887,7 @@ Strike], [Sundering Strike],
 or [Tripping Strike]. You may choose to use this feat
 after you make your confirmation roll.
 
-## Swap Places (Combat, Teamwork)
+### Swap Places (Combat, Teamwork)
 
 
 You are skilled at changing places with your ally during a chaotic
@@ -2902,7 +2902,7 @@ you to utilize this feat. Your ally does not provoke an attack of
 opportunity from this movement, but you provoke as normal. This movement
 does not count against your ally's movement on his next turn.
 
-## Swift Aid (Combat)
+### Swift Aid (Combat)
 
 
 With a quick but harmless swipe, you can aid an ally's assault.
@@ -2916,7 +2916,7 @@ bonus to his AC.
 
 **Normal:** Aid another is a standard action.
 
-## Taunt
+### Taunt
 
 
 You may be small, but your remarks cut others down to size.
@@ -2930,7 +2930,7 @@ You may be small, but your remarks cut others down to size.
 for details) and take no skill check penalty for being smaller than your
 target.
 
-## Team Up (Combat)
+### Team Up (Combat)
 
 
 When you are ganging up against an enemy, you can aid an ally with a
@@ -2945,7 +2945,7 @@ opponent, you can attempt the aid another action as a move action.
 
 **Normal:** Aid another is a standard action.
 
-## Teleport Tactician (Combat)
+### Teleport Tactician (Combat)
 
 
 You are highly alert for enemies using teleportation to approach you or
@@ -2959,7 +2959,7 @@ flee from you.
 a square threatened by you provokes an attack of opportunity, even if
 casting defensively or using a supernatural ability.
 
-## Tenacious Transmutation
+### Tenacious Transmutation
 
 
 Your mastery of the magic of changing makes your transmutations more
@@ -2972,7 +2972,7 @@ durable.
 transmutations increases by 2; even if the spell is negated, its effects
 persist for 1 additional round before dissipating.
 
-## Thundering Spell (Metamagic)
+### Thundering Spell (Metamagic)
 
 
 You can conjure your spells into existence with blaring thunder or
@@ -2990,7 +2990,7 @@ a spell slot two levels higher than the spell's actual level.
 
 Spells that do not inflict damage do not benefit from this feat.
 
-## Touch of Serenity (Combat)
+### Touch of Serenity (Combat)
 
 
 With a single touch you can reduce the threat of even the most savage of
@@ -3015,7 +3015,7 @@ does not meet the prerequisites. A monk may attempt a touch of serenity
 a number of times per day equal to his monk level, plus one more time
 per day for every four levels he has in classes other than monk.
 
-## Trick Riding (Combat)
+### Trick Riding (Combat)
 
 
 You are not only skilled at controlling a horse in combat; you can make
@@ -3031,7 +3031,7 @@ You do not take a –5 penalty for riding a mount bareback. You can make a
 check using [Mounted Combat](../feats.html#_mounted-combat) to negate a
 hit on your mount twice per round instead of just once.
 
-## Tripping Strike (Combat)
+### Tripping Strike (Combat)
 
 
 The force intrinsic to your critical hits can knock your foes down.
@@ -3056,7 +3056,7 @@ Strike], [Sundering Strike],
 or [Tripping Strike]. You may choose to use this feat
 after you make your confirmation roll.
 
-## Under and Over (Combat)
+### Under and Over (Combat)
 
 
 You can slip under a foe trying to grab you, knocking him off balance.
@@ -3069,7 +3069,7 @@ fails, you may make a trip attack as an immediate action against that
 opponent with a +2 bonus. This does not provoke an attack of
 opportunity.
 
-## Underfoot (Combat)
+### Underfoot (Combat)
 
 
 You slip under and around your larger foes.
@@ -3086,7 +3086,7 @@ larger opponent's threatened area (this stacks with the +4 bonus
 provided by [Mobility](../feats.html#_mobility), for a total bonus of
 +6).
 
-## Vermin Heart
+### Vermin Heart
 
 
 You have a special bond with things that creep, crawl, skitter, and
@@ -3099,7 +3099,7 @@ that only affect animals (although they are still affected by spells
 targeting vermin as well). You may use wild empathy to influence vermin
 as easily as you influence animals.
 
-## War Singer
+### War Singer
 
 
 Your songs draw upon the savage chants and brutal ways of your people,
@@ -3115,7 +3115,7 @@ performance is doubled. In addition, the DC for saving throws against
 your bardic performance is increased by +2 for creatures of the orc
 subtype, regardless of where the performance occurs.
 
-## Well-Prepared
+### Well-Prepared
 
 
 Somehow, you always seem to have the right tools or supplies close at
