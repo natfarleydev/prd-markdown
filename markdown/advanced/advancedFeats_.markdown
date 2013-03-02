@@ -93,22 +93,22 @@ Table: Feats
   he-beast)                                     
 
   [Bashing            [Shie ld                  Make a free shield bash
-  Finish\*],  after a critical hit
+  Finish]\*,  after a critical hit
   finish-combat)      [Two-Weapon               
                       Fighting](#two-weapon-fig 
                       hting),                   
                       base attack bonus +11     
 
   [Bloody             [Power                    Trade melee attack bonus
-  Assault\*],   for bleed damage
+  Assault]\*,   for bleed damage
   assault)            base attack bonus +6      
 
-  [Bodyguard\*](#body [Combat                   Use attack of opportunity
+  [Bodyguard]\*(#body [Combat                   Use attack of opportunity
   guard)              Reflexes](../feats.html#_ to add a bonus to adjacent
                       combat-reflexes)          ally's AC
 
   [In Harm's          [Bodyguard]   Take the damage of a
-  Way\*](#in-harm's-w                           successful attack upon an
+  Way]\*(#in-harm's-w                           successful attack upon an
   ay)                                           adjacent ally
 
   [Breadth of         Dwarf, elf, or gnome;     +2 bonus on all
@@ -120,12 +120,12 @@ Table: Feats
                                                 checks
 
   [Bull Rush          [Improved Bull            Attempt a bull rush on a
-  Strike\*](#bull-rus Rush](../feats.html#_impr successful critical hit
+  Strike]\*(#bull-rus Rush](../feats.html#_impr successful critical hit
   h-strike)           oved-bull-rush),          
                       base attack bonus +9      
 
   [Charge             [Improved                 Make overrun as free action
-  Through\*](#charge- Overrun](../feats.html#_i while charging
+  Through]\*(#charge- Overrun](../feats.html#_i while charging
   through)            mproved-overrun),         
                       base attack bonus +1      
 
@@ -139,12 +139,12 @@ Table: Feats
                                                 checks
 
   [Cockatrice         [Medusa's                 Turn a target to stone with
-  Strike\*](#cockatri Wrath](../feats.html#_med a critical hit
+  Strike]\*(#cockatri Wrath](../feats.html#_med a critical hit
   ce-strike)          usa-s-wrath),             
                       base attack bonus +16     
 
   [Combat             [Combat                   Increase threatened area
-  Patrol\*](#combat-p Reflexes](../feats.html#_ for attack of opportunity
+  Patrol]\*(#combat-p Reflexes](../feats.html#_ for attack of opportunity
   atrol)              combat-reflexes),         
                       [Mobility](../feats.html# 
                       _mobility),               
@@ -163,7 +163,7 @@ Table: Feats
   mopolitan)                                    additional languages
 
   [Covering           [Shield                   Provide cover to an ally
-  Defense\*](#coverin Focus](../feats.html#_shi with total defense
+  Defense]\*(#coverin Focus](../feats.html#_shi with total defense
   g-defense)          eld-focus),               
                       base attack bonus +6      
 
@@ -173,18 +173,18 @@ Table: Feats
                       base attack bonus +13     
 
   [Crossbow           Dex 15, [Rapid            Reload crossbow as free
-  Mastery\*](#crossbo Reload](../feats.html#_ra action and make full
+  Mastery]\*(#crossbo Reload](../feats.html#_ra action and make full
   w-mastery)          pid-reload),              attacks
                       [Rapid                    
                       Shot](../feats.html#_rapi 
                       d-shot)                   
 
   [Dastardly          Sneak attack +5d6         Deliver coup de grace to
-  Finish\*](#dastardl                           cowering or stunned target
+  Finish]\*(#dastardl                           cowering or stunned target
   y-finish)                                     
 
   [Dazing             [Power                    Trade melee attack bonus to
-  Assault\*](#dazing- Attack](../feats.html#_po daze opponents
+  Assault]\*(#dazing- Attack](../feats.html#_po daze opponents
   assault)            wer-attack),              
                       base attack bonus +11     
 
@@ -196,12 +196,12 @@ Table: Feats
   ght)                                          of 120 feet
 
   [Disarming          [Improved                 Attempt a disarm on a
-  Strike\*](#disarmin Disarm](../feats.html#_im successful critical hit
+  Strike]\*(#disarmin Disarm](../feats.html#_im successful critical hit
   g-strike)           proved-disarm),           
                       base attack bonus +9      
 
   [Disrupting         Dex 13, [Point-Blank      Ranged attacks increase
-  Shot\*](#disrupting Shot](../feats.html#_poin enemy's DC to cast spells
+  Shot]\*(#disrupting Shot](../feats.html#_poin enemy's DC to cast spells
   -shot)              t-blank-shot),            
                       6th-level fighter         
 
@@ -224,7 +224,7 @@ Table: Feats
   aws)                                          
 
   [Elemental          Con 13, Wis 13, [Improved Deal 1d6 energy damage with
-  Fist\*](#elemental- Unarmed                   an unarmed strike
+  Fist]\*(#elemental- Unarmed                   an unarmed strike
   fist)               Strike](../feats.html#_im 
                       proved-unarmed-strike),   
                       base attack bonus +8      
@@ -238,10 +238,10 @@ Table: Feats
   mental-focus)                                 
 
   [Elven              Elf                       Reroll miss chance due to
-  Accuracy\*](#elven-                           concealment when using a
+  Accuracy]\*(#elven-                           concealment when using a
   accuracy)                                     bow
 
-  [Enforcer\*](#enfor [Intimidate](../skills/in Demoralize opponent as free
+  [Enforcer]\*(#enfor [Intimidate](../skills/in Demoralize opponent as free
   cer)                timidate.html#_intimidate action when you inflict
                       )                         nonlethal damage
                       1 rank                    
@@ -291,35 +291,35 @@ Table: Feats
   On]      or orc                    when reduced to 0
 
   [Focused            Int 13, [Precise          Add Int modifier on damage
-  Shot\*](#focused-sh Shot](../feats.html#_prec rolls with bows or
+  Shot]\*(#focused-sh Shot](../feats.html#_prec rolls with bows or
   ot)                 ise-shot)                 crossbows
 
   [Following          Dex 13, [Step             Move up to 10 feet as an
-  Step\*](#following- Up](../feats.html#_step-u immediate action
+  Step]\*(#following- Up](../feats.html#_step-u immediate action
   step)               p)                        
 
   [Step Up and        [Following                Follow adjacent creature
-  Strike\*],   and attack as an immediate
+  Strike]\*,   and attack as an immediate
   and-strike)         base attack bonus +6      action
 
   [Furious            Str 13, [Power            Do not take the [Power
-  Focus\*](#furious-f Attack](../feats.html#_po Attack](../feats.html#_powe
+  Focus]\*(#furious-f Attack](../feats.html#_po Attack](../feats.html#_powe
   ocus)               wer-attack),              r-attack)
                       base attack bonus         penalty on the first attack
                                                 each round
 
   [Dreadful           Str 15, [Furious          Make a free
-  Carnage\*],   [Intimidate](../skills/inti
+  Carnage]\*,   [Intimidate](../skills/inti
   l-carnage)          base attack bonus +11     midate.html#_intimidate)
                                                 check when you knock down a
                                                 foe
 
   [Gang               [Combat                   Flank an opponent if at
-  Up\*]     Expertise](../feats.html# least two allies are
+  Up]\*     Expertise](../feats.html# least two allies are
                       _combat-expertise)        adjacent to it
 
   [Team               Gang-Up, base attack      Aid another as a move
-  Up\*]     bonus +6                  action with two adjacent
+  Up]\*     bonus +6                  action with two adjacent
                                                 allies
 
   [Gnome              Cha 13, gnome, gnome      Use *[mage
@@ -352,14 +352,14 @@ Table: Feats
                                                 Fort save
 
   [Improved           [Perception](../skills/pe Ignore miss chance for less
-  Blind-Fight\*](#imp rception.html#_perception than total concealment
+  Blind-Fight]\*(#imp rception.html#_perception than total concealment
   roved-blind-fight)  )                         
                       10 ranks,                 
                       [Blind-Fight](../feats.ht 
                       ml#_blind-fight)          
 
   [Greater            [Perception](../skills/pe Total concealment is
-  Blind-Fight\*](#gre rception.html#_perception considered normal
+  Blind-Fight]\*(#gre rception.html#_perception considered normal
   ater-blind-fight)   )                         concealment
                       15 ranks,                 
                       [Improved](#improved-blin 
@@ -368,28 +368,28 @@ Table: Feats
                       ml#_blind-fight)          
 
   [Improved Dirty     [Combat                   +2 bonus on dirty trick
-  Trick\*](#improved- Expertise](../feats.html# attempts, no attack of
+  Trick]\*(#improved- Expertise](../feats.html# attempts, no attack of
   dirty-trick)        _combat-expertise)        opportunity
 
   [Greater Dirty      [Improved Dirty           Dirty trick penalty lasts
-  Trick\*](#greater-d Trick](#improved-dirty-tr 1d4 rounds
+  Trick]\*(#greater-d Trick](#improved-dirty-tr 1d4 rounds
   irty-trick)         ick),                     
                       base attack bonus +6      
 
   [Improved           [Power                    +2 bonus on drag attempts,
-  Drag\*](#improved-d Attack](../feats.html#_po no attack of opportunity
+  Drag]\*(#improved-d Attack](../feats.html#_po no attack of opportunity
   rag)                wer-attack)               
 
   [Greater            [Improved                 Enemies you drag provoke
-  Drag\*],     attacks of opportunity
+  Drag]\*,     attacks of opportunity
   ag)                 base attack bonus +6      
 
   [Improved           [Combat                   +2 bonus on reposition
-  Reposition\*](#impr Expertise](../feats.html# attempts, no attack of
+  Reposition]\*(#impr Expertise](../feats.html# attempts, no attack of
   oved-reposition)    _combat-expertise)        opportunity
 
   [Greater            [Improved                 Enemies you reposition
-  Reposition\*](#grea Reposition](#improved-rep provoke attacks of
+  Reposition]\*(#grea Reposition](#improved-rep provoke attacks of
   ter-reposition)     osition),                 opportunity
                       base attack bonus +6      
 
@@ -399,11 +399,11 @@ Table: Feats
                       10 ranks, see feat        
 
   [Improved           [Combat                   +2 bonus on steal attempts,
-  Steal\*](#improved- Expertise](../feats.html# no attack of opportunity
+  Steal]\*(#improved- Expertise](../feats.html# no attack of opportunity
   steal)              _combat-expertise)        
 
   [Greater            [Improved                 Enemies don't notice theft
-  Steal\*],  until after combat
+  Steal]\*,  until after combat
   teal)               base attack bonus +6      
 
   [Improved           Wis 13, dwarf,            +4 bonus on
@@ -463,7 +463,7 @@ Table: Feats
   ring-performance)                             after you stop performing
 
   [Low                Dex 13, Small size or     +1 dodge bonus to AC
-  Profile\*](#low-pro smaller                   against ranged attacks
+  Profile]\*(#low-pro smaller                   against ranged attacks
   file)                                         
 
   [Lucky              Halfling                  You may roll saving throw
@@ -487,16 +487,16 @@ Table: Feats
                       cast 9th-level spells     
 
   [Missile            Dex 13, [Shield           Deflect one ranged attack
-  Shield\*](#missile- Focus](../feats.html#_shi per round with shield
+  Shield]\*(#missile- Focus](../feats.html#_shi per round with shield
   shield)             eld-focus)                
 
   [Ray                Dex 15, [Missile          Deflect one ranged touch
-  Shield\*], attack per round with
+  Shield]\*, attack per round with
   ld)                 [Spellbreaker](../feats.h shield
                       tml#_spellbreaker)        
 
   [Mounted            [Mounted                  Apply shield bonus to
-  Shield\*](#mounted- Combat](../feats.html#_mo mount's AC
+  Shield]\*(#mounted- Combat](../feats.html#_mo mount's AC
   shield)             unted-combat),            
                       [Shield                   
                       Focus](../feats.html#_shi 
@@ -511,7 +511,7 @@ Table: Feats
                       )                         
 
   [Parting            [Shot on the              Make a ranged attack when
-  Shot\*](#parting-sh Run](../feats.html#_shot- withdrawing
+  Shot]\*(#parting-sh Run](../feats.html#_shot- withdrawing
   ot)                 on-the-run),              
                       base attack bonus +6      
 
@@ -521,7 +521,7 @@ Table: Feats
                                                 checks to look like a human
 
   [Perfect            Dex 13, Wis 13, [Improved Roll twice for attacks with
-  Strike\*](#perfect- Unarmed                   monk weapons and take the
+  Strike]\*(#perfect- Unarmed                   monk weapons and take the
   strike)             Strike](../feats.html#_im better roll
                       proved-unarmed-strike),   
                       base attack bonus +8      
@@ -544,13 +544,13 @@ Table: Feats
                       ghten-spell)              
 
   [Punishing          Con 13, Wis 13, [Improved Knock down or push back
-  Kick\*](#punishing- Unarmed                   foes with unarmed strikes
+  Kick]\*(#punishing- Unarmed                   foes with unarmed strikes
   kick)               Strike](../feats.html#_im 
                       proved-unarmed-strike),   
                       base attack bonus +8      
 
   [Pushing            Str 15, [Power            Push a foe back with a
-  Assault\*](#pushing Attack](../feats.html#_po two-handed weapon
+  Assault]\*(#pushing Attack](../feats.html#_po two-handed weapon
   -assault)           wer-attack),              
                       base attack bonus +1      
 
@@ -566,29 +566,29 @@ Table: Feats
   usk)                                          
 
   [Rending            Str 13, two claw attacks, Deal 1d6 extra damage if
-  Claws\*](#rending-c base attack bonus +6      both claws hit
+  Claws]\*(#rending-c base attack bonus +6      both claws hit
   laws)                                         
 
   [Repositioning      [Improved                 Attempt a reposition attack
-  Strike\*](#repositi Repostion](#improved-repo on a successful critical
+  Strike]\*(#repositi Repostion](#improved-repo on a successful critical
   oning-strike)       sition),                  hit
                       base attack bonus +9      
 
   [Saving             [Shield                   Grant shield bonus to an
-  Shield\*](#saving-s Proficiency](../feats.htm adjacent ally
+  Shield]\*(#saving-s Proficiency](../feats.htm adjacent ally
   hield)              l#_shield-proficiency)    
 
   [Second             [Combat                   Exchange later attacks to
-  Chance\*](#second-c Expertise](../feats.html# reroll missed first attack
+  Chance]\*(#second-c Expertise](../feats.html# reroll missed first attack
   hance)              _combat-expertise),       
                       base attack bonus +6      
 
   [Improved Second    [Second                   Take a –5 penalty on later
-  Chance\*],  attacks to reroll missed
+  Chance]\*,  attacks to reroll missed
   -second-chance)     base attack bonus +11     attack
 
   [Shadow             Base attack bonus +1      Deal precision damage
-  Strike\*](#shadow-s                           against targets with
+  Strike]\*(#shadow-s                           against targets with
   trike)                                        concealment
 
   [Shared             Wis 13, half-elf          Grant friendly creatures a
@@ -603,12 +603,12 @@ Table: Feats
                                                 checks
 
   [Shield of          Str 13, [Power            Reduce damage with a two
-  Swings\*](#shield-o Attack](../feats.html#_po handed weapon to gain a +4
+  Swings]\*(#shield-o Attack](../feats.html#_po handed weapon to gain a +4
   f-swings)           wer-attack),              shield bonus
                       base attack bonus +1      
 
   [Shield             [Shield                   +2 bonus to AC against
-  Specialization\*](# Focus](../feats.html#_shi criticals with one type of
+  Specialization]\*(# Focus](../feats.html#_shi criticals with one type of
   shield-specializati eld-focus),               shield
   on)                 4th-level fighter         
 
@@ -620,17 +620,17 @@ Table: Feats
                       pecialization),           
                       12th-level fighter        
 
-  [Sidestep\*](#sides Dex 13,                   Make 5-foot step
+  [Sidestep]\*(#sides Dex 13,                   Make 5-foot step
   tep)                [Dodge](../feats.html#_do immediately after an
                       dge),                     opponent misses
                       [Mobility](../feats.html# 
                       _mobility)                
 
   [Improved           Dex 15,                   [Sidestep]
-  Sidestep\*]     without using your 5-foot
+  Sidestep]\*     without using your 5-foot
   ed-sidestep)                                  step on your next turn
 
-  [Smash\*]   [Power                    Ignore 5 points of hardness
+  [Smash]\*   [Power                    Ignore 5 points of hardness
                       Attack](../feats.html#_po when breaking an object
                       wer-attack),              
                       half-orc                  
@@ -662,7 +662,7 @@ Table: Feats
                                                 distance
 
   [Stabbing           [Rapid                    Use arrow as a melee attack
-  Shot\*](#stabbing-s Shot](../feats.html#_rapi to push enemies back
+  Shot]\*(#stabbing-s Shot](../feats.html#_rapi to push enemies back
   hot)                d-shot),                  
                       elf                       
 
@@ -681,7 +681,7 @@ Table: Feats
   er)                                           against earth creatures
 
   [Stunning           [Power                    Trade melee attack bonus to
-  Assault\*](#stunnin Attack](../feats.html#_po stun opponents
+  Assault]\*(#stunnin Attack](../feats.html#_po stun opponents
   g-assault)          wer-attack),              
                       base attack bonus +16     
 
@@ -690,12 +690,12 @@ Table: Feats
   all)                                          
 
   [Sundering          [Improved                 +9 Attempt a sunder attack
-  Strike\*](#sunderin Sunder](../feats.html#_im on a successful critical
+  Strike]\*(#sunderin Sunder](../feats.html#_im on a successful critical
   g-strike)           proved-sunder),           hit
                       base attack bonus         
 
   [Swift              [Combat                   +6 Attempt to aid another
-  Aid\*]  Expertise](../feats.html# as a swift action
+  Aid]\*  Expertise](../feats.html# as a swift action
                       _combat-expertise),       
                       base attack bonus         
 
@@ -707,7 +707,7 @@ Table: Feats
                                                 midate.html#_intimidate)
 
   [Teleport           [Combat                   Teleporting creatures
-  Tactician\*](#telep Reflexes](../feats.html#_ provoke attacks of
+  Tactician]\*(#telep Reflexes](../feats.html#_ provoke attacks of
   ort-tactician)      combat-reflexes),         opportunity
                       [Disruptive](../feats.htm 
                       l#_disruptive),           
@@ -720,32 +720,32 @@ Table: Feats
   n)                  (transmutation)           
 
   [Touch of           Wis 18, [Improved Unarmed Foes hit by unarmed strikes
-  Serenity\*](#touch- Strike](../feats.html#_im cannot attack or cast
+  Serenity]\*(#touch- Strike](../feats.html#_im cannot attack or cast
   of-serenity)        proved-unarmed-strike),   spells
                       base attack bonus +8      
 
   [Trick              [Ride](../skills/ride.htm Automatically pass simple
-  Riding\*]                  [Ride](../skills/ride.html#
+  Riding]\*                  [Ride](../skills/ride.html#
   ding)               rank 9, [Mounted          _ride)
                       Combat](../feats.html#_mo skill checks
                       unted-combat)             
 
   [Mounted            [Ride](../skills/ride.htm Make a full attack if mount
-  Skirmisher\*]                  moves its speed or less
+  Skirmisher]\*                  moves its speed or less
   ted-skirmisher)     rank 14, [Trick           
                       Riding]     
 
   [Tripping           [Improved                 Attempt a trip attack on a
-  Strike\*](#tripping Trip](../feats.html#_impr successful critical hit
+  Strike]\*(#tripping Trip](../feats.html#_impr successful critical hit
   -strike)            oved-trip),               
                       base attack bonus +9      
 
   [Under and          [Agile                    Failed grapples against you
-  Over\*](#under-and- Maneuvers](../feats.html# cause attacker to fall
+  Over]\*(#under-and- Maneuvers](../feats.html# cause attacker to fall
   over)               _agile-maneuvers),        prone
                       Small size or smaller     
 
-  [Underfoot\*](#unde [Dodge](../feats.html#_do +4 on
+  [Underfoot]\*(#unde [Dodge](../feats.html#_do +4 on
   rfoot)              dge),                     [Acrobatics](../skills/acro
                       [Mobility](../feats.html# batics.html#_acrobatics)
                       _mobility),               checks to move past larger
@@ -836,33 +836,33 @@ Table: Feats
   d-spellcaster)                                
 
   [Coordinated        N/A                       +2 bonus to CMD
-  Defense\*](#coordin                           
+  Defense]\*(#coordin                           
   ated-defense)                                 
 
   [Coordinated        N/A                       +2 bonus on combat maneuver
-  Maneuvers\*](#coord                           checks
+  Maneuvers]\*(#coord                           checks
   inated-maneuvers)                             
 
   [Duck and           N/A                       Take ally's result on
   Cover](#duck-and-co                           Reflex saving throw
   ver)                                          
 
-  [Lookout\*](#lookou N/A                       Act in surprise round if
+  [Lookout]\*(#lookou N/A                       Act in surprise round if
   t)                                            ally can act
 
-  [Outflank\*](#outfl Base attack bonus +4      Gain +4 bonus on attack
+  [Outflank]\*(#outfl Base attack bonus +4      Gain +4 bonus on attack
   ank)                                          rolls when flanking
 
   [Paired             N/A                       +4 bonus on attacks of
-  Opportunists\*](#pa                           opportunity
+  Opportunists]\*(#pa                           opportunity
   ired-opportunists)                            
 
   [Precise            Dex 13, base attack bonus Deal +1d6 points of
-  Strike\*](#precise- +1                        precision damage with melee
+  Strike]\*(#precise- +1                        precision damage with melee
   strike)                                       attacks
 
   [Shield             [Shield                   Increase your shield bonus
-  Wall\*](#shield-wal Proficiency](../feats.htm to AC
+  Wall]\*(#shield-wal Proficiency](../feats.htm to AC
   l)                  l#_shield-proficiency)    
 
   [Shielded           N/A                       +4 bonus on concentration
@@ -870,7 +870,7 @@ Table: Feats
   aster)                                        
 
   [Swap               N/A                       Switch places with an
-  Places\*](#swap-pla                           adjacent ally
+  Places]\*(#swap-pla                           adjacent ally
   ces)                                          
   -------------------------------------------------------------------------
 

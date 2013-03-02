@@ -597,11 +597,11 @@ in the *Core Rulebook*, those marked with an asterisk (\*) appear in
 Chapter 5 of this book.
 
 **1st-Level Alchemist Formulae**-*[ant
-haul\*], [bomber's
-eye\*], [comprehend
+haul]\*, [bomber's
+eye]\*, [comprehend
 languages],
 [crafter's
-fortune\*], [cure
+fortune]\*, [cure
 light wounds],
 [detect secret
 doors],
@@ -612,17 +612,17 @@ person], [expeditious
 retreat],
 [identify],
 [jump], [keen
-senses\*], [negate
-aroma\*], [reduce
+senses]\*, [negate
+aroma]\*, [reduce
 person],
 [shield], [stone
-fist\*], [touch of the
-sea\*], [true
+fist]\*, [touch of the
+sea]\*, [true
 strike].*
 
 **2nd-Level Alchemist Formulae**-*[aid],
 [alchemical
-allocation\*],
+allocation]\*,
 [alter self],
 [barkskin], [bear's
 endurance],
@@ -634,14 +634,14 @@ wounds],
 poison], [detect
 thoughts], [eagle's
 splendor],
-[elemental touch\*],
+[elemental touch]\*,
 [false life], [fire
-breath\*], [fox's
+breath]\*, [fox's
 cunning],
 [invisibility],
 [levitate], [owl's
 wisdom], [perceive
-cues\*], [protection from
+cues]\*, [protection from
 arrows],
 [resist energy],
 [restoration
@@ -652,18 +652,18 @@ potion
 to]\*,
 [undetectable
 alignment],
-[vomit swarm\*].*
+[vomit swarm]\*.*
 
 **3rd-Level Alchemist Formulae**-*[absorbing
-touch\*], [amplify
-elixir\*], [arcane
+touch]\*, [amplify
+elixir]\*, [arcane
 sight], [beast shape
 I],
-[bloodhound\*], [cure serious
+[bloodhound]\*, [cure serious
 wounds],
 [displacement], [draconic
-reservoir\*],
-[elemental aura\*],
+reservoir]\*,
+[elemental aura]\*,
 [fly](), [gaseous
 form],
 [haste],
@@ -675,8 +675,8 @@ energy],
 blindness/deafness],
 [remove curse], [remove
 disease], [seek
-thoughts\*], [thorn
-body\*],
+thoughts]\*, [thorn
+body]\*,
 [tongues], [water
 breathing].*
 
@@ -686,12 +686,12 @@ eye], [beast shape
 II], [cure critical
 wounds],
 [death ward],
-[detonate\*], [discern
+[detonate]\*, [discern
 lies], [dragon's
-breath\*], [elemental
+breath]\*, [elemental
 body I], [fire
 shield], [fluid
-form\*], [freedom of
+form]\*, [freedom of
 movement],
 [invisibility
 (greater)],
@@ -700,20 +700,20 @@ poison],
 [restoration]*, *[spell
 immunity]*,
 *[stoneskin], [universal
-formula\*].*
+formula]\*.*
 
 **5th-Level Alchemist Formulae**-*[beast shape
 III], [contact other
 plane],
 [delayed
-consumption\*],
+consumption]\*,
 [dream], [elemental body
 II], [elude
-time\*], [magic
+time]\*, [magic
 jar],
 [nightmare], [overland
 flight], [planar
-adaptation\*],
+adaptation]\*,
 [plant shape I],
 [polymorph], [resurgent
 transformation]\*,
@@ -734,7 +734,7 @@ walk],
 [statue],
 [transformation],
 [true seeing], [twin
-form\*], [wind
+form]\*, [wind
 walk].*
 
 
@@ -1733,7 +1733,7 @@ spells are found in the *Core Rulebook*, those marked with an asterisk
 **0-Level Inquisitor Spells**-*[acid
 splash],
 [bleed],
-[brand\*], [create
+[brand]\*, [create
 water],
 [daze], [detect
 magic], [detect
@@ -1743,7 +1743,7 @@ undead],
 [light], [read
 magic],
 [resistance],
-[sift\*],
+[sift]\*,
 [stabilize],
 [virtue].*
 
@@ -1752,7 +1752,7 @@ Spells**-*[alarm],
 [bane](/pathfinderRPG/prd/spells/bane.html#bane),
 [bless], [bless
 water], [burst
-bonds\*], [cause
+bonds]\*, [cause
 fear],
 [command], [comprehend
 languages],
@@ -1774,16 +1774,16 @@ chaos]/evil/good/law,
 [remove fear],
 [sanctuary], [shield of
 faith], [tireless
-pursuit\*], [true
+pursuit]\*, [true
 strike],
-[wrath\*].*
+[wrath]\*.*
 
 **2nd-Level Inquisitor Spells**-*[aid],
 [align weapon],
-[bloodhound\*], [calm
+[bloodhound]\*, [calm
 emotions],
-[castigate\*],
-[confess\*],
+[castigate]\*,
+[confess]\*,
 [consecrate],
 [corruption]\*,
 [cure moderate
@@ -1795,49 +1795,49 @@ poison],
 thoughts],
 [enthrall], [find
 traps], [flames of the
-faithful\*],
-[follow aura\*], [ghostbane
-dirge\*], [hold
+faithful]\*,
+[follow aura]\*, [ghostbane
+dirge]\*, [hold
 person], [honeyed
-tongue\*], [inflict
+tongue]\*, [inflict
 moderate
 wounds],
 [invisibility],
 [knock], [perceive
-cues\*], [remove
+cues]\*, [remove
 paralysis], [resist
 energy], [restoration
 (lesser)], [see
 invisibility],
-[sacred bond\*], [shield
+[sacred bond]\*, [shield
 other],
 [silence], [spiritual
 weapon],
 [tongues], [undetectable
 alignment],
-[weapon of awe\*],
+[weapon of awe]\*,
 [whispering wind],
 [zone of truth].*
 
 **3rd-Level Inquisitor Spells**-*[arcane
 sight],
 [banish]\*,
-[blood biography\*],
-[cast out\*], [continual
+[blood biography]\*,
+[cast out]\*, [continual
 flame], [coordinated
-effort\*], [cure
+effort]\*, [cure
 serious
 wounds],
 [daylight], [deeper
 darkness],
 [dimensional anchor],
 [dispel magic],
-[fester\*], [glyph of
+[fester]\*, [glyph of
 warding], [halt
 undead],
 [heroism], [hidden
-speech\*], [hunter's
-eye\*], [inflict serious
+speech]\*, [hunter's
+eye]\*, [inflict serious
 wounds],
 [invisibility
 purge], [keen
@@ -1852,21 +1852,21 @@ object],
 energy],
 [remove curse], [remove
 disease],
-[retribution\*], [righteous
-vigor\*], [seek
-thoughts\*], [searing
+[retribution]\*, [righteous
+vigor]\*, [seek
+thoughts]\*, [searing
 light], [speak with
 dead], [ward the
-faithful\*].*
+faithful]\*.*
 
 **4th-Level Inquisitor Spells**-*[brand
-(greater)\*], [chaos
+(greater)]\*, [chaos
 hammer], [coward's
-lament\*], [cure critical
+lament]\*, [cure critical
 wounds],
 [death ward], [defile
-armor\*],
-[denounce\*], [detect
+armor]\*,
+[denounce]\*, [detect
 scrying], [discern
 lies],
 [dismissal],
@@ -1875,7 +1875,7 @@ power],
 [fear], [freedom of
 movement],
 [forced
-repentance\*], [geas
+repentance]\*, [geas
 (lesser)], [hold
 monster], [holy
 smite], [inflict critical
@@ -1885,22 +1885,22 @@ wounds],
 [neutralize
 poison], [order's
 wrath],
-[rebuke\*],
+[rebuke]\*,
 [restoration], [sanctify
-armor\*],
+armor]\*,
 [sending],
 [shared]\*,
-[sleepwalk\*], [spell
+[sleepwalk]\*, [spell
 immunity],
 [stoneskin], [tireless
-pursuers\*], [unholy
+pursuers]\*, [unholy
 blight].*
 
 **5th-Level Inquisitor
 Spells**-*[atonement],
 [banishment], [break
 enchantment],
-[castigate (mass)\*],
+[castigate (mass)]\*,
 [command (greater)],
 [commune], [cure light wounds
 (mass)],
@@ -1910,11 +1910,11 @@ chaos]/evil/good/law,
 weapon], [flame
 strike],
 [geas/quest], [ghostbane dirge
-(mass)\*],
+(mass)]\*,
 [hallow], [inflict light wounds
 (mass)],
 [mark of justice],
-[resounding blow\*],
+[resounding blow]\*,
 [righteous might],
 [spell resistance],
 [telepathic bond],
@@ -1926,11 +1926,11 @@ strike],
 barrier],
 [blasphemy], [circle of
 death],
-[cleanse\*], [cure moderate wounds
+[cleanse]\*, [cure moderate wounds
 (mass)],
 [dictum], [dispel magic
 (greater)], [fester
-(mass)\*], [find the
+(mass)]\*, [find the
 path],
 [forbiddance], [glyph of
 warding
@@ -2487,7 +2487,7 @@ elementals only, 10th), *[fire
 seeds]*(12th), *[fire
 storm]*(14th), *[incendiary
 cloud]*(16th),
-*[fiery body\*]*(18th).
+*[fiery body]\**(18th).
 
 **Revelations**: An oracle with a flame mystery can choose from any of
 the following revelations.
@@ -2936,12 +2936,12 @@ spells with expensive material components.
 animal]* (2nd),
 *[barkskin]* (4th), *[speak with
 plants]* (6th),
-*[grove of respite\*]*
+*[grove of respite]\**
 (8th), *[awaken]* (10th), *[stone
 tell]* (12th), *[creeping
 doom]* (14th), *[animal
 shapes]* (16th), *[world
-wave\*]* (18th).
+wave]\** (18th).
 
 **Revelations**: An oracle with the nature mystery can choose from any
 of the following revelations.
@@ -3062,7 +3062,7 @@ skills.
 
 **Bonus Spells**: *[magic
 stone]* (2nd), *[stone
-call\*]* (4th), *[meld into
+call]\** (4th), *[meld into
 stone]* (6th), *[wall
 of stone]* (8th),
 *[stoneskin]* (10th), *[stone
@@ -3070,7 +3070,7 @@ tell]* (12th),
 *[statue]* (14th), *[repel metal or
 stone]*
 (16th), *[clashing
-rocks\*]* (18th).
+rocks]\** (18th).
 
 **Revelations**: An oracle with the stone mystery can choose from any of
 the following revelations.
@@ -3178,15 +3178,15 @@ Artist],
 [Swim] to her list of class skills.
 
 **Bonus Spells**: *[touch of the
-sea\*]* (2nd),
-*[slipstream\*]* (4th), *[water
+sea]\** (2nd),
+*[slipstream]\** (4th), *[water
 breathing]*(6th),
 *[wall of ice]* (8th),
-*[geyser\*]* (10th), *[fluid
-form\*]* (12th),
-*[vortex\*]* (14th),
-*[seamantle\*]* (16th),
-*[tsunami\*]* (18th).
+*[geyser]\** (10th), *[fluid
+form]\** (12th),
+*[vortex]\** (14th),
+*[seamantle]\** (16th),
+*[tsunami]\** (18th).
 
 **Revelations**: An oracle with the waves mystery can choose from any of
 the following revelations.
@@ -3297,15 +3297,15 @@ Artist],
 skills.
 
 **Bonus Spells**: *[alter
-winds\*]* (2nd), *[gust of
+winds]\** (2nd), *[gust of
 wind]* (4th), *[cloak of
-winds\*]* (6th), *[river of
-wind\*]* (8th), *[control
+winds]\** (6th), *[river of
+wind]\** (8th), *[control
 winds]* (10th),
-*[sirocco\*]*(12th), *[control
+*[sirocco]\**(12th), *[control
 weather]* (14th),
 *[whirlwind]* (16th), *[winds of
-vengeance\*]*
+vengeance]\**
 (18th).
 
 **Revelations**: An oracle with the wind mystery can choose from any of
@@ -4481,7 +4481,7 @@ magic],
 [resistance].*
 
 **1st-Level Summoner Spells**-*[alarm],
-[ant haul\*], [daze
+[ant haul]\*, [daze
 monster], [endure
 elements], [enlarge
 person], [expeditious
@@ -4497,10 +4497,10 @@ mouth],
 chaos]/evil/good/law,
 [reduce person],
 [rejuvenate eidolon
-(lesser)\*],
+(lesser)]\*,
 [shield], [summon monster
 I],
-[unfetter\*], [unseen
+[unfetter]\*, [unseen
 servant],
 [ventriloquism].*
 
@@ -4511,13 +4511,13 @@ endurance],
 [blur], [bull's
 strength], [cat's
 grace], [create
-pit\*], [detect
+pit]\*, [detect
 thoughts], [eagle's
 splendor],
 [evolution surge
-(lesser)\*],
+(lesser)]\*,
 [fox's cunning],
-[glide\*],
+[glide]\*,
 [glitterdust],
 [haste],
 [invisibility],
@@ -4530,22 +4530,22 @@ arrows],
 invisibility],
 [slow], [spider
 climb], [summon
-eidolon\*], [summon
+eidolon]\*, [summon
 monster II], [summon
 swarm], [wind
 wall].*
 
 **3rd-Level Summoner Spells**-*[aqueous
-orb\*], [black
+orb]\*, [black
 tentacles], [charm
 monster],
-[devolution\*], [dimension
+[devolution]\*, [dimension
 door], [dimensional
 anchor], [dispel
 magic],
 [displacement], [enlarge
 person (mass)],
-[evolution surge\*],
+[evolution surge]\*,
 [fire shield],
 [fly](),
 [heroism], [invisibility
@@ -4560,9 +4560,9 @@ chaos]/evil/good/law,
 energy],
 [rage], [reduce person
 (mass)], [rejuvenate
-eidolon\*], [seek
-thoughts\*], [spiked
-pit\*],
+eidolon]\*, [seek
+thoughts]\*, [spiked
+pit]\*,
 [stoneskin], [summon monster
 IV],
 [tongues], [wall of
@@ -4571,7 +4571,7 @@ ice], [water
 breathing].*
 
 **4th-Level Summoner Spells**-*[acid
-pit\*], [baleful
+pit]\*, [baleful
 polymorph],
 [bear's endurance
 (mass)],
@@ -4583,7 +4583,7 @@ plane],
 [dismissal], [eagle's splendor
 (mass)],
 [evolution surge
-(greater)\*],
+(greater)]\*,
 [fox's]
 (mass), [hold monster],
 [insect plague], [mage's
@@ -4595,11 +4595,11 @@ flight], [owl's
 wisdom (mass)], [planar
 binding
 (lesser)],
-[purified calling\*],
+[purified calling]\*,
 [sending], [summon monster
 V],
 [teleport],
-[transmogrify\*], [wall of
+[transmogrify]\*, [wall of
 stone].*
 
 **5th-Level Summoner
@@ -4608,13 +4608,13 @@ Spells**-*[banishment],
 magic (greater)]
 [ethereal jaunt],
 [heroism (greater)], [hungry
-pit\*], [invisibility
+pit]\*, [invisibility
 (mass)], [planar
-adaptation\*],
+adaptation]\*,
 [planar binding],
 [plane shift],
 [repulsion], [rejuvenate eidolon
-(greater)\*],
+(greater)]\*,
 [sequester],
 [simulacrum], [spell
 turning], [summon monster
@@ -4632,7 +4632,7 @@ Spells**-*[antipathy],
 [dominate monster],
 [incendiary cloud],
 [maze], [planar adaptation
-(mass)\*],
+(mass)]\*,
 [planar binding
 (greater)],
 [protection from
@@ -5197,7 +5197,7 @@ sphere]*,
 ice]*, 10th-*[flame
 strike]*, 12th-*[freezing
 sphere]*,
-14th-*[vortex\*]*, 16th-*[fire
+14th-*[vortex]\**, 16th-*[fire
 storm]*, 18th-*[meteor
 swarm]*.
 
@@ -5285,15 +5285,15 @@ stop]*.
 
 **Water**: 2nd-*[bless
 water]/curse water*,
-4th-*[slipstream\*]*, 6th-*[water
+4th-*[slipstream]\**, 6th-*[water
 breathing]*,
 8th-*[control water]*,
-10th-*[geyser\*]*, 12th-*[elemental body
+10th-*[geyser]\**, 12th-*[elemental body
 III]* (water only),
 *14th-[elemental body
 IV]* (water only),
-16th-*[seamantle\*]*,
-18th-*[tsunami\*]*.
+16th-*[seamantle]\**,
+18th-*[tsunami]\**.
 
 **Wisdom**: 2nd-*[shield of
 faith]*, 4th-*[owl's
@@ -5328,15 +5328,15 @@ poison],
 [light],
 [mending],
 [message], [putrefy food and
-drink\*],
+drink]\*,
 [read magic],
 [resistance],
-[spark\*],
+[spark]\*,
 [stabilize], [touch of
 fatigue].*
 
 **1st-Level Witch Spells**-*[beguiling
-gift\*], [burning
+gift]\*, [burning
 hands], [cause
 fear], [charm
 person], [chill
@@ -5345,15 +5345,15 @@ touch],
 languages],
 [cure light
 wounds], [dancing
-lantern\*], [detect
+lantern]\*, [detect
 secret doors],
 [enlarge person],
 [hypnotism],
 [identify], [ill
-omen\*], [inflict light
+omen]\*, [inflict light
 wounds],
 [mage armor], [mask
-dweomer\*],
+dweomer]\*,
 [mount], [obscuring
 mist], [ray of
 enfeeblement],
@@ -5366,7 +5366,7 @@ servant].*
 self],
 [augury],
 [blindness/deafness],
-[burning gaze\*], [cure
+[burning gaze]\*, [cure
 moderate
 wounds],
 [daze monster], [death
@@ -5375,19 +5375,19 @@ poison], [detect
 thoughts],
 [enthrall], [false
 life], [feast of
-ashes\*],
-[fester\*], [find
+ashes]\*,
+[fester]\*, [find
 traps], [fog
 cloud](), [gentle
 repose],
-[glide\*],
+[glide]\*,
 [glitterdust], [hidden
-speech\*], [hold
+speech]\*, [hold
 person], [inflict moderate
 wounds],
 [levitate], [perceive
-cues\*], [pox
-pustules\*],
+cues]\*, [pox
+pustules]\*,
 [scare], [see
 invisibility],
 [spectral hand],
@@ -5395,7 +5395,7 @@ invisibility],
 II], [summon
 swarm], [touch of
 idiocy], [vomit
-swarm\*],
+swarm]\*,
 [web], [zone of
 truth].*
 
@@ -5403,34 +5403,34 @@ truth].*
 sight], [bestow
 curse],
 [clairaudience/clairvoyance],
-[cup of dust\*], [deep
+[cup of dust]\*, [deep
 slumber], [dispel
 magic],
 [fly](), [glyph of
 warding], [guiding
-star\*],
+star]\*,
 [heroism], [lightning
 bolt], [locate
 object], [nature's
-exile\*], [pain
-strike\*],
+exile]\*, [pain
+strike]\*,
 [rage], [ray of
 exhaustion],
 [remove
 blindness/deafness],
 [remove curse], [remove
 disease],
-[screech\*], [seek
-thoughts\*], [sepia snake
+[screech]\*, [seek
+thoughts]\*, [sepia snake
 sigil], [share
-senses\*], [sleet
+senses]\*, [sleet
 storm], [speak with
 dead], [stinking
 cloud],
 [suggestion], [summon monster
 III],
 [tongues], [twilight
-knife\*], [vampiric
+knife]\*, [vampiric
 touch], [water
 walk].*
 
@@ -5454,19 +5454,19 @@ storm], [inflict serious
 wounds],
 [locate creature],
 [minor creation],
-[moonstruck\*], [neutralize
+[moonstruck]\*, [neutralize
 poison],
 [phantasmal
 killer],
 [poison],
 [scrying], [secure
 shelter],
-[sleepwalk\*], [solid
+[sleepwalk]\*, [solid
 fog],
-[spite\*], [summon monster
+[spite]\*, [summon monster
 IV], [threefold
-aspect\*], [wandering
-star motes\*].*
+aspect]\*, [wandering
+star motes]\*.*
 
 **5th-Level Witch Spells**-*[baleful
 polymorph],
@@ -5486,12 +5486,12 @@ creation], [mark of
 justice], [mind
 fog], [overland
 flight], [pain strike
-(mass)\*], [prying
+(mass)]\*, [prying
 eyes],
 [reincarnate], [rest
-eternal\*], [secret
+eternal]\*, [secret
 chest],
-[suffocation\*], [summon
+[suffocation]\*, [summon
 monster V], [symbol
 of pain], [symbol of
 sleep], [telepathic
@@ -5502,13 +5502,13 @@ fatigue].*
 **6th-Level Witch Spells**-*[analyze
 dweomer], [animate
 objects], [cloak of
-dreams\*], [cone of
+dreams]\*, [cone of
 cold], [cure light wounds
 (mass)],
 [dispel magic
 (greater)],
 [eyebite], [fester
-(mass)\*], [find the
+(mass)]\*, [find the
 path], [flesh to
 stone],
 [geas/quest], [guards and
@@ -5522,12 +5522,12 @@ living], [stone to
 flesh], [suggestion
 (mass)], [summon monster
 VI], [swarm
-skin\*], [symbol of
+skin]\*, [symbol of
 fear], [symbol of
 persuasion],
 [transformation],
 [true seeing], [unwilling
-shield\*].*
+shield]\*.*
 
 **7th-Level Witch Spells**-*[arcane sight
 (greater)], [chain
@@ -5576,7 +5576,7 @@ prescience],
 [prying eyes
 (greater)],
 [resurrection],
-[stormbolts\*], [summon monster
+[stormbolts]\*, [summon monster
 VIII], [symbol of
 death], [symbol of
 insanity],
@@ -5596,7 +5596,7 @@ critical wounds (mass)],
 [refuge], [soul
 bind], [storm of
 vengeance],
-[suffocation (mass)\*],
+[suffocation (mass)]\*,
 [summon monster IX],
 [teleportation circle],
 [wail of the banshee].*

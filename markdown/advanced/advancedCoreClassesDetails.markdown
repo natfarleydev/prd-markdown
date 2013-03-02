@@ -1537,9 +1537,9 @@ These minutes do not need to be consecutive, but they must be spent in
 1-minute increments.
 
 **Replacement Domain Spells**: 2nd—*[create
-pit\*]*, 3rd—*[spiked
+pit]\**, 3rd—*[spiked
 pit]*\*, 6th—*[hungry
-pit\*]*.
+pit]\**.
 
 ## Cloud Subdomain
 
@@ -1758,7 +1758,7 @@ modifier.
 
 **Replacement Domain Spells**: 2nd level—*[bless
 water]*,
-5th—*[cleanse\*]*,
+5th—*[cleanse]\**,
 7th—*[resurrection]*,
 9th*—[miracle].*
 
@@ -1782,7 +1782,7 @@ per day equal to 3 + your Wisdom modifier.
 retreat]*,
 4th—*[locate
 creature]*,
-9th—*[world wave\*].*
+9th—*[world wave]\*.*
 
 ## Family Subdomain
 
@@ -1843,7 +1843,7 @@ surprise round, you receive a +2 racial bonus on your Initiative check.
 **Replacement Domain Spells**: 2nd—*[feather
 fall]*,
 3rd—*[fly](../../spells/fly.html)*, 6th—*[fly
-(mass)\*]*.
+(mass)]\**.
 
 ## Ferocity Subdomain
 
@@ -2183,7 +2183,7 @@ day at 14th level and 20th level.
 
 **Replacement Domain Spells**: 2nd—*[shield
 other]*, 6th—*[sacrificial
-oath\*].*
+oath]\*.*
 
 ## Memory Subdomain
 
@@ -2203,7 +2203,7 @@ on the check equal to your Wisdom modifier. You can use this ability a
 number times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**: 2nd—*[memory
-lapse\*]*, 6th—*[modify
+lapse]\**, 6th—*[modify
 memory]*, 8th—*[moment of
 prescience]*.
 
@@ -2246,7 +2246,7 @@ beyond 8th.
 edge]*,
 5th—*[suffocation]*\*,
 9th—*[suffocation
-(mass)\*]*.
+(mass)]\**.
 
 ## Night Subdomain
 
@@ -2285,7 +2285,7 @@ ability for a number of times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**: 4th—*[phantasmal
 killer]*,
-6th—*[cloak of dreams\*](../spells/cloakOfDreams.html)*,
+6th—*[cloak of dreams]\*(../spells/cloakOfDreams.html)*,
 9th—*[weird](../../spells/weird.html).*
 
 ## Oceans Subdomain
@@ -2303,7 +2303,7 @@ using the bull rush or drag combat maneuver. You can use this ability a
 number of times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**:
-2nd—*[slipstream\*]*, 3rd—*[water
+2nd—*[slipstream]\**, 3rd—*[water
 walk].*
 
 ## Protean Subdomain
@@ -2369,7 +2369,7 @@ might have from levels of barbarian.
 
 **Replacement Domain Spells**: 2nd—*[bull's
 strength]*,
-6th—*[moonstruck\*]*.
+6th—*[moonstruck]\**.
 
 ## Resolve Subdomain
 
@@ -2526,7 +2526,7 @@ not need to be consecutive.
 
 **Replacement Domain Spells**: 5th—*[call lightning
 storm]*,
-6th—*[sirocco\*].*
+6th—*[sirocco]\*.*
 
 ## Tactics Subdomain
 
@@ -2586,7 +2586,7 @@ ability for a number of rounds per day equal to your cleric level. These
 rounds do not need to be consecutive.
 
 **Replacement Domain Spells**: 3rd—*[seek
-thoughts\*]*,
+thoughts]\**,
 5th—*[telepathic
 bond]*, 8th—*[mind
 blank]*.
@@ -2695,7 +2695,7 @@ equal to 3 + your Wisdom modifier.
 **Replacement Domain Spells**: 1st—*[whispering
 wind]*, 6th—*[wind
 walk],*9th—*[winds of
-vengeance\*]*.
+vengeance]\**.
 
 Druid
 
@@ -4204,8 +4204,8 @@ his level.
 
 **Bonus Feat**: A monk of the empty hand adds the following feats to his
 list of bonus feats at 6th level: [Improved Dirty
-Trick\*]),
-[Improved Steal\*]), and
+Trick]\*),
+[Improved Steal]\*), and
 [Improvised Weapon
 Mastery].
 
@@ -4546,11 +4546,11 @@ Shot], [Precise
 Shot], and [Rapid
 Shot]. At 6th level, the following feats
 are added to the list: [Focused
-Shot\*]), [Improved Precise
+Shot]\*), [Improved Precise
 Shot],
 [Manyshot],
 [Mobility], and [Parting
-Shot\*]). At 10th level,
+Shot]\*). At 10th level,
 the following feats are added to the list: [Improved
 Critical], Pinpoint Targeting,
 [Shot on the Run], and [Snatch
@@ -4583,7 +4583,7 @@ using a bow. This ability replaces maneuver training.
 **[Point Blank
 Master]) (Ex)**: At
 3rd level, a zen archer gains [Point Blank
-Master\*]) as a bonus
+Master]\*) as a bonus
 feat, even if he does not meet the prerequisites. This ability replaces
 still mind.
 
@@ -6792,16 +6792,16 @@ your command.
 **Class Skill**: [Swim].
 
 **Bonus Spells**: *[hydraulic
-push\*]*(3rd),
-*[slipstream\*]*(5th), *[aqueous
-orb\*]*(7th),
-*[geyser\*]*(9th), *[control
+push]\**(3rd),
+*[slipstream]\**(5th), *[aqueous
+orb]\**(7th),
+*[geyser]\**(9th), *[control
 water]*(11th), *[beast
 shape IV]*(13th), *[summon
 monster
 VII]*(15th),
-*[seamantle\*]*(17th), *[world
-wave\*]*(19th).
+*[seamantle]\**(17th), *[world
+wave]\**(19th).
 
 **Bonus Feats**: [Athletic], [Brew
 Potion], [Defensive Combat
@@ -6872,7 +6872,7 @@ long winter's night.
 **Bonus Spells**: *[enlarge
 person]*(3rd),
 *[rage]*(5th), *[elemental
-aura\*]*(cold only) (7th),
+aura]\**(cold only) (7th),
 *[wall of ice]*(9th), *[cone
 of cold]*(11th),
 *[transformation]*(13th),
@@ -6951,16 +6951,16 @@ wandering and preferring to instead find depth in contemplation.
 (dungeoneering).
 
 **Bonus Spells**: *[expeditious
-excavation\*]*(3rd),
+excavation]\**(3rd),
 *[darkvision]*(5th),
-*[shifting sand\*]*(7th),
+*[shifting sand]\**(7th),
 *[stoneskin]*(9th), *[spike
 stones]*(11th), *[stone
 tell]*(13th), *[repel metal or
 stone]*(15th),
 *[earthquake]*(17th),
 *[clashing
-rocks\*]*(19th).
+rocks]\**(19th).
 
 **Bonus Feats**: [Acrobatic Steps],
 [Alertness],
