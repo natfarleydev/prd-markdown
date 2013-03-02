@@ -596,146 +596,17 @@ extracts of the following spells. While most of these spells are found
 in the *Core Rulebook*, those marked with an asterisk (\*) appear in
 Chapter 5 of this book.
 
-**1st-Level Alchemist Formulae**-*[ant
-haul]\*, [bomber's
-eye]\*, [comprehend
-languages],
-[crafter's
-fortune]\*, [cure
-light wounds],
-[detect secret
-doors],
-[detect undead],
-[disguise self], [endure
-elements], [enlarge
-person], [expeditious
-retreat],
-[identify],
-[jump], [keen
-senses]\*, [negate
-aroma]\*, [reduce
-person],
-[shield], [stone
-fist]\*, [touch of the
-sea]\*, [true
-strike].*
+**1st-Level Alchemist Formulae**-*[Ant Haul]\*, [Bomber's Eye]\*, [Comprehend Languages], [Crafter's Fortune]\*, [Cure Light Wounds], [Detect Secret Doors], [Detect Undead], [Disguise Self], [Endure Elements], [Enlarge Person], [Expeditious Retreat], [Identify], [Jump], [Keen Senses]\*, [Negate Aroma]\*, [Reduce Person], [Shield], [Stone Fist]\*, [Touch of the Sea]\*, [True Strike].*
 
-**2nd-Level Alchemist Formulae**-*[aid],
-[alchemical
-allocation]\*,
-[alter self],
-[barkskin], [bear's
-endurance],
-[blur], [bull's
-strength], [cat's
-grace], [cure moderate
-wounds],
-[darkvision], [delay
-poison], [detect
-thoughts], [eagle's
-splendor],
-[elemental touch]\*,
-[false life], [fire
-breath]\*, [fox's
-cunning],
-[invisibility],
-[levitate], [owl's
-wisdom], [perceive
-cues]\*, [protection from
-arrows],
-[resist energy],
-[restoration
-(lesser)], [see
-invisibility],
-[spider climb], [transmute
-potion
-to]\*,
-[undetectable
-alignment],
-[vomit swarm]\*.*
+**2nd-Level Alchemist Formulae**-*[Aid], [Alchemical Allocation]\*, [Alter Self], [Barkskin], [Bear's Endurance], [Blur], [Bull's Strength], [Cat's Grace], [Cure Moderate Wounds], [Darkvision], [Delay Poison], [Detect Thoughts], [Eagle's Splendor], [Elemental Touch]\*, [False Life], [Fire Breath]\*, [Fox's Cunning], [Invisibility], [Levitate], [Owl's Wisdom], [Perceive Cues]\*, [Protection From Arrows], [Resist Energy], [Restoration (Lesser)], [See Invisibility], [Spider Climb], [Transmute Potion To]\*, [Undetectable Alignment], [Vomit Swarm]\*.*
 
-**3rd-Level Alchemist Formulae**-*[absorbing
-touch]\*, [amplify
-elixir]\*, [arcane
-sight], [beast shape
-I],
-[bloodhound]\*, [cure serious
-wounds],
-[displacement], [draconic
-reservoir]\*,
-[elemental aura]\*,
-[fly](), [gaseous
-form],
-[haste],
-[heroism],
-[nondetection],
-[protection from
-energy],
-[rage], [remove
-blindness/deafness],
-[remove curse], [remove
-disease], [seek
-thoughts]\*, [thorn
-body]\*,
-[tongues], [water
-breathing].*
+**3rd-Level Alchemist Formulae**-*[Absorbing Touch]\*, [Amplify Elixir]\*, [Arcane Sight], [Beast Shape I], [Bloodhound]\*, [Cure Serious Wounds], [Displacement], [Draconic Reservoir]\*, [Elemental Aura]\*, [Fly](), [Gaseous Form], [Haste], [Heroism], [Nondetection], [Protection From Energy], [Rage], [Remove Blindness/deafness], [Remove Curse], [Remove Disease], [Seek Thoughts]\*, [Thorn Body]\*, [Tongues], [Water Breathing].*
 
-**4th-Level Alchemist Formulae**-*[air
-walk], [arcane
-eye], [beast shape
-II], [cure critical
-wounds],
-[death ward],
-[detonate]\*, [discern
-lies], [dragon's
-breath]\*, [elemental
-body I], [fire
-shield], [fluid
-form]\*, [freedom of
-movement],
-[invisibility
-(greater)],
-[neutralize
-poison],
-[restoration]*, *[spell
-immunity]*,
-*[stoneskin], [universal
-formula]\*.*
+**4th-Level Alchemist Formulae**-*[Air Walk], [Arcane Eye], [Beast Shape II], [Cure Critical Wounds], [Death Ward], [Detonate]\*, [Discern Lies], [Dragon's Breath]\*, [Elemental Body I], [Fire Shield], [Fluid Form]\*, [Freedom of Movement], [Invisibility (Greater)], [Neutralize Poison], [Restoration]*, *[Spell Immunity]*, *[Stoneskin], [Universal Formula]\*.*
 
-**5th-Level Alchemist Formulae**-*[beast shape
-III], [contact other
-plane],
-[delayed
-consumption]\*,
-[dream], [elemental body
-II], [elude
-time]\*, [magic
-jar],
-[nightmare], [overland
-flight], [planar
-adaptation]\*,
-[plant shape I],
-[polymorph], [resurgent
-transformation]\*,
-[sending], [spell
-resistance](/pathfinderRPG/prd/glossary.html#spell-resistance).*
+**5th-Level Alchemist Formulae**-*[Beast Shape III], [Contact Other Plane], [Delayed Consumption]\*, [Dream], [Elemental Body II], [Elude Time]\*, [Magic Jar], [Nightmare], [Overland Flight], [Planar Adaptation]\*, [Plant Shape I], [Polymorph], [Resurgent Transformation]\*, [Sending], [Spell Resistance].*
 
-**6th-Level Alchemist Formulae**-*[analyze
-dweomer], [beast
-shape IV], [elemental body
-III],
-[eyebite], [form of the dragon
-I], [giant form
-I],
-[heal],
-[mislead], [plant shape
-II], [shadow
-walk],
-[statue],
-[transformation],
-[true seeing], [twin
-form]\*, [wind
-walk].*
+**6th-Level Alchemist Formulae**-*[Analyze Dweomer], [Beast Shape IV], [Elemental Body III], [Eyebite], [Form of the Dragon I], [Giant Form I], [Heal], [Mislead], [Plant Shape II], [Shadow Walk], [Statue], [Transformation], [True Seeing], [Twin Form]\*, [Wind Walk].*
 
 
 
@@ -1730,220 +1601,19 @@ Inquisitors gain access to the following spells. While most of these
 spells are found in the *Core Rulebook*, those marked with an asterisk
 (\*) appear in Chapter 5 of this book.
 
-**0-Level Inquisitor Spells**-*[acid
-splash],
-[bleed],
-[brand]\*, [create
-water],
-[daze], [detect
-magic], [detect
-poison], [disrupt
-undead],
-[guidance],
-[light], [read
-magic],
-[resistance],
-[sift]\*,
-[stabilize],
-[virtue].*
+**0-Level Inquisitor Spells**-*[Acid Splash], [Bleed], [Brand]\*, [Create Water], [Daze], [Detect Magic], [Detect Poison], [Disrupt Undead], [Guidance], [Light], [Read Magic], [Resistance], [Sift]\*, [Stabilize], [Virtue].*
 
-**1st-Level Inquisitor
-Spells**-*[alarm],
-[bane](/pathfinderRPG/prd/spells/bane.html#bane),
-[bless], [bless
-water], [burst
-bonds]\*, [cause
-fear],
-[command], [comprehend
-languages],
-[cure light
-wounds], [curse
-water], [detect
-chaos]/evil/good/law,
-[detect undead],
-[disguise self], [divine
-favor],
-[doom], [expeditious
-retreat],
-[hide from undead],
-[inflict light
-wounds],
-[magic weapon], [protection
-from
-chaos]/evil/good/law,
-[remove fear],
-[sanctuary], [shield of
-faith], [tireless
-pursuit]\*, [true
-strike],
-[wrath]\*.*
+**1st-Level Inquisitor Spells**-*[Alarm], [Bane], [Bless], [Bless Water], [Burst Bonds]\*, [Cause Fear], [Command], [Comprehend Languages], [Cure Light Wounds], [Curse Water], [Detect Chaos]/evil/good/law, [Detect Undead], [Disguise Self], [Divine Favor], [Doom], [Expeditious Retreat], [Hide From Undead], [Inflict Light Wounds], [Magic Weapon], [Protection From Chaos]/evil/good/law, [Remove Fear], [Sanctuary], [Shield of Faith], [Tireless Pursuit]\*, [True Strike], [Wrath]\*.*
 
-**2nd-Level Inquisitor Spells**-*[aid],
-[align weapon],
-[bloodhound]\*, [calm
-emotions],
-[castigate]\*,
-[confess]\*,
-[consecrate],
-[corruption]\*,
-[cure moderate
-wounds],
-[darkness], [death
-knell], [delay
-poison],
-[desecrate], [detect
-thoughts],
-[enthrall], [find
-traps], [flames of the
-faithful]\*,
-[follow aura]\*, [ghostbane
-dirge]\*, [hold
-person], [honeyed
-tongue]\*, [inflict
-moderate
-wounds],
-[invisibility],
-[knock], [perceive
-cues]\*, [remove
-paralysis], [resist
-energy], [restoration
-(lesser)], [see
-invisibility],
-[sacred bond]\*, [shield
-other],
-[silence], [spiritual
-weapon],
-[tongues], [undetectable
-alignment],
-[weapon of awe]\*,
-[whispering wind],
-[zone of truth].*
+**2nd-Level Inquisitor Spells**-*[Aid], [Align Weapon], [Bloodhound]\*, [Calm Emotions], [Castigate]\*, [Confess]\*, [Consecrate], [Corruption]\*, [Cure Moderate Wounds], [Darkness], [Death Knell], [Delay Poison], [Desecrate], [Detect Thoughts], [Enthrall], [Find Traps], [Flames of the Faithful]\*, [Follow Aura]\*, [Ghostbane Dirge]\*, [Hold Person], [Honeyed Tongue]\*, [Inflict Moderate Wounds], [Invisibility], [Knock], [Perceive Cues]\*, [Remove Paralysis], [Resist Energy], [Restoration (Lesser)], [See Invisibility], [Sacred Bond]\*, [Shield Other], [Silence], [Spiritual Weapon], [Tongues], [Undetectable Alignment], [Weapon of Awe]\*, [Whispering Wind], [Zone of Truth].*
 
-**3rd-Level Inquisitor Spells**-*[arcane
-sight],
-[banish]\*,
-[blood biography]\*,
-[cast out]\*, [continual
-flame], [coordinated
-effort]\*, [cure
-serious
-wounds],
-[daylight], [deeper
-darkness],
-[dimensional anchor],
-[dispel magic],
-[fester]\*, [glyph of
-warding], [halt
-undead],
-[heroism], [hidden
-speech]\*, [hunter's
-eye]\*, [inflict serious
-wounds],
-[invisibility
-purge], [keen
-edge], [locate
-object], magic circle vs.
-chaos/evil/good/law, [magic
-vestment], [greater
-magic weapon],
-[nondetection], [obscure
-object],
-[prayer], [protection from
-energy],
-[remove curse], [remove
-disease],
-[retribution]\*, [righteous
-vigor]\*, [seek
-thoughts]\*, [searing
-light], [speak with
-dead], [ward the
-faithful]\*.*
+**3rd-Level Inquisitor Spells**-*[Arcane Sight], [Banish]\*, [Blood Biography]\*, [Cast Out]\*, [Continual Flame], [Coordinated Effort]\*, [Cure Serious Wounds], [Daylight], [Deeper Darkness], [Dimensional Anchor], [Dispel Magic], [Fester]\*, [Glyph of Warding], [Halt Undead], [Heroism], [Hidden Speech]\*, [Hunter'S Eye]\*, [Inflict Serious Wounds], [Invisibility Purge], [Keen Edge], [Locate Object], magic circle vs. chaos/evil/good/law, [Magic Vestment], [Greater Magic Weapon], [Nondetection], [Obscure Object], [Prayer], [Protection from Energy], [Remove Curse], [Remove Disease], [Retribution]\*, [Righteous Vigor]\*, [Seek Thoughts]\*, [Searing Light], [Speak with Dead], [Ward the Faithful]\*.*
 
-**4th-Level Inquisitor Spells**-*[brand
-(greater)]\*, [chaos
-hammer], [coward's
-lament]\*, [cure critical
-wounds],
-[death ward], [defile
-armor]\*,
-[denounce]\*, [detect
-scrying], [discern
-lies],
-[dismissal],
-[divination], [divine
-power],
-[fear], [freedom of
-movement],
-[forced
-repentance]\*, [geas
-(lesser)], [hold
-monster], [holy
-smite], [inflict critical
-wounds],
-[invisibility
-(greater)],
-[neutralize
-poison], [order's
-wrath],
-[rebuke]\*,
-[restoration], [sanctify
-armor]\*,
-[sending],
-[shared]\*,
-[sleepwalk]\*, [spell
-immunity],
-[stoneskin], [tireless
-pursuers]\*, [unholy
-blight].*
+**4th-Level Inquisitor Spells**-*[Brand (Greater)]\*, [Chaos Hammer], [Coward's Lament]\*, [Cure Critical Wounds], [Death Ward], [Defile Armor]\*, [Denounce]\*, [Detect Scrying], [Discern Lies], [Dismissal], [Divination], [Divine Power], [Fear], [Freedom of Movement], [Forced Repentance]\*, [Geas (Lesser)], [Hold Monster], [Holy Smite], [Inflict Critical Wounds], [Invisibility (Greater)], [Neutralize Poison], [Order's Wrath], [Rebuke]\*, [Restoration], [Sanctify Armor]\*, [Sending], [Shared]\*, [Sleepwalk]\*, [Spell Immunity], [Stoneskin], [Tireless Pursuers]\*, [Unholy Blight].*
 
-**5th-Level Inquisitor
-Spells**-*[atonement],
-[banishment], [break
-enchantment],
-[castigate (mass)]\*,
-[command (greater)],
-[commune], [cure light wounds
-(mass)],
-[dispel
-chaos]/evil/good/law,
-[disrupting
-weapon], [flame
-strike],
-[geas/quest], [ghostbane dirge
-(mass)]\*,
-[hallow], [inflict light wounds
-(mass)],
-[mark of justice],
-[resounding blow]\*,
-[righteous might],
-[spell resistance],
-[telepathic bond],
-[true seeing],
-[unhallow],
-[unwilling]\*.*
+**5th-Level Inquisitor Spells**-*[Atonement], [Banishment], [Break Enchantment], [Castigate (Mass)]\*, [Command (Greater)], [Commune], [Cure Light Wounds (Mass)], [Dispel Chaos]/evil/good/law, [Disrupting Weapon], [Flame Strike], [Geas/quest], [Ghostbane Dirge (Mass)]\*, [Hallow], [Inflict Light Wounds (Mass)], [Mark Of Justice], [Resounding Blow]\*, [Righteous Might], [Spell Resistance], [Telepathic Bond], [True Seeing], [Unhallow], [Unwilling]\*.*
 
-**6th-Level Inquisitor Spells**-*[blade
-barrier],
-[blasphemy], [circle of
-death],
-[cleanse]\*, [cure moderate wounds
-(mass)],
-[dictum], [dispel magic
-(greater)], [fester
-(mass)]\*, [find the
-path],
-[forbiddance], [glyph of
-warding
-(greater)],
-[harm],
-[heal], [heroes'
-feast], [holy
-word], [inflict moderate wounds
-(mass)],
-[legend lore],
-[repulsion], [undeath to
-death], [word of
-chaos].*
+**6th-Level Inquisitor Spells**-*[Blade Barrier], [Blasphemy], [Circle of Death], [Cleanse]\*, [Cure Moderate Wounds (Mass)], [Dictum], [Dispel Magic (Greater)], [Fester (Mass)]\*, [Find the Path], [Forbiddance], [Glyph of Warding (Greater)], [Harm], [Heal], [Heroes' Feast], [Holy Word], [Inflict Moderate Wounds (Mass)], [Legend Lore], [Repulsion], [Undeath to Death], [Word of Chaos].*
 
 
 ## Oracle
@@ -2359,19 +2029,7 @@ Constitution score.
 [Stealth] to her list of class
 skills.
 
-**Bonus Spells**: *[cause
-fear]*(2nd), *[false
-life]* (4th), *[animate
-dead]* (6th),
-*[fear]*(8th), *[slay
-living]* (10th), *[circle of
-death]* (12th),
-*[control undead]*
-(14th), *[horrid
-wilting]*(16th), *[wail
-of the
-banshee]*
-(18th).
+**Bonus Spells**: *[Cause Fear]*(2nd), *[False Life]* (4th), *[Animate Dead]* (6th), *[Fear]*(8th), *[Slay Living]* (10th), *[Circle of Death]* (12th), *[Control Undead]* (14th), *[Horrid Wilting]*(16th), *[Wail of the Banshee]* (18th).
 
 **Revelations**: An oracle with the bones mystery can choose from any of
 the following revelations.
@@ -2477,17 +2135,7 @@ Flame
 [Perform] to her list of class
 skills.
 
-**Bonus Spells**: *[burning
-hands]*(2nd), *[resist
-energy]*(4th),
-*[fireball]*(6th), *[wall of
-fire]*(8th), *[summon
-monster V]* (fire
-elementals only, 10th), *[fire
-seeds]*(12th), *[fire
-storm]*(14th), *[incendiary
-cloud]*(16th),
-*[fiery body]\**(18th).
+**Bonus Spells**: *[Burning Hands]*(2nd), *[Resist Energy]*(4th), *[Fireball]*(6th), *[Wall of Fire]*(8th), *[Summon Monster V]* (Fire Elementals Only, 10th), *[Fire Seeds]*(12th), *[Fire Storm]*(14th), *[Incendiary Cloud]*(16th), *[Fiery Body]\**(18th).
 
 **Revelations**: An oracle with a flame mystery can choose from any of
 the following revelations.
@@ -2589,17 +2237,7 @@ feats to use this ability.
 [Survival] to her list of class
 skills.
 
-**Bonus Spells**: *[color
-spray]* (2nd), *[hypnotic
-pattern]* (4th),
-*[daylight]* (6th), *[rainbow
-pattern]* (8th),
-*[overland flight]*
-(10th), *[chain
-lightning]* (12th),
-*[prismatic spray]*
-(14th), *[sunburst]* (16th),
-*[meteor swarm]* (18th).
+**Bonus Spells**: *[Color Spray]* (2nd), *[Hypnotic Pattern]* (4th), *[Daylight]* (6th), *[Rainbow Pattern]* (8th), *[Overland Flight]* (10th), *[Chain Lightning]* (12th), *[Prismatic Spray]* (14th), *[Sunburst]* (16th), *[Meteor Swarm]* (18th).
 
 **Revelations**: An oracle with the heavens mystery can choose from any
 of the following revelations.
@@ -2708,18 +2346,7 @@ Animal],
 [Survival] to her list of class
 skills.
 
-**Bonus Spells**: *[detect
-undead]* (2nd), *[lesser
-restoration]* (4th),
-*[neutralize
-poison]* (6th),
-*[restoration]* (8th),
-*[breath of life]*
-(10th), *[heal]* (12th), *[greater
-restoration]*
-(14th), *[mass heal]* (16th), *[true
-resurrection]*
-(18th).
+**Bonus Spells**: *[Detect Undead]* (2nd), *[Lesser Restoration]* (4th), *[Neutralize Poison]* (6th), *[Restoration]* (8th), *[Breath of Life]* (10th), *[Heal]* (12th), *[Greater Restoration]* (14th), *[Mass Heal]* (16th), *[True Resurrection]* (18th).
 
 **Revelations**: An oracle with the life mystery can choose from any of
 the following revelations.
@@ -2811,16 +2438,7 @@ negative total is in excess of twice your Constitution score.
 [Knowledge] skills to her list
 of class skills.
 
-**Bonus Spells**: *[identify]*
-(2nd), *[tongues]* (4th), *[locate
-object]*(6th), *[legend
-lore]* (8th), *[contact other
-plane]*
-(10th), *[mass owl's
-wisdom]* (12th),
-*[vision]* (14th), *[moment of
-prescience]*
-(16th), *[time stop]* (18th).
+**Bonus Spells**: *[Identify]* (2nd), *[Tongues]* (4th), *[Locate Object]*(6th), *[Legend Lore]* (8th), *[Contact Other Plane]* (10th), *[Mass Owl's Wisdom]* (12th), *[Vision]* (14th), *[Moment Of Prescience]* (16th), *[Time Stop]* (18th).
 
 **Revelations**: An oracle with the lore mystery can choose from any of
 the following revelations.
@@ -2932,16 +2550,7 @@ spells with expensive material components.
 [Survival], and
 [Swim] to her list of class skills.
 
-**Bonus Spells**: *[charm
-animal]* (2nd),
-*[barkskin]* (4th), *[speak with
-plants]* (6th),
-*[grove of respite]\**
-(8th), *[awaken]* (10th), *[stone
-tell]* (12th), *[creeping
-doom]* (14th), *[animal
-shapes]* (16th), *[world
-wave]\** (18th).
+**Bonus Spells**: *[Charm Animal]* (2nd), *[Barkskin]* (4th), *[Speak with Plants]* (6th), *[Grove of Respite]\** (8th), *[Awaken]* (10th), *[Stone Tell]* (12th), *[Creeping Doom]* (14th), *[Animal Shapes]* (16th), *[World Wave]\** (18th).
 
 **Revelations**: An oracle with the nature mystery can choose from any
 of the following revelations.
@@ -3060,17 +2669,7 @@ transformation is made.
 [Survival] to her list of class
 skills.
 
-**Bonus Spells**: *[magic
-stone]* (2nd), *[stone
-call]\** (4th), *[meld into
-stone]* (6th), *[wall
-of stone]* (8th),
-*[stoneskin]* (10th), *[stone
-tell]* (12th),
-*[statue]* (14th), *[repel metal or
-stone]*
-(16th), *[clashing
-rocks]\** (18th).
+**Bonus Spells**: *[Magic Stone]* (2nd), *[Stone Call]\** (4th), *[Meld into Stone]* (6th), *[Wall of Stone]* (8th), *[Stoneskin]* (10th), *[Stone Tell]* (12th), *[Statue]* (14th), *[Repel Metal or Stone]* (16th), *[Clashing Rocks]\** (18th).
 
 **Revelations**: An oracle with the stone mystery can choose from any of
 the following revelations.
@@ -3177,16 +2776,7 @@ Artist],
 [Knowledge] (nature), and
 [Swim] to her list of class skills.
 
-**Bonus Spells**: *[touch of the
-sea]\** (2nd),
-*[slipstream]\** (4th), *[water
-breathing]*(6th),
-*[wall of ice]* (8th),
-*[geyser]\** (10th), *[fluid
-form]\** (12th),
-*[vortex]\** (14th),
-*[seamantle]\** (16th),
-*[tsunami]\** (18th).
+**Bonus Spells**: *[Touch of the Sea]\** (2nd), *[Slipstream]\** (4th), *[Water Breathing]*(6th), *[Wall of Ice]* (8th), *[Geyser]\** (10th), *[Fluid Form]\** (12th), *[Vortex]\** (14th), *[Seamantle]\** (16th), *[Tsunami]\** (18th).
 
 **Revelations**: An oracle with the waves mystery can choose from any of
 the following revelations.
@@ -3296,17 +2886,7 @@ Artist],
 [Stealth] to her list of class
 skills.
 
-**Bonus Spells**: *[alter
-winds]\** (2nd), *[gust of
-wind]* (4th), *[cloak of
-winds]\** (6th), *[river of
-wind]\** (8th), *[control
-winds]* (10th),
-*[sirocco]\**(12th), *[control
-weather]* (14th),
-*[whirlwind]* (16th), *[winds of
-vengeance]\**
-(18th).
+**Bonus Spells**: *[Alter Winds]\** (2nd), *[Gust of Wind]* (4th), *[Cloak of Winds]\** (6th), *[River of Wind]\** (8th), *[Control Winds]* (10th), *[Sirocco]\**(12th), *[Control Weather]* (14th), *[Whirlwind]* (16th), *[Winds of Vengeance]\** (18th).
 
 **Revelations**: An oracle with the wind mystery can choose from any of
 the following revelations.
@@ -4466,181 +4046,19 @@ Summoners gain access to the following spells. While most of these
 spells are found in the *Core Rulebook*, all spells marked with an
 asterisk (\*) appear in Chapter 5 of this book.
 
-**0-Level Summoner Spells**-*[acid
-splash], [arcane
-mark],
-[daze], [detect
-magic],
-[guidance],
-[light], [mage
-hand],
-[mending],
-[message],
-[open/close], [read
-magic],
-[resistance].*
+**0-Level Summoner Spells**-*[Acid Splash], [Arcane Mark], [Daze], [Detect Magic], [Guidance], [Light], [Mage Hand], [Mending], [Message], [Open/close], [Read Magic], [Resistance].*
 
-**1st-Level Summoner Spells**-*[alarm],
-[ant haul]\*, [daze
-monster], [endure
-elements], [enlarge
-person], [expeditious
-retreat],
-[feather fall],
-[grease],
-[identify],
-[jump], [mage
-armor], [magic
-fang], [magic
-mouth],
-[mount], [protection from
-chaos]/evil/good/law,
-[reduce person],
-[rejuvenate eidolon
-(lesser)]\*,
-[shield], [summon monster
-I],
-[unfetter]\*, [unseen
-servant],
-[ventriloquism].*
+**1st-Level Summoner Spells**-*[Alarm], [Ant Haul]\*, [Daze Monster], [Endure Elements], [Enlarge Person], [Expeditious Retreat], [Feather Fall], [Grease], [Identify], [Jump], [Mage Armor], [Magic Fang], [Magic Mouth], [Mount], [Protection From Chaos]/evil/good/law, [Reduce Person], [Rejuvenate Eidolon (Lesser)]\*, [Shield], [Summon Monster I], [Unfetter]\*, [Unseen Servant], [Ventriloquism].*
 
-**2nd-Level Summoner Spells**-*[alter
-self],
-[barkskin], [bear's
-endurance],
-[blur], [bull's
-strength], [cat's
-grace], [create
-pit]\*, [detect
-thoughts], [eagle's
-splendor],
-[evolution surge
-(lesser)]\*,
-[fox's cunning],
-[glide]\*,
-[glitterdust],
-[haste],
-[invisibility],
-[levitate],
-[misdirection], [owl's
-wisdom], [phantom
-steed], [protection from
-arrows],
-[resist energy], [see
-invisibility],
-[slow], [spider
-climb], [summon
-eidolon]\*, [summon
-monster II], [summon
-swarm], [wind
-wall].*
+**2nd-Level Summoner Spells**-*[Alter Self], [Barkskin], [Bear's Endurance], [Blur], [Bull's Strength], [Cat's Grace], [Create Pit]\*, [Detect Thoughts], [Eagle's Splendor], [Evolution Surge (Lesser)]\*, [Fox's Cunning], [Glide]\*, [Glitterdust], [Haste], [Invisibility], [Levitate], [Misdirection], [Owl's Wisdom], [Phantom Steed], [Protection from Arrows], [Resist Energy], [See Invisibility], [Slow], [Spider Climb], [Summon Eidolon]\*, [Summon Monster II], [Summon Swarm], [Wind Wall].*
 
-**3rd-Level Summoner Spells**-*[aqueous
-orb]\*, [black
-tentacles], [charm
-monster],
-[devolution]\*, [dimension
-door], [dimensional
-anchor], [dispel
-magic],
-[displacement], [enlarge
-person (mass)],
-[evolution surge]\*,
-[fire shield],
-[fly](),
-[heroism], [invisibility
-(greater)],
-[locate creature],
-[magic circle against
-chaos]/evil/good/law,
-[magic fang (greater)],
-[minor creation],
-[nondetection],
-[protection from
-energy],
-[rage], [reduce person
-(mass)], [rejuvenate
-eidolon]\*, [seek
-thoughts]\*, [spiked
-pit]\*,
-[stoneskin], [summon monster
-IV],
-[tongues], [wall of
-fire], [wall of
-ice], [water
-breathing].*
+**3rd-Level Summoner Spells**-*[Aqueous Orb]\*, [Black Tentacles], [Charm Monster], [Devolution]\*, [Dimension Door], [Dimensional Anchor], [Dispel Magic], [Displacement], [Enlarge Person (Mass)], [Evolution Surge]\*, [Fire Shield], [Fly], [Heroism], [Invisibility (Greater)], [Locate Creature], [Magic Circle Against Chaos]/evil/good/law, [Magic Fang (Greater)], [Minor Creation], [Nondetection], [Protection from Energy], [Rage], [Reduce Person (Mass)], [Rejuvenate Eidolon]\*, [Seek Thoughts]\*, [Spiked Pit]\*, [Stoneskin], [Summon Monster IV], [Tongues], [Wall of Fire], [Wall of Ice], [Water Breathing].*
 
-**4th-Level Summoner Spells**-*[acid
-pit]\*, [baleful
-polymorph],
-[bear's endurance
-(mass)],
-[bull's strength
-(mass)],
-[cat's]
-(mass), [contact other
-plane],
-[dismissal], [eagle's splendor
-(mass)],
-[evolution surge
-(greater)]\*,
-[fox's]
-(mass), [hold monster],
-[insect plague], [mage's
-faithful
-hound],
-[magic jar], [major
-creation], [overland
-flight], [owl's
-wisdom (mass)], [planar
-binding
-(lesser)],
-[purified calling]\*,
-[sending], [summon monster
-V],
-[teleport],
-[transmogrify]\*, [wall of
-stone].*
+**4th-Level Summoner Spells**-*[Acid Pit]\*, [Baleful Polymorph], [Bear's Endurance (Mass)], [Bull's Strength (Mass)], [Cat's] (Mass), [Contact Other Plane], [Dismissal], [Eagle's Splendor (Mass)], [Evolution Surge (Greater)]\*, [Fox's] (Mass), [Hold Monster], [Insect Plague], [Mage's Faithful Hound], [Magic Jar], [Major Creation], [Overland Flight], [Owl's Wisdom (Mass)], [Planar Binding (Lesser)], [Purified Calling]\*, [Sending], [Summon Monster V], [Teleport], [Transmogrify]\*, [Wall of Stone].*
 
-**5th-Level Summoner
-Spells**-*[banishment],
-[creeping doom], [dispel
-magic (greater)]
-[ethereal jaunt],
-[heroism (greater)], [hungry
-pit]\*, [invisibility
-(mass)], [planar
-adaptation]\*,
-[planar binding],
-[plane shift],
-[repulsion], [rejuvenate eidolon
-(greater)]\*,
-[sequester],
-[simulacrum], [spell
-turning], [summon monster
-VII], [teleport
-(greater)], [true
-seeing], [wall of
-iron].*
+**5th-Level Summoner Spells**-*[Banishment], [Creeping Doom], [Dispel Magic (Greater)] [Ethereal Jaunt], [Heroism (Greater)], [Hungry Pit]\*, [Invisibility (Mass)], [Planar Adaptation]\*, [Planar Binding], [Plane Shift], [Repulsion], [Rejuvenate Eidolon (Greater)]\*, [Sequester], [Simulacrum], [Spell Turning], [Summon Monster VII], [Teleport (Greater)], [True Seeing], [Wall of Iron].*
 
-**6th-Level Summoner
-Spells**-*[antipathy],
-[binding], [charm monster
-(mass)],
-[dimensional lock],
-[discern location],
-[dominate monster],
-[incendiary cloud],
-[maze], [planar adaptation
-(mass)]\*,
-[planar binding
-(greater)],
-[protection from
-spells],
-[summon monster
-VIII],
-[sympathy], [teleportation
-circle].*
+**6th-Level Summoner Spells**-*[Antipathy], [Binding], [Charm Monster (Mass)], [Dimensional Lock], [Discern Location], [Dominate Monster], [Incendiary Cloud], [Maze], [Planar Adaptation (Mass)]\*, [Planar Binding (Greater)], [Protection From Spells], [Summon Monster VIII], [Sympathy], [Teleportation Circle].*
 
 
 ## Witch
@@ -5151,164 +4569,29 @@ this book. The spells gained depend upon the patron chosen. Each patron
 is listed by its theme. Its actual name is up to the GM and the witch to
 decide.
 
-**Agility**: 2nd-*[jump]*, 4th-*[cat's
-grace]*,
-6th-*[haste]*, 8th-*[freedom of
-movement]*,
-10th-*[polymorph]*,
-12th-*[cat's]
-(mass)*, 14th-*[ethereal
-jaunt]*, 16th-*[animal
-shapes]*,
-18th-*[shapechange]*.
+**Agility**: 2nd-*[Jump]*, 4th-*[Cat's Grace]*, 6th-*[Haste]*, 8th-*[Freedom of Movement]*, 10th-*[Polymorph]*, 12th-*[Cat's] (Mass)*, 14th-*[Ethereal Jaunt]*, 16th-*[Animal Shapes]*, 18th-*[Shapechange]*.
 
-**Animals**: 2nd-*charm animals*, 4th-*[speak with
-animals]*,
-6th-*[dominate
-animal]*,
-8th-*[summon nature's ally
-IV]*,
-10th-*[animal growth]*,
-12th-*[antilife
-shell]*, 14th-*[beast
-shape IV]*, 16th-*[animal
-shapes]*, 18th-*[summon
-nature's ally
-IX]*.
+**Animals**: 2nd-*Charm Animals*, 4th-*[Speak with Animals]*, 6th-*[Dominate Animal]*, 8th-*[Summon Nature's Ally IV]*, 10th-*[Animal Growth]*, 12th-*[Antilife Shell]*, 14th-*[Beast Shape IV]*, 16th-*[Animal Shapes]*, 18th-*[Summon Nature's Ally IX]*.
 
-**Deception**:
-2nd-*[ventriloquism]*,
-4th-*[invisibility]*,
-6th-*[blink]*,
-8th-*[confusion]*,
-10th-*[passwall]*,
-12th-*[programmed
-image]*,
-14th-*[invisibility
-(mass)]*,
-16th-*[scintillating
-pattern]*,
-18th-*[time stop]*.
+**Deception**: 2nd-*[Ventriloquism]*, 4th-*[Invisibility]*, 6th-*[Blink]*, 8th-*[Confusion]*, 10th-*[Passwall]*, 12th-*[Programmed Image]*, 14th-*[Invisibility (Mass)]*, 16th-*[Scintillating Pattern]*, 18th-*[Time Stop]*.
 
-**Elements**: 2nd-*[shocking
-grasp]*, 4th-*[flaming
-sphere]*,
-6th-*[fireball]*, 8th-*[wall of
-ice]*, 10th-*[flame
-strike]*, 12th-*[freezing
-sphere]*,
-14th-*[vortex]\**, 16th-*[fire
-storm]*, 18th-*[meteor
-swarm]*.
+**Elements**: 2nd-*[Shocking Grasp]*, 4th-*[Flaming Sphere]*, 6th-*[Fireball]*, 8th-*[Wall of Ice]*, 10th-*[Flame Strike]*, 12th-*[Freezing Sphere]*, 14th-*[Vortex]\**, 16th-*[Fire Storm]*, 18th-*[Meteor Swarm]*.
 
-**[Endurance]**: 2nd-*[endure
-elements]*,
-4th-*[bear's
-endurance]*,
-6th-*[protection from
-energy],*
-8th-*[spell immunity]*,
-10th-*[spell
-resistance]*,
-12th-*[bear's endurance
-(mass)]*,
-14th-*[restoration
-(greater)]*,
-16th-*[iron
-body]*.
+**[Endurance]**: 2nd-*[Endure Elements]*, 4th-*[Bear's Endurance]*, 6th-*[Protection from Energy],* 8th-*[Spell Immunity]*, 10th-*[Spell Resistance]*, 12th-*[Bear's Endurance (Mass)]*, 14th-*[Restoration (Greater)]*, 16th-*[Iron Body]*.
 
-**Plague**: 2nd-*[detect
-undead]*, 4th-*[command
-undead]*,
-6th-*[contagion]*, 8th-*[animate
-dead]*, 10th-*[giant
-vermin]*, 12th-*[create
-undead]*, 14th-*[control
-undead]*, 16th-*[create
-greater
-undead]*,
-18th-*[energy drain]*.
+**Plague**: 2nd-*[Detect Undead]*, 4th-*[Command Undead]*, 6th-*[Contagion]*, 8th-*[Animate Dead]*, 10th-*[Giant Vermin]*, 12th-*[Create Undead]*, 14th-*[Control Undead]*, 16th-*[Create Greater Undead]*, 18th-*[Energy Drain]*.
 
-**Shadow**: 2nd-*[silent
-image]*,
-4th-*[darkness]*, 6th-*[deeper
-darkness]*,
-8th-*[shadow
-conjuration]*,
-10th-*[shadow
-evocation]*,
-12th-*[shadow walk]*,
-14th-*[shadow conjuration
-(greater)]*,
-16th-*[shadow evocation
-(greater)]*,
-18th-*[shades]*.
+**Shadow**: 2nd-*[Silent Image]*, 4th-*[Darkness]*, 6th-*[Deeper Darkness]*, 8th-*[Shadow Conjuration]*, 10th-*[Shadow Evocation]*, 12th-*[Shadow Walk]*, 14th-*[Shadow Conjuration (Greater)]*, 16th-*[Shadow Evocation (Greater)]*, 18th-*[Shades]*.
 
-**Strength**: 2nd-*[divine
-favor]*, 4th-*[bull's
-strength]*,
-6th-*[greater magic
-weapon]*,
-8th-*[divine power]*,
-10th-*[righteous
-might]*,
-12th-*[bull's strength
-(mass)]*,
-14th-*[giant form I]*,
-16th-*[giant form II]*,
-18th-*[shapechange]*.
+**Strength**: 2nd-*[Divine Favor]*, 4th-*[Bull's Strength]*, 6th-*[Greater Magic Weapon]*, 8th-*[Divine Power]*, 10th-*[Righteous Might]*, 12th-*[Bull's Strength (Mass)]*, 14th-*[Giant Form I]*, 16th-*[Giant Form II]*, 18th-*[Shapechange]*.
 
-**Transformation**: 2nd-*[jump]*,
-4th-*[bear's
-endurance]*,
-6th-*[beast shape I]*,
-8th-*[beast shape II]*,
-10th-*[beast shape III]*,
-12th-*[form of the dragon
-I]*,
-14th-*[form of the dragon
-II]*,
-16th-*[form of the dragon
-III]*,
-18th-*[shapechange]*.
+**Transformation**: 2nd-*[Jump]*, 4th-*[Bear's Endurance]*, 6th-*[Beast Shape I]*, 8th-*[Beast Shape II]*, 10th-*[Beast Shape III]*, 12th-*[Form of the Dragon I]*, 14th-*[Form of the Dragon II]*, 16th-*[Form of the Dragon III]*, 18th-*[Shapechange]*.
 
-**Trickery**: 2nd-*[animate
-rope]*, 4th-*[mirror
-image]*, 6th-*[major
-image]*, 8th-*[hallucinatory
-terrain]*,
-10th-*[mirage arcana]*,
-12th-*[mislead]*, 14th-*[reverse
-gravity]*,
-16th-*[screen]*, 18th-*[time
-stop]*.
+**Trickery**: 2nd-*[Animate Rope]*, 4th-*[Mirror Image]*, 6th-*[Major Image]*, 8th-*[Hallucinatory Terrain]*, 10th-*[Mirage Arcana]*, 12th-*[Mislead]*, 14th-*[Reverse Gravity]*, 16th-*[Screen]*, 18th-*[Time Stop]*.
 
-**Water**: 2nd-*[bless
-water]/curse water*,
-4th-*[slipstream]\**, 6th-*[water
-breathing]*,
-8th-*[control water]*,
-10th-*[geyser]\**, 12th-*[elemental body
-III]* (water only),
-*14th-[elemental body
-IV]* (water only),
-16th-*[seamantle]\**,
-18th-*[tsunami]\**.
+**Water**: 2nd-*[Bless Water]/curse water*, 4th-*[Slipstream]\**, 6th-*[Water Breathing]*, 8th-*[Control Water]*, 10th-*[Geyser]\**, 12th-*[Elemental Body III]* (Water Only), *14th-[Elemental Body IV]* (Water Only), 16th-*[Seamantle]\**, 18th-*[Tsunami]\**.
 
-**Wisdom**: 2nd-*[shield of
-faith]*, 4th-*[owl's
-wisdom]*, 6th-*[magic
-vestment]*, 8th-*[globe
-of]
-(lesser)*, 10th-*[dream]*, 12th-*[globe
-of
-invulnerability]
-(greater)*, 14th-*[spell
-turning]*,
-16th-*[protection from
-spells]*,
-18th-*[mage's
-disjunction]*.
+**Wisdom**: 2nd-*[Shield of Faith]*, 4th-*[Owl's Wisdom]*, 6th-*[Magic Vestment]*, 8th-*[Globe of] (Lesser)*, 10th-*[Dream]*, 12th-*[Globe of Invulnerability] (greater)*, 14th-*[Spell Turning]*, 16th-*[Protection from Spells]*, 18th-*[Mage's Disjunction]*.
 
 
 ### Witch Spells
@@ -5317,286 +4600,23 @@ Witches gain access to the following spells. While most of these spells
 are found in the *Core Rulebook*, those marked with an asterisk (\*)
 appear in Chapter 5 of this book.
 
-**0-Level Witch Spells**-*[arcane
-mark],
-[bleed], [dancing
-lights],
-[daze], [detect
-magic], [detect
-poison],
-[guidance],
-[light],
-[mending],
-[message], [putrefy food and
-drink]\*,
-[read magic],
-[resistance],
-[spark]\*,
-[stabilize], [touch of
-fatigue].*
+**0-Level Witch Spells**-*[Arcane Mark], [Bleed], [Dancing Lights], [Daze], [Detect Magic], [Detect Poison], [Guidance], [Light], [Mending], [Message], [Putrefy Food and Drink]\*, [Read Magic], [Resistance], [Spark]\*, [Stabilize], [Touch of Fatigue].*
 
-**1st-Level Witch Spells**-*[beguiling
-gift]\*, [burning
-hands], [cause
-fear], [charm
-person], [chill
-touch],
-[command], [comprehend
-languages],
-[cure light
-wounds], [dancing
-lantern]\*, [detect
-secret doors],
-[enlarge person],
-[hypnotism],
-[identify], [ill
-omen]\*, [inflict light
-wounds],
-[mage armor], [mask
-dweomer]\*,
-[mount], [obscuring
-mist], [ray of
-enfeeblement],
-[reduce person],
-[sleep], [summon monster
-I], [unseen
-servant].*
+**1st-Level Witch Spells**-*[Beguiling Gift]\*, [Burning Hands], [Cause Fear], [Charm Person], [Chill Touch], [Command], [Comprehend Languages], [Cure Light Wounds], [Dancing Lantern]\*, [Detect Secret Doors], [Enlarge Person], [Hypnotism], [Identify], [Ill Omen]\*, [Inflict Light Wounds], [Mage Armor], [Mask Dweomer]\*, [Mount], [Obscuring Mist], [Ray of Enfeeblement], [Reduce Person], [Sleep], [Summon Monster I], [Unseen Servant].*
 
-**2nd-Level Witch Spells**-*[alter
-self],
-[augury],
-[blindness/deafness],
-[burning gaze]\*, [cure
-moderate
-wounds],
-[daze monster], [death
-knell], [delay
-poison], [detect
-thoughts],
-[enthrall], [false
-life], [feast of
-ashes]\*,
-[fester]\*, [find
-traps], [fog
-cloud](), [gentle
-repose],
-[glide]\*,
-[glitterdust], [hidden
-speech]\*, [hold
-person], [inflict moderate
-wounds],
-[levitate], [perceive
-cues]\*, [pox
-pustules]\*,
-[scare], [see
-invisibility],
-[spectral hand],
-[status], [summon monster
-II], [summon
-swarm], [touch of
-idiocy], [vomit
-swarm]\*,
-[web], [zone of
-truth].*
+**2nd-Level Witch Spells**-*[Alter Self], [Augury], [Blindness/deafness], [Burning Gaze]\*, [Cure Moderate Wounds], [Daze Monster], [Death Knell], [Delay Poison], [Detect Thoughts], [Enthrall], [False Life], [Feast of Ashes]\*, [Fester]\*, [Find Traps], [Fog Cloud], [Gentle Repose], [Glide]\*, [Glitterdust], [Hidden Speech]\*, [Hold Person], [Inflict Moderate Wounds], [Levitate], [Perceive Cues]\*, [Pox Pustules]\*, [Scare], [See Invisibility], [Spectral Hand], [Status], [Summon Monster II], [Summon Swarm], [Touch of Idiocy], [Vomit Swarm]\*, [Web], [Zone of Truth].*
 
-**3rd-Level Witch Spells**-*[arcane
-sight], [bestow
-curse],
-[clairaudience/clairvoyance],
-[cup of dust]\*, [deep
-slumber], [dispel
-magic],
-[fly](), [glyph of
-warding], [guiding
-star]\*,
-[heroism], [lightning
-bolt], [locate
-object], [nature's
-exile]\*, [pain
-strike]\*,
-[rage], [ray of
-exhaustion],
-[remove
-blindness/deafness],
-[remove curse], [remove
-disease],
-[screech]\*, [seek
-thoughts]\*, [sepia snake
-sigil], [share
-senses]\*, [sleet
-storm], [speak with
-dead], [stinking
-cloud],
-[suggestion], [summon monster
-III],
-[tongues], [twilight
-knife]\*, [vampiric
-touch], [water
-walk].*
+**3rd-Level Witch Spells**-*[Arcane Sight], [Bestow Curse], [Clairaudience/clairvoyance], [Cup of Dust]\*, [Deep Slumber], [Dispel Magic], [Fly], [Glyph of Warding], [Guiding Star]\*, [Heroism], [Lightning Bolt], [Locate Object], [Nature's Exile]\*, [Pain Strike]\*, [Rage], [Ray of Exhaustion], [Remove Blindness/deafness], [Remove Curse], [Remove Disease], [Screech]\*, [Seek Thoughts]\*, [Sepia Snake Sigil], [Share Senses]\*, [Sleet Storm], [Speak with Dead], [Stinking Cloud], [Suggestion], [Summon Monster III], [Tongues], [Twilight Knife]\*, [Vampiric Touch], [Water Walk].*
 
-**4th-Level Witch Spells**-*[arcane
-eye], [black
-tentacles], [charm
-monster],
-[confusion], [crushing
-despair], [cure
-serious
-wounds],
-[death ward], [detect
-scrying], [dimension
-door], [discern
-lies],
-[divination],
-[enervation],
-[fear], [geas
-(lesser)], [ice
-storm], [inflict serious
-wounds],
-[locate creature],
-[minor creation],
-[moonstruck]\*, [neutralize
-poison],
-[phantasmal
-killer],
-[poison],
-[scrying], [secure
-shelter],
-[sleepwalk]\*, [solid
-fog],
-[spite]\*, [summon monster
-IV], [threefold
-aspect]\*, [wandering
-star motes]\*.*
+**4th-Level Witch Spells**-*[Arcane Eye], [Black Tentacles], [Charm Monster], [Confusion], [Crushing Despair], [Cure Serious Wounds], [Death Ward], [Detect Scrying], [Dimension Door], [Discern Lies], [Divination], [Enervation], [Fear], [Geas (Lesser)], [Ice Storm], [Inflict Serious Wounds], [Locate Creature], [Minor Creation], [Moonstruck]\*, [Neutralize Poison], [Phantasmal Killer], [Poison], [Scrying], [Secure Shelter], [Sleepwalk]\*, [Solid Fog], [Spite]\*, [Summon Monster IV], [Threefold Aspect]\*, [Wandering Star Motes]\*.*
 
-**5th-Level Witch Spells**-*[baleful
-polymorph],
-[banish]\*,
-[blight], [break
-enchantment],
-[cloudkill], [contact other
-plane], [cure
-critical
-wounds],
-[dominate person],
-[feeblemind], [hold
-monster], [inflict critical
-wounds],
-[magic jar], [major
-creation], [mark of
-justice], [mind
-fog], [overland
-flight], [pain strike
-(mass)]\*, [prying
-eyes],
-[reincarnate], [rest
-eternal]\*, [secret
-chest],
-[suffocation]\*, [summon
-monster V], [symbol
-of pain], [symbol of
-sleep], [telepathic
-bond],
-[teleport], [waves of
-fatigue].*
+**5th-Level Witch Spells**-*[Baleful Polymorph], [Banish]\*, [Blight], [Break Enchantment], [Cloudkill], [Contact Other Plane], [Cure Critical Wounds], [Dominate Person], [Feeblemind], [Hold Monster], [Inflict Critical Wounds], [Magic Jar], [Major Creation], [Mark of Justice], [Mind Fog], [Overland Flight], [Pain Strike (Mass)]\*, [Prying Eyes], [Reincarnate], [Rest Eternal]\*, [Secret Chest], [Suffocation]\*, [Summon Monster V], [Symbol of Pain], [Symbol of Sleep], [Telepathic Bond], [Teleport], [Waves of Fatigue].*
 
-**6th-Level Witch Spells**-*[analyze
-dweomer], [animate
-objects], [cloak of
-dreams]\*, [cone of
-cold], [cure light wounds
-(mass)],
-[dispel magic
-(greater)],
-[eyebite], [fester
-(mass)]\*, [find the
-path], [flesh to
-stone],
-[geas/quest], [guards and
-wards], [heroism
-(greater)], [inflict light
-wounds
-(mass)],
-[legend lore], [raise
-dead], [slay
-living], [stone to
-flesh], [suggestion
-(mass)], [summon monster
-VI], [swarm
-skin]\*, [symbol of
-fear], [symbol of
-persuasion],
-[transformation],
-[true seeing], [unwilling
-shield]\*.*
+**6th-Level Witch Spells**-*[Analyze Dweomer], [Animate Objects], [Cloak of Dreams]\*, [Cone of Cold], [Cure Light Wounds (Mass)], [Dispel Magic (Greater)], [Eyebite], [Fester (Mass)]\*, [Find the Path], [Flesh to Stone], [Geas/quest], [Guards and Wards], [Heroism (Greater)], [Inflict Light Wounds (Mass)], [Legend Lore], [Raise Dead], [Slay Living], [Stone to Flesh], [Suggestion (Mass)], [Summon Monster VI], [Swarm Skin]\*, [Symbol of Fear], [Symbol of Persuasion], [Transformation], [True Seeing], [Unwilling Shield]\*.*
 
-**7th-Level Witch Spells**-*[arcane sight
-(greater)], [chain
-lightning], [control
-weather], [cure
-moderate wounds
-(mass)],
-[harm],
-[heal], [hold person
-(mass)], [inflict
-moderate wounds
-(mass)],
-[insanity], [instant
-summons], [phase
-door], [plane
-shift], [power word
-blind],
-[regenerate], [scrying
-(greater)], [summon monster
-VII], [symbol of
-stunning],
-[symbol of
-weakness],
-[teleport (greater)],
-[teleport object],
-[vision], [waves of
-exhaustion].*
+**7th-Level Witch Spells**-*[Arcane Sight (Greater)], [Chain Lightning], [Control Weather], [Cure Moderate Wounds (Mass)], [Harm], [Heal], [Hold Person (Mass)], [Inflict Moderate Wounds (Mass)], [Insanity], [Instant Summons], [Phase Door], [Plane Shift], [Power Word Blind], [Regenerate], [Scrying (Greater)], [Summon Monster VII], [Symbol of Stunning], [Symbol of Weakness], [Teleport (Greater)], [Teleport Object], [Vision], [Waves of Exhaustion].*
 
-**8th-Level Witch
-Spells**-*[antipathy], [charm
-monster (mass)],
-[clone], [cure serious wounds
-(mass)],
-[demand],
-[destruction], [discern
-location], [horrid
-wilting], [inflict
-serious wounds
-(mass)],
-[irresistible
-dance],
-[maze], [mind
-blank], [moment of
-prescience],
-[power word stun],
-[prying eyes
-(greater)],
-[resurrection],
-[stormbolts]\*, [summon monster
-VIII], [symbol of
-death], [symbol of
-insanity],
-[sympathy], [trap the
-soul].*
+**8th-Level Witch Spells**-*[Antipathy], [Charm Monster (Mass)], [Clone], [Cure Serious Wounds (Mass)], [Demand], [Destruction], [Discern Location], [Horrid Wilting], [Inflict Serious Wounds (Mass)], [Irresistible Dance], [Maze], [Mind Blank], [Moment of Prescience], [Power Word Stun], [Prying Eyes (Greater)], [Resurrection], [Stormbolts]\*, [Summon Monster VIII], [Symbol of Death], [Symbol of Insanity], [Sympathy], [Trap the Soul].*
 
-**9th-Level Witch Spells**-*[astral
-projection],
-[cure critical wounds
-(mass)],
-[dominate monster],
-[elemental swarm],
-[foresight], [hold monster
-(mass)], [inflict
-critical wounds (mass)],
-[power word kill],
-[refuge], [soul
-bind], [storm of
-vengeance],
-[suffocation (mass)]\*,
-[summon monster IX],
-[teleportation circle],
-[wail of the banshee].*
+**9th-Level Witch Spells**-*[Astral Projection], [Cure Critical Wounds (Mass)], [Dominate Monster], [Elemental Swarm], [Foresight], [Hold Monster (Mass)], [Inflict Critical Wounds (Mass)], [Power Word Kill], [Refuge], [Soul Bind], [Storm Of Vengeance], [Suffocation (Mass)]\*, [Summon Monster IX], [Teleportation Circle], [Wail of the Banshee].*
+
