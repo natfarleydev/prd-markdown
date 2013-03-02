@@ -1,15 +1,15 @@
-[Armor](magicItems/armor.html)\
- [Weapons](magicItems/weapons.html)\
- [Rings](magicItems/rings.html)\
- [Rods](magicItems/rods.html)\
- [Staves](magicItems/staves.html)\
- [Wondrous Items](magicItems/wondrousItems.html)\
- [Cursed Items](magicItems/cursedItems.html)\
- [Minor Artifacts](magicItems/minorArtifacts.html)\
- [Major Artifacts](magicItems/majorArtifacts.html)\
+- [Armor
+- [Weapons]
+- [Rings]
+- [Rods]
+- [Staves]
+- [Wondrous Items]
+- [Cursed Items]
+- [Minor Artifacts]
+- [Major Artifacts]
 
-Magic Items
-===========
+
+# Magic Items
 
 Beyond well-known magic items, from ubiquitous *potions of [cure light
 wounds](../spells/cureLightWounds.html#_cure-light-wounds)*to prized
@@ -30,8 +30,8 @@ upon scrolls, or empowering wands as those in the *Core Rulebook,* and
 might be discovered as such items following the same rules detailed in
 Chapter 15 of that book.
 
-Magic Item Descriptions
-=======================
+
+## Magic Item Descriptions
 
 The following descriptions include notes on activation, random
 generation, and other material. The AC, hardness, hit points, and break
@@ -109,8 +109,8 @@ additional material components might increase this number. The cost to
 create the item includes the costs derived from the base cost plus the
 costs of the components.
 
-New Magic Items in a Campaign
-=============================
+
+## New Magic Items in a Campaign
 
 How pervasive a GM chooses to make the magic items in this chapter is
 entirely a matter of personal preference. There's no reason these new
