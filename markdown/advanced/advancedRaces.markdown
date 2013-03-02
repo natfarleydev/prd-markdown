@@ -13,7 +13,7 @@ and options for how to reflect that diversity of attitude, heritage, and
 experience and how it affects the way the races interact with the
 various adventuring careers presented in the Pathfinder RPG core rules.
 
-# Racial Attitudes
+## Racial Attitudes
 
 The following race discussions describe the general attitudes held by
 each race toward the 11 base classes in the *Pathfinder RPG Core
@@ -39,7 +39,7 @@ learn these typical attitudes about their class with a DC 10
 [Knowledge](../skills/knowledge.html#_knowledge) (local) check (DC 5 for
 attitudes of their own race).
 
-# Racial Traits
+## Racial Traits
 
 The following race discussions also describe alternate racial traits for
 each character race. It is important to note that these racial traits
@@ -84,7 +84,7 @@ As with any alternate or optional rule, you must first get the
 permission of your GM to exchange any of your character's normal racial
 traits for those in this chapter.
 
-# Racial Favored Classes
+## Racial Favored Classes
 
 The final section for each racial discussion describes alternative
 benefits for members of that race taking certain classes as a favored
@@ -137,7 +137,7 @@ As with any alternate or optional rule, consult with your GM to
 determine whether exchanging normal favored class benefits for those in
 this chapter will be allowed.
 
-# Dwarves
+## Dwarves
 
 Known as skilled craftsmen, fierce warriors, and pious clerics, members
 of the dwarven race prove just as diverse as the human folk who dwell on
@@ -154,7 +154,7 @@ orcs, instead facing other, equally menacing foes. Such dwarves might
 have different racial traits than those who are raised in a more
 traditional lifestyle.
 
-# Dwarf Adventurers
+### Dwarf Adventurers
 
 Dwarves who chose to become adventurers tend to be martial characters,
 from berserk barbarians to hammer-wielding clerics. Regardless of their
@@ -243,7 +243,7 @@ sorcery. Forgoing traditional dwarven training in favor of arcane study
 marks most wizards as outsiders among their young peers, though aged and
 learned wizards are well respected.
 
-# Alternate Racial Traits
+### Alternate Racial Traits
 
 The following racial traits might be selected instead of existing dwarf
 racial traits. Consult your GM before selecting any of these new
@@ -310,7 +310,7 @@ one of these abilities per round, but can try one on the second round if
 the first reroll ability fails). This racial trait replaces the hardy
 racial trait.
 
-# Favored Class Options
+### Favored Class Options
 
 Instead of receiving an additional skill rank or hit point whenever he
 gains a level in a favored class, a dwarf has the option of choosing
@@ -345,7 +345,7 @@ and magical beasts that live underground.
 Device](../skills/disableDevice.html#_disable-device) checks regarding
 stone traps and a +1/2 bonus to trap sense regarding stone traps.
 
-# Elves
+## Elves
 
 Renowned for their grace, wisdom, and near-immortality, elves are held
 in high esteem by most other races, especially for their mastery of
@@ -363,7 +363,7 @@ outside the realms usually embraced by their kindred. Such elves have
 different racial traits than those who are raised in a more traditional
 elven lifestyle.
 
-# Elf Adventurers
+### Elf Adventurers
 
 Elves who chose to become adventurers usually follow a martial path,
 pursue mastery of arcane magic, or seek a career that blends the two.
@@ -447,7 +447,7 @@ ties to the earth.
 research in all fields of specialization. For those with the talent to
 excel, wizardry is one of the surest paths to prestige in elven society.
 
-# Alternate Racial Traits
+### Alternate Racial Traits
 
 The following racial traits replace existing elf racial traits. Consult
 your GM before selecting any of these new options.
@@ -505,7 +505,7 @@ bonus on [Knowledge](../skills/knowledge.html#_knowledge) (nature) and
 these bonuses improve to +2. This racial trait replaces the elven magic
 racial trait.
 
-# Favored Class Options
+### Favored Class Options
 
 Instead of receiving an additional skill rank or hit point whenever they
 gain a level in a favored class, elves have the option of choosing from
@@ -547,7 +547,7 @@ usable a number of times per day equal to 3 + the wizard's Intelligence
 modifier. The wizard adds +1/2 to the number of uses per day of that
 arcane school power.
 
-# Gnomes
+## Gnomes
 
 Gnomes are a quirky race. They take mistakes in stride, turning derision
 into mirth and baffling their foes, if only long enough to work a bit of
@@ -565,7 +565,7 @@ drawing them to commerce, trade, and manufactories where they can follow
 and promote the latest discoveries. Such gnomes often have different
 racial traits than those raised among the rocks and trees.
 
-# Gnome Adventurers
+### Gnome Adventurers
 
 Gnomes ply their intellect and force of personality to overcome
 challenges. Though generally good-humored and tolerant, gnomes can
@@ -644,7 +644,7 @@ the realms of illusion and elemental magic. They are much respected as
 historians, researchers, and academics committed to pushing the
 boundaries of magical possibility, often by unprecedented leaps.
 
-# Alternate Racial Traits
+### Alternate Racial Traits
 
 The following racial traits replace existing gnome racial traits.
 Consult your GM before selecting any of these new options.
@@ -715,7 +715,7 @@ get a +2 dodge bonus to AC against aberrations, oozes, and vermin, and a
 This racial trait replaces the defensive training and hatred racial
 traits.
 
-# Favored Class Options
+### Favored Class Options
 
 Instead of receiving an additional skill rank or hit point whenever she
 gains a level in a favored class, gnomes have the option of choosing
@@ -755,7 +755,7 @@ powers. This increase only applies to arcane school powers available at
 1st level and normally usable a number of times per day equal to 3 + the
 wizard's Intelligence modifier.
 
-# Half-Elves
+## Half-Elves
 
 Half-elves are the idealized orphans of society, at once both
 charismatic and passionate, but never quite at home anywhere. Many
@@ -783,7 +783,7 @@ embodiments of burdensome shames. Yet while many possess dark pasts,
 such hardships prepare them for lives full of challenge and adventure
 like few members of more unified races could ever know.
 
-# Half-Elf Adventurers
+### Half-Elf Adventurers
 
 Half-elf adventurers often specialize in social classes or choose to
 multiclass, dabbling in several career paths as they try to find the
@@ -874,7 +874,7 @@ schools of magic stand open to them, many gravitate toward spells of
 explosive power, those that cloak them in mystery, or that otherwise aid
 in manipulating the world around them.
 
-# Alternate Racial Traits
+### Alternate Racial Traits
 
 The following racial traits replace existing half-elf racial traits.
 Consult your GM before selecting any of these new options.
@@ -921,7 +921,7 @@ near the water. These half-elves gain a +4 racial bonus on
 swimming, and may choose Aquan as a bonus language. This racial trait
 replaces the half-elf's adaptability and multitalented racial traits.
 
-# Favored Class Options
+### Favored Class Options
 
 Instead of receiving an additional skill rank or hit point whenever she
 gains a level in a favored class, half-elves have the option of choosing
@@ -959,7 +959,7 @@ familiar. This spell must be at least one level below the highest spell
 level she can cast. If the witch ever replaces her familiar, the new
 familiar knows these bonus spells.
 
-# Half-Orcs
+## Half-Orcs
 
 Half-orcs often exist at the social margins. Bestial in appearance and
 traditionally feared by those non-orcs they encounter, half-orcs tend to
@@ -976,7 +976,7 @@ endure and overcome. With their physical size and strength, half-orcs
 represent raw and primal power, yet whether that power gets used for
 good or evil depends entirely on the individual.
 
-# Half-Orc Adventurers
+### Half-Orc Adventurers
 
 Due to their powerful builds, half-orcs are particularly suited to the
 martial classes, whether as axe-wielding barbarians, battle-scarred
@@ -1071,7 +1071,7 @@ half-orc wizards are sometimes found in human societies, studying hard
 in a pursuit of power that could help win them the respect and position
 they so desperately desire.
 
-# Alternate Racial Traits
+### Alternate Racial Traits
 
 The following racial traits replace existing half-orc racial traits.
 Consult your GM before selecting any of these new options.
@@ -1140,7 +1140,7 @@ granting a bite attack. This is a primary natural attack that deals 1d4
 points of piercing damage. This racial trait replaces the orc ferocity
 racial trait.
 
-# Favored Class Options
+### Favored Class Options
 
 Instead of receiving an additional skill rank or hit point whenever they
 gain a level in a favored class, half-orcs have the option of choosing
@@ -1171,7 +1171,7 @@ gains these bonus hit points.
 ever replaces her familiar, the new familiar gains these bonus skill
 ranks.
 
-# Halflings
+## Halflings
 
 Often overlooked due to their diminutive size, halflings have an amazing
 ability to seamlessly insert themselves into the grand narrative of the
@@ -1189,7 +1189,7 @@ kinship with other halflings (and to a lesser extent with gnomes) is an
 unspoken connection between those who know what it is to be so small and
 ignored in a world full of bigger creatures.
 
-# Halfling Adventurers
+### Halfling Adventurers
 
 Halflings who choose to become adventurers often favor light armor and
 weapons that play to their natural dexterity, emphasizing a variety of
@@ -1291,7 +1291,7 @@ combination of curiosity and a desire to rise above their physical size
 and force other races to take notice of them. As a result, they tend to
 prefer flashy spells and flagrant displays of power.
 
-# Alternate Racial Traits
+### Alternate Racial Traits
 
 The following racial traits replace existing halfling racial traits.
 Consult your GM before selecting any of these new options.
@@ -1349,7 +1349,7 @@ with this racial trait can reload a sling as a free action. Reloading a
 sling still requires two hands and provokes attacks of opportunity. This
 racial trait replaces the sure-footed racial trait.
 
-# Favored Class Options
+### Favored Class Options
 
 Instead of receiving an additional skill rank or hit point whenever they
 gain a level in a favored class, halflings have the option of choosing
@@ -1389,7 +1389,7 @@ Focus](../feats.html#_critical-focus).
 
 **Summoner**: Add +1 skill rank to the summoner's eidolon.
 
-# Humans
+## Humans
 
 Humans possess an adaptability and expansionist verve, driven by endless
 fonts of ambition and imagination. Such traits have allowed them to
@@ -1412,7 +1412,7 @@ Human diversity extends to every field of study as well, as their
 curiosity leads them to unlimited opportunities, endlessly striving for
 mastery.
 
-# Human Adventurers
+### Human Adventurers
 
 Human adventurers specialize in every career, their talent and ambition
 driving them not just to succeed but to achieve greatness, founding
@@ -1498,7 +1498,7 @@ secrets of creation, leading human wizards to seek out ancient mysteries
 of arcane lore and new magical innovations. Humans excel both at
 mastering specific schools of magic and in more universal studies.
 
-# Alternate Racial Traits
+### Alternate Racial Traits
 
 The following racial traits replace existing human racial traits.
 Consult your GM before selecting any of these new options.
@@ -1532,7 +1532,7 @@ and add half their character level to their Constitution score when
 determining the negative hit point total necessary to kill them. This
 racial trait replaces the skilled racial trait.
 
-# Favored Class Options
+### Favored Class Options
 
 Instead of receiving an additional skill rank or hit point whenever they
 gain a level in a favored class, humans have the option of choosing from

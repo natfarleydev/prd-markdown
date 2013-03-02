@@ -22,44 +22,44 @@ following criteria.
 
 **Special**: Challenge and inspire courage class features.
 
-**Skills**: [Diplomacy](#diplomacy) 5 ranks,
-[Intimidate](#intimidate) 5 ranks,
-[Perform](#perform) (oratory) 5 ranks,
-[Profession](#profession) (soldier) 2
+**Skills**: [Diplomacy] 5 ranks,
+[Intimidate] 5 ranks,
+[Perform] (oratory) 5 ranks,
+[Profession] (soldier) 2
 ranks.
 
 # Class Skills
 
 The battle herald's class skills are
-[Bluff](#bluff) (Cha),
-[Craft](#craft) (Int),
-[Diplomacy](#diplomacy) (Cha), [Handle
-Animal](#handle-animal) (Cha),
-[Heal](#heal) (Wis),
-[Intimidate](#intimidate) (Cha),
-[Knowledge](#knowledge) (engineering) (Int),
-[Knowledge](#knowledge) (history) (Int),
-[Knowledge](#knowledge) (local) (Int),
-[Knowledge](#knowledge) (nobility) (Int),
-[Perception](#perception) (Wis),
-[Profession](#profession) (Wis),
-[Ride](#ride) (Dex), and [Sense
-Motive](#sense-motive) (Wis).
+[Bluff] (Cha),
+[Craft] (Int),
+[Diplomacy] (Cha), [Handle
+Animal] (Cha),
+[Heal] (Wis),
+[Intimidate] (Cha),
+[Knowledge] (engineering) (Int),
+[Knowledge] (history) (Int),
+[Knowledge] (local) (Int),
+[Knowledge] (nobility) (Int),
+[Perception] (Wis),
+[Profession] (Wis),
+[Ride] (Dex), and [Sense
+Motive] (Wis).
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special
   ------- ------------------- ----------- ---------- ----------- ------------------------------------------------------------------------------------------------------------------------------------------
-  1st     +1                  +1          +0         +1          1st [inspiring command](#inspiring-command) (+1), [improved leadership](#improved-leadership), [voice of authority](#voice-of-authority)
-  2nd     +2                  +1          +1         +1          [Easy march](#easy-march)
-  3rd     +3                  +2          +1         +2          2nd [inspiring command](#inspiring-command)
-  4th     +4                  +2          +1         +2          [Inspiring command](#inspiring-command) (+2), [inspire greatness](#inspire-greatness)
-  5th     +5                  +3          +2         +3          3rd [inspiring command](#inspiring-command), [banner](#banner)
-  6th     +6                  +3          +2         +3          [Teamwork feat](#teamwork-feat)
-  7th     +7                  +4          +2         +4          4th [inspiring command](#inspiring-command) (+3), [demanding challenge](#demanding-challenge)
-  8th     +8                  +4          +3         +4          [Persistent commands](#persistent-commands)
-  9th     +9                  +5          +3         +5          5th [inspiring command](#inspiring-command), [inspire last stand](#inspire-last-stand)
-  10th    +10                 +5          +3         +5          [Complex commands](#complex-commands), [inspiring command](#inspiring-command) (+4)
+  1st     +1                  +1          +0         +1          1st [inspiring command] (+1), [improved leadership], [voice of authority]
+  2nd     +2                  +1          +1         +1          [Easy march]
+  3rd     +3                  +2          +1         +2          2nd [inspiring command]
+  4th     +4                  +2          +1         +2          [Inspiring command] (+2), [inspire greatness]
+  5th     +5                  +3          +2         +3          3rd [inspiring command], [banner]
+  6th     +6                  +3          +2         +3          [Teamwork feat]
+  7th     +7                  +4          +2         +4          4th [inspiring command] (+3), [demanding challenge]
+  8th     +8                  +4          +3         +4          [Persistent commands]
+  9th     +9                  +5          +3         +5          5th [inspiring command], [inspire last stand]
+  10th    +10                 +5          +3         +5          [Complex commands], [inspiring command] (+4)
 
   : Table: Battle Herald
 
@@ -98,7 +98,7 @@ issue inspiring commands, but not vice versa. Inspiring commands are
 language-dependent, mind-affecting effects. The battle herald cannot
 maintain an inspiring command and a bardic performance at the same time
 (this does not preclude abilities such as persistent command or the
-[Lingering Performance](#lingering-performance)
+[Lingering Performance]
 feat, which continue an inspiring command or bardic performance after
 the battle herald stops maintaining it).
 
@@ -140,7 +140,7 @@ are sleeping normally automatically awaken when this ability is used.
 
 *Scatter\**: A number of allies equal to the battle herald's inspiring
 command bonus gain the benefits of the [Wind
-Stance](#wind-stance) feat.
+Stance] feat.
 
 *Shake It Off\**: One ally subject to an ongoing condition may attempt a
 new saving throw to negate the effects with a bonus equal to the battle
@@ -154,7 +154,7 @@ bonus to attack and damage rolls. Charging allies increase their speed
 by 5 feet times the battle herald's inspiring command bonus.
 
 *Sound the Retreat*: Allies gain the benefit of the [Lightning
-Stance](#lightning-stance) feat. The battle herald must
+Stance] feat. The battle herald must
 have the scatter ability to select this ability.
 
 *Stand Firm*: Allies apply the battle herald's inspiring command bonus
@@ -167,23 +167,23 @@ amount equal to the battle herald's inspiring command bonus.
 
 *Tuck and Roll*: Allies apply the battle herald's inspiring command
 bonus on Reflex saves and
-[Acrobatics](#acrobatics) checks.
+[Acrobatics] checks.
 
-**Improved [Leadership](#leadership) (Ex)**: A battle
-herald with the [Leadership](#leadership) feat adds her
+**Improved [Leadership] (Ex)**: A battle
+herald with the [Leadership] feat adds her
 inspiring command bonus to her leadership score.
 
 **Voice of Authority (Ex)**: A battle herald is skilled at shouting
 commands over the din of the battlefield and signaling allies when
 speech is impossible. She gains a +2 bonus on
-[Diplomacy](#diplomacy) and
-[Intimidate](#intimidate) checks with
+[Diplomacy] and
+[Intimidate] checks with
 creatures with which she shares a language. In addition, her allies gain
 a bonus equal to the battle herald's class level on
-[Perception](#perception) or [Sense
-Motive](#sense-motive) checks to hear her
+[Perception] or [Sense
+Motive] checks to hear her
 commands or interpret her secret messages conveyed with
-[Bluff](#bluff). The battle herald's levels
+[Bluff]. The battle herald's levels
 stack with cavalier levels for the purpose of the cavalier's tactician
 ability.
 
@@ -224,7 +224,7 @@ ongoing, she may resume maintaining it as a free action.
 
 **Inspire Last Stand (Ex)**: At 9th level, a battle herald may use
 inspiring command to grant herself and all allies within 30 feet the
-benefits of the [Diehard](#diehard) feat. Conscious
+benefits of the [Diehard] feat. Conscious
 affected creatures also gain the benefits of inspire courage while at
 negative hit points.
 
@@ -278,41 +278,41 @@ following criteria.
 
 **Special**: Channel energy class feature.
 
-**Skills**: [Knowledge](#knowledge)
+**Skills**: [Knowledge]
 (religion) 5 ranks.
 
-**Feats**: [Alignment Channel](#alignment-channel) or
-[Elemental Channel](#elemental-channel).
+**Feats**: [Alignment Channel] or
+[Elemental Channel].
 
 **Spells**: Able to cast 1st-level divine spells.
 
 # Class Skills
 
 The vindicator's class skills are
-[Climb](#climb) (Str),
-[Heal](#heal) (Wis),
-[Intimidate](#intimidate) (Cha),
-[Knowledge](#knowledge) (planes) (Int),
-[Knowledge](#knowledge) (religion) (Int),
-[Ride](#ride) (Dex), [Sense
-Motive](#sense-motive) (Wis),
-[Spellcraft](#spellcraft) (Int), and
-[Swim](#swim) (Str).
+[Climb] (Str),
+[Heal] (Wis),
+[Intimidate] (Cha),
+[Knowledge] (planes) (Int),
+[Knowledge] (religion) (Int),
+[Ride] (Dex), [Sense
+Motive] (Wis),
+[Spellcraft] (Int), and
+[Swim] (Str).
 
 **Skill Ranks per Level**: 2 + Int modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special                                                                          SpellsSpells per Day
   ------- ------------------- ----------- ---------- ----------- -------------------------------------------------------------------------------- ---------------------------------------
-  1st     +1                  +1          +0         +1          [Channel energy](#channel-energy), [vindicator's shield](#vindicator's-shield)   —
-  2nd     +2                  +1          +1         +1          [Stigmata](#stigmata)                                                            +1 level of divine spellcasting class
-  3rd     +3                  +2          +1         +2          [Faith healing](#faith-healing) (empower)                                        +1 level of divine spellcasting class
-  4th     +4                  +2          +1         +2          [Divine wrath](#divine-wrath)                                                    +1 level of divine spellcasting class
-  5th     +5                  +3          +2         +3          [Bloodfire](#bloodfire), [Channel Smite](#channel-smite)        —
-  6th     +6                  +3          +2         +3          [Versatile channel](#versatile-channel)                                          +1 level of divine spellcasting class
-  7th     +7                  +4          +2         +4          [Divine judgment](#divine-judgment)                                              +1 level of divine spellcasting class
-  8th     +8                  +4          +3         +4          [Faith healing](#faith-healing) (maximize)                                       +1 level of divine spellcasting class
-  9th     +9                  +5          +3         +5          [Bloodrain](#bloodrain)                                                          —
-  10th    +10                 +5          +3         +5          [Divine retribution](#divine-retribution)                                        +1 level of divine spellcasting class
+  1st     +1                  +1          +0         +1          [Channel energy], [vindicator's shield]   —
+  2nd     +2                  +1          +1         +1          [Stigmata]                                                            +1 level of divine spellcasting class
+  3rd     +3                  +2          +1         +2          [Faith healing] (empower)                                        +1 level of divine spellcasting class
+  4th     +4                  +2          +1         +2          [Divine wrath]                                                    +1 level of divine spellcasting class
+  5th     +5                  +3          +2         +3          [Bloodfire], [Channel Smite]        —
+  6th     +6                  +3          +2         +3          [Versatile channel]                                          +1 level of divine spellcasting class
+  7th     +7                  +4          +2         +4          [Divine judgment]                                              +1 level of divine spellcasting class
+  8th     +8                  +4          +3         +4          [Faith healing] (maximize)                                       +1 level of divine spellcasting class
+  9th     +9                  +5          +3         +5          [Bloodrain]                                                          —
+  10th    +10                 +5          +3         +5          [Divine retribution]                                        +1 level of divine spellcasting class
 
   : Table: Holy Vindicator
 
@@ -361,13 +361,13 @@ deactivate and reactivate his stigmata.
 
 While his stigmata are bleeding, the vindicator ignores blood drain and
 bleed damage from any other source and can use
-*[bleed](#bleed)* or
-*[stabilize](#stabilize)* at will as a
+*[bleed]* or
+*[stabilize]* at will as a
 standard action.
 
 **Faith Healing (Su)**: At 3rd level, any *cure wounds* spells a
 vindicator casts on himself are automatically empowered as if by the
-[Empower Spell](#empower-spell) feat, except they do
+[Empower Spell] feat, except they do
 not use higher spell level slots or an increased casting time. If the
 vindicator targets himself with a cure spell that affects multiple
 creatures, this ability only applies to himself. At 8th level, these
@@ -375,7 +375,7 @@ healing spells are maximized rather than empowered.
 
 **Divine Wrath (Sp)**: At 4th level, when a vindicator confirms a
 critical hit, he may sacrifice a prepared 1st-level spell or available
-1st-level spell slot to invoke *[doom](#doom)*
+1st-level spell slot to invoke *[doom]*
 upon the target as an immediate action (using the vindicator's caster
 level). The save DC is increased by +2 if his weapon has a ×3 damage
 multiplier, or by +4 if it is ×4. The vindicator can also use this
@@ -384,14 +384,14 @@ incapacitates or kills the vindicator.
 
 **Bloodfire (Su)**: At 5th level, while a vindicator's stigmata are
 bleeding, his blood runs down his weapons like sacred or profane liquid
-energy; when he uses [Channel Smite](#channel-smite),
+energy; when he uses [Channel Smite],
 the damage increases by 1d6, and if the target fails its save, it is
 sickened and takes 1d6 points of bleed damage each round on its turn.
 The target can attempt a new save every round to end the sickened and
 bleed effects.
 
-**[Channel Smite](#channel-smite)**: At 5th level, a
-vindicator gains [Channel Smite](#channel-smite) as a
+**[Channel Smite]**: At 5th level, a
+vindicator gains [Channel Smite] as a
 bonus feat.
 
 **Versatile Channel (Su)**: At 6th level, a vindicator's channel energy
@@ -400,7 +400,7 @@ can instead affect a 30-foot cone or a 120-foot line.
 **Divine Judgment (Sp)**: At 7th level, when a vindicator's melee attack
 reduces a creature to -1 or fewer hit points, he may sacrifice a
 prepared 2nd-level spell or available 2nd-level spell slot to invoke
-*[death knell](#death-knell)* upon the
+*[death knell]* upon the
 target as an immediate action (using the vindicator's caster level). As
 vindicators mete out divine judgment, this is not an evil act. The save
 DC increases by +2 if his weapon has a ×3 critical multiplier, or by +4
@@ -416,7 +416,7 @@ attempt a new save every round to end the sickened and bleed effects.
 **Divine Retribution (Sp)**: At 10th level, when a vindicator confirms a
 critical hit, he may sacrifice a prepared 3rd-level spell or available
 3rd-level spell slot to invoke *[bestow
-curse](#bestow-curse)* upon the target as
+curse]* upon the target as
 an immediate action (using the vindicator's caster level). The save DC
 increases by +2 if his weapon has a ×3 critical multiplier, or by +4 if
 it is ×4. The vindicator can also use this ability in response to being
@@ -460,40 +460,40 @@ a horizon walker can be of any alignment.
 To qualify to become a horizon walker, a character must fulfill all the
 following criteria.
 
-**Skills**: [Knowledge](#knowledge)
+**Skills**: [Knowledge]
 (geography) 6 ranks.
 
-**Feats**: [Endurance](#endurance).
+**Feats**: [Endurance].
 
 # Class Skills
 
 The horizon walker's class skills are
-[Climb](#climb) (Str),
-[Diplomacy](#diplomacy) (Cha), [Handle
-Animal](#handle-animal) (Cha),
-[Knowledge](#knowledge) (geography) (Int),
-[Knowledge](#knowledge) (nature) (Int),
-[Knowledge](#knowledge) (the planes) (Int),
-[Linguistics](#linguistics) (Int),
-[Perception](#perception) (Wis),
-[Stealth](#stealth) (Dex),
-[Survival](#survival) (Wis), and
-[Swim](#swim) (Str).
+[Climb] (Str),
+[Diplomacy] (Cha), [Handle
+Animal] (Cha),
+[Knowledge] (geography) (Int),
+[Knowledge] (nature) (Int),
+[Knowledge] (the planes) (Int),
+[Linguistics] (Int),
+[Perception] (Wis),
+[Stealth] (Dex),
+[Survival] (Wis), and
+[Swim] (Str).
 
 **Skill Ranks at Each Level**: 6 + Int modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special
   ------- ------------------- ----------- ---------- ----------- ----------------------------------------------------------------------------------
-  1st     +1                  +1          +0         +0          [Favored terrain](#favored-terrain)
-  2nd     +2                  +1          +1         +1          [Favored terrain](#favored-terrain), [terrain mastery](#terrain-mastery)
-  3rd     +3                  +2          +1         +1          [Terrain dominance](#terrain-dominance)
-  4th     +4                  +2          +1         +1          [Favored terrain](#favored-terrain), [terrain mastery](#terrain-mastery)
-  5th     +5                  +3          +2         +2          [Favored terrain](#favored-terrain)
-  6th     +6                  +3          +2         +2          [Terrain dominance](#terrain-dominance), [terrain mastery](#terrain-mastery)
-  7th     +7                  +4          +2         +2          [Favored terrain](#favored-terrain)
-  8th     +8                  +4          +3         +3          [Favored terrain](#favored-terrain), [terrain mastery](#terrain-mastery)
-  9th     +9                  +5          +3         +3          [Terrain dominance](#terrain-dominance)
-  10th    +10                 +5          +3         +3          [Favored terrain](#favored-terrain), [master of all lands](#master-of-all-lands)
+  1st     +1                  +1          +0         +0          [Favored terrain]
+  2nd     +2                  +1          +1         +1          [Favored terrain], [terrain mastery]
+  3rd     +3                  +2          +1         +1          [Terrain dominance]
+  4th     +4                  +2          +1         +1          [Favored terrain], [terrain mastery]
+  5th     +5                  +3          +2         +2          [Favored terrain]
+  6th     +6                  +3          +2         +2          [Terrain dominance], [terrain mastery]
+  7th     +7                  +4          +2         +2          [Favored terrain]
+  8th     +8                  +4          +3         +3          [Favored terrain], [terrain mastery]
+  9th     +9                  +5          +3         +3          [Terrain dominance]
+  10th    +10                 +5          +3         +3          [Favored terrain], [master of all lands]
 
   : Table: Horizon Walker
 
@@ -518,10 +518,10 @@ horizon walker.
 **Terrain Mastery**: At 2nd level, a horizon walker selects a favored
 terrain to master. When within this terrain the horizon walker may, as a
 move action, grant a +2 bonus on
-[Climb](#climb),
-[Stealth](#stealth),
-[Perception](#perception) and
-[Survival](#survival) checks made by all
+[Climb],
+[Stealth],
+[Perception] and
+[Survival] checks made by all
 allies within 30 feet who can see and hear him. The character masters
 one additional terrain at 4th, 6th, and 8th levels.
 
@@ -542,21 +542,21 @@ chance from fog and mist, and treats total concealment from these
 sources as concealment.
 
 *Forest*: The horizon walker gains a +4 competence bonus on
-[Stealth](#stealth) checks.
+[Stealth] checks.
 
 *Jungle*: The horizon walker gains a +4 competence bonus on [Escape
-Artist](#escape-artist) checks and
+Artist] checks and
 increases his CMD against grapple maneuvers by +4.
 
 *Mountain*: The horizon walker gains a +4 competence bonus on
-[Climb](#climb) checks and does not lose his
+[Climb] checks and does not lose his
 Dexterity modifier to AC while climbing.
 
 *Plains*: The horizon walker's movement is not reduced by wearing medium
 armor or carrying a medium load.
 
 *Plane of Air*: The horizon walker gains a +4 competence bonus on
-[Fly](#fly) checks and +1 competence bonus on all
+[Fly] checks and +1 competence bonus on all
 attack and damage rolls against flying creatures. He gains the ability
 to breathe air if he cannot already do so.
 
@@ -565,7 +565,7 @@ to breathe air if he cannot already do so.
 *Plane of Fire*: The horizon walker gains fire resistance 10.
 
 *Plane of Water*: The horizon walker gains a +4 competence bonus on
-[Swim](#swim) checks and a +1 competence bonus on
+[Swim] checks and a +1 competence bonus on
 all attack and damage rolls against swimming creatures. He gains the
 ability to breathe water if he cannot already do so.
 
@@ -575,16 +575,16 @@ forms of magic divination) as an immediate action; this benefit lasts
 until he dismisses it (a free action).
 
 *Swamp*: The horizon walker gains a +4 competence bonus on
-[Perception](#perception) checks.
+[Perception] checks.
 
 *Underground*: The horizon walker gains
-[Blind-Fight](#blind-fight) as a bonus feat.
+[Blind-Fight] as a bonus feat.
 
 *Urban*: The horizon walker gains a +4 competence bonus on
-[Diplomacy](#diplomacy) checks.
+[Diplomacy] checks.
 
 *Water*: The horizon walker gains a +4 competence bonus on
-[Swim](#swim) checks and +1 competence bonus on
+[Swim] checks and +1 competence bonus on
 all attack and damage rolls against swimming creatures.
 
 **Terrain Dominance**: At 3rd level, a horizon walker learns total
@@ -601,7 +601,7 @@ instead pick an additional terrain mastery.
 
 *Astral Plane*: The horizon walker gains a +1 competence bonus on attack
 and damage rolls against outsiders. He gains *[dimension
-door](#dimension-door)* as a spell-like
+door]* as a spell-like
 ability a number of times per day equal to 3 + the character's Wisdom
 modifier (caster level equal to the character's level).
 
@@ -614,19 +614,19 @@ cold subtype.
 fatigue.
 
 *Ethereal Plane*: The walker gains *[ethereal
-jaunt](#ethereal-jaunt)* as a spell-like
+jaunt]* as a spell-like
 ability once per day (caster level equal to the character's level). He
 must be at least 7th level before selecting this power.
 
 *Forest*: The horizon walker gains *[hallucinatory
-terrain](#hallucinatory-terrain)*
+terrain]*
 as a spell-like ability a number of times per day equal to 3 + the
 character's Wisdom modifier (caster level equal to the character's
 level). The horizon walker can only use this ability to create illusory
 forests.
 
 *Jungle*: The horizon walker gains *[charm
-monster](#charm-monster)* as a spell-like
+monster]* as a spell-like
 ability a number of times per day equal to 3 + the character's Wisdom
 modifier (caster level equal to the character's level). This charm only
 affects animals, magical beasts, and creatures primarily found in the
@@ -653,7 +653,7 @@ again creatures of the fire subtype.
 *Plane of Water*: The horizon walker's movements and actions are not
 hampered when underwater. This allows him to speak, make attacks, and
 cast spells normally underwater (as if using *[freedom of
-movement](#freedom-of-movement)*).
+movement]*).
 
 *Plane, aligned*: For the purpose of bypassing damage reduction, the
 horizon walker's manufactured and natural weapons count as the opposite
@@ -677,7 +677,7 @@ feet. If he already has darkvision 60 feet, its range extends by 60
 feet.
 
 *Urban*: The horizon walker gains *[charm
-person](#charm-person)* as a spell-like
+person]* as a spell-like
 ability a number of times per day equal to 3 + the character's Wisdom
 modifier (caster level equal to the character's level).
 
@@ -743,29 +743,29 @@ discovery.
 # Class Skills
 
 The master chymist's class skills are
-[Acrobatics](#acrobatics) (Dex),
-[Climb](#climb) (Str), [Escape
-Artist](#escape-artist) (Dex),
-[Intimidate](#intimidate) (Cha),
-[Knowledge](#knowledge) (dungeoneering)
-(Int), [Sense Motive](#sense-motive)
-(Wis), [Stealth](#stealth) (Dex), and
-[Swim](#swim) (Str).
+[Acrobatics] (Dex),
+[Climb] (Str), [Escape
+Artist] (Dex),
+[Intimidate] (Cha),
+[Knowledge] (dungeoneering)
+(Int), [Sense Motive]
+(Wis), [Stealth] (Dex), and
+[Swim] (Str).
 
 **Skill Ranks at Each Level**: 2 + Int modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special                                                                                     Extracts per Day
   ------- ------------------- ----------- ---------- ----------- ------------------------------------------------------------------------------------------- ----------------------- ---
-  1st     +1                  +1          +1         +0          [Bomb-thrower](#bomb-thrower), [mutagenic form](#mutagenic-form), [mutate](#mutate) 2/day   —
-  2nd     +2                  +1          +1         +1          [Advanced mutagen](#advanced-mutagen)                                                       +1 level of alchemist
-  3rd     +3                  +2          +2         +1          [Brutality](#brutality) (+2)                                                                +1 level of alchemist
+  1st     +1                  +1          +1         +0          [Bomb-thrower], [mutagenic form], [mutate] 2/day   —
+  2nd     +2                  +1          +1         +1          [Advanced mutagen]                                                       +1 level of alchemist
+  3rd     +3                  +2          +2         +1          [Brutality] (+2)                                                                +1 level of alchemist
   4th     +4                  +2          +2         +1          Advanced mutagen                                                                            —
-  5th     +5                  +3          +3         +2          [Mutate](#mutate) 3/day                                                                     +1 level of alchemist
-  6th     +6                  +3          +3         +2          [Advanced mutagen](#advanced-mutagen)                                                       +1 level of alchemist
-  7th     +7                  +4          +4         +2          [Brutality](#brutality) (+4)                                                                +1 level of alchemist
-  8th     +8                  +4          +4         +3          [Advanced mutagen](#advanced-mutagen), [mutate](#mutate) 4/day                              —
-  9th     +9                  +5          +5         +3          [Brutality](#brutality) (+6)                                                                +1 level of alchemist
-  10th    +10                 +5          +5         +3          [Advanced mutagen](#advanced-mutagen), [mutate](#mutate) 5/day                              +1 level of alchemist   —
+  5th     +5                  +3          +3         +2          [Mutate] 3/day                                                                     +1 level of alchemist
+  6th     +6                  +3          +3         +2          [Advanced mutagen]                                                       +1 level of alchemist
+  7th     +7                  +4          +4         +2          [Brutality] (+4)                                                                +1 level of alchemist
+  8th     +8                  +4          +4         +3          [Advanced mutagen], [mutate] 4/day                              —
+  9th     +9                  +5          +5         +3          [Brutality] (+6)                                                                +1 level of alchemist
+  10th    +10                 +5          +5         +3          [Advanced mutagen], [mutate] 5/day                              +1 level of alchemist   —
 
   : Table: Master Chymist
 
@@ -814,7 +814,7 @@ survive in the harsh world the chymist lives in. As Darabont, the
 character detects as good and is affected as a good character by spells
 with effects that vary by alignment; as Butcher, the same character is
 neutral, is not revealed by a *[detect
-good](#detect-good)* spell, and is treated
+good]* spell, and is treated
 as neutral for all spells and effects.
 
 **Mutate (Su)**: At 1st level, as a result of repeated exposure to her
@@ -828,7 +828,7 @@ again while in her mutagenic form works normally (with the new mutagen's
 modifiers replacing the current modifiers, and the longer duration
 taking precedent). The chymist remains in her mutagenic form until its
 duration expires, her magic is interrupted (as with an *[antimagic
-field](#antimagic-field)*), or she
+field]*), or she
 expends another use of her mutate ability.
 
 A chymist may be forced to take her mutagenic form against her will by
@@ -855,7 +855,7 @@ frame gives her an alchemical bonus on Strength checks, Constitution
 checks, and Strength-based skill checks as well as a bonus to CMB and
 CMD. The bonus is equal to half the master chymist's class level.
 
-*[Disguise](#disguise) (Ex)*: When in her
+*[Disguise] (Ex)*: When in her
 mutagenic form, the chymist can temporarily change her appearance to her
 normal form and still retain most of the abilities of her mutagenic
 form. As a standard action, she may make a Will saving throw (DC 20) to
@@ -875,7 +875,7 @@ mutagenic form.
 *Draconic Mutagen (Su)*: When the chymist assumes her mutagenic form,
 she gains dragon-like features—scaly skin, reptilian eyes, and so on,
 resembling a half-dragon. The chymist chooses one dragon type (see the
-[draconic bloodline](#draconic)) when
+[draconic bloodline]) when
 selecting this advanced mutagen; once selected, this choice cannot be
 changed and determines her draconic resistances and breath weapon type.
 The chymist gains resistance 20 to the dragon's energy type. The
@@ -885,7 +885,7 @@ modifier); she may use her breath weapon once per transformation into
 her mutagenic form. The character must have an effective alchemist level
 (alchemist level plus master chymist levels) of at least 16, must know
 the *[form of the dragon
-I](#form-of-the-dragon-i)* extract,
+I]* extract,
 and must have the feral mutagen discovery or advanced mutagen to select
 this ability.
 
@@ -910,7 +910,7 @@ is doubled.
 discovery of the same name and counts as that discovery for the purpose
 of qualifying for other discoveries or advanced mutagens.
 
-*[Furious](#furious) Mutagen (Ex)*: The
+*[Furious] Mutagen (Ex)*: The
 damage dice for the feral mutagen's bite and claw attacks increase by
 one die step. The character must have an effective alchemist level
 (alchemist level plus chymist level) of at least 11 and must have the
@@ -932,15 +932,15 @@ advanced mutagen to select this ability.
 
 *Growth Mutagen (Su)*: When the chymist assumes her mutagenic form, she
 increases one size category, as if under the effects of an *[enlarge
-person](#enlarge-person)* spell. The
+person]* spell. The
 character must have an effective alchemist level (alchemist level plus
 chymist level) of at least 16 and must know the *[enlarge
-person](#enlarge-person)*, *[giant form
-I](#giant-form-i)*, or
-*[polymorph](#polymorph)* extract to select
+person]*, *[giant form
+I]*, or
+*[polymorph]* extract to select
 this ability.
 
-*Night [Vision](#vision) (Ex)*: The chymist
+*Night [Vision] (Ex)*: The chymist
 gains darkvision 60 feet and low-light vision in her mutagenic form.
 
 *Nimble (Ex)*: The master chymist's lithe physical frame gives her an
@@ -1000,44 +1000,44 @@ neutral than lawful or chaotic.
 To qualify to become a master spy, a character must fulfill all the
 following criteria.
 
-**Feats**: [Deceitful](#deceitful), [Iron
-Will](#iron-will).
+**Feats**: [Deceitful], [Iron
+Will].
 
-**Skills**: [Bluff](#bluff) 7 ranks,
-[Disguise](#disguise) 7 ranks,
-[Perception](#perception) 5 ranks, [Sense
-Motive](#sense-motive) 5 ranks.
+**Skills**: [Bluff] 7 ranks,
+[Disguise] 7 ranks,
+[Perception] 5 ranks, [Sense
+Motive] 5 ranks.
 
 # Class Skills
 
 The master spy's class skills are
-[Bluff](#bluff) (Cha),
-[Diplomacy](#diplomacy) (Cha), [Disable
-Device](#disable-device) (Dex),
-[Disguise](#disguise) (Cha), [Escape
-Artist](#escape-artist) (Dex),
-[Knowledge](#knowledge) (all) (Int),
-[Linguistics](#linguistics) (Int),
-[Perception](#perception) (Wis), [Sense
-Motive](#sense-motive) (Wis), [Sleight of
-Hand](#sleight-of-hand) (Dex),
-[Stealth](#stealth) (Dex), and [Use Magic
-Device](#use-magic-device) (Cha).
+[Bluff] (Cha),
+[Diplomacy] (Cha), [Disable
+Device] (Dex),
+[Disguise] (Cha), [Escape
+Artist] (Dex),
+[Knowledge] (all) (Int),
+[Linguistics] (Int),
+[Perception] (Wis), [Sense
+Motive] (Wis), [Sleight of
+Hand] (Dex),
+[Stealth] (Dex), and [Use Magic
+Device] (Cha).
 
 **Skill Ranks per Level**: 6 + Int modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special
   ------- ------------------- ----------- ---------- ----------- ----------------------------------------------------------------------------------------------------------------------
-  1st     +0                  +0          +1         +1          [Art of deception](#art-of-deception), [master of disguise](#master-of-disguise), [sneak attack](#sneak-attack) +1d6
-  2nd     +1                  +1          +1         +1          [Glib lie](#glib-lie), [mask alignment](#mask-alignment)
-  3rd     +2                  +1          +2         +2          [Nonmagical aura](#nonmagical-aura) 2/day, [superficial knowledge](#superficial-knowledge)
-  4th     +3                  +1          +2         +2          [Concealed thoughts](#concealed-thoughts), [quick change](#quick-change), [sneak attack](#sneak-attack) +2d6
-  5th     +3                  +2          +3         +3          [Elude detection](#elude-detection), [slippery mind](#slippery-mind)
-  6th     +4                  +2          +3         +3          [Shift alignment](#shift-alignment)
-  7th     +5                  +2          +4         +4          [Sneak attack](#sneak-attack) +3d6
-  8th     +6                  +3          +4         +4          [Death attack](#death-attack), [fool casting](#fool-casting)
-  9th     +6                  +3          +5         +5          [Hidden mind](#hidden-mind)
-  10th    +7                  +3          +5         +5          [Assumption](#assumption), [sneak attack](#sneak-attack) +4d6
+  1st     +0                  +0          +1         +1          [Art of deception], [master of disguise], [sneak attack] +1d6
+  2nd     +1                  +1          +1         +1          [Glib lie], [mask alignment]
+  3rd     +2                  +1          +2         +2          [Nonmagical aura] 2/day, [superficial knowledge]
+  4th     +3                  +1          +2         +2          [Concealed thoughts], [quick change], [sneak attack] +2d6
+  5th     +3                  +2          +3         +3          [Elude detection], [slippery mind]
+  6th     +4                  +2          +3         +3          [Shift alignment]
+  7th     +5                  +2          +4         +4          [Sneak attack] +3d6
+  8th     +6                  +3          +4         +4          [Death attack], [fool casting]
+  9th     +6                  +3          +5         +5          [Hidden mind]
+  10th    +7                  +3          +5         +5          [Assumption], [sneak attack] +4d6
 
   : Table: Master Spy
 
@@ -1049,11 +1049,11 @@ The following are class features of the master spy prestige class.
 any weapon or armor.
 
 **Art of Deception (Ex)**: A master spy adds her class level to all
-[Bluff](#bluff),
-[Disguise](#disguise), and [Sense
-Motive](#sense-motive) checks.
+[Bluff],
+[Disguise], and [Sense
+Motive] checks.
 
-**Master of [Disguise](#disguise) (Ex)**: A
+**Master of [Disguise] (Ex)**: A
 master spy can create a disguise in half the time normally required. In
 addition, any penalties from assuming a disguise of a different gender,
 race, age, or size are reduced by 1.
@@ -1067,43 +1067,43 @@ bonus from another source, the bonuses on damage stack.
 truth-detecting magic. A creature using this sort of magic against the
 spy must succeed on a caster level check against a DC of 15 + the master
 spy's class level to succeed (as if she were under the effect of a
-*[glibness](#glibness)* spell); failure means
+*[glibness]* spell); failure means
 the magic doesn't detect the spy's lies or force her to speak only the
 truth. This ability does not give the master spy the
-*[glibness](#glibness)* spell's bonus on
-[Bluff](#bluff) checks.
+*[glibness]* spell's bonus on
+[Bluff] checks.
 
 **Mask Alignment (Su)**: A master spy of 2nd level or higher can alter
 her alignment aura to deceive spells that discern alignment (such as
-*[detect evil](#detect-evil)*). She may
+*[detect evil]*). She may
 choose to detect as any specific alignment, or to detect as no alignment
 at all. This ability does not protect against spells or effects that
 cause harm based on alignment. Masking her alignment aura is a standard
 action, and lasts until she changes it again or ends the effect.
 
 **Nonmagical Aura (Sp)**: At 3rd level, a master spy can use *[magic
-aura](#magic-aura)* twice per day, but only
+aura]* twice per day, but only
 for the purpose of making an object appear nonmagical.
 
-**Superficial [Knowledge](#knowledge)
+**Superficial [Knowledge]
 (Ex)**: A master spy gives the appearance of knowing more than she
 actually does. Starting at 3rd level, she can make untrained
-[Knowledge](#knowledge) and
-[Profession](#profession) checks pertaining
+[Knowledge] and
+[Profession] checks pertaining
 to her cover or assumed identity as if she were trained and gains a
 bonus equal to half her level on these checks. For example, a master spy
 masquerading as a noblewoman can make untrained
-[Knowledge](#knowledge) (history) checks
+[Knowledge] (history) checks
 about the kingdom and
-[Knowledge](#knowledge) (nobility) checks
+[Knowledge] (nobility) checks
 about its noble and royal families as if she were trained, but she
 cannot make untrained
-[Knowledge](#knowledge) (nature) skill
+[Knowledge] (nature) skill
 checks to identify herbs.
 
 **Concealed Thoughts (Su)**: A 4th-level master spy can conceal her
 schemes from mind-reading magic. When a creature is using *[detect
-thoughts](#detect-thoughts)* or similar
+thoughts]* or similar
 magic to read her mind, she decides what surface thoughts her opponent
 detects, and her true surface thoughts remain private. This ability does
 not protect against mental attacks or mind-reading that delves deeper
@@ -1111,16 +1111,16 @@ than surface thoughts.
 
 **Quick Change (Ex)**: Starting at 4th level, a master spy can assume a
 disguise in only 2d4 rounds by taking a -10 penalty on her
-[Disguise](#disguise) check. This penalty
+[Disguise] check. This penalty
 drops to -5 at 8th level.
 
 **Elude Detection (Sp)**: At 5th level, a master spy can befuddle
 divinations used against her as if she were under the effect of a
-*[nondetection](#nondetection)* spell
+*[nondetection]* spell
 with a caster level equal to her character level. She can suppress or
 resume this protection as a standard action. If dispelled, the spy
 cannot resume the
-*[nondetection](#nondetection)* for 1d4
+*[nondetection]* for 1d4
 rounds.
 
 **Slippery Mind (Su)**: At 5th level, a master spy can slip away from
@@ -1135,7 +1135,7 @@ choose to have all spells and magic items affect her as though she were
 that alignment; this includes helpful and harmful effects. For example,
 a neutral good master spy can shift her aura to lawful evil so she can
 pass through a doorway that shocks creatures that aren't lawful evil; if
-hit by *[holy smite](#holy-smite)* with this
+hit by *[holy smite]* with this
 shifted aura, she takes damage as if she were evil. A master spy can
 change her alignment aura from a masked alignment (as per her 2nd-level
 class feature, where effects still function based on her actual
@@ -1155,8 +1155,8 @@ attack, even if she has not yet reached 8th level as a master spy.
 opponent into believing that she has been charmed or dominated. When the
 master spy succeeds at a saving throw against a magical effect that
 provides ongoing control (such as *[charm
-person](#charm-person)*, *[dominate
-person](#dominate-person)*, or a
+person]*, *[dominate
+person]*, or a
 vampire's dominate ability), she can allow the spell to take partial
 effect. To the caster, it appears that the spy failed her saving throw,
 but the spy is not under the caster's control. If the spell provides a
@@ -1167,18 +1167,18 @@ spy succeeds at a subsequent saving throw against an ongoing effect,
 such as that granted by slippery mind.
 
 **Hidden Mind (Sp)**: At 9th level, a master spy gains the benefit of a
-constant *[mind blank](#mind-blank)* spell
+constant *[mind blank]* spell
 at a caster level equal to her character level. The spy can suppress or
 resume this protection as a standard action. If dispelled, the spy
 cannot resume the *[mind
-blank](#mind-blank)* for 1d4 rounds.
+blank]* for 1d4 rounds.
 
 **Assumption (Su)**: The ultimate ability of the master spy is to take
 over another persona entirely, making it her own. As a full-round
 action, the spy can touch a helpless creature and shift her aura to that
 of her target. This confuses divination effects and spells, even ones as
 powerful as *[discern
-location](#discern-location)*, such
+location]*, such
 that they register the spy as being the creature she has touched. This
 ability is not proof against the actions of deities or similarly
 powerful beings. The assumption of an identity lasts until the master
@@ -1230,10 +1230,10 @@ following criteria.
 feature, wild empathy class feature.
 
 **Skills**: [Handle
-Animal](#handle-animal) 5 ranks,
-[Knowledge](#knowledge) (geography) 5 ranks,
-[Knowledge](#knowledge) (nature) 5 ranks,
-[Survival](#survival) 5 ranks.
+Animal] 5 ranks,
+[Knowledge] (geography) 5 ranks,
+[Knowledge] (nature) 5 ranks,
+[Survival] 5 ranks.
 
 **Spells**: Able to cast 2nd-level divine spells.
 
@@ -1243,31 +1243,31 @@ companion class ability for the purpose of this prestige class.
 # Class Skills
 
 The nature warden's class skills are
-[Climb](#climb) (Str), [Handle
-Animal](#handle-animal) (Cha),
-[Heal](#heal) (Wis),
-[Knowledge](#knowledge) (geography) (Int),
-[Knowledge](#knowledge) (nature) (Int),
-[Perception](#perception) (Wis),
-[Ride](#ride) (Dex), [Sense
-Motive](#sense-motive) (Wis),
-[Survival](#survival) (Wis), and
-[Swim](#swim) (Str).
+[Climb] (Str), [Handle
+Animal] (Cha),
+[Heal] (Wis),
+[Knowledge] (geography) (Int),
+[Knowledge] (nature) (Int),
+[Perception] (Wis),
+[Ride] (Dex), [Sense
+Motive] (Wis),
+[Survival] (Wis), and
+[Swim] (Str).
 
 **Skill Ranks at Each Level**: 4 + Int modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special                                                                  SpellsSpells per Day
   ------- ------------------- ----------- ---------- ----------- ------------------------------------------------------------------------ ---------------------------------------
-  1st     +0                  +1          +0         +1          [Companion bond](#companion-bond), [natural empathy](#natural-empathy)   —
-  2nd     +1                  +1          +1         +1          [Mystic harmony](#mystic-harmony), [wild stride](#wild-stride)           +1 level of divine spellcasting class
-  3rd     +2                  +2          +1         +2          [Animal speech](#animal-speech)                                          +1 level of divine spellcasting class
-  4th     +3                  +2          +1         +2          [Silverclaw](#silverclaw)                                                +1 level of divine spellcasting class
-  5th     +3                  +3          +2         +3          [Favored terrain](#favored-terrain), [survivalist](#survivalist)         —
-  6th     +4                  +3          +2         +3          [Woodforging](#woodforging)                                              +1 level of divine spellcasting class
-  7th     +5                  +4          +2         +4          [Companion walk](#companion-walk), [plant speech](#plant-speech)         +1 level of divine spellcasting class
-  8th     +6                  +4          +3         +4          [Ironpaw](#ironpaw)                                                      +1 level of divine spellcasting class
-  9th     +6                  +5          +3         +5          [Guarded lands](#guarded-lands)                                          —
-  10th    +7                  +5          +3         +5          [Companion soul](#companion-soul), [favored terrain](#favored-terrain)   +1 level of divine spellcasting class
+  1st     +0                  +1          +0         +1          [Companion bond], [natural empathy]   —
+  2nd     +1                  +1          +1         +1          [Mystic harmony], [wild stride]           +1 level of divine spellcasting class
+  3rd     +2                  +2          +1         +2          [Animal speech]                                          +1 level of divine spellcasting class
+  4th     +3                  +2          +1         +2          [Silverclaw]                                                +1 level of divine spellcasting class
+  5th     +3                  +3          +2         +3          [Favored terrain], [survivalist]         —
+  6th     +4                  +3          +2         +3          [Woodforging]                                              +1 level of divine spellcasting class
+  7th     +5                  +4          +2         +4          [Companion walk], [plant speech]         +1 level of divine spellcasting class
+  8th     +6                  +4          +3         +4          [Ironpaw]                                                      +1 level of divine spellcasting class
+  9th     +6                  +5          +3         +5          [Guarded lands]                                          —
+  10th    +7                  +5          +3         +5          [Companion soul], [favored terrain]   +1 level of divine spellcasting class
 
   : Table: Nature Warden
 
@@ -1302,8 +1302,8 @@ wild empathy ability. When in her favored terrain, a nature warden adds
 her favored terrain bonus to wild empathy checks. She may also choose to
 use wild empathy to demoralize an animal or magical beast rather than
 improving its attitude, as if using
-[Intimidate](#intimidate) rather than
-[Diplomacy](#diplomacy).
+[Intimidate] rather than
+[Diplomacy].
 
 At 4th level, a nature warden no longer suffers a penalty when using
 wild empathy to influence or demoralize magical beasts. At 7th level,
@@ -1324,10 +1324,10 @@ non-plant environmental hazards). Terrain hazards that have been
 magically manipulated to impede motion still affect her.
 
 **Animal Speech (Sp)**: At 3rd level, a nature warden can *[speak with
-animals](#speak-with-animals)*at will
+animals]*at will
 when in her favored terrain. Outside her favored terrain, she can use
 *[speak with
-animals](#speak-with-animals)*once
+animals]*once
 per day. Her caster level is equal to her class level.
 
 **Silverclaw (Su)**: At 4th level, a nature warden's animal companion
@@ -1346,33 +1346,33 @@ or tool; thereafter she treats it as a masterwork weapon or tool.
 
 **Woodforging (Sp)**: At 6th level, a nature warden can manufacture
 wooden items which she may use with surpassing skill. Once per day, she
-may use *[wood shape](#wood-shape)*as a
+may use *[wood shape]*as a
 spell-like ability with a caster level equal to her nature warden level.
 In her hands, items created with this ability are treated as masterwork
 items under the effect of an
-*[ironwood](#ironwood)*spell; in the hands of
+*[ironwood]*spell; in the hands of
 others, they are merely ordinary wooden items of the appropriate type.
 If the warden uses this ability to create armor or weapons, she may
 craft them into magic items as if she had the [Craft Magic Arms and
-Armor](#craft-magic-arms-and-armor) feat (though they
+Armor] feat (though they
 are merely magical wood in the hands of others, and only ironwood when
 she uses them).
 
 **Companion Walk (Su)**: At 7th level, the nature warden's companion
 shares the benefits of travel spells (such as *[tree
-stride](#tree-stride)* and *[transport via
-plants](#transport-via-plants)*)
+stride]* and *[transport via
+plants]*)
 and polymorph and similar spells (including *[tree
-shape](#tree-shape)*) cast by the warden
+shape]*) cast by the warden
 from the druid or ranger spell list. The companion counts either as part
 of the warden or as an object with no weight, whichever is more
 favorable for the warden.
 
 **Plant Speech (Sp)**: At 7th level, a nature warden can cast *[speak
-with plants](#speak-with-plants)*at
+with plants]*at
 will when in her favored terrain. Outside her favored terrain, she can
 use *[speak with
-plants](#speak-with-plants)*once per
+plants]*once per
 day as a spell-like ability. Her caster level is equal to her class
 level.
 
@@ -1411,11 +1411,11 @@ animal companion is so strong that it transcends distance and even
 death. The companion's devotion ability increases to a +8 morale bonus
 on Will saves against enchantment spells and effects. The warden may
 scry on her animal companion once per day as if using the
-*[scrying](#scrying)* spell, except she needs
+*[scrying]* spell, except she needs
 no focus or divine focus. She may view the area around her companion or
 see through its eyes. If her companion dies, she can revive it with an
 8-hour ritual; this has the same effect as *[raise
-dead](#raise-dead)*, except it doesn't
+dead]*, except it doesn't
 require a material component and the companion does not gain any
 negative levels from the ordeal.
 
@@ -1467,7 +1467,7 @@ following criteria.
 
 **Special**: Oracle's curse class feature, moment of clarity rage power.
 
-**Skills**: [Knowledge](#knowledge)
+**Skills**: [Knowledge]
 (religion) 5 ranks.
 
 **Spells**: Able to cast 1st-level divine spells.
@@ -1475,29 +1475,29 @@ following criteria.
 # Class Skills
 
 The rage prophet's class skills are
-[Climb](#climb) (Str),
-[Heal](#heal) (Wis),
-[Intimidate](#intimidate) (Cha),
-[Knowledge](#knowledge) (history) (Int),
-[Knowledge](#knowledge) (religion) (Int),
-[Sense Motive](#sense-motive) (Wis),
-[Spellcraft](#spellcraft) (Int), and
-[Swim](#swim) (Str).
+[Climb] (Str),
+[Heal] (Wis),
+[Intimidate] (Cha),
+[Knowledge] (history) (Int),
+[Knowledge] (religion) (Int),
+[Sense Motive] (Wis),
+[Spellcraft] (Int), and
+[Swim] (Str).
 
 **Skill Ranks at Each Level**: 4 + Int modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special                                                                                        SpellsSpells per Day
   ------- ------------------- ----------- ---------- ----------- ---------------------------------------------------------------------------------------------- ---------------------------------------
-  1st     +0                  +1          +0         +1          [Savage seer](#savage-seer), [spirit guide](#spirit-guide)                                     —
-  2nd     +1                  +1          +1         +1          [Rage prophet mystery](#rage-prophet-mystery), [raging healer](#raging-healer)                 +1 level of divine spellcasting class
-  3rd     +2                  +2          +1         +2          [Indomitable caster](#indomitable-caster)                                                      +1 level of divine spellcasting class
-  4th     +3                  +2          +1         +2          [Ragecaster](#ragecaster) (caster level), [rage prophet mystery](#rage-prophet-mystery)        +1 level of divine spellcasting class
-  5th     +3                  +3          +2         +3          [Spirit guardian](#spirit-guardian)                                                            —
-  6th     +4                  +3          +2         +3          [Enduring rage](#enduring-rage), [rage prophet mystery](#rage-prophet-mystery)                 +1 level of divine spellcasting class
-  7th     +5                  +4          +2         +4          [Ragecaster](#ragecaster) (save DC)                                                            +1 level of divine spellcasting class
-  8th     +6                  +4          +3         +4          [Rage prophet mystery](#rage-prophet-mystery), [raging spellstrength](#raging-spellstrength)   —
-  9th     +6                  +5          +3         +5          [Spirit warrior](#spirit-warrior)                                                              +1 level of divine spellcasting class
-  10th    +7                  +5          +3         +5          [Greater rage](#greater-rage), [rage prophet mystery](#rage-prophet-mystery)                   +1 level of divine spellcasting class
+  1st     +0                  +1          +0         +1          [Savage seer], [spirit guide]                                     —
+  2nd     +1                  +1          +1         +1          [Rage prophet mystery], [raging healer]                 +1 level of divine spellcasting class
+  3rd     +2                  +2          +1         +2          [Indomitable caster]                                                      +1 level of divine spellcasting class
+  4th     +3                  +2          +1         +2          [Ragecaster] (caster level), [rage prophet mystery]        +1 level of divine spellcasting class
+  5th     +3                  +3          +2         +3          [Spirit guardian]                                                            —
+  6th     +4                  +3          +2         +3          [Enduring rage], [rage prophet mystery]                 +1 level of divine spellcasting class
+  7th     +5                  +4          +2         +4          [Ragecaster] (save DC)                                                            +1 level of divine spellcasting class
+  8th     +6                  +4          +3         +4          [Rage prophet mystery], [raging spellstrength]   —
+  9th     +6                  +5          +3         +5          [Spirit warrior]                                                              +1 level of divine spellcasting class
+  10th    +7                  +5          +3         +5          [Greater rage], [rage prophet mystery]                   +1 level of divine spellcasting class
 
   : Table: Rage Prophet
 
@@ -1527,12 +1527,12 @@ This does not grant additional abilities.
 insubstantial phantom that speaks to his mind, watches over him, and
 lends him its strength and wisdom. Whenever the rage prophet rages, he
 gains the benefit of a single
-*[guidance](#guidance)*spell from his spirit
+*[guidance]*spell from his spirit
 guide; this bonus can be used at any time during his rage. The spirit
 guide also allows the rage prophet to use *[dancing
-lights](#dancing-lights)*, *[ghost
-sound](#ghost-sound)*, and *[mage
-hand](#mage-hand)* as spell-like abilities
+lights]*, *[ghost
+sound]*, and *[mage
+hand]* as spell-like abilities
 once per day each (caster level equal to the rage prophet's class
 level). The DCs are Charisma-based.
 
@@ -1544,21 +1544,21 @@ exchange these spells for different spells at higher levels. The rage
 prophet must be able to cast oracle spells of the listed level to learn
 one of these spells from his spirit guide. The rage prophet treats the
 spell as an oracle spell of the listed level. The possible spells are
-*[arcane eye](#arcane-eye)* (4th),
-*[augury](#augury)* (2nd),
-*[divination](#divination)* (4th),
-*[dream](#dream)* (5th), *[find the
-path](#find-the-path)* (6th), *[helping
-hand](#helping-hand)* (3rd), *[see
-invisibility](#see-invisibility)*
-(2nd), *[shadow walk](#shadow-walk)* (6th),
-*[speak with dead](#speak-with-dead)*
-(3rd), *[spectral hand](#spectral-hand)*
+*[arcane eye]* (4th),
+*[augury]* (2nd),
+*[divination]* (4th),
+*[dream]* (5th), *[find the
+path]* (6th), *[helping
+hand]* (3rd), *[see
+invisibility]*
+(2nd), *[shadow walk]* (6th),
+*[speak with dead]*
+(3rd), *[spectral hand]*
 (2nd), *[spiritual
-weapon](#spiritual-weapon)* (2nd),
-*[unseen servant](#unseen-servant)*
-(1st), *[vision](#vision)* (7th), and
-*[whispering wind](#whispering-wind)*
+weapon]* (2nd),
+*[unseen servant]*
+(1st), *[vision]* (7th), and
+*[whispering wind]*
 (2nd).
 
 **Raging Healer (Su)**: At 2nd level, a rage prophet is able to cast
@@ -1575,12 +1575,12 @@ Constitution bonus to the save DC of any spells cast while raging.
 
 **Spirit Guardian (Sp)**: At 5th level, the competence bonus provided by
 the spirit guide's
-*[guidance](#guidance)*spell increases to
+*[guidance]*spell increases to
 half the rage prophet's class level when used while battling a fey,
 outsider, undead, or incorporeal creature. As a swift action, the rage
 prophet can spend 1 round of rage (whether he is raging or not) to give
 his armor and weapons the *[ghost
-touch](#weapons-ghost-touch)* property for
+touch]* property for
 1 round; this effect ends if the item is no longer in his possession.
 
 **Enduring Rage (Su)**: At 6th level, as a free action, a rage prophet
@@ -1594,10 +1594,10 @@ having to use clarity of mind.
 
 **Spirit Warrior (Su)**: At 9th level, the competence bonus provided by
 the rage prophet's
-*[guidance](#guidance)*increases to his rage
+*[guidance]*increases to his rage
 prophet level when used while battling a fey, outsider, undead, or
 incorporeal creature. His ability to give his armor and weapons the
-*[ghost touch](#weapons-ghost-touch)*
+*[ghost touch]*
 property becomes an immediate action instead of a swift action.
 
 **Greater Rage (Ex)**: At 10th level, when a rage prophet enters a rage,
@@ -1649,35 +1649,35 @@ the following criteria.
 
 **Base Attack Bonus**: +7.
 
-**Feats**: [Dodge](#dodge),
-[Endurance](#endurance),
-[Toughness](#toughness).
+**Feats**: [Dodge],
+[Endurance],
+[Toughness].
 
 **Special**: Proficiency with light and medium armor.
 
 # Class Skills
 
 The stalwart defender's class skills are
-[Acrobatics](#acrobatics) (Dex),
-[Climb](#climb) (Str),
-[Intimidate](#intimidate) (Cha),
-[Perception](#perception) (Wis), and [Sense
-Motive](#sense-motive) (Wis).
+[Acrobatics] (Dex),
+[Climb] (Str),
+[Intimidate] (Cha),
+[Perception] (Wis), and [Sense
+Motive] (Wis).
 
 **Skill Ranks per Level**: 2 + Int modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   AC Bonus   Special
   ------- ------------------- ----------- ---------- ----------- ---------- ----------------------------------------------------------------------------------------------------------
-  1st     +1                  +1          +0         +1          +1         [Defensive stance](#defensive-stance)
-  2nd     +2                  +1          +1         +1          +1         [Defensive power](#defensive-powers)
-  3rd     +3                  +2          +1         +2          +1         [Uncanny dodge](#uncanny-doge)
-  4th     +4                  +2          +1         +2          +2         [Defensive power](#defensive-powers)
-  5th     +5                  +3          +2         +3          +2         [Damage reduction](#damage-reduction) 1/—
-  6th     +6                  +3          +2         +3          +2         [Defensive power](#defensive-powers)
-  7th     +7                  +4          +2         +4          +3         [Damage reduction](#damage-reduction) 3/—, [improved uncanny dodge](#improved-uncanny-dodge)
-  8th     +8                  +4          +3         +4          +3         [Defensive power](#defensive-powers)
-  9th     +9                  +5          +3         +5          +3         [Mobile defense](#mobile-defense)
-  10th    +10                 +5          +3         +5          +4         [Damage reduction](#damage-reduction) 5/—, [defensive power](#defensive-powers), [last word](#last-word)
+  1st     +1                  +1          +0         +1          +1         [Defensive stance]
+  2nd     +2                  +1          +1         +1          +1         [Defensive power]
+  3rd     +3                  +2          +1         +2          +1         [Uncanny dodge]
+  4th     +4                  +2          +1         +2          +2         [Defensive power]
+  5th     +5                  +3          +2         +3          +2         [Damage reduction] 1/—
+  6th     +6                  +3          +2         +3          +2         [Defensive power]
+  7th     +7                  +4          +2         +4          +3         [Damage reduction] 3/—, [improved uncanny dodge]
+  8th     +8                  +4          +3         +4          +3         [Defensive power]
+  9th     +9                  +5          +3         +5          +3         [Mobile defense]
+  10th    +10                 +5          +3         +5          +4         [Damage reduction] 5/—, [defensive power], [last word]
 
   : Table: Stalwart Defender
 
@@ -1701,7 +1701,7 @@ day equal to 4 + his Constitution modifier. At each level after 1st, he
 can maintain the stance for 2 additional rounds per day. Temporary
 increases to Constitution, such as those gained from the defensive
 stance and spells like *[bear's
-endurance](#bear-s-endurance)*, do not
+endurance]*, do not
 increase the total number of rounds that the stalwart defender can
 maintain a defensive stance per day. The stalwart defender can enter a
 defensive stance as a free action. The total number of rounds of
@@ -1720,7 +1720,7 @@ allowing allies to carry him). If he enters a defensive stance while on
 a moving vehicle he does not control (such as a wagon or ship), he can
 maintain the stance even if the vehicle moves. If the stalwart defender
 moves under his own power as a result of an enemy's successful use of
-the [Bluff](#bluff) skill or an enchantment
+the [Bluff] skill or an enchantment
 spell, his stance ends.
 
 The stalwart defender can end his defensive stance as a free action;
@@ -1733,7 +1733,7 @@ immediately ends, placing him in peril of death.
 
 A defensive stance requires a level of emotional calm, and it may not be
 maintained by a character in a rage (such as from the rage class feature
-or the *[rage](#rage)* spell).
+or the *[rage]* spell).
 
 **Defensive Powers (Ex)**: As a stalwart defender gains levels, he
 augments his defensive stance. Starting at 2nd level, the stalwart
@@ -1746,8 +1746,8 @@ than once.
 
 *Bulwark (Ex)*: The defender adds his armor check penalty as a bonus to
 the DC of opponents attempting to
-[Bluff](#bluff) him and
-[Acrobatics](#acrobatics) checks to pass by
+[Bluff] him and
+[Acrobatics] checks to pass by
 him without provoking an attack of opportunity for moving through spaces
 he threatens.
 
@@ -1794,7 +1794,7 @@ defender is immune to the sickened and nauseated conditions.
 the additional damage of one successful critical hit or sneak attack, as
 well as other abilities or effects that rely on a successful critical
 hit or sneak attack (such as blinding from [Blinding
-Critical](#blinding-critical) or bleed from sneak
+Critical] or bleed from sneak
 attack). The stalwart defender takes only normal damage from the attack.
 This power may only be used once per defensive stance. The stalwart
 defender must be at least 6th level to select this power.
@@ -1811,7 +1811,7 @@ using this ability, he is immune to the fatigued condition. Once this
 stance ends, he is exhausted for 10 minutes per round spent in a
 defensive stance.
 
-*[Smash](#smash-(combat)) (Ex)*: While in a
+*[Smash]) (Ex)*: While in a
 defensive stance, the stalwart defender may make an extra attack per
 round that is either a shield bash or a slam (even if he doesn't
 normally have a slam attack). If used as part of a full attack action,
@@ -1831,7 +1831,7 @@ normally provoke an attack of opportunity. This power can only be used
 once per stance. A stalwart defender must be at least 4th level before
 selecting this power.
 
-**Uncanny [Dodge](#dodge) (Ex)**: At 3rd level, a
+**Uncanny [Dodge] (Ex)**: At 3rd level, a
 stalwart defender gains the ability to react to danger before his senses
 would normally allow him to do so. He cannot be caught flatfooted, even
 if the attacker is invisible. He still loses his Dexterity bonus to AC
@@ -1850,7 +1850,7 @@ from armor (but not from any other source) increases his class-based DR
 by the value of the armor's DR. Thus a 7th-level stalwart defender
 wearing adamantine full plate (DR 3/—) has DR 6/—.
 
-**Improved Uncanny [Dodge](#dodge) (Ex)**: At 7th
+**Improved Uncanny [Dodge] (Ex)**: At 7th
 level, a stalwart defender can no longer be flanked. This defense denies
 rogues the ability to use flank attacks to sneak attack the stalwart
 defender. The exception to this defense is that a rogue at least four

@@ -30,19 +30,19 @@ quite well with most adventuring groups.
 
 
 The alchemist's class skills are
-[Appraise](#appraise) (Int),
-[Craft](#craft) (any) (Int), [Disable
-Device](#disable-device) (Dex),
-[Fly](#fly) (Dex),
-[Heal](#heal) (Wis),
-[Knowledge](#knowledge) (arcana) (Int),
-[Knowledge](#knowledge) (nature) (Int),
-[Perception](#perception) (Wis),
-[Profession](#profession) (Wis), [Sleight
-of Hand](#sleight-of-hand) (Dex),
-[Spellcraft](#spellcraft) (Int),
-[Survival](#survival) (Wis), [Use Magic
-Device](#use-magic-device) (Cha).
+[Appraise] (Int),
+[Craft] (any) (Int), [Disable
+Device] (Dex),
+[Fly] (Dex),
+[Heal] (Wis),
+[Knowledge] (arcana) (Int),
+[Knowledge] (nature) (Int),
+[Perception] (Wis),
+[Profession] (Wis), [Sleight
+of Hand] (Dex),
+[Spellcraft] (Int),
+[Survival] (Wis), [Use Magic
+Device] (Cha).
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
@@ -53,67 +53,67 @@ Table: Alchemist
 |          |Attack    |          |          |          |                               |     |     |     |     |     |     |
 |          |Bonus     |          |          |          |                               |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|1st       |+0        |+2        |+2        |+0        |[Alchemy](#alchemy),           |1    |-    |-    |-    |-    |-    |
-|          |          |          |          |          |[bomb](#bomb) 1d6, [Brew       |     |     |     |     |     |     |
-|          |          |          |          |          |Potion](#brew-potion),         |     |     |     |     |     |     |
-|          |          |          |          |          |[mutagen](#mutagen),           |     |     |     |     |     |     |
+|1st       |+0        |+2        |+2        |+0        |[Alchemy],           |1    |-    |-    |-    |-    |-    |
+|          |          |          |          |          |[bomb] 1d6, [Brew       |     |     |     |     |     |     |
+|          |          |          |          |          |Potion],         |     |     |     |     |     |     |
+|          |          |          |          |          |[mutagen],           |     |     |     |     |     |     |
 |          |          |          |          |          |[Throw                         |     |     |     |     |     |     |
-|          |          |          |          |          |Anything](#throw-anything)     |     |     |     |     |     |     |
+|          |          |          |          |          |Anything]     |     |     |     |     |     |     |
 |          |          |          |          |          |                               |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|2nd       |  +1      |+3        |+3        |+0        |[Discovery](#discovery),       |2    |-    |-    |-    |-    |-    |
+|2nd       |  +1      |+3        |+3        |+0        |[Discovery],       |2    |-    |-    |-    |-    |-    |
 |          |          |          |          |          |[poison                        |     |     |     |     |     |     |
-|          |          |          |          |          |resistance](#poison-resistance)|     |     |     |     |     |     |
-|          |          |          |          |          |+2,[poison use](#poison-use)   |     |     |     |     |     |     |
+|          |          |          |          |          |resistance]|     |     |     |     |     |     |
+|          |          |          |          |          |+2,[poison use]   |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|3rd       |+2        |+3        |+3        |+1        |[Bomb](#bomb) 2d6, [swift      |3    |-    |-    |-    |-    |-    |
-|          |          |          |          |          |alchemy](#swift-alchemy)       |     |     |     |     |     |     |
+|3rd       |+2        |+3        |+3        |+1        |[Bomb] 2d6, [swift      |3    |-    |-    |-    |-    |-    |
+|          |          |          |          |          |alchemy]       |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|4th       |+3        |+4        |+4        |+1        |[Discovery](#discovery)        |3    |1    |-    |-    |-    |-    |
+|4th       |+3        |+4        |+4        |+1        |[Discovery]        |3    |1    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|5th       |+3        |+4        |+4        |+1        |[Bomb](#bomb) 3d6, [poison     |4    |2    |-    |-    |-    |-    |
-|          |          |          |          |          |resistance](#poison-resistance)|     |     |     |     |     |     |
+|5th       |+3        |+4        |+4        |+1        |[Bomb] 3d6, [poison     |4    |2    |-    |-    |-    |-    |
+|          |          |          |          |          |resistance]|     |     |     |     |     |     |
 |          |          |          |          |          |+4                             |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|6th       |+4        |+5        |+5        |+2        |[Discovery](#discovery), [swift|4    |3    |-    |-    |-    |-    |
-|          |          |          |          |          |poisoning](#swift-poisoning)   |     |     |     |     |     |     |
+|6th       |+4        |+5        |+5        |+2        |[Discovery], [swift|4    |3    |-    |-    |-    |-    |
+|          |          |          |          |          |poisoning]   |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|7th       |+5        |+5        |+5        |+2        |[Bomb](#bomb) 4d6              |4    |3    |1    |-    |-    |-    |
+|7th       |+5        |+5        |+5        |+2        |[Bomb] 4d6              |4    |3    |1    |-    |-    |-    |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|8th       |+6/+1     |+6        |+6        |+2        |[Discovery](#discovery),       |4    |4    |2    |-    |-    |-    |
+|8th       |+6/+1     |+6        |+6        |+2        |[Discovery],       |4    |4    |2    |-    |-    |-    |
 |          |          |          |          |          |[poison                        |     |     |     |     |     |     |
-|          |          |          |          |          |resistance](#poison-resistance)|     |     |     |     |     |     |
+|          |          |          |          |          |resistance]|     |     |     |     |     |     |
 |          |          |          |          |          |+6                             |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|9th       |+6/+1     |+6        |+6        |+3        |[Bomb](#bomb) 5d6              |5    |4    |3    |-    |-    |-    |
+|9th       |+6/+1     |+6        |+6        |+3        |[Bomb] 5d6              |5    |4    |3    |-    |-    |-    |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|10th      |+7/+2     |+7        |+7        |+3        |[Discovery](#discovery), poison|5    |4    |3    |1    |-    |-    |
+|10th      |+7/+2     |+7        |+7        |+3        |[Discovery], poison|5    |4    |3    |1    |-    |-    |
 |          |          |          |          |          |immunity                       |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|11th      |+8/+3     |+7        |+7        |+3        |[Bomb](#bomb) 6d6              |5    |4    |4    |2    |-    |-    |
+|11th      |+8/+3     |+7        |+7        |+3        |[Bomb] 6d6              |5    |4    |4    |2    |-    |-    |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|12th      |+9/+4     |+8        |+8        |+4        |[Discovery](#discovery)        |5    |5    |4    |3    |-    |-    |
+|12th      |+9/+4     |+8        |+8        |+4        |[Discovery]        |5    |5    |4    |3    |-    |-    |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|13th      |+9/+4     |+8        |+8        |+4        |[Bomb](#bomb) 7d6              |5    |5    |4    |3    |1    |-    |
+|13th      |+9/+4     |+8        |+8        |+4        |[Bomb] 7d6              |5    |5    |4    |3    |1    |-    |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|14th      |+10/+5    |+9        |+9        |+4        |[Discovery](#discovery),       |5    |5    |4    |4    |2    |-    |
+|14th      |+10/+5    |+9        |+9        |+4        |[Discovery],       |5    |5    |4    |4    |2    |-    |
 |          |          |          |          |          |[persistent                    |     |     |     |     |     |     |
-|          |          |          |          |          |mutagen](#persistent-mutagen)  |     |     |     |     |     |     |
+|          |          |          |          |          |mutagen]  |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|15th      |+11/+6/+1 |+9        |+9        |+5        |[Bomb](#bomb) 8d6              |5    |5    |5    |4    |3    |-    |
+|15th      |+11/+6/+1 |+9        |+9        |+5        |[Bomb] 8d6              |5    |5    |5    |4    |3    |-    |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|16th      |+12/+7/+2 |+10       |+10       |+5        |[Discovery](#discovery)        |5    |5    |5    |4    |3    |1    |
+|16th      |+12/+7/+2 |+10       |+10       |+5        |[Discovery]        |5    |5    |5    |4    |3    |1    |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|17th      |+12/+7/+2 |+10       |+10       |+5        |[Bomb](#bomb) 9d6              |5    |5    |5    |4    |4    |2    |
+|17th      |+12/+7/+2 |+10       |+10       |+5        |[Bomb] 9d6              |5    |5    |5    |4    |4    |2    |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|18th      |+13/+8/+3 |+11       |+11       |+6        |[Discovery](#discovery),       |5    |5    |5    |5    |4    |3    |
+|18th      |+13/+8/+3 |+11       |+11       |+6        |[Discovery],       |5    |5    |5    |5    |4    |3    |
 |          |          |          |          |          |[instant                       |     |     |     |     |     |     |
-|          |          |          |          |          |alchemy](#instant-alchemy)     |     |     |     |     |     |     |
+|          |          |          |          |          |alchemy]     |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|19th      |+14/+9/+4 |+11       |+11       |+6        |[Bomb](#bomb) 10d6             |5    |5    |5    |5    |5    |4    |
+|19th      |+14/+9/+4 |+11       |+11       |+6        |[Bomb] 10d6             |5    |5    |5    |5    |5    |4    |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
 |20th      |+15/+10/+5|+12       |+12       |+6        |[Grand                         |5    |5    |5    |5    |5    |5    |
-|          |          |          |          |          |discovery](#grand-discovery)   |     |     |     |     |     |     |
+|          |          |          |          |          |discovery]   |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
 
 
@@ -136,12 +136,12 @@ infuses the concoction with a tiny fraction of his own magical
 power-this enables the creation of powerful effects, but also binds the
 effects to the creator.
 
-When using [Craft](#craft) (alchemy) to create
+When using [Craft] (alchemy) to create
 an alchemical item, an alchemist gains a competence bonus equal to his
-class level on the [Craft](#craft) (alchemy)
+class level on the [Craft] (alchemy)
 check. In addition, an alchemist can use
-[Craft](#craft) (alchemy) to identify potions as
-if using *[detect magic](#detect-magic)*.
+[Craft] (alchemy) to identify potions as
+if using *[detect magic]*.
 He must hold the potion for 1 round to make such a check.
 
 An alchemist can create three special types of magical items-extracts,
@@ -153,7 +153,7 @@ below.
 Extracts are the most varied of the three. In many ways, they behave
 like spells in potion form, and as such their effects can be dispelled
 by effects like *[dispel
-magic](#dispel-magic)*using the
+magic]*using the
 alchemist's level as the caster level. Unlike potions, though, extracts
 can have powerful effects and duplicate spells that a potion normally
 could not.
@@ -181,7 +181,7 @@ Although the alchemist doesn't actually cast spells, he does have a
 formulae list that determines what extracts he can create. An alchemist
 can utilize spell-trigger items if the spell appears on his formuale
 list, but not spell-completion items (unless he uses [Use Magic
-Device](#use-magic-device) to do so).
+Device] to do so).
 An extract is “cast” by drinking it, as if imbibing a potion-the effects
 of an extract exactly duplicate the spell upon which its formula is
 based, save that the spell always affects only the drinking alchemist.
@@ -235,15 +235,15 @@ vial remains usable by the alchemist for years.
 Drawing the components of, creating, and throwing a bomb requires a
 standard action that provokes an attack of opportunity. Thrown bombs
 have a range of 20 feet and use the [Throw Splash
-Weapon](#throw-splash-weapon) special attack. Bombs
+Weapon] special attack. Bombs
 are considered weapons and can be selected using feats such as
-[Point-Blank Shot](#point-blank-shot) and [Weapon
-Focus](#weapon-focus). On a direct hit, an alchemist's
+[Point-Blank Shot] and [Weapon
+Focus]. On a direct hit, an alchemist's
 bomb inflicts 1d6 points of fire damage + additional damage equal to the
 alchemist's Intelligence modifier. The damage of an alchemist's bomb
 increases by 1d6 points at every odd-numbered alchemist level (this
 bonus damage is not multiplied on a critical hit or by using feats such
-as [Vital Strike](#vital-strike)). Splash damage from
+as [Vital Strike]). Splash damage from
 an alchemist bomb is always equal to the bomb's minimum damage (so if
 the bomb would deal 2d6+4 points of fire damage on a direct hit, its
 splash damage would be 6 points of fire damage). Those caught in the
@@ -255,8 +255,8 @@ Alchemists can learn new types of bombs as discoveries (see the
 Discovery ability) as they level up. An alchemist's bomb, like an
 extract, becomes inert if used or carried by anyone else.
 
-**[Brew Potion](#brew-potion) (Ex)**: At 1st level,
-alchemists receive [Brew Potion](#brew-potion) as a
+**[Brew Potion] (Ex)**: At 1st level,
+alchemists receive [Brew Potion] as a
 bonus feat. An alchemist can brew potions of any formulae he knows (up
 to 3rd level), using his alchemist level as his caster level. The spell
 must be one that can be made into a potion. The alchemist does not need
@@ -293,8 +293,8 @@ immediately cease.) The effects of a mutagen do not stack. Whenever an
 alchemist drinks a mutagen, the effects of any previous mutagen
 immediately end.
 
-**[Throw Anything](#throw-anything) (Ex)**: All
-alchemists gain the [Throw Anything](#throw-anything)
+**[Throw Anything] (Ex)**: All
+alchemists gain the [Throw Anything]
 feat as a bonus feat at 1st level. An alchemist adds his Intelligence
 modifier to damage done with splash weapons, including the splash damage
 if any. This bonus damage is already included in the bomb class feature.
@@ -347,9 +347,9 @@ square with the bomb when it detonates, and splash damage to all
 adjacent creatures as normal. An alchemist cannot have more than one
 delayed bomb at one time. If he creates another delayed bomb, the
 previous bomb becomes inert. *[Dispel
-magic](#dispel-magic)* can neutralize a
+magic]* can neutralize a
 delayed bomb, as can a successful [Disable
-Device](#disable-device) check (DC
+Device] check (DC
 equals 10 + the alchemist's level + the alchemist's Intelligence
 modifier). An alchemist must be at least 8th level before selecting this
 discovery.
@@ -364,7 +364,7 @@ must be at least 12th level before selecting this discovery.
 *Dispelling Bomb*: When the alchemist creates a bomb, he can choose to
 have it dispel magic effects instead of deal damage. Creatures that take
 a direct hit from a dispelling bomb are subject to a targeted *[dispel
-magic](#dispel-magic)* spell, using the
+magic]* spell, using the
 alchemist's level as the caster level. This cannot be used to target a
 specific spell effect. The alchemist must be at least 6th level before
 selecting this discovery.
@@ -373,10 +373,10 @@ selecting this discovery.
 life. This special concoction costs 25,000 gp to create and takes 1 hour
 of work. An elixir of life, when administered by the alchemist who
 brewed it, restores life to a dead creature as per the spell *[true
-resurrection](#true-resurrection)*.
+resurrection]*.
 Alternatively, the alchemist himself may drink the elixir of life, after
 which point he is immediately targeted with a
-*[resurrection](#resurrection)* spell the
+*[resurrection]* spell the
 next time he is killed. Used in this manner, the effects of an elixir of
 life persist only for a number of days equal to the alchemist's
 Intelligence modifier; if he does not die before that time expires, the
@@ -419,7 +419,7 @@ using the alchemist's full base attack bonus. The claw attacks deal 1d6
 points of damage (1d4 if the alchemist is Small) and the bite attack
 deals 1d8 points of damage (1d6 if the alchemist is Small). While the
 mutagen is in effect, the alchemist gains a +2 competence bonus on
-[Intimidate](#intimidate) skill checks.
+[Intimidate] skill checks.
 
 *Force bomb\**: When the alchemist creates a bomb, he can choose to have
 it inflict force damage. Force bombs deal 1d4 points of force damage,
@@ -460,7 +460,7 @@ multiple mutagens-only the most recently imbibed mutagen has any effect.
 
 *Inferno bomb\**: The effects of the smoke created by an alchemist's
 bomb duplicate the effects of *[incendiary
-cloud](#incendiary-cloud)* instead of
+cloud]* instead of
 *[fog cloud](),*filling an area equal to twice
 the bomb's splash radius for 1 round per level. An alchemist must be at
 least 16th level and must possess the smoke bomb discovery before
@@ -484,7 +484,7 @@ selecting this discovery.
 
 *Poison bomb\**: The effects of the smoke created by an alchemist's bomb
 duplicates the effects of
-*[cloudkill](#cloudkill)* instead of *[fog
+*[cloudkill]* instead of *[fog
 cloud]()*, filling an area equal to twice the
 bomb's splash radius for 1 round per level. An alchemist must be at
 least 12th level and must possess the smoke bomb discovery before
@@ -518,7 +518,7 @@ alchemist must be at least 6th level before selecting this discovery.
 
 *Stink bomb\**: The effects of the smoke created by an alchemist's bomb
 can duplicate the effects of *[stinking
-cloud](#stinking-cloud)* instead of
+cloud]* instead of
 *[fog cloud]()*, filling an area equal to
 twice the bomb's splash radius for 1 round. An alchemist must possess
 the smoke bomb discovery before selecting this discovery.
@@ -546,7 +546,7 @@ last for 1 hour per level.
 **Instant Alchemy (Ex)**: At 18th level, an alchemist can create
 alchemical items with almost supernatural speed. He can create any
 alchemical item as a full-round action if he succeeds at the
-[Craft](#craft) (alchemy) check and has the
+[Craft] (alchemy) check and has the
 appropriate resources at hand to fund the creation. He can apply poison
 to a weapon as an immediate action.
 
@@ -571,12 +571,12 @@ speed-he gains fast healing 5.
 
 *Philosopher's Stone*: The alchemist learns how to create a
 [*philosopher's
-stone*](#philosopher-s-stone), and can
+stone*], and can
 do so once per month at no cost. Creating a *philosopher's stone* takes
 1 day of work.
 
 *Poison Touch*: The alchemist gains a poisonous touch, as if under the
-effects of a *[poison](#poison)* spell. He can
+effects of a *[poison]* spell. He can
 suppress or activate this ability as a free action. The physical
 appearance of how the alchemist generates and delivers his poisonous
 touch varies from alchemist to alchemist.
@@ -597,145 +597,145 @@ in the *Core Rulebook*, those marked with an asterisk (\*) appear in
 Chapter 5 of this book.
 
 **1st-Level Alchemist Formulae**-*[ant
-haul\*](#ant-haul-), [bomber's
-eye\*](#bomber's-eye), [comprehend
-languages](#comprehend-languages),
+haul\*], [bomber's
+eye\*], [comprehend
+languages],
 [crafter's
-fortune\*](#crafter's-fortune), [cure
-light wounds](#cure-light-wounds),
+fortune\*], [cure
+light wounds],
 [detect secret
-doors](#detect-secret-doors),
-[detect undead](#detect-undead),
-[disguise self](#disguise-self), [endure
-elements](#endure-elements), [enlarge
-person](#enlarge-person), [expeditious
-retreat](#expeditious-retreat),
-[identify](#identify),
-[jump](#jump), [keen
-senses\*](#keen-senses), [negate
-aroma\*](#negate-aroma), [reduce
-person](#reduce-person),
-[shield](#shield), [stone
-fist\*](#stone-fist), [touch of the
-sea\*](#touch-of-the-sea), [true
-strike](#true-strike).*
+doors],
+[detect undead],
+[disguise self], [endure
+elements], [enlarge
+person], [expeditious
+retreat],
+[identify],
+[jump], [keen
+senses\*], [negate
+aroma\*], [reduce
+person],
+[shield], [stone
+fist\*], [touch of the
+sea\*], [true
+strike].*
 
-**2nd-Level Alchemist Formulae**-*[aid](#aid),
+**2nd-Level Alchemist Formulae**-*[aid],
 [alchemical
-allocation\*](#alchemical-allocation),
-[alter self](#alter-self),
-[barkskin](#barkskin), [bear's
-endurance](#bear-s-endurance),
-[blur](#blur), [bull's
-strength](#bull-s-strength), [cat's
-grace](#cat-s-grace), [cure moderate
-wounds](#cure-moderate-wounds),
-[darkvision](#darkvision), [delay
-poison](#delay-poison), [detect
-thoughts](#detect-thoughts), [eagle's
-splendor](#eagle-s-splendor),
-[elemental touch\*](#elemental-touch),
-[false life](#false-life), [fire
-breath\*](#fire-breath), [fox's
-cunning](#fox-s-cunning),
-[invisibility](#invisibility),
-[levitate](#levitate), [owl's
-wisdom](#owl-s-wisdom), [perceive
-cues\*](#perceive-cues), [protection from
-arrows](#protection-from-arrows),
-[resist energy](#resist-energy),
+allocation\*],
+[alter self],
+[barkskin], [bear's
+endurance],
+[blur], [bull's
+strength], [cat's
+grace], [cure moderate
+wounds],
+[darkvision], [delay
+poison], [detect
+thoughts], [eagle's
+splendor],
+[elemental touch\*],
+[false life], [fire
+breath\*], [fox's
+cunning],
+[invisibility],
+[levitate], [owl's
+wisdom], [perceive
+cues\*], [protection from
+arrows],
+[resist energy],
 [restoration
-(lesser)](#lesser-restoration), [see
-invisibility](#see-invisibility),
-[spider climb](#spider-climb), [transmute
+(lesser)], [see
+invisibility],
+[spider climb], [transmute
 potion
-to](#poison)\*,
+to]\*,
 [undetectable
-alignment](#undetectable-alignment),
-[vomit swarm\*](#vomit-swarm).*
+alignment],
+[vomit swarm\*].*
 
 **3rd-Level Alchemist Formulae**-*[absorbing
-touch\*](#absorbing-touch), [amplify
-elixir\*](#amplify-elixir), [arcane
-sight](#arcane-sight), [beast shape
-I](#beast-shape-i),
-[bloodhound\*](#bloodhound), [cure serious
-wounds](#cure-serious-wounds),
-[displacement](#displacement), [draconic
-reservoir\*](#draconic-reservoir-),
-[elemental aura\*](#elemental-aura),
+touch\*], [amplify
+elixir\*], [arcane
+sight], [beast shape
+I],
+[bloodhound\*], [cure serious
+wounds],
+[displacement], [draconic
+reservoir\*],
+[elemental aura\*],
 [fly](), [gaseous
-form](#gaseous-form),
-[haste](#haste),
-[heroism](#heroism),
-[nondetection](#nondetection),
+form],
+[haste],
+[heroism],
+[nondetection],
 [protection from
-energy](#protection-from-energy),
-[rage](#rage), [remove
-blindness/deafness](#remove-blindness-deafness),
-[remove curse](#remove-curse), [remove
-disease](#remove-disease), [seek
-thoughts\*](#seek-thoughts), [thorn
-body\*](#thorn-body),
-[tongues](#tongues), [water
-breathing](#water-breathing).*
+energy],
+[rage], [remove
+blindness/deafness],
+[remove curse], [remove
+disease], [seek
+thoughts\*], [thorn
+body\*],
+[tongues], [water
+breathing].*
 
 **4th-Level Alchemist Formulae**-*[air
-walk](#air-walk), [arcane
-eye](#arcane-eye), [beast shape
-II](#beast-shape-ii), [cure critical
-wounds](#cure-critical-wounds),
-[death ward](#death-ward),
-[detonate\*](#detonate), [discern
-lies](#discern-lies), [dragon's
-breath\*](#dragon's-breath), [elemental
-body I](#elemental-body-i), [fire
-shield](#fire-shield), [fluid
-form\*](#fluid-form), [freedom of
-movement](#freedom-of-movement),
+walk], [arcane
+eye], [beast shape
+II], [cure critical
+wounds],
+[death ward],
+[detonate\*], [discern
+lies], [dragon's
+breath\*], [elemental
+body I], [fire
+shield], [fluid
+form\*], [freedom of
+movement],
 [invisibility
-(greater)](#invisibility-greater),
+(greater)],
 [neutralize
-poison](#neutralize-poison),
-[restoration](#restoration)*, *[spell
-immunity](#spell-immunity)*,
-*[stoneskin](#stoneskin), [universal
-formula\*](#universal-formula).*
+poison],
+[restoration]*, *[spell
+immunity]*,
+*[stoneskin], [universal
+formula\*].*
 
 **5th-Level Alchemist Formulae**-*[beast shape
-III](#beast-shape-iii), [contact other
-plane](#contact-other-plane),
+III], [contact other
+plane],
 [delayed
-consumption\*](#delayed-consumption),
-[dream](#dream), [elemental body
-II](#elemental-body-ii), [elude
-time\*](#elude-time), [magic
-jar](#magic-jar),
-[nightmare](#nightmare), [overland
-flight](#overland-flight), [planar
-adaptation\*](#planar-adaptation),
-[plant shape I](#plant-shape-i),
-[polymorph](#polymorph), [resurgent
-transformation](#resurgent-transformation)\*,
-[sending](#sending), [spell
+consumption\*],
+[dream], [elemental body
+II], [elude
+time\*], [magic
+jar],
+[nightmare], [overland
+flight], [planar
+adaptation\*],
+[plant shape I],
+[polymorph], [resurgent
+transformation]\*,
+[sending], [spell
 resistance](/pathfinderRPG/prd/glossary.html#spell-resistance).*
 
 **6th-Level Alchemist Formulae**-*[analyze
-dweomer](#analyze-dweomer), [beast
-shape IV](#beast-shape-iv), [elemental body
-III](#elemental-body-iii),
-[eyebite](#eyebite), [form of the dragon
-I](#form-of-the-dragon-i), [giant form
-I](#giant-form-i),
-[heal](#heal),
-[mislead](#mislead), [plant shape
-II](#plant-shape-ii), [shadow
-walk](#shadow-walk),
-[statue](#statue),
-[transformation](#transformation),
-[true seeing](#true-seeing), [twin
-form\*](#twin-form), [wind
-walk](#wind-walk).*
+dweomer], [beast
+shape IV], [elemental body
+III],
+[eyebite], [form of the dragon
+I], [giant form
+I],
+[heal],
+[mislead], [plant shape
+II], [shadow
+walk],
+[statue],
+[transformation],
+[true seeing], [twin
+form\*], [wind
+walk].*
 
 
 
@@ -765,41 +765,41 @@ social situations.
 ### Class Skills
 
 
-The cavalier's class skills are [Bluff](#bluff)
-(Cha), [Climb](#climb) (Str),
-[Craft](#craft) (Int),
-[Diplomacy](#diplomacy) (Cha), [Handle
-Animal](#handle-animal) (Cha),
-[Intimidate](#intimidate) (Cha),
-[Profession](#profession) (Wis),
-[Ride](#ride) (Dex), [Sense
-Motive](#sense-motive) (Wis), and
-[Swim](#swim) (Str).
+The cavalier's class skills are [Bluff]
+(Cha), [Climb] (Str),
+[Craft] (Int),
+[Diplomacy] (Cha), [Handle
+Animal] (Cha),
+[Intimidate] (Cha),
+[Profession] (Wis),
+[Ride] (Dex), [Sense
+Motive] (Wis), and
+[Swim] (Str).
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special
   ------- ------------------- ----------- ---------- ----------- ------------------------------------------------------------------------------------------
-  1st     +1                  +2          +0         +0          [Challenge](#challenge) 1/day, [mount](#mount), [order](#order), [tactician](#tactician)
-  2nd     +2                  +3          +0         +0          [Order](#order) ability
-  3rd     +3                  +3          +1         +1          [Cavalier's charge](#cavalier's-charge)
-  4th     +4                  +4          +1         +1          [Challenge](#challenge) 2/day, [expert trainer](#expert-trainer)
-  5th     +5                  +4          +1         +1          [Banner](#banner)
-  6th     +6/+1               +5          +2         +2          [Bonus feat](#bonus-feat)
-  7th     +7/+2               +5          +2         +2          [Challenge](#challenge) 3/day
-  8th     +8/+3               +6          +2         +2          [Order](#order) ability
-  9th     +9/+4               +6          +3         +3          [Greater tactician](#greater-tactician)
-  10th    +10/+5              +7          +3         +3          [Challenge](#challenge) 4/day
-  11th    +11/+6/+1           +7          +3         +3          [Mighty charge](#mighty-charge)
-  12th    +12/+7/+2           +8          +4         +4          [Bonus feat](#bonus-feat), [demanding challenge](#demanding-challenge)
-  13th    +13/+8/+3           +8          +4         +4          [Challenge](#challenge) 5/day
-  14th    +14/+9/+4           +9          +4         +4          [Greater banner](#greater-banner)
-  15th    +15/+10/+5          +9          +5         +5          [Order](#order) ability
-  16th    +16/+11/+6/+1       +10         +5         +5          [Challenge](#challenge) 6/day
-  17th    +17/+12/+7/+2       +10         +5         +5          [Master tactician](#master-tactician)
-  18th    +18/+13/+8/+3       +11         +6         +6          [Bonus feat](#bonus-feat)
-  19th    +19/+14/+9/+4       +11         +6         +6          [Challenge](#challenge) 7/day
-  20th    +20/+15/+10/+5      +12         +6         +6          [Supreme charge](#supreme-charge)
+  1st     +1                  +2          +0         +0          [Challenge] 1/day, [mount], [order], [tactician]
+  2nd     +2                  +3          +0         +0          [Order] ability
+  3rd     +3                  +3          +1         +1          [Cavalier's charge]
+  4th     +4                  +4          +1         +1          [Challenge] 2/day, [expert trainer]
+  5th     +5                  +4          +1         +1          [Banner]
+  6th     +6/+1               +5          +2         +2          [Bonus feat]
+  7th     +7/+2               +5          +2         +2          [Challenge] 3/day
+  8th     +8/+3               +6          +2         +2          [Order] ability
+  9th     +9/+4               +6          +3         +3          [Greater tactician]
+  10th    +10/+5              +7          +3         +3          [Challenge] 4/day
+  11th    +11/+6/+1           +7          +3         +3          [Mighty charge]
+  12th    +12/+7/+2           +8          +4         +4          [Bonus feat], [demanding challenge]
+  13th    +13/+8/+3           +8          +4         +4          [Challenge] 5/day
+  14th    +14/+9/+4           +9          +4         +4          [Greater banner]
+  15th    +15/+10/+5          +9          +5         +5          [Order] ability
+  16th    +16/+11/+6/+1       +10         +5         +5          [Challenge] 6/day
+  17th    +17/+12/+7/+2       +10         +5         +5          [Master tactician]
+  18th    +18/+13/+8/+3       +11         +6         +6          [Bonus feat]
+  19th    +19/+14/+9/+4       +11         +6         +6          [Challenge] 7/day
+  20th    +20/+15/+10/+5      +12         +6         +6          [Supreme charge]
 
   : Table: Cavalier
 
@@ -840,7 +840,7 @@ at least 4th level. The GM might approve other animals as suitable
 mounts.
 
 A cavalier does not take an armor check penalty on
-[Ride](#ride) checks while riding his mount. The
+[Ride] checks while riding his mount. The
 mount is always considered combat trained and begins play with Light
 Armor Proficiency as a bonus feat. A cavalier's mount does not gain the
 share spells special ability.
@@ -886,7 +886,7 @@ after making a charge attack while mounted.
 **Expert Trainer (Ex)**: At 4th level, a cavalier learns to train mounts
 with speed and unsurpassed expertise. The cavalier receives a bonus
 equal to 1/2 his cavalier level whenever he uses [Handle
-Animal](#handle-animal) on an animal that
+Animal] on an animal that
 serves as a mount. In addition, he can reduce the time needed to teach a
 mount a new trick or train a mount for a general purpose to 1 day per 1
 week required by increasing the DC by +5. He can also train more than
@@ -981,11 +981,11 @@ threatening the target (not counting his mount). This bonus increases by
 +1 for every four levels the cavalier possesses.
 
 **Skills**: An order of the cockatrice cavalier adds
-[Appraise](#appraise) (Int) and
-[Perform](#perform) (Cha) to his list of class
+[Appraise] (Int) and
+[Perform] (Cha) to his list of class
 skills. In addition, an order of the cockatrice cavalier adds his
 Charisma modifier to the DC on another creature's attempt to demoralize
-him through [Intimidate](#intimidate) (in
+him through [Intimidate] (in
 addition to his Wisdom modifier, as normal).
 
 **Order Abilities**: A cavalier that belongs to the order of the
@@ -993,7 +993,7 @@ cockatrice gains the following abilities as he increases in level.
 
 *Braggart (Ex)*: At 2nd level, the cavalier can spend a standard action
 to extol his own accomplishments and battle prowess. He receives
-[Dazzling Display](#dazzling-display) as a bonus feat.
+[Dazzling Display] as a bonus feat.
 He does not need a weapon in hand to use this ability. The cavalier
 receives a +2 morale bonus on melee attack rolls made against
 demoralized targets.
@@ -1030,10 +1030,10 @@ target. This bonus increases by +1 for every four levels the cavalier
 possesses.
 
 **Skills**: An order of the dragon cavalier adds
-[Perception](#perception) (Wis) and
-[Survival](#survival) (Wis) to his list of
+[Perception] (Wis) and
+[Survival] (Wis) to his list of
 class skills. In addition, whenever an order of the dragon cavalier uses
-[Survival](#survival) to provide food and
+[Survival] to provide food and
 water for his allies or to protect his allies from harsh weather, he
 receives a bonus on the check equal to 1/2 his cavalier level (minimum
 +1).
@@ -1084,10 +1084,10 @@ by the target of his challenge. This bonus increases by +1 for every
 four levels the cavalier possesses.
 
 **Skills**: An order of the lion cavalier adds
-[Knowledge](#knowledge) (local) (Int) and
-[Knowledge](#knowledge) (nobility) (Int) to
+[Knowledge] (local) (Int) and
+[Knowledge] (nobility) (Int) to
 his list of class skills. An order of the lion cavalier can make
-[Knowledge](#knowledge) (nobility) skill
+[Knowledge] (nobility) skill
 checks untrained. If he has ranks in the skill, he receives a bonus on
 the check equal to 1/2 his cavalier level (minimum +1) as long as the
 check involves his sovereign.
@@ -1142,10 +1142,10 @@ target other than the cavalier. This bonus lasts for 1 minute. The bonus
 increases by +1 for every four levels the cavalier possesses.
 
 **Skills**: An order of the shield cavalier adds
-[Heal](#heal) (Wis) and
-[Knowledge](#knowledge) (local) (Int) to his
+[Heal] (Wis) and
+[Knowledge] (local) (Int) to his
 list of class skills. Whenever an order of the shield cavalier uses the
-[Heal](#heal) skill on a creature other than
+[Heal] skill on a creature other than
 himself, he receives a bonus on the check equal to 1/2 his cavalier
 level (minimum +1).
 
@@ -1161,7 +1161,7 @@ nonlethal damage. At 6th level, and every four levels thereafter, the
 amount of damage the cavalier can convert increases by 1.
 
 *Stem the Tide (Ex)*: At 8th level, the cavalier receives [Stand
-Still](#stand-still) as a bonus feat, even if he does
+Still] as a bonus feat, even if he does
 not meet the prerequisites. Instead of making a combat maneuver check to
 stop the creature from moving, a cavalier with this ability can elect to
 make a normal attack instead. If the attack hits and deals damage, the
@@ -1195,10 +1195,10 @@ long as he is threatening the target of his challenge. This bonus
 increases by +1 for every four levels the cavalier possesses.
 
 **Skills**: An order of the star cavalier adds
-[Heal](#heal) (Wis) and
-[Knowledge](#knowledge) (religion) (Int) to
+[Heal] (Wis) and
+[Knowledge] (religion) (Int) to
 his list of class skills. An order of the star cavalier can make
-[Knowledge](#knowledge) (religion) skill
+[Knowledge] (religion) skill
 checks untrained. If he has ranks in the skill, he receives a bonus on
 the check equal to 1/2 his cavalier level (minimum +1) as long as the
 check involves his chosen faith.
@@ -1255,11 +1255,11 @@ target of his challenge so long as he is astride his mount. The bonus
 increases by +1 for every four levels the cavalier possesses.
 
 **Skills**: An order of the sword cavalier adds
-[Knowledge](#knowledge) (nobility) (Int) and
-[Knowledge](#knowledge) (religion) (Int) to
+[Knowledge] (nobility) (Int) and
+[Knowledge] (religion) (Int) to
 his list of class skills. Whenever the cavalier uses [Sense
-Motive](#sense-motive) to oppose a
-[Bluff](#bluff) check, he receives a competence
+Motive] to oppose a
+[Bluff] check, he receives a competence
 bonus on the check equal to 1/2 his cavalier level (minimum +1).
 
 **Order Abilities**: An order of the sword cavalier receives the
@@ -1270,19 +1270,19 @@ alignment. As long as he maintains the selected alignment, he receives a
 +2 morale bonus to one saving throw of his choice.
 
 *Mounted Mastery (Ex)*: At 8th level, the cavalier ignores the armor
-check penalty when using the [Ride](#ride) skill,
+check penalty when using the [Ride] skill,
 regardless of whether or not the creature he is riding is his mount.
 Whenever he makes a charge attack while mounted, he receives a +4 dodge
 bonus to his AC to avoid attacks set against his charge. When making
 such an attack, he can add his mount's Strength modifier to the damage
 roll, in addition to his own. He also receives a bonus feat, chosen from
-the following list: [Mounted Combat](#mounted-combat),
-[Ride-By Attack](#ride-by-attack), [Skill
-Focus](#skill-focus)
-([Ride](#ride)), [Spirited
-Charge](#spirited-charge),
-[Trample](#trample), or
-[Unseat](#unseat). He must qualify for the feat
+the following list: [Mounted Combat],
+[Ride-By Attack], [Skill
+Focus]
+([Ride]), [Spirited
+Charge],
+[Trample], or
+[Unseat]. He must qualify for the feat
 selected.
 
 *Knight's Challenge (Ex)*: At 15th level, the cavalier can make a
@@ -1318,26 +1318,26 @@ deity's, along either the law/chaos axis or the good/evil axis.
 
 
 The inquisitor's class skills are
-[Bluff](#bluff) (Cha),
-[Climb](#climb) (Str),
-[Craft](#craft) (Int),
-[Diplomacy](#diplomacy) (Cha),
-[Disguise](#disguise) (Cha),
-[Heal](#heal) (Wis),
-[Intimidate](#intimidate) (Cha),
-[Knowledge](#knowledge) (arcana) (Int),
-[Knowledge](#knowledge) (dungeoneering)
-(Int), [Knowledge](#knowledge) (nature)
-(Int), [Knowledge](#knowledge) (planes)
-(Int), [Knowledge](#knowledge) (religion)
-(Int), [Perception](#perception) (Wis),
-[Profession](#profession) (Wis),
-[Ride](#ride) (Dex), [Sense
-Motive](#sense-motive) (Wis),
-[Spellcraft](#spellcraft) (Int),
-[Stealth](#stealth) (Dex),
-[Survival](#survival) (Wis), and
-[Swim](#swim) (Str).
+[Bluff] (Cha),
+[Climb] (Str),
+[Craft] (Int),
+[Diplomacy] (Cha),
+[Disguise] (Cha),
+[Heal] (Wis),
+[Intimidate] (Cha),
+[Knowledge] (arcana) (Int),
+[Knowledge] (dungeoneering)
+(Int), [Knowledge] (nature)
+(Int), [Knowledge] (planes)
+(Int), [Knowledge] (religion)
+(Int), [Perception] (Wis),
+[Profession] (Wis),
+[Ride] (Dex), [Sense
+Motive] (Wis),
+[Spellcraft] (Int),
+[Stealth] (Dex),
+[Survival] (Wis), and
+[Swim] (Str).
 
 **Skill Ranks per Level**: 6 + Int modifier.
 
@@ -1348,60 +1348,60 @@ Table: Inquisitor
 |          |Attack    |          |          |          |                                 |          |          |          |          |          |          |
 |          |Bonus     |          |          |          |                                 |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|1st       |+0        |+2        |+0        |+2        |[Domain](#domain),               |1         |-         |-         |-         |-         |-         |
-|          |          |          |          |          |[judgment](#judgment)            |          |          |          |          |          |          |
+|1st       |+0        |+2        |+0        |+2        |[Domain],               |1         |-         |-         |-         |-         |-         |
+|          |          |          |          |          |[judgment]            |          |          |          |          |          |          |
 |          |          |          |          |          |1/day, [monster                  |          |          |          |          |          |          |
-|          |          |          |          |          |lore](#monster-lore),            |          |          |          |          |          |          |
-|          |          |          |          |          |[orisons](#orisons),             |          |          |          |          |          |          |
+|          |          |          |          |          |lore],            |          |          |          |          |          |          |
+|          |          |          |          |          |[orisons],             |          |          |          |          |          |          |
 |          |          |          |          |          |[stern                           |          |          |          |          |          |          |
-|          |          |          |          |          |gaze](#stern-gaze)               |          |          |          |          |          |          |
+|          |          |          |          |          |gaze]               |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
 |2nd       |+1        |+3        |+0        |+3        |[Cunning                         |2         |-         |-         |-         |-         |-         |
-|          |          |          |          |          |initiative](#cunning-initiative),|          |          |          |          |          |          |
-|          |          |          |          |          |*detect [alignment](#alignment)*,|          |          |          |          |          |          |
-|          |          |          |          |          |[track](#track)                  |          |          |          |          |          |          |
+|          |          |          |          |          |initiative],|          |          |          |          |          |          |
+|          |          |          |          |          |*detect [alignment]*,|          |          |          |          |          |          |
+|          |          |          |          |          |[track]                  |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|3rd       |+2        |+3        |+1        |+3        |[Solo tactics](#solo-tactics),   |3         |-         |-         |-         |-         |-         |
-|          |          |          |          |          |[teamwork feat](#teamwork-feat)  |          |          |          |          |          |          |
+|3rd       |+2        |+3        |+1        |+3        |[Solo tactics],   |3         |-         |-         |-         |-         |-         |
+|          |          |          |          |          |[teamwork feat]  |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|4th       |+3        |+4        |+1        |+4        |[Judgment](#judgment) 2/day      |3         |1         |-         |-         |-         |-         |
+|4th       |+3        |+4        |+1        |+4        |[Judgment] 2/day      |3         |1         |-         |-         |-         |-         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|5th       |+3        |+4        |+1        |+4        |[Bane](#bane), *[discern         |4         |2         |-         |-         |-         |-         |
-|          |          |          |          |          |lies](#discern-lies)*            |          |          |          |          |          |          |
+|5th       |+3        |+4        |+1        |+4        |[Bane], *[discern         |4         |2         |-         |-         |-         |-         |
+|          |          |          |          |          |lies]*            |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|6th       |+4        |+5        |+2        |+5        |[Teamwork feat](#teamwork-feat)  |4         |3         |-         |-         |-         |-         |
+|6th       |+4        |+5        |+2        |+5        |[Teamwork feat]  |4         |3         |-         |-         |-         |-         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|7th       |+5        |+5        |+2        |+5        |[Judgment](#judgment) 3/day      |4         |3         |1         |-         |-         |-         |
+|7th       |+5        |+5        |+2        |+5        |[Judgment] 3/day      |4         |3         |1         |-         |-         |-         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
 |8th       |+6/+1     |+6        |+2        |+6        |[Second                          |4         |4         |2         |-         |-         |-         |
-|          |          |          |          |          |judgment](#second-judgment)      |          |          |          |          |          |          |
+|          |          |          |          |          |judgment]      |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|9th       |+6/+1     |+6        |+3        |+6        |[Teamwork feat](#teamwork-feat)  |5         |4         |3         |-         |-         |-         |
+|9th       |+6/+1     |+6        |+3        |+6        |[Teamwork feat]  |5         |4         |3         |-         |-         |-         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|10th      |+7/+2     |+7        |+3        |+7        |[Judgment](#judgment) 4/day      |5         |4         |3         |1         |-         |-         |
+|10th      |+7/+2     |+7        |+3        |+7        |[Judgment] 4/day      |5         |4         |3         |1         |-         |-         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|11th      |+8/+3     |+7        |+3        |+7        |[Stalwart](#stalwart)            |5         |4         |4         |2         |-         |-         |
+|11th      |+8/+3     |+7        |+3        |+7        |[Stalwart]            |5         |4         |4         |2         |-         |-         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|12th      |+9/+4     |+8        |+4        |+8        |[Greater bane](#greater-bane),   |5         |5         |4         |3         |-         |-         |
-|          |          |          |          |          |[teamwork feat](#teamwork-feat)  |          |          |          |          |          |          |
+|12th      |+9/+4     |+8        |+4        |+8        |[Greater bane],   |5         |5         |4         |3         |-         |-         |
+|          |          |          |          |          |[teamwork feat]  |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|13th      |+9/+4     |+8        |+4        |+8        |[Judgment](#judgment) 5/day      |5         |5         |4         |3         |1         |-         |
+|13th      |+9/+4     |+8        |+4        |+8        |[Judgment] 5/day      |5         |5         |4         |3         |1         |-         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
 |14th      |+10/+5    |+9        |+4        |+9        |[Exploit                         |5         |5         |4         |4         |2         |-         |
-|          |          |          |          |          |weakness](#exploit-weakness)     |          |          |          |          |          |          |
+|          |          |          |          |          |weakness]     |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|15th      |+11/+6/+1 |+9        |+5        |+9        |[Teamwork feat](#teamwork-feat)  |5         |5         |5         |4         |3         |-         |
+|15th      |+11/+6/+1 |+9        |+5        |+9        |[Teamwork feat]  |5         |5         |5         |4         |3         |-         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|16th      |+12/+7/+2 |+10       |+5        |+10       |[Judgment](#judgment) 6/day,     |5         |5         |5         |4         |3         |1         |
-|          |          |          |          |          |[third judgment](#third-judgment)|          |          |          |          |          |          |
+|16th      |+12/+7/+2 |+10       |+5        |+10       |[Judgment] 6/day,     |5         |5         |5         |4         |3         |1         |
+|          |          |          |          |          |[third judgment]|          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|17th      |+12/+7/+2 |+10       |+5        |+10       |[Slayer](#slayer)                |5         |5         |5         |4         |4         |2         |
+|17th      |+12/+7/+2 |+10       |+5        |+10       |[Slayer]                |5         |5         |5         |4         |4         |2         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|18th      |+13/+8/+3 |+11       |+6        |+11       |[Teamwork feat](#teamwork-feat)  |5         |5         |5         |5         |4         |3         |
+|18th      |+13/+8/+3 |+11       |+6        |+11       |[Teamwork feat]  |5         |5         |5         |5         |4         |3         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|19th      |+14/+9/+4 |+11       |+6        |+11       |[Judgment](#judgment) 7/day      |5         |5         |5         |5         |5         |4         |
+|19th      |+14/+9/+4 |+11       |+6        |+11       |[Judgment] 7/day      |5         |5         |5         |5         |5         |4         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
-|20th      |+15/+10/+5|+12       |+6        |+12       |[True judgment](#true-judgment)  |5         |5         |5         |5         |5         |5         |
+|20th      |+15/+10/+5|+12       |+6        |+12       |[True judgment]  |5         |5         |5         |5         |5         |5         |
 +----------+----------+----------+----------+----------+---------------------------------+----------+----------+----------+----------+----------+----------+
 
 
@@ -1570,7 +1570,7 @@ possesses. At 10th level, this DR changes from magic to an alignment
 (chaotic, evil, good, or lawful) that is opposite the inquisitor's. If
 she is neutral, the inquisitor does not receive this increase.
 
-*[Resistance](#resistance)*: The inquisitor
+*[Resistance]*: The inquisitor
 is shielded by a flickering aura, gaining 2 points of energy resistance
 against one energy type (acid, cold, electricity, fire, or sonic) chosen
 when the judgment is declared. The protection increases by 2 for every
@@ -1587,7 +1587,7 @@ count as adamantine for the purpose of overcoming damage reduction (but
 not for reducing hardness).
 
 **Monster Lore (Ex)**: The inquisitor adds her Wisdom modifier on
-[Knowledge](#knowledge) skill checks in
+[Knowledge] skill checks in
 addition to her Intelligence modifier, when making skill checks to
 identify the abilities and weaknesses of creatures.
 
@@ -1599,22 +1599,22 @@ metamagic feats, are expended normally.
 
 **Stern Gaze (Ex)**: Inquisitors are skilled at sensing deception and
 intimidating their foes. An inquisitor receives a morale bonus on all
-[Intimidate](#intimidate) and [Sense
-Motive](#sense-motive) checks equal to 1/2
+[Intimidate] and [Sense
+Motive] checks equal to 1/2
 her inquisitor level (minimum +1).
 
 **Cunning Initiative (Ex)**: At 2nd level, an inquisitor adds her Wisdom
 modifier on initiative checks, in addition to her Dexterity modifier.
 
 ***Detect Alignment* (Sp)**: At will, an inquisitor can use *[detect
-chaos](#detect-chaos)*, *[detect
-evil](#detect-evil)*, *[detect
-good](#detect-good)*, or *[detect
-law](#detect-law)*. She can only use one of
+chaos]*, *[detect
+evil]*, *[detect
+good]*, or *[detect
+law]*. She can only use one of
 these at any given time.
 
 **Track (Ex)**: At 2nd level, an inquisitor adds half her level on
-[Survival](#survival) skill checks made to
+[Survival] skill checks made to
 follow or identify tracks.
 
 **Solo Tactics (Ex)**: At 3rd level, all of the inquisitor's allies are
@@ -1641,7 +1641,7 @@ change her most recent teamwork feat a number of times per day equal to
 her Wisdom modifier.
 
 **Bane (Su)**: At 5th level, an inquisitor can imbue one of her weapons
-with the *[bane](#weapons-bane)* weapon
+with the *[bane]* weapon
 special ability as a swift action. She must select one creature type
 when she uses this ability (and a subtype if the creature type selected
 is humanoid or outsider). Once selected, the type can be changed as a
@@ -1652,7 +1652,7 @@ This ability lasts for a number of rounds per day equal to the
 inquisitor's level. These rounds do not need to be consecutive.
 
 ***Discern Lies* (Sp)**: At 5th level, an inquisitor can *[discern
-lies](#discern-lies)*, as per the spell,
+lies]*, as per the spell,
 for a number of rounds per day equal to her inquisitor level. These
 rounds do not need to be consecutive. Activating this ability is an
 immediate action.
@@ -1720,7 +1720,7 @@ chaotic, evil, good and lawful descriptors in their spell descriptions.
 An inquisitor who slips into corruption or changes to a prohibited
 alignment loses all spells and the judgment ability. She cannot
 thereafter gain levels as an inquisitor until she atones (see the
-*[atonement](#atonement)* spell
+*[atonement]* spell
 description).
 
 
@@ -1731,219 +1731,219 @@ spells are found in the *Core Rulebook*, those marked with an asterisk
 (\*) appear in Chapter 5 of this book.
 
 **0-Level Inquisitor Spells**-*[acid
-splash](#acid-splash),
-[bleed](#bleed),
-[brand\*](#brand), [create
-water](#create-water),
-[daze](#daze), [detect
-magic](#detect-magic), [detect
-poison](#detect-poison), [disrupt
-undead](#disrupt-undead),
-[guidance](#guidance),
-[light](#light), [read
-magic](#read-magic),
-[resistance](#resistance),
-[sift\*](#sift),
-[stabilize](#stabilize),
-[virtue](#virtue).*
+splash],
+[bleed],
+[brand\*], [create
+water],
+[daze], [detect
+magic], [detect
+poison], [disrupt
+undead],
+[guidance],
+[light], [read
+magic],
+[resistance],
+[sift\*],
+[stabilize],
+[virtue].*
 
 **1st-Level Inquisitor
-Spells**-*[alarm](#alarm),
+Spells**-*[alarm],
 [bane](/pathfinderRPG/prd/spells/bane.html#bane),
-[bless](#bless), [bless
-water](#bless-water), [burst
-bonds\*](#burst-bonds), [cause
-fear](#cause-fear),
-[command](#command), [comprehend
-languages](#comprehend-languages),
+[bless], [bless
+water], [burst
+bonds\*], [cause
+fear],
+[command], [comprehend
+languages],
 [cure light
-wounds](#cure-light-wounds), [curse
-water](#curse-water), [detect
-chaos](#detect-chaos)/evil/good/law,
-[detect undead](#detect-undead),
-[disguise self](#disguise-self), [divine
-favor](#divine-favor),
-[doom](#doom), [expeditious
-retreat](#expeditious-retreat),
-[hide from undead](#hide-from-undead),
+wounds], [curse
+water], [detect
+chaos]/evil/good/law,
+[detect undead],
+[disguise self], [divine
+favor],
+[doom], [expeditious
+retreat],
+[hide from undead],
 [inflict light
-wounds](#inflict-light-wounds),
-[magic weapon](#magic-weapon), [protection
+wounds],
+[magic weapon], [protection
 from
-chaos](#protection-from-chaos)/evil/good/law,
-[remove fear](#remove-fear),
-[sanctuary](#sanctuary), [shield of
-faith](#shield-of-faith), [tireless
-pursuit\*](#tireless-pursuit), [true
-strike](#true-strike),
-[wrath\*](#wrath).*
+chaos]/evil/good/law,
+[remove fear],
+[sanctuary], [shield of
+faith], [tireless
+pursuit\*], [true
+strike],
+[wrath\*].*
 
-**2nd-Level Inquisitor Spells**-*[aid](#aid),
-[align weapon](#align-weapon),
-[bloodhound\*](#bloodhound), [calm
-emotions](#calm-emotions),
-[castigate\*](#castigate),
-[confess\*](#confess),
-[consecrate](#consecrate),
-[corruption](#resistance)\*,
+**2nd-Level Inquisitor Spells**-*[aid],
+[align weapon],
+[bloodhound\*], [calm
+emotions],
+[castigate\*],
+[confess\*],
+[consecrate],
+[corruption]\*,
 [cure moderate
-wounds](#cure-moderate-wounds),
-[darkness](#darkness), [death
-knell](#death-knell), [delay
-poison](#delay-poison),
-[desecrate](#desecrate), [detect
-thoughts](#detect-thoughts),
-[enthrall](#enthrall), [find
-traps](#find-traps), [flames of the
-faithful\*](#flames-of-the-faithful),
-[follow aura\*](#follow-aura), [ghostbane
-dirge\*](#ghostbane-dirge), [hold
-person](#hold-person), [honeyed
-tongue\*](#honeyed-tongue), [inflict
+wounds],
+[darkness], [death
+knell], [delay
+poison],
+[desecrate], [detect
+thoughts],
+[enthrall], [find
+traps], [flames of the
+faithful\*],
+[follow aura\*], [ghostbane
+dirge\*], [hold
+person], [honeyed
+tongue\*], [inflict
 moderate
-wounds](#inflict-moderate-wounds),
-[invisibility](#invisibility),
-[knock](#knock), [perceive
-cues\*](#perceive-cues), [remove
-paralysis](#remove-paralysis), [resist
-energy](#resist-energy), [restoration
-(lesser)](#lesser-restoration), [see
-invisibility](#see-invisibility),
-[sacred bond\*](#sacred-bond), [shield
-other](#shield-other),
-[silence](#silence), [spiritual
-weapon](#spiritual-weapon),
-[tongues](#tongues), [undetectable
-alignment](#undetectable-alignment),
-[weapon of awe\*](#weapon-of-awe),
-[whispering wind](#whispering-wind),
-[zone of truth](#zone-of-truth).*
+wounds],
+[invisibility],
+[knock], [perceive
+cues\*], [remove
+paralysis], [resist
+energy], [restoration
+(lesser)], [see
+invisibility],
+[sacred bond\*], [shield
+other],
+[silence], [spiritual
+weapon],
+[tongues], [undetectable
+alignment],
+[weapon of awe\*],
+[whispering wind],
+[zone of truth].*
 
 **3rd-Level Inquisitor Spells**-*[arcane
-sight](#arcane-sight),
-[banish](#seeming)\*,
-[blood biography\*](#blood-biography-),
-[cast out\*](#cast-out), [continual
-flame](#continual-flame), [coordinated
-effort\*](#coordinated-effort), [cure
+sight],
+[banish]\*,
+[blood biography\*],
+[cast out\*], [continual
+flame], [coordinated
+effort\*], [cure
 serious
-wounds](#cure-serious-wounds),
-[daylight](#daylight), [deeper
-darkness](#deeper-darkness),
-[dimensional anchor](#dimensional),
-[dispel magic](#dispel-magic),
-[fester\*](#fester), [glyph of
-warding](#glyph-of-warding), [halt
-undead](#halt-undead-copy),
-[heroism](#heroism), [hidden
-speech\*](#hidden-speech), [hunter's
-eye\*](#hunter's-eye), [inflict serious
-wounds](#inflict-serious-wounds),
+wounds],
+[daylight], [deeper
+darkness],
+[dimensional anchor],
+[dispel magic],
+[fester\*], [glyph of
+warding], [halt
+undead],
+[heroism], [hidden
+speech\*], [hunter's
+eye\*], [inflict serious
+wounds],
 [invisibility
-purge](#invisibility-purge), [keen
-edge](#keen-edge), [locate
-object](#locate-object), magic circle vs.
+purge], [keen
+edge], [locate
+object], magic circle vs.
 chaos/evil/good/law, [magic
-vestment](#magic-vestment), [greater
-magic weapon](#magic-weapon-greater),
-[nondetection](#nondetection), [obscure
-object](#obscure-object),
-[prayer](#prayer), [protection from
-energy](#protection-from-energy),
-[remove curse](#remove-curse), [remove
-disease](#remove-disease),
-[retribution\*](#retribution), [righteous
-vigor\*](#righteous-vigor), [seek
-thoughts\*](#seek-thoughts), [searing
-light](#searing-light), [speak with
-dead](#speak-with-dead), [ward the
-faithful\*](#ward-the-faithful).*
+vestment], [greater
+magic weapon],
+[nondetection], [obscure
+object],
+[prayer], [protection from
+energy],
+[remove curse], [remove
+disease],
+[retribution\*], [righteous
+vigor\*], [seek
+thoughts\*], [searing
+light], [speak with
+dead], [ward the
+faithful\*].*
 
 **4th-Level Inquisitor Spells**-*[brand
-(greater)\*](#brand,-greater), [chaos
-hammer](#chaos-hammer), [coward's
-lament\*](#coward's-lament), [cure critical
-wounds](#cure-critical-wounds),
-[death ward](#death-ward), [defile
-armor\*](#defile-armor),
-[denounce\*](#denounce), [detect
-scrying](#detect-scrying), [discern
-lies](#discern-lies),
-[dismissal](#dismissal),
-[divination](#divination), [divine
-power](#divine-power),
-[fear](#fear), [freedom of
-movement](#freedom-of-movement),
+(greater)\*], [chaos
+hammer], [coward's
+lament\*], [cure critical
+wounds],
+[death ward], [defile
+armor\*],
+[denounce\*], [detect
+scrying], [discern
+lies],
+[dismissal],
+[divination], [divine
+power],
+[fear], [freedom of
+movement],
 [forced
-repentance\*](#forced-repentance), [geas
-(lesser)](#geas-lesser), [hold
-monster](#hold-monster), [holy
-smite](#holy-smite), [inflict critical
-wounds](#inflict-critical-wounds),
+repentance\*], [geas
+(lesser)], [hold
+monster], [holy
+smite], [inflict critical
+wounds],
 [invisibility
-(greater)](#invisibility-greater),
+(greater)],
 [neutralize
-poison](#neutralize-poison), [order's
-wrath](#order-s-wrath),
-[rebuke\*](#rebuke),
-[restoration](#restoration), [sanctify
-armor\*](#sanctify-armor),
-[sending](#sending),
-[shared](#wrath)\*,
-[sleepwalk\*](#sleepwalk), [spell
-immunity](#spell-immunity),
-[stoneskin](#stoneskin), [tireless
-pursuers\*](#tireless-pursuers), [unholy
-blight](#unholy-blight).*
+poison], [order's
+wrath],
+[rebuke\*],
+[restoration], [sanctify
+armor\*],
+[sending],
+[shared]\*,
+[sleepwalk\*], [spell
+immunity],
+[stoneskin], [tireless
+pursuers\*], [unholy
+blight].*
 
 **5th-Level Inquisitor
-Spells**-*[atonement](#atonement),
-[banishment](#banishment), [break
-enchantment](#break-enchantment),
-[castigate (mass)\*](#castigate,-mass),
-[command (greater)](#greater-command),
-[commune](#commune), [cure light wounds
-(mass)](#cure-light-wounds-mass),
+Spells**-*[atonement],
+[banishment], [break
+enchantment],
+[castigate (mass)\*],
+[command (greater)],
+[commune], [cure light wounds
+(mass)],
 [dispel
-chaos](#dispel-chaos)/evil/good/law,
+chaos]/evil/good/law,
 [disrupting
-weapon](#disrupting-weapon), [flame
-strike](#flame-strike),
-[geas/quest](#geas-quest), [ghostbane dirge
-(mass)\*](#ghostbane-dirge,-mass),
-[hallow](#hallow), [inflict light wounds
-(mass)](#inflict-light-wounds-mass),
-[mark of justice](#mark-of-justice),
-[resounding blow\*](#resounding-blow),
-[righteous might](#righteous-might),
-[spell resistance](#armor-spell-resistance),
-[telepathic bond](#telepathic-bond),
-[true seeing](#true-seeing),
-[unhallow](#unhallow),
-[unwilling](#shield)\*.*
+weapon], [flame
+strike],
+[geas/quest], [ghostbane dirge
+(mass)\*],
+[hallow], [inflict light wounds
+(mass)],
+[mark of justice],
+[resounding blow\*],
+[righteous might],
+[spell resistance],
+[telepathic bond],
+[true seeing],
+[unhallow],
+[unwilling]\*.*
 
 **6th-Level Inquisitor Spells**-*[blade
-barrier](#blade-barrier),
-[blasphemy](#blasphemy), [circle of
-death](#circle-of-death),
-[cleanse\*](#cleanse), [cure moderate wounds
-(mass)](#cure-moderate-wounds-mass),
-[dictum](#dictum), [dispel magic
-(greater)](#dispel-magic-greater), [fester
-(mass)\*](#fester,-mass), [find the
-path](#find-the-path),
-[forbiddance](#forbiddance), [glyph of
+barrier],
+[blasphemy], [circle of
+death],
+[cleanse\*], [cure moderate wounds
+(mass)],
+[dictum], [dispel magic
+(greater)], [fester
+(mass)\*], [find the
+path],
+[forbiddance], [glyph of
 warding
-(greater)](#glyph-of-warding-greater),
-[harm](#harm),
-[heal](#heal), [heroes'
-feast](#heroes-feast), [holy
-word](#holy-word), [inflict moderate wounds
-(mass)](#inflict-moderate-wounds-mass),
-[legend lore](#legend-lore),
-[repulsion](#repulsion), [undeath to
-death](#undeath-to-death), [word of
-chaos](#word-of-chaos).*
+(greater)],
+[harm],
+[heal], [heroes'
+feast], [holy
+word], [inflict moderate wounds
+(mass)],
+[legend lore],
+[repulsion], [undeath to
+death], [word of
+chaos].*
 
 
 ## Oracle
@@ -1972,15 +1972,15 @@ through fighting mighty battles or tending to the poor and sick.
 
 ### Class Skills
 
-The oracle's class skills are [Craft](#craft)
-(Int), [Diplomacy](#diplomacy) (Cha),
-[Heal](#heal) (Wis),
-[Knowledge](#knowledge) (history) (Int),
-[Knowledge](#knowledge) (planes) (Int),
-[Knowledge](#knowledge) (religion) (Int),
-[Profession](#profession) (Wis), [Sense
-Motive](#sense-motive) (Wis), and
-[Spellcraft](#spellcraft) (Int). In
+The oracle's class skills are [Craft]
+(Int), [Diplomacy] (Cha),
+[Heal] (Wis),
+[Knowledge] (history) (Int),
+[Knowledge] (planes) (Int),
+[Knowledge] (religion) (Int),
+[Profession] (Wis), [Sense
+Motive] (Wis), and
+[Spellcraft] (Int). In
 addition, oracles receive additional class skills depending upon their
 oracle mystery.
 
@@ -1995,50 +1995,50 @@ Table: Oracle
 |          |Attack    |          |          |          |                              |     |     |     |     |     |     |     |     |     |
 |          |Bonus     |          |          |          |                              |     |     |     |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|1st       |+0        |+0        |+0        |+2        |[Mystery](#mystery),          |3    |-    |-    |-    |-    |-    |-    |-    |-    |
+|1st       |+0        |+0        |+0        |+2        |[Mystery],          |3    |-    |-    |-    |-    |-    |-    |-    |-    |
 |          |          |          |          |          |[oracle's                     |     |     |     |     |     |     |     |     |     |
-|          |          |          |          |          |curse](#oracle's-curse),      |     |     |     |     |     |     |     |     |     |
-|          |          |          |          |          |[orisons](#orisons),          |     |     |     |     |     |     |     |     |     |
-|          |          |          |          |          |[revelation](#revelation)     |     |     |     |     |     |     |     |     |     |
+|          |          |          |          |          |curse],      |     |     |     |     |     |     |     |     |     |
+|          |          |          |          |          |[orisons],          |     |     |     |     |     |     |     |     |     |
+|          |          |          |          |          |[revelation]     |     |     |     |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|2nd       |+1        |+0        |+0        |+3        |[Mystery](#mystery) spell     |4    |-    |-    |-    |-    |-    |-    |-    |-    |
+|2nd       |+1        |+0        |+0        |+3        |[Mystery] spell     |4    |-    |-    |-    |-    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|3rd       |+2        |+1        |+1        |+3        |[Revelation](#revelation)     |5    |-    |-    |-    |-    |-    |-    |-    |-    |
+|3rd       |+2        |+1        |+1        |+3        |[Revelation]     |5    |-    |-    |-    |-    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|4th       |+3        |+1        |+1        |+4        |[Mystery](#mystery) spell     |6    |3    |-    |-    |-    |-    |-    |-    |-    |
+|4th       |+3        |+1        |+1        |+4        |[Mystery] spell     |6    |3    |-    |-    |-    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
 |5th       |+3        |+1        |+1        |+4        |-                             |6    |4    |-    |-    |-    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|6th       |+4        |+2        |+2        |+5        |[Mystery](#mystery) spell     |6    |5    |3    |-    |-    |-    |-    |-    |-    |
+|6th       |+4        |+2        |+2        |+5        |[Mystery] spell     |6    |5    |3    |-    |-    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|7th       |+5        |+2        |+2        |+5        |[Revelation](#revelation)     |6    |6    |4    |-    |-    |-    |-    |-    |-    |
+|7th       |+5        |+2        |+2        |+5        |[Revelation]     |6    |6    |4    |-    |-    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|8th       |+6/+1     |+2        |+2        |+6        |[Mystery](#mystery) spell     |6    |6    |5    |3    |-    |-    |-    |-    |-    |
+|8th       |+6/+1     |+2        |+2        |+6        |[Mystery] spell     |6    |6    |5    |3    |-    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
 |9th       |+6/+1     |+3        |+3        |+6        |-                             |6    |6    |6    |4    |-    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|10th      |+7/+2     |+3        |+3        |+7        |[Mystery](#mystery) spell     |6    |6    |6    |5    |3    |-    |-    |-    |-    |
+|10th      |+7/+2     |+3        |+3        |+7        |[Mystery] spell     |6    |6    |6    |5    |3    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|11th      |+8/+3     |+3        |+3        |+7        |[Revelation](#revelation)     |6    |6    |6    |6    |4    |-    |-    |-    |-    |
+|11th      |+8/+3     |+3        |+3        |+7        |[Revelation]     |6    |6    |6    |6    |4    |-    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|12th      |+9/+4     |+4        |+4        |+8        |[Mystery](#mystery) spell     |6    |6    |6    |6    |5    |3    |-    |-    |-    |
+|12th      |+9/+4     |+4        |+4        |+8        |[Mystery] spell     |6    |6    |6    |6    |5    |3    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
 |13th      |+9/+4     |+4        |+4        |+8        |-                             |6    |6    |6    |6    |6    |4    |-    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|14th      |+10/+5    |+4        |+4        |+9        |[Mystery](#mystery) spell     |6    |6    |6    |6    |6    |5    |3    |-    |-    |
+|14th      |+10/+5    |+4        |+4        |+9        |[Mystery] spell     |6    |6    |6    |6    |6    |5    |3    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|15th      |+11/+6/+1 |+5        |+5        |+9        |[Revelation](#revelation)     |6    |6    |6    |6    |6    |6    |4    |-    |-    |
+|15th      |+11/+6/+1 |+5        |+5        |+9        |[Revelation]     |6    |6    |6    |6    |6    |6    |4    |-    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|16th      |+12/+7/+2 |+5        |+5        |+10       |[Mystery](#mystery) spell     |6    |6    |6    |6    |6    |6    |5    |3    |-    |
+|16th      |+12/+7/+2 |+5        |+5        |+10       |[Mystery] spell     |6    |6    |6    |6    |6    |6    |5    |3    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
 |17th      |+12/+7/+2 |+5        |+5        |+10       |-                             |6    |6    |6    |6    |6    |6    |6    |4    |-    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|18th      |+13/+8/+3 |+6        |+6        |+11       |[Mystery](#mystery) spell     |6    |6    |6    |6    |6    |6    |6    |5    |3    |
+|18th      |+13/+8/+3 |+6        |+6        |+11       |[Mystery] spell     |6    |6    |6    |6    |6    |6    |6    |5    |3    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|19th      |+14/+9/+4 |+6        |+6        |+11       |[Revelation](#revelation)     |6    |6    |6    |6    |6    |6    |6    |6    |4    |
+|19th      |+14/+9/+4 |+6        |+6        |+11       |[Revelation]     |6    |6    |6    |6    |6    |6    |6    |6    |4    |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
 |20th      |+15/+10/+5|+6        |+6        |+12       |[Final                        |6    |6    |6    |6    |6    |6    |6    |6    |6    |
-|          |          |          |          |          |revelation](#final-revelation)|     |     |     |     |     |     |     |     |     |
+|          |          |          |          |          |revelation]|     |     |     |     |     |     |     |     |     |
 +----------+----------+----------+----------+----------+------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
 
 Table: Oracle Spells Known
@@ -2094,7 +2094,7 @@ weapons, light armor, medium armor, and shields (except tower shields).
 Some oracle revelations grant additional proficiencies.
 
 **Spells**: An oracle casts divine spells drawn from the [cleric spell
-lists](#cleric-spells). She can cast any spell she
+lists]. She can cast any spell she
 knows without preparing it ahead of time. To learn or cast a spell, an
 oracle must have a Charisma score equal to at least 10 + the spell
 level. The Difficulty Class for a saving throw against an oracle's spell
@@ -2168,10 +2168,10 @@ level, you gain blindsight out to a range of 15 feet.
 
 *Deaf*: You cannot hear and suffer all of the usual penalties for being
 deafened. You cast all of your spells as if they were modified by the
-[Silent Spell](#silent-spell) feat. This does not
+[Silent Spell] feat. This does not
 increase their level or casting time. At 5th level, you receive a +3
 competence bonus on
-[Perception](#perception) checks that do
+[Perception] checks that do
 not rely upon hearing, and the initiative penalty for being deaf is
 reduced to –2. At 10th level, you gain scent and you do not suffer any
 penalty on initiative checks due to being deaf. At 15th level, you gain
@@ -2182,15 +2182,15 @@ mishaps and strange occurrences (such as unexpected breezes, small
 objects moving on their own, and faint noises). Retrieving any stored
 item from your gear requires a standard action, unless it would normally
 take longer. Any item you drop lands 10 feet away from you in a random
-direction. Add *[mage hand](#mage-hand)* and
-*[ghost sound](#ghost-sound)* to your list
+direction. Add *[mage hand]* and
+*[ghost sound]* to your list
 of spells known. At 5th level, add
-*[levitate](#levitate)* and *[minor
-image](#minor-image)*to your list of spells
+*[levitate]* and *[minor
+image]*to your list of spells
 known. At 10th level, add
-*[telekinesis](#telekinesis)*to your list
+*[telekinesis]*to your list
 of spells known. At 15th level, add *[reverse
-gravity](#reverse-gravity)* to your
+gravity]* to your
 list of spells known.
 
 *Lame*: One of your legs is permanently wounded, reducing your base land
@@ -2210,13 +2210,13 @@ You gain the selected language as a bonus language. At 5th level, pick
 an additional language to speak in combat and add it to your list of
 known languages. At 10th level, you can understand any spoken language,
 as if under the effects of
-*[tongues](#tongues),*even during combat. At
+*[tongues],*even during combat. At
 15th level, you can speak and understand any language, but your speech
 is still restricted during combat.
 
 *Wasting*: Your body is slowly rotting away. You take a –4 penalty on
 Charisma-based skill checks, except for
-[Intimidate](#intimidate). You gain a +4
+[Intimidate]. You gain a +4
 competence bonus on saves made against disease. At 5th level, you are
 immune to the sickened condition (but not nauseated). At 10th level, you
 gain immunity to disease. At 15th level, you are immune to the nauseated
@@ -2250,23 +2250,23 @@ with an asterisk (\*) appear in Chapter 5 of this book.
 #### Battle
 
 **Class Skills**: An oracle with the battle mystery adds
-[Intimidate](#intimidate),
-[Knowledge](#knowledge) (engineering),
-[Perception](#perception), and
-[Ride](#ride) to her list of class skills.
+[Intimidate],
+[Knowledge] (engineering),
+[Perception], and
+[Ride] to her list of class skills.
 
 **Bonus Spells**: *[enlarge
-person](#enlarge-person)* (2nd), *[fog
+person]* (2nd), *[fog
 cloud]()*(4th), *[magic
-vestment](#magic-vestment)* (6th),
-*[wall of fire](#wall-of-fire)* (8th),
-*[righteous might](#righteous-might)*
+vestment]* (6th),
+*[wall of fire]* (8th),
+*[righteous might]*
 (10th), *[mass bull's
-strength](#bull-s-strength-mass)*
+strength]*
 (12th), *[control
-weather](#control-weather)* (14th),
-*[earthquake](#earthquake)* (16th), *[storm
-of vengeance](#storm-of-vengeance)*
+weather]* (14th),
+*[earthquake]* (16th), *[storm
+of vengeance]*
 (18th).
 
 **Revelations**: An oracle with the battle mystery can choose from any
@@ -2289,7 +2289,7 @@ can use this ability one additional time per day.
 
 *Combat Healer (Su)*: Whenever you cast a cure spell (a spell with
 “cure” in its name), you can cast it as a swift action, as if using the
-[Quicken Spell](#quicken-spell) feat, by expending two
+[Quicken Spell] feat, by expending two
 spell slots. This does not increase the level of the spell. You can use
 this ability once per day at 7th level and one additional time per day
 for every four levels beyond 7th. You must be at least 7th level to
@@ -2297,7 +2297,7 @@ select this revelation.
 
 *Iron Skin (Su)*: Once per day, your skin hardens and takes on the
 appearance of iron, granting you DR 10/adamantine. This functions as
-*[stoneskin](#stoneskin)*, using your oracle
+*[stoneskin]*, using your oracle
 level as the caster level. At 15th level, you can use this ability twice
 per day. You must be at least 11th level to select this revelation.
 
@@ -2305,18 +2305,18 @@ per day. You must be at least 11th level to select this revelation.
 performing the selected maneuver, you treat your oracle level as your
 base attack bonus (plus the BAB from other classes) when determining
 your CMB. At 7th level, you gain the Improved feat (such as [Improved
-Trip](#improved-trip)) that grants you a bonus when
+Trip]) that grants you a bonus when
 performing that maneuver. At 11th level, you gain the Greater feat (such
-as [Greater Trip](#greater-trip)) that grants you a
+as [Greater Trip]) that grants you a
 bonus when performing that maneuver. You do not need to meet the
 prerequisites to receive these feats.
 
 *Resiliency (Ex)*: You are not disabled and you do not gain the
 staggered condition if you are reduced to exactly 0 hit points. At 7th
-level, you gain [Diehard](#diehard) as a bonus feat. At
+level, you gain [Diehard] as a bonus feat. At
 11th level, you do not lose a hit point when you take a standard action
 while disabled. You do not need to meet the prerequisite to receive the
-[Diehard](#diehard) feat.
+[Diehard] feat.
 
 *Skill at Arms (Ex)*: You gain proficiency in all martial weapons and
 heavy armor.
@@ -2333,11 +2333,11 @@ rounds). At 11th level, you can roll for initiative three times and take
 any one of the results.
 
 *Weapon Mastery (Ex)*: Select one weapon with which you are proficient.
-You gain [Weapon Focus](#weapon-focus) with that
+You gain [Weapon Focus] with that
 weapon. At 8th level, you gain [Improved
-Critical](#improved-critical) with that weapon. At 12th
+Critical] with that weapon. At 12th
 level, you gain [Greater Weapon
-Focus](#greater-weapon-focus) with that weapon. You do
+Focus] with that weapon. You do
 not need to meet the prerequisites to receive these feats.
 
 **Final Revelation**: Upon reaching 20th level, you become an avatar of
@@ -2353,24 +2353,24 @@ Constitution score.
 
 
 **Class Skills**: An oracle with a bones mystery adds
-[Bluff](#bluff),
-[Disguise](#disguise),
-[Intimidate](#intimidate), and
-[Stealth](#stealth) to her list of class
+[Bluff],
+[Disguise],
+[Intimidate], and
+[Stealth] to her list of class
 skills.
 
 **Bonus Spells**: *[cause
-fear](#cause-fear)*(2nd), *[false
-life](#false-life)* (4th), *[animate
-dead](#animate-dead)* (6th),
-*[fear](#fear)*(8th), *[slay
-living](#slay-living)* (10th), *[circle of
-death](#circle-of-death)* (12th),
-*[control undead](#control-undead)*
+fear]*(2nd), *[false
+life]* (4th), *[animate
+dead]* (6th),
+*[fear]*(8th), *[slay
+living]* (10th), *[circle of
+death]* (12th),
+*[control undead]*
 (14th), *[horrid
-wilting](#horrid-wilting)*(16th), *[wail
+wilting]*(16th), *[wail
 of the
-banshee](#wail-of-the-banshee)*
+banshee]*
 (18th).
 
 **Revelations**: An oracle with the bones mystery can choose from any of
@@ -2386,11 +2386,11 @@ spent in 1-hour increments.
 *Bleeding Wounds (Su)*: Whenever a creature takes damage from one of
 your spells or effects that causes negative energy damage (such as
 *[inflict light
-wounds](#inflict-light-wounds)* or
+wounds]* or
 the death's touch revelation), it begins to bleed, taking 1 point of
 damage each round. At 5th level, and every five levels thereafter, this
 damage increases by 1. The bleeding can be stopped by a DC 15
-[Heal](#heal) check or any effect that heals
+[Heal] check or any effect that heals
 damage.
 
 *Death's Touch (Su)*: You can cause terrible wounds to appear on a
@@ -2415,8 +2415,8 @@ additional time per day at 10th level.
 
 *Resist Life (Su)*: You are treated as an undead creature when you are
 targeted by positive or negative energy. You are not subject to [Turn
-Undead](#turn-undead) or [Command
-Undead](#command-undead) (or any other effect that
+Undead] or [Command
+Undead] (or any other effect that
 specifically targets undead), unless you are actually an undead
 creature. At 7th level, you receive channel resistance +2. This bonus
 increases by +2 at 11th and 15th level.
@@ -2440,16 +2440,16 @@ day at 11th level, and twice per day at 15th level. You must be at least
 11th level to select this revelation.
 
 *Undead Servitude (Su)*: You gain [Command
-Undead](#command-undead) as a bonus feat. You can
+Undead] as a bonus feat. You can
 channel negative energy a number of times per day equal to 3 + your
 Charisma modifier, but only to use [Command
-Undead](#command-undead). You can take other feats to
+Undead]. You can take other feats to
 add to this ability, such as Improved Channeling, but not feats that
 alter this ability, such as [Alignment
-Channel](#alignment-channel).
+Channel].
 
 *Voice of the Grave (Su)*: You can *[speak with
-dead](#speak-with-dead)*, as per the
+dead]*, as per the
 spell, for a number of rounds per day equal to your oracle level. These
 rounds do not need to be consecutive. At 5th level, and every five
 levels thereafter, the dead creature takes a cumulative –2 penalty on
@@ -2457,37 +2457,37 @@ its Will save to resist this effect.
 
 **Final Revelation**: Upon reaching 20th level, you become a master of
 death. Once per round, you can cast
-*[bleed](#bleed)* or
-*[stabilize](#stabilize)*as a free action.
+*[bleed]* or
+*[stabilize]*as a free action.
 If you are brought to below 0 hit points, you automatically stabilize.
 You can cast *[animate
-dead](#animate-dead)* at will without
+dead]* at will without
 paying a material component cost (although you are still subject to the
 usual Hit Die control limit). Once per day, you can cast *[power word
-kill](#power-word-kill)*, but the spell
+kill]*, but the spell
 can target a creature with 150 hit points or less.
 
 Flame
 -----
 
 **Class Skills**: An oracle with the flame mystery adds
-[Acrobatics](#acrobatics),
-[Climb](#climb),
-[Intimidate](#intimidate), and
-[Perform](#perform) to her list of class
+[Acrobatics],
+[Climb],
+[Intimidate], and
+[Perform] to her list of class
 skills.
 
 **Bonus Spells**: *[burning
-hands](#burning-hands)*(2nd), *[resist
-energy](#resist-energy)*(4th),
-*[fireball](#fireball)*(6th), *[wall of
-fire](#wall-of-fire)*(8th), *[summon
-monster V](#summon-monster-v)* (fire
+hands]*(2nd), *[resist
+energy]*(4th),
+*[fireball]*(6th), *[wall of
+fire]*(8th), *[summon
+monster V]* (fire
 elementals only, 10th), *[fire
-seeds](#fire-seeds)*(12th), *[fire
-storm](#fire-storm)*(14th), *[incendiary
-cloud](#incendiary-cloud)*(16th),
-*[fiery body\*](#fiery-body)*(18th).
+seeds]*(12th), *[fire
+storm]*(14th), *[incendiary
+cloud]*(16th),
+*[fiery body\*]*(18th).
 
 **Revelations**: An oracle with a flame mystery can choose from any of
 the following revelations.
@@ -2503,9 +2503,9 @@ water automatically extinguishes the fire. Spells that do not grant a
 save do not cause a creature to catch on fire.
 
 *Cinder Dance (Ex)*: Your base speed increases by 10 feet. At 5th level,
-you receive [Nimble Moves](#nimble-moves) as a bonus
+you receive [Nimble Moves] as a bonus
 feat. At 10th level, you receive [Acrobatic
-Steps](#acrobatic-steps) as a bonus feat. You do not
+Steps] as a bonus feat. You do not
 need to meet the prerequisites to receive these feats. Oracles with the
 lame oracle curse cannot select this revelation.
 
@@ -2527,13 +2527,13 @@ this revelation.
 
 *Form of Flame (Su)*: As a standard action, you can assume the form of a
 Small fire elemental, as *[elemental body
-I](#elemental-body-i)*. At 9th level,
+I]*. At 9th level,
 you can assume the form of a Medium fire elemental, as *[elemental body
-II](#elemental-body-ii)*. At 11th level,
+II]*. At 11th level,
 you can assume the form of a Large fire elemental, as *[elemental body
-III](#elemental-body-iii)*. At 13th
+III]*. At 13th
 level, you can assume the form of a Huge fire elemental, as *[elemental
-body IV](#elemental-body-iv)*. You can
+body IV]*. You can
 use this ability once per day, but the duration is 1 hour/level. You
 must be at least 7th level to select this revelation.
 
@@ -2561,7 +2561,7 @@ touch attack that deals 1d6 points of fire damage +1 point for every two
 oracle levels you possess. You can use this ability a number of times
 per day equal to 3 + your Charisma modifier. At 11th level, any weapon
 that you wield is treated as a
-*[flaming](#weapons-flaming)*weapon.
+*[flaming]*weapon.
 
 *Wings of Fire (Su)*: As a swift action, you can manifest a pair of
 fiery wings that grant you a fly speed of 60 feet with average
@@ -2573,33 +2573,33 @@ selecting this revelation.
 **Final Revelation**: Upon reaching 20th level, you become a master of
 fire. You can apply any one of the following feats to any fire spell you
 cast without increasing the level or casting time: [Enlarge
-Spell](#enlarge-spell), [Extend
-Spell](#extend-spell), [Silent
-Spell](#silent-spell), or [Still
-Spell](#still-spell). You do not need to possess these
+Spell], [Extend
+Spell], [Silent
+Spell], or [Still
+Spell]. You do not need to possess these
 feats to use this ability.
 
 
 #### Heavens
 
 **Class Skills**: An oracle with the heavens mystery adds
-[Fly](#fly),
-[Knowledge](#knowledge) (arcana),
-[Perception](#perception), and
-[Survival](#survival) to her list of class
+[Fly],
+[Knowledge] (arcana),
+[Perception], and
+[Survival] to her list of class
 skills.
 
 **Bonus Spells**: *[color
-spray](#color-spray)* (2nd), *[hypnotic
-pattern](#hypnotic-pattern)* (4th),
-*[daylight](#daylight)* (6th), *[rainbow
-pattern](#rainbow-pattern)* (8th),
-*[overland flight](#overland-flight)*
+spray]* (2nd), *[hypnotic
+pattern]* (4th),
+*[daylight]* (6th), *[rainbow
+pattern]* (8th),
+*[overland flight]*
 (10th), *[chain
-lightning](#chain-lightning)* (12th),
-*[prismatic spray](#prismatic-spray)*
-(14th), *[sunburst](#sunburst)* (16th),
-*[meteor swarm](#meteor-swarm)* (18th).
+lightning]* (12th),
+*[prismatic spray]*
+(14th), *[sunburst]* (16th),
+*[meteor swarm]* (18th).
 
 **Revelations**: An oracle with the heavens mystery can choose from any
 of the following revelations.
@@ -2617,13 +2617,13 @@ you DR 5/slashing. You can use this coat for 1 hour per day per oracle
 level. The duration does not need to be consecutive; it can instead be
 spent in 1-hour increments.
 
-*Dweller in [Darkness](#darkness) (Sp)*: Once
+*Dweller in [Darkness] (Sp)*: Once
 per day, you cast your psyche into the void of space to attract the
 attention of a terrible otherworldly being. The dweller in darkness
 behaves in all ways as if you had cast *[phantasmal
-killer](#phantasmal-killer)*. At 17th
+killer]*. At 17th
 level, the dweller in darkness can be perceived by more than one
-creature, as if you had cast *[weird](#weird)*.
+creature, as if you had cast *[weird]*.
 You must be at least 11th level to choose this revelation.
 
 *Guiding Star (Su)*: Whenever you can see the open sky at night, you can
@@ -2631,9 +2631,9 @@ determine your precise location. When the night sky is visible to you,
 you may also add your Charisma modifier to your Wisdom modifier on all
 Wisdom-based checks. In addition, once per night while outdoors, you can
 cast one spell as if it were modified by the [Empower
-Spell](#empower-spell), [Extend
-Spell](#extend-spell), [Silent
-Spell](#silent-spell), or Still spell feat without
+Spell], [Extend
+Spell], [Silent
+Spell], or Still spell feat without
 increasing the spell's casting time or level.
 
 *Interstellar Void (Su)*: You call upon the frigid depths of outer space
@@ -2660,7 +2660,7 @@ lycanthrope's connection to the moon with a successful touch attack.
 This action automatically forces the lycanthrope into its humanoid form,
 which it must remain in for a number of rounds equal to your oracle
 level. Upon reaching 5th level, you can use this ability to force others
-into a *[rage](#rage)*, as per the spell. Using
+into a *[rage]*, as per the spell. Using
 this ability is a melee touch attack. You can use this ability once per
 day at 5th level plus one additional time per day for every 5 levels
 above 5th.
@@ -2672,7 +2672,7 @@ oracle level. The path persists until you have crossed over the bridge
 or for 24 hours, whichever is shorter. You may summon a moonlight bridge
 a number of times per day equal to your Charisma bonus. Should the
 bridge be attacked, treat it as a *[wall of
-force](#wall-of-force)*.
+force]*.
 
 *Spray of Shooting Stars (Su):* As a standard action, you can unleash a
 ball of energy that explodes in a 5-foot-radius burst dealing 1d4 points
@@ -2687,7 +2687,7 @@ damage once.
 night sky expressed in artistic scribbles and arcane mathematical
 formulae. Once per day, you may spend 10 minutes contemplating your star
 chart to gain the benefit of the spell
-*[commune](#commune)*. You must be at least
+*[commune]*. You must be at least
 7th level to select this revelation.
 
 **Final Revelation**: Upon achieving 20th level, your rapport with the
@@ -2697,28 +2697,28 @@ automatically stabilize if you are below 0 hit points, are immune to
 fear effects, and automatically confirm all critical hits. Should you
 die, you are reborn 3 days later in the form of a star child, who
 matures over the course of 7 days (treat as the
-*[reincarnate](#reincarnate)* spell).
+*[reincarnate]* spell).
 
 
 #### Life
 
 **Class Skills**: An oracle with the life mystery adds [Handle
-Animal](#handle-animal),
-[Knowledge](#knowledge) (nature), and
-[Survival](#survival) to her list of class
+Animal],
+[Knowledge] (nature), and
+[Survival] to her list of class
 skills.
 
 **Bonus Spells**: *[detect
-undead](#detect-undead)* (2nd), *[lesser
-restoration](#restoration-lesser)* (4th),
+undead]* (2nd), *[lesser
+restoration]* (4th),
 *[neutralize
-poison](#neutralize-poison)* (6th),
-*[restoration](#restoration)* (8th),
-*[breath of life](#breath-of-life)*
-(10th), *[heal](#heal)* (12th), *[greater
-restoration](#restoration-greater)*
-(14th), *[mass heal](#heal-mass)* (16th), *[true
-resurrection](#true-resurrection)*
+poison]* (6th),
+*[restoration]* (8th),
+*[breath of life]*
+(10th), *[heal]* (12th), *[greater
+restoration]*
+(14th), *[mass heal]* (16th), *[true
+resurrection]*
 (18th).
 
 **Revelations**: An oracle with the life mystery can choose from any of
@@ -2759,14 +2759,14 @@ for a number of rounds per day equal to your oracle level.
 number of hit points healed is based on your oracle level, not the limit
 based on the spell. For example, an 11th-level oracle of life with this
 revelation may cast *[cure light
-wounds](#cure-light-wounds)* to heal
+wounds]* to heal
 1d8+11 hit points instead of the normal 1d8+5 maximum.
 
 *Healing Hands (Ex)*: You gain a +4 bonus on
-[Heal](#heal) checks. You may provide first aid
+[Heal] checks. You may provide first aid
 to two people or treat two people for poison as a standard action (make
-a separate [Heal](#heal) check for each
-creature). When using the [Heal](#heal) skill to
+a separate [Heal] check for each
+creature). When using the [Heal] skill to
 treat wounds from caltrops (and so on), treat deadly wounds, treat
 poison, treat disease, or treat long-term care, you may treat double the
 normal number of people you may treat at the same time. You may provide
@@ -2807,20 +2807,20 @@ negative total is in excess of twice your Constitution score.
 #### Lore
 
 **Class Skills**: An oracle with the lore mystery adds
-[Appraise](#appraise) and all
-[Knowledge](#knowledge) skills to her list
+[Appraise] and all
+[Knowledge] skills to her list
 of class skills.
 
-**Bonus Spells**: *[identify](#identify)*
-(2nd), *[tongues](#tongues)* (4th), *[locate
-object](#locate-object)*(6th), *[legend
-lore](#legend-lore)* (8th), *[contact other
-plane](#contact-other-plane)*
+**Bonus Spells**: *[identify]*
+(2nd), *[tongues]* (4th), *[locate
+object]*(6th), *[legend
+lore]* (8th), *[contact other
+plane]*
 (10th), *[mass owl's
-wisdom](#owl-s-wisdom-mass)* (12th),
-*[vision](#vision)* (14th), *[moment of
-prescience](#moment-of-prescience)*
-(16th), *[time stop](#time-stop)* (18th).
+wisdom]* (12th),
+*[vision]* (14th), *[moment of
+prescience]*
+(16th), *[time stop]* (18th).
 
 **Revelations**: An oracle with the lore mystery can choose from any of
 the following revelations.
@@ -2838,11 +2838,11 @@ the spell is erased when you complete the casting. You must be at least
 uninterrupted meditation. During this period, your hands produce
 mysterious writing that pertains to the future. At 1st level, the
 prophetic writing manifests as an
-*[augury](#augury)* spell with 90%
+*[augury]* spell with 90%
 effectiveness. At 5th level, the writing takes the form of a
-*[divination](#divination)* with 90%
+*[divination]* with 90%
 effectiveness. At 8th level, the writing manifests as a casting of
-*[commune](#commune)* with no material
+*[commune]* with no material
 component required.
 
 *Brain Drain (Su)*: You can take a standard action to violently probe
@@ -2852,11 +2852,11 @@ source of this harmful mental prying. Those who fail this save are
 wracked with pain, taking 1d4 points of damage per oracle level. After
 successfully attacking with this ability, you may use a full-round
 action to sort through the jumble of stolen thoughts and memories to
-make a single [Knowledge](#knowledge) check
+make a single [Knowledge] check
 using the victim's skill bonus. The randomly stolen thoughts remain in
 your mind for a number of rounds equal to your Charisma modifier. Treat
 the knowledge gained as if you used *[detect
-thoughts](#detect-thoughts)*. This is a
+thoughts]*. This is a
 mind-affecting effect. You can use this ability once per day at 1st
 level, plus one additional time per day at 5th level and for every 5
 levels beyond 5th.
@@ -2874,7 +2874,7 @@ Charisma modifier.
 *Lore Keeper (Ex)*: Instead of encyclopedic knowledge, you learn most of
 your information through tales, songs, and poems. You may use your
 Charisma modifier instead of your Intelligence modifier on all
-[Knowledge](#knowledge) checks.
+[Knowledge] checks.
 
 *Mental Acuity (Ex)*: Your explorations into the secret mysteries of the
 world have granted you a preternatural understanding of all things-and
@@ -2883,7 +2883,7 @@ Intelligence upon taking this revelation and another at every third
 oracle level gained thereafter. You must be at least 7th level to select
 this revelation.
 
-*[Sidestep](#sidestep-(combat)) Secret (Su)*: Your
+*[Sidestep]) Secret (Su)*: Your
 innate understanding of the universe has granted you preternatural
 reflexes and the uncanny ability to step out of danger at the very last
 second. Add your Charisma modifier (instead of your Dexterity modifier)
@@ -2898,10 +2898,10 @@ any spell with the word “symbol” in its name. You must be at least 11th
 level to select this revelation.
 
 *Think On It (Ex)*: Once per day, the oracle of lore can re-attempt any
-previously failed [Knowledge](#knowledge)
+previously failed [Knowledge]
 check. On this attempt, add a +10 competence bonus on the check.
 
-*[Whirlwind](#whirlwind) Lesson (Ex)*: You
+*[Whirlwind] Lesson (Ex)*: You
 can quickly browse through a magical tome or manual, gaining its
 benefits with only a single 8-hour study session (rather than the usual
 48 hours over a period of 6 days). At 7th level, you may allow another
@@ -2913,11 +2913,11 @@ benefits for a number of days equal to your Charisma modifier but then
 forget what they have learned.
 
 **Final Revelation**: You gain the ability to take 20 on all
-[Knowledge](#knowledge) skill checks. Your
+[Knowledge] skill checks. Your
 understanding of the fundamental underpinnings of reality has also
 become so advanced that once per day, you can cast
-*[wish](#wish)*. This ability does not require a
-material component, but the *[wish](#wish)*cannot
+*[wish]*. This ability does not require a
+material component, but the *[wish]*cannot
 be used to grant ability score bonuses, nor can it be used to replicate
 spells with expensive material components.
 
@@ -2925,28 +2925,28 @@ spells with expensive material components.
 #### Nature
 
 **Class Skills**: An oracle with the nature mystery adds
-[Climb](#climb),
-[Fly](#fly),
-[Knowledge](#knowledge) (nature),
-[Ride](#ride),
-[Survival](#survival), and
-[Swim](#swim) to her list of class skills.
+[Climb],
+[Fly],
+[Knowledge] (nature),
+[Ride],
+[Survival], and
+[Swim] to her list of class skills.
 
 **Bonus Spells**: *[charm
-animal](#charm-animal)* (2nd),
-*[barkskin](#barkskin)* (4th), *[speak with
-plants](#speak-with-plants)* (6th),
-*[grove of respite\*](#grove-of-respite)*
-(8th), *[awaken](#awaken)* (10th), *[stone
-tell](#stone-tell)* (12th), *[creeping
-doom](#creeping-doom)* (14th), *[animal
-shapes](#animal-shapes)* (16th), *[world
-wave\*](#world-wave-)* (18th).
+animal]* (2nd),
+*[barkskin]* (4th), *[speak with
+plants]* (6th),
+*[grove of respite\*]*
+(8th), *[awaken]* (10th), *[stone
+tell]* (12th), *[creeping
+doom]* (14th), *[animal
+shapes]* (16th), *[world
+wave\*]* (18th).
 
 **Revelations**: An oracle with the nature mystery can choose from any
 of the following revelations.
 
-*Bonded [Mount](#mount) (Su)*: You gain the
+*Bonded [Mount] (Su)*: You gain the
 service of an unusually intelligent, strong, and loyal mount. The
 creature must be one that you are capable of riding and is suitable as a
 mount. A Medium oracle can select a camel or a horse. A Small oracle can
@@ -3017,7 +3017,7 @@ fast healing 3 for 1d4 rounds when reduced to negative hit points.
 shared by all living things that you can use it to communicate with
 allies. You may communicate with your allies for a number of rounds per
 day equal to your oracle level as if using *[telepathic
-bond](#telepathic-bond)*. You may
+bond]*. You may
 designate a number of creatures as your ally equal to your Charisma
 modifier. Designating a creature is a standard action that requires a
 touch. At 10th level, you may use this bond to cast a touch spell on a
@@ -3027,10 +3027,10 @@ designated ally once per day.
 nonliving item to its component parts, essentially erasing the hand of
 artifice and rendering the item into a pile of raw natural materials.
 This effect acts as the spell *[polymorph any
-object](#polymorph-any-object)*,
+object]*,
 working on both magical and nonmagical nonliving objects. The duration
 is always permanent. Unlike *[polymorph any
-object](#polymorph-any-object)*, it
+object]*, it
 cannot be used to mimic the effects of other spells. Items subject to
 this effect receive a Fortitude saving throw to negate the effect. Magic
 items receive a circumstance bonus on this save equal to +1 for every
@@ -3054,23 +3054,23 @@ transformation is made.
 #### Stone
 
 **Class Skills**: An oracle with the stone mystery adds
-[Appraise](#appraise),
-[Climb](#climb),
-[Intimidate](#intimidate), and
-[Survival](#survival) to her list of class
+[Appraise],
+[Climb],
+[Intimidate], and
+[Survival] to her list of class
 skills.
 
 **Bonus Spells**: *[magic
-stone](#magic-stone)* (2nd), *[stone
-call\*](#stone-call)* (4th), *[meld into
-stone](#meld-into-stone)* (6th), *[wall
-of stone](#wall-of-stone)* (8th),
-*[stoneskin](#stoneskin)* (10th), *[stone
-tell](#stone-tell)* (12th),
-*[statue](#statue)* (14th), *[repel metal or
-stone](#repel-metal-or-stone)*
+stone]* (2nd), *[stone
+call\*]* (4th), *[meld into
+stone]* (6th), *[wall
+of stone]* (8th),
+*[stoneskin]* (10th), *[stone
+tell]* (12th),
+*[statue]* (14th), *[repel metal or
+stone]*
 (16th), *[clashing
-rocks\*](#clashing-rocks)* (18th).
+rocks\*]* (18th).
 
 **Revelations**: An oracle with the stone mystery can choose from any of
 the following revelations.
@@ -3091,14 +3091,14 @@ number of feet equal to your oracle level, or 1/12th this thickness of
 metal. You can use this ability a number of rounds per day equal to your
 oracle level, but these rounds do not need to be consecutive.
 
-*Earth [Glide](#glide-) (Su)*: You can pass through
+*Earth [Glide] (Su)*: You can pass through
 stone, dirt, or almost any other sort of earth except worked stone and
 metal as easily as a fish swims through water. If protected against fire
 damage, you can even glide through lava. You glide at your base land
 speed. While gliding, you breathe stone as if it were air (you do not
 need to hold your breath). Your burrowing leaves behind no tunnel or
 hole, nor does it create any ripple or sign of your presence. A *[move
-earth](#move-earth)* spell cast on an area
+earth]* spell cast on an area
 where you are flings you back 30 feet, stunning you for 1 round unless
 you succeed on a DC 15 Fortitude save. Activating this ability is a free
 action. You can glide for 1 minute per day per oracle level. This
@@ -3119,7 +3119,7 @@ treat the pebble as a thrown splash weapon to determine where it lands.
 You can use this ability once per day, plus one additional time per day
 at 5th level and every five levels thereafter.
 
-*Rock [Throwing](#throwing) (Ex)*: You are
+*Rock [Throwing] (Ex)*: You are
 an accomplished rock thrower and have a +1 racial bonus on attack rolls
 with thrown rocks. You can hurl rocks up to two categories smaller than
 your own size. The range increment for a rock is 20 feet, and you can
@@ -3148,8 +3148,8 @@ hardness.
 *Stone Stability (Ex)*: You receive a +4 bonus to your Combat Maneuver
 Defense when resisting a bull rush or trip attempt while standing on the
 ground. At 5th level, you gain [Improved
-Trip](#improved-trip) as a bonus feat. At 10th level,
-you gain [Greater Trip](#greater-trip) as a bonus feat.
+Trip] as a bonus feat. At 10th level,
+you gain [Greater Trip] as a bonus feat.
 You do not need to meet the prerequisites to gain these feats.
 
 *Touch of Acid (Su)*: As a standard action, you can perform a melee
@@ -3157,36 +3157,36 @@ touch attack that deals 1d6 points of acid damage +1 point for every two
 oracle levels you possess. You can use this ability a number of times
 per day equal to 3 + your Charisma modifier. At 11th level, any weapon
 that you wield deals +1d6 points of acid damage, similar to how a
-*[flaming](#weapons-flaming)* weapon
+*[flaming]* weapon
 operates.
 
 **Final Revelation**: Upon reaching 20th level, you become a master of
 acid and earth. You can apply any one of the following feats to any acid
 or earth spell without increasing the level or casting time: [Enlarge
-Spell](#enlarge-spell), [Extend
-Spell](#extend-spell), [Silent
-Spell](#silent-spell), or [Still
-Spell](#still-spell).
+Spell], [Extend
+Spell], [Silent
+Spell], or [Still
+Spell].
 
 
 #### Waves
 
 **Class Skills**: An oracle with the waves mystery adds
-[Acrobatics](#acrobatics), [Escape
-Artist](#escape-artist),
-[Knowledge](#knowledge) (nature), and
-[Swim](#swim) to her list of class skills.
+[Acrobatics], [Escape
+Artist],
+[Knowledge] (nature), and
+[Swim] to her list of class skills.
 
 **Bonus Spells**: *[touch of the
-sea\*](#touch-of-the-sea)* (2nd),
-*[slipstream\*](#slipstream)* (4th), *[water
-breathing](#water-breathing)*(6th),
-*[wall of ice](#wall-of-ice)* (8th),
-*[geyser\*](#geyser-)* (10th), *[fluid
-form\*](#fluid-form)* (12th),
-*[vortex\*](#vortex)* (14th),
-*[seamantle\*](#seamantle)* (16th),
-*[tsunami\*](#tsunami)* (18th).
+sea\*]* (2nd),
+*[slipstream\*]* (4th), *[water
+breathing]*(6th),
+*[wall of ice]* (8th),
+*[geyser\*]* (10th), *[fluid
+form\*]* (12th),
+*[vortex\*]* (14th),
+*[seamantle\*]* (16th),
+*[tsunami\*]* (18th).
 
 **Revelations**: An oracle with the waves mystery can choose from any of
 the following revelations.
@@ -3199,7 +3199,7 @@ creature caught in the blizzard takes 1d4 points of cold damage per
 oracle level, with a Reflex save resulting in half damage. The storm
 lasts for a number of rounds equal to your Charisma modifier; the ground
 remains icy (+5 to
-[Acrobatics](#acrobatics) DCs) as long as
+[Acrobatics] DCs) as long as
 local conditions permit. The blizzard obscures sight beyond 5 feet,
 providing total concealment. A creature within 5 feet has concealment.
 You can use this ability once per day. You must be 11th level to select
@@ -3209,7 +3209,7 @@ this revelation.
 Defense against bull rush, drag, grapple, reposition, and trip attempts.
 A creature trying to confirm a critical hit against you has a –4 penalty
 on its confirmation roll. At 5th level, you gain
-[Dodge](#dodge) as a bonus feat. You do not need to
+[Dodge] as a bonus feat. You do not need to
 meet the prerequisite to gain this feat.
 
 *Fluid Travel (Su)*: You can walk on liquid as if it were a solid
@@ -3224,7 +3224,7 @@ to be consecutive, but it must be spent in 1-hour increments.
 
 *Freezing Spells (Su)*: Whenever a creature fails a saving throw and
 takes cold damage from one of your spells, it is slowed (as the
-*[slow](#slow)* spell) for 1 round. Spells that
+*[slow]* spell) for 1 round. Spells that
 do not allow a save do not slow creatures. At 11th level, the duration
 increases to 1d4 rounds.
 
@@ -3241,10 +3241,10 @@ at 5th level and 20 at 11th level. At 17th level, you gain immunity to
 cold.
 
 *Punitive
-[Transformation](#transformation)
+[Transformation]
 (Su)*: You can transform an opponent into a harmless animal as if using
 *[baleful
-polymorph](#baleful-polymorph)*. This
+polymorph]*. This
 transformation lasts 1 round per oracle level. Transforming another
 creature causes the first to immediately revert to normal. You may use
 this ability a number of times per day equal to your Charisma modifier.
@@ -3252,13 +3252,13 @@ You must be at least 7th level before selecting this revelation.
 
 *Water Form (Su)*: As a standard action, you can assume the form of a
 Small water elemental, as *[elemental body
-I](#elemental-body-i)*. At 9th level,
+I]*. At 9th level,
 you can assume the form of a Medium water elemental, as *[elemental body
-II](#elemental-body-ii)*. At 11th level,
+II]*. At 11th level,
 you can assume the form of a Large water elemental, as *[elemental body
-III](#elemental-body-iii)*. At 13th
+III]*. At 13th
 level, you can assume the form of a Huge water elemental, as *[elemental
-body IV](#elemental-body-iv)*. You can
+body IV]*. You can
 use this ability once per day, but the duration is 1 hour/level. You
 must be at least 7th level to select this revelation.
 
@@ -3267,7 +3267,7 @@ long as there is enough light to allow you to see normal. At 7th level,
 you can use any calm pool of water at least 1 foot in diameter as a
 scrying device, as if using the *scry* spell. At 15th level, this
 functions like *[greater
-scrying](#scrying-greater)*.You can use the
+scrying]*.You can use the
 scrying abilities for a number of rounds per day equal to your oracle
 level, but these rounds do not need to be consecutive.
 
@@ -3276,36 +3276,36 @@ attack that deals 1d6 points of cold damage + 1 point for every two
 oracle levels you possess. You can use the wintry touch ability a number
 of times per day equal to 3 + your Charisma modifier. At 11th level, any
 weapon that you wield is treated as a
-*[frost](#weapons-frost)* weapon.
+*[frost]* weapon.
 
 **Final Revelation**: Upon reaching 20th level, you become a master of
 cold and water. You can apply any one of the following feats to any cold
 or water spell without increasing the level or casting time: [Enlarge
-Spell](#enlarge-spell), [Extend
-Spell](#extend-spell), [Silent
-Spell](#silent-spell), or [Still
-Spell](#still-spell).
+Spell], [Extend
+Spell], [Silent
+Spell], or [Still
+Spell].
 
 
 #### Wind
 
 **Class Skills**: An oracle with the wind mystery adds
-[Acrobatics](#acrobatics), [Escape
-Artist](#escape-artist),
-[Fly](#fly), and
-[Stealth](#stealth) to her list of class
+[Acrobatics], [Escape
+Artist],
+[Fly], and
+[Stealth] to her list of class
 skills.
 
 **Bonus Spells**: *[alter
-winds\*](#alter-winds)* (2nd), *[gust of
-wind](#gust-of-wind)* (4th), *[cloak of
-winds\*](#cloak-of-winds)* (6th), *[river of
-wind\*](#river-of-wind)* (8th), *[control
-winds](#control-winds)* (10th),
-*[sirocco\*](#sirocco)*(12th), *[control
-weather](#control-weather)* (14th),
-*[whirlwind](#whirlwind)* (16th), *[winds of
-vengeance\*](#winds-of-vengeance)*
+winds\*]* (2nd), *[gust of
+wind]* (4th), *[cloak of
+winds\*]* (6th), *[river of
+wind\*]* (8th), *[control
+winds]* (10th),
+*[sirocco\*]*(12th), *[control
+weather]* (14th),
+*[whirlwind]* (16th), *[winds of
+vengeance\*]*
 (18th).
 
 **Revelations**: An oracle with the wind mystery can choose from any of
@@ -3320,23 +3320,23 @@ day per oracle level. This duration does not need to be consecutive, but
 it must be spent in 1-hour increments.
 
 *Gaseous Form (Su)*: As a standard action, you can assume *[gaseous
-form](#gaseous-form)* (as the spell). You
+form]* (as the spell). You
 can remain gaseous for 1 minute per day per oracle level. This duration
 does not need to be consecutive, but it must be spent in 1-minute
 increments. You must be at least 7th level to select this revelation.
 You can bring other creatures with you in gaseous form, but each
 passenger costs an additional minute per minute of travel.
 
-*[Invisibility](#invisibility) (Su)*: As
+*[Invisibility] (Su)*: As
 a standard action, you can become invisible (as per the
-*[invisibility](#invisibility)*spell).
+*[invisibility]*spell).
 You can remain invisible for 1 minute per day per oracle level. This
 duration does not need to be consecutive, but it must be spent in
 1-minute increments. Starting at 9th level, each time you activate this
 ability you can treat it as *[greater
-invisibility](#invisibility-greater)*,
+invisibility]*,
 though each round spent this way counts as 1 minute of your
-normal*[invisibility](#invisibility)*
+normal*[invisibility]*
 duration. You must be at least 3rd level to select this revelation.
 
 *Lightning Breath (Su)*: As a standard action, you can breathe a 30-foot
@@ -3345,7 +3345,7 @@ per oracle level. A Reflex save halves this damage. You can use this
 ability once per day, plus one additional time per day at 5th level and
 every five levels thereafter.
 
-*[Spark](#spark-) Skin (Ex)*: You gain resist
+*[Spark] Skin (Ex)*: You gain resist
 electricity 5. This resistance increases to 10 at 5th level and 20 at
 11th level. At 17th level, you gain immunity to electricity.
 
@@ -3364,15 +3364,15 @@ melee touch attack that deals 1d6 points of electricity damage +1 point
 for every two oracle levels you possess. You can use this ability a
 number of times per day equal to 3 + your Charisma modifier. At 11th
 level, any weapon that you wield is treated as a
-*[shock](#weapons-shock)* weapon.
+*[shock]* weapon.
 
-*[Vortex](#vortex) Spells (Ex)*: Whenever you
+*[Vortex] Spells (Ex)*: Whenever you
 score a critical hit against an opponent with an attack spell, the
 target is staggered for 1 round. At 11th level, the duration increases
 to 1d4 rounds.
 
 *Wind Sight (Ex)*: You ignore penalties on
-[Perception](#perception) checks based on
+[Perception] checks based on
 wind and the first 100 feet of distance. At 7th level, as a standard
 action, you can see and hear into any area (as if using *clairaudience*
 and *clairvoyance*) within range as long as there is an unobstructed
@@ -3393,10 +3393,10 @@ least 7th level to select this revelation.
 **Final Revelation**: Upon reaching 20th level, you become a master of
 air and electricity. You can apply any one of the following feats to any
 air or electricity spell without increasing the level or casting time:
-[Enlarge Spell](#enlarge-spell), [Extend
-Spell](#extend-spell), [Silent
-Spell](#silent-spell), or [Still
-Spell](#still-spell).
+[Enlarge Spell], [Extend
+Spell], [Silent
+Spell], or [Still
+Spell].
 
 
 ## Summoner
@@ -3424,15 +3424,15 @@ in what they can accomplish together.
 
 ### Class Skills
 
-The summoner's class skills are [Craft](#craft)
-(Int), [Fly](#fly) (Dex), [Handle
-Animal](#handle-animal) (Cha),
-[Knowledge](#knowledge) (all) (Int),
-[Linguistics](#linguistics) (Int),
-[Profession](#profession) (Wis),
-[Ride](#ride) (Dex),
-[Spellcraft](#spellcraft) (Int), and [Use
-Magic Device](#use-magic-device) (Cha).
+The summoner's class skills are [Craft]
+(Int), [Fly] (Dex), [Handle
+Animal] (Cha),
+[Knowledge] (all) (Int),
+[Linguistics] (Int),
+[Profession] (Wis),
+[Ride] (Dex),
+[Spellcraft] (Int), and [Use
+Magic Device] (Cha).
 
 **Skill Ranks per Level**: 2 + Int modifier.
 
@@ -3441,62 +3441,62 @@ Magic Device](#use-magic-device) (Cha).
 |          |Attack    |          |          |          |                               |          |          |          |          |          |          |
 |          |Bonus     |          |          |          |                               |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
-|1st       |+0        |+0        |+0        |+2        |[Cantrips](#cantrips),         |1         |-         |-         |-         |-         |-         |
-|          |          |          |          |          |[eidolon](#eidolon), [life     |          |          |          |          |          |          |
-|          |          |          |          |          |link](#life-link),*[summon     |          |          |          |          |          |          |
+|1st       |+0        |+0        |+0        |+2        |[Cantrips],         |1         |-         |-         |-         |-         |-         |
+|          |          |          |          |          |[eidolon], [life     |          |          |          |          |          |          |
+|          |          |          |          |          |link],*[summon     |          |          |          |          |          |          |
 |          |          |          |          |          |monster                        |          |          |          |          |          |          |
-|          |          |          |          |          |I](#summon-monster-i)*         |          |          |          |          |          |          |
+|          |          |          |          |          |I]*         |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |2nd       |+1        |+0        |+0        |+3        |[Bond                          |2         |-         |-         |-         |-         |-         |
-|          |          |          |          |          |senses](#bond-senses)          |          |          |          |          |          |          |
+|          |          |          |          |          |senses]          |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |3rd       |+2        |+1        |+1        |+3        |*[Summon monster               |3         |-         |-         |-         |-         |-         |
-|          |          |          |          |          |II](#summon-monster-ii)*       |          |          |          |          |          |          |
+|          |          |          |          |          |II]*       |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |4th       |+3        |+1        |+1        |+4        |[Shield                        |3         |1         |-         |-         |-         |-         |
-|          |          |          |          |          |ally](#shield-ally)            |          |          |          |          |          |          |
+|          |          |          |          |          |ally]            |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |5th       |+3        |+1        |+1        |+4        |*[Summon monster               |4         |2         |-         |-         |-         |-         |
-|          |          |          |          |          |III](#summon-monster-iii)*     |          |          |          |          |          |          |
+|          |          |          |          |          |III]*     |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |6th       |+4        |+2        |+2        |+5        |[Maker's                       |4         |3         |-         |-         |-         |-         |
-|          |          |          |          |          |call](#maker's-call)           |          |          |          |          |          |          |
+|          |          |          |          |          |call]           |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |7th       |+5        |+2        |+2        |+5        |*[Summon monster               |4         |3         |1         |-         |-         |-         |
-|          |          |          |          |          |IV](#summon-monster-iv)*       |          |          |          |          |          |          |
+|          |          |          |          |          |IV]*       |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
-|8th       |+6/+1     |+2        |+2        |+6        |[Transposition](#transposition)|4         |4         |2         |-         |-         |-         |
+|8th       |+6/+1     |+2        |+2        |+6        |[Transposition]|4         |4         |2         |-         |-         |-         |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |9th       |+6/+1     |+3        |+3        |+6        |*[Summon monster               |5         |4         |3         |-         |-         |-         |
-|          |          |          |          |          |V](#summon-monster-v)*         |          |          |          |          |          |          |
+|          |          |          |          |          |V]*         |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
-|10th      |+7/+2     |+3        |+3        |+7        |[Aspect](#aspect)              |5         |4         |3         |1         |-         |-         |
+|10th      |+7/+2     |+3        |+3        |+7        |[Aspect]              |5         |4         |3         |1         |-         |-         |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |11th      |+8/+3     |+3        |+3        |+7        |*[Summon monster               |5         |4         |4         |2         |-         |-         |
-|          |          |          |          |          |VI](#summon-monster-vi)*       |          |          |          |          |          |          |
+|          |          |          |          |          |VI]*       |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |12th      |+9/+4     |+4        |+4        |+8        |[Greater shield                |5         |5         |4         |3         |-         |-         |
-|          |          |          |          |          |ally](#greater-shield-ally)    |          |          |          |          |          |          |
+|          |          |          |          |          |ally]    |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |13th      |+9/+4     |+4        |+4        |+8        |*[Summon monster               |5         |5         |4         |3         |1         |-         |
-|          |          |          |          |          |VII](#summon-monster-vii)*     |          |          |          |          |          |          |
+|          |          |          |          |          |VII]*     |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
-|14th      |+10/+5    |+4        |+4        |+9        |[Life bond](#life-bond)        |5         |5         |4         |4         |2         |-         |
+|14th      |+10/+5    |+4        |+4        |+9        |[Life bond]        |5         |5         |4         |4         |2         |-         |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |15th      |+11/+6/+1 |+5        |+5        |+9        |*[Summon monster               |5         |5         |5         |4         |3         |-         |
-|          |          |          |          |          |VIII](#summon-monster-viii)*   |          |          |          |          |          |          |
+|          |          |          |          |          |VIII]*   |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
-|16th      |+12/+7/+2 |+5        |+5        |+10       |[Merge forms](#merge-forms)    |5         |5         |5         |4         |3         |1         |
+|16th      |+12/+7/+2 |+5        |+5        |+10       |[Merge forms]    |5         |5         |5         |4         |3         |1         |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |17th      |+12/+7/+2 |+5        |+5        |+10       |*[Summon monster               |5         |5         |5         |4         |4         |2         |
-|          |          |          |          |          |IX](#summon-monster-ix)*       |          |          |          |          |          |          |
+|          |          |          |          |          |IX]*       |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 |18th      |+13/+8/+3 |+6        |+6        |+11       |[Greater                       |5         |5         |5         |5         |4         |3         |
-|          |          |          |          |          |aspect](#greater-aspect)       |          |          |          |          |          |          |
+|          |          |          |          |          |aspect]       |          |          |          |          |          |          |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
-|19th      |+14/+9/+4 |+6        |+6        |+11       |*[Gate](#gate)*                |5         |5         |5         |5         |5         |4         |
+|19th      |+14/+9/+4 |+6        |+6        |+11       |*[Gate]*                |5         |5         |5         |5         |5         |4         |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
-|20th      |+15/+10/+5|+6        |+6        |+12       |[Twin eidolon](#twin-eidolon)  |5         |5         |5         |5         |5         |5         |
+|20th      |+15/+10/+5|+6        |+6        |+12       |[Twin eidolon]  |5         |5         |5         |5         |5         |5         |
 +----------+----------+----------+----------+----------+-------------------------------+----------+----------+----------+----------+----------+----------+
 
 Table: Summoner
@@ -3609,7 +3609,7 @@ creatures, except that they are not sent back to their home plane until
 reduced to a number of negative hit points equal to or greater than
 their Constitution score. In addition, due to its tie to its summoner,
 an eidolon can touch and attack creatures warded by *[protection from
-evil](#protection-from-evil)* and
+evil]* and
 similar effects that prevent contact with summoned creatures.
 
 A summoner can summon his eidolon in a ritual that takes 1 minute to
@@ -3620,10 +3620,10 @@ points. The eidolon does not heal naturally. The eidolon remains until
 dismissed by the summoner (a standard action). If the eidolon is sent
 back to its home plane due to death, it cannot be summoned again until
 the following day. The eidolon cannot be sent back to its home plane by
-means of *[dispel magic](#dispel-magic)*,
+means of *[dispel magic]*,
 but spells such as
-*[dismissal](#dismissal)*and
-*[banishment](#banishment)* work normally.
+*[dismissal]*and
+*[banishment]* work normally.
 If the summoner is unconscious, asleep, or killed, his eidolon is
 immediately banished.
 
@@ -3643,9 +3643,9 @@ also bears a glowing rune that is identical to a rune that appears on
 the summoner's forehead as long as the eidolon is summoned. While this
 rune can be hidden through mundane means, it cannot be concealed through
 magic that changes appearance, such as *[alter
-self](#alter-self)* or
-*[polymorph](#polymorph)* (although
-*[invisibility](#invisibility)*does
+self]* or
+*[polymorph]* (although
+*[invisibility]*does
 conceal it as long as the spell lasts).
 
 **Life Link (Su)**: Starting at 1st level, a summoner forms a close bond
@@ -3666,7 +3666,7 @@ this way are not restored when the eidolon gets closer to its summoner,
 but its maximum hit point total does return to normal.
 
 ***Summon Monster I* (Sp)**: Starting at 1st level, a summoner can cast
-*[summon monster I](#summon-monster-i)*
+*[summon monster I]*
 as a spell-like ability a number of times per day equal to 3 + his
 Charisma modifier. Drawing upon this ability uses up the same power as
 the summoner uses to call his eidolon. As a result, he can only use this
@@ -3675,15 +3675,15 @@ standard action and the creatures remain for 1 minute per level (instead
 of 1 round per level). At 3rd level, and every 2 levels thereafter, the
 power of this ability increases by one spell level, allowing him to
 summon more powerful creatures (to a maximum of *[summon monster
-IX](#summon-monster-ix)* at 17th level).
+IX]* at 17th level).
 At 19th level, this ability can be used as
-*[gate](#gate)* or *[summon monster
-IX](#summon-monster-ix)*. If used as
-*[gate](#gate)*, the summoner must pay any
+*[gate]* or *[summon monster
+IX]*. If used as
+*[gate]*, the summoner must pay any
 required material components. A summoner cannot have more than one
-*summon monster* or *[gate](#gate)*spell active
+*summon monster* or *[gate]*spell active
 in this way at one time. If this ability is used again, any existing
-*summon monster* or *[gate](#gate)* immediately
+*summon monster* or *[gate]* immediately
 ends. These summon spells are considered to be part of his spell list
 for the purposes of spell trigger and spell completion items. In
 addition, he can expend uses of this ability to fufill the construction
@@ -3705,7 +3705,7 @@ unconscious.
 
 **Maker's Call (Su)**: At 6th level, as a standard action, a summoner
 can call his eidolon to his side. This functions as *[dimension
-door](#dimension-door)*, using the
+door]*, using the
 summoner's caster level. When used, the eidolon appears adjacent to the
 summoner (or as close as possible if all adjacent spaces are occupied).
 If the eidolon is out of range, the ability is wasted. The summoner can
@@ -3743,9 +3743,9 @@ as soon as the eidolon is reduced to a number of negative his points
 equal to its Constitution score, all excess damage remains with the
 summoner. Effects that cause death but not damage are unaffected by this
 ability. This ability does not affect spells like *[baleful
-polymorph](#baleful-polymorph)*,*[flesh
-to stone](#flesh-to-stone)*, or
-*[imprisonment](#imprisonment)*, or other
+polymorph]*,*[flesh
+to stone]*, or
+*[imprisonment]*, or other
 spells that do not cause actual damage.
 
 **Merge Forms (Su)**: At 16th level, as a full-round action, a summoner
@@ -3850,7 +3850,7 @@ gains a level, the number in this pool increases and the summoner can
 spend these points to change the abilities of the eidolon. These choices
 are not set. The summoner can change them whenever he gains a level (and
 through the
-*[transmogrify](#transmogrify)*spell).
+*[transmogrify]*spell).
 
 **Max. Attacks**: This indicates the maximum number of natural attacks
 that the eidolon is allowed to possess at the given level. If the
@@ -3861,7 +3861,7 @@ weapons.
 **Special**: This includes a number of abilities gained by all eidolons
 as they increase in power. Each of these bonuses is described below.
 
-*[Darkvision](#darkvision) (Ex)*: The
+*[Darkvision] (Ex)*: The
 eidolon has darkvision out to a range of 60 feet.
 
 *Link (Ex)*: A summoner and his eidolon share a mental link allows for
@@ -3893,16 +3893,16 @@ scores.
 *Devotion (Ex)*: An eidolon gains a +4 morale bonus on Will saves
 against enchantment spells and effects.
 
-*[Multiattack](#multiattack)*: An
+*[Multiattack]*: An
 eidolon gains
-[Multiattack](#multiattack) as a bonus
+[Multiattack] as a bonus
 feat if it has 3 or more natural attacks and does not already have that
 feat. If it does not have the requisite 3 or more natural attacks (or it
 is reduced to less than 3 attacks), the eidolon instead gains a second
 attack with one of its natural weapons, albeit at a –5 penalty. If the
 eidolon later gains 3 or more natural attacks, it loses this additional
 attack and instead gains
-[Multiattack](#multiattack).
+[Multiattack].
 
 *Improved Evasion (Ex)*: When subjected to an attack that allows a
 Reflex saving throw for half damage, an eidolon takes no damage if it
@@ -3911,7 +3911,7 @@ fails.
 
   Class Level   HD   BAB   Good Saves   Bad Save   Skills   Feats   Armor Bonus   Str/Dex Bonus   Evolution Pool   Max. Attacks   Special
   ------------- ---- ----- ------------ ---------- -------- ------- ------------- --------------- ---------------- -------------- --------------------------------------------------------------
-  1st           1    +1    +2           +0         4        1       +0            +0              3                3              Darkvision, link, share [spells](#spells)
+  1st           1    +1    +2           +0         4        1       +0            +0              3                3              Darkvision, link, share [spells]
   2nd           2    +2    +3           +0         8        1       +2            +1              4                3              Evasion
   3rd           3    +3    +3           +1         12       2       +2            +1              5                3              -
   4th           3    +3    +3           +1         12       2       +2            +1              7                4              -
@@ -3919,7 +3919,7 @@ fails.
   6th           5    +5    +4           +1         20       3       +4            +2              9                4              Devotion
   7th           6    +6    +5           +2         24       3       +6            +3              10               4              -
   8th           6    +6    +5           +2         24       3       +6            +3              11               4              -
-  9th           7    +7    +5           +2         28       4       +6            +3              13               5              [Multiattack](#multiattack)
+  9th           7    +7    +5           +2         28       4       +6            +3              13               5              [Multiattack]
   10th          8    +8    +6           +2         32       4       +8            +4              14               5              Ability score increase
   11th          9    +9    +6           +3         36       5       +8            +4              15               5              -
   12th          9    +9    +6           +3         36       5       +10           +5              16               5              -
@@ -3938,15 +3938,15 @@ fails.
 ### Eidolon Skills
 
 The following skills are class skills for eidolons:
-[Bluff](#bluff) (Cha),
-[Craft](#craft) (Int),
-[Knowledge](#knowledge) (planes) (Int),
-[Perception](#perception) (Wis), [Sense
-Motive](#sense-motive) (Wis), and
-[Stealth](#stealth) (Dex). In addition, at 1st
+[Bluff] (Cha),
+[Craft] (Int),
+[Knowledge] (planes) (Int),
+[Perception] (Wis), [Sense
+Motive] (Wis), and
+[Stealth] (Dex). In addition, at 1st
 level, the summoner can choose 4 additional skills to be class skills
 for his eidolon. Note that eidolons with a fly speed receive
-[Fly](#fly) (Dex) as a free class skill, even if
+[Fly] (Dex) as a free class skill, even if
 they do not gain a fly speed until a later level.
 
 
@@ -3967,8 +3967,8 @@ eidolon. If the eidolon is Small, it gains a +2 bonus to its Dexterity
 score. It also takes a –4 penalty to its Strength and a –2 penalty to
 its Constitution. It also gains a +1 size bonus to its AC and attack
 rolls, a –1 penalty to its CMB and CMD scores, a +2 bonus on its
-[Fly](#fly) skill checks, and a +4 bonus on its
-[Stealth](#stealth) skill checks. Reduce the
+[Fly] skill checks, and a +4 bonus on its
+[Stealth] skill checks. Reduce the
 damage of all of its attacks by one step (1d6 becomes 1d4, 1d4 becomes
 1d3). If this choice is made, the eidolon can be made Medium whenever
 the summoner can change the eidolon's evolution pool (which causes it to
@@ -4039,7 +4039,7 @@ evolution can only be applied to the limbs (legs) evolution once This
 evolution can be selected more than once, but the eidolon must possess
 an equal number of the limbs evolution.
 
-*[Climb](#climb) (Ex)*: An eidolon becomes a
+*[Climb] (Ex)*: An eidolon becomes a
 skilled climber, gaining a climb speed equal to its base speed. This
 evolution can be selected more than once. Each additional time it is
 selected, increase the eidolon's climb speed by 20 feet.
@@ -4054,7 +4054,7 @@ once. Its effects do not stack. Each time an eidolon selects this
 evolution, it applies to a different natural attack.
 
 *[Improved Natural
-Armor](#improved-natural-armor) (Ex)*:
+Armor] (Ex)*:
 An eidolon's hide grows thick fur, rigid scales, or bony plates, giving
 it a +2 bonus to its natural armor. This evolution can be taken once for
 every five levels the summoner possesses.
@@ -4065,7 +4065,7 @@ of overcoming damage reduction. If the summoner is 10th level or higher,
 all of the eidolon's weapons are treated as the alignment of the eidolon
 for the purpose of overcoming damage reduction.
 
-*[Mount](#mount) (Ex)*: An eidolon is properly
+*[Mount] (Ex)*: An eidolon is properly
 skilled and formed to serve as a combat-trained mount. The eidolon must
 be at least one size category larger than its rider. This evolution is
 only available to eidolons of the quadruped and serpentine base forms.
@@ -4111,7 +4111,7 @@ attack.
 at a distance. Pick one attack. The eidolon's reach with that attack
 increases by 5 feet.
 
-*[Resistance](#resistance) (Ex)*: An
+*[Resistance] (Ex)*: An
 eidolon's form takes on a resiliency to one particular energy type,
 which is usually reflected in its physical body (ashen hide for fire,
 icy breath for cold, and so on). Pick one energy type (acid, cold,
@@ -4122,7 +4122,7 @@ be selected more than once. Its effects do not stack. Each time an
 eidolon selects this evolution, it applies to a different energy type.
 
 *Scent (Ex)*: An eidolon's sense of smell becomes quite acute. The
-eidolon gains the [scent](#scent) special quality,
+eidolon gains the [scent] special quality,
 allowing it to detect opponents within 30 feet by sense of smell. If the
 opponent is upwind, the range increases to 60 feet; if downwind, it
 drops to 15 feet. Strong scents can be detected at twice the normal
@@ -4151,7 +4151,7 @@ eidolon must possess the tail evolution to take this evolution. This
 evolution can be selected more than once, but the eidolon must possess
 an equal number of the tail evolution.
 
-*[Swim](#swim) (Ex)*: An eidolon gains webbed
+*[Swim] (Ex)*: An eidolon gains webbed
 hands, feet, or powerful flippers, giving it a swim speed equal to its
 base speed. This evolution does not give the eidolon the ability to
 breathe underwater. This evolution can be selected more than once. Each
@@ -4159,7 +4159,7 @@ additional time it is selected, increase the eidolon's swim speed by 20
 feet.
 
 *Tail (Ex)*: An eidolon grows a long, powerful tail. This grants it a +2
-racial bonus on [Acrobatics](#acrobatics)
+racial bonus on [Acrobatics]
 checks made to balance on a surface. This evolution can be selected more
 than once.
 
@@ -4248,7 +4248,7 @@ attacks (such as claws or a slam). Arms that have hands can be used to
 wield weapons, if the eidolon is proficient. This evolution can be
 selected more than once.
 
-*[Poison](#poison) (Ex)*: An eidolon secretes
+*[Poison] (Ex)*: An eidolon secretes
 toxic venom, gaining a poison attack. Pick one bite or sting attack.
 Whenever the selected attack hits, the target is poisoned. **Eidolon
 poison**-*type* poison (injury); *save*Fort negates; *frequency* 1/round
@@ -4277,7 +4277,7 @@ eidolon's Strength modifier. The eidolon must possess the claws
 evolution to select this evolution. The summoner must be at least 6th
 level before selecting this evolution.
 
-*[Trample](#trample) (Ex)*: An eidolon gains the
+*[Trample] (Ex)*: An eidolon gains the
 ability to crush its foes underfoot, gaining the trample ability. As a
 full-round action, the eidolon can overrun any creature that is at least
 one size smaller than itself. This works like the overrun combat
@@ -4307,7 +4307,7 @@ works on creatures of a size equal to or smaller than the eidolon. The
 eidolon must possess the bite evolution to select this evolution.
 
 *Weapon Training (Ex)*: An eidolon learns to use a weapon, gaining
-[Simple Weapon Proficiency](#simple-weapon-proficiency)
+[Simple Weapon Proficiency]
 as a bonus feat. If 2 additional evolution points are spent, it gains
 proficiency with all martial weapons as well.
 
@@ -4320,7 +4320,7 @@ pool.
 *Blindsense (Ex)*: An eidolon's senses become incredibly acute, giving
 it blindsense out to a range of 30 feet. This ability allows the eidolon
 to pinpoint the location of creatures that it cannot see without having
-to make a [Perception](#perception) check,
+to make a [Perception] check,
 but such creatures still have total concealment from the eidolon.
 Visibility still affects the eidolon's movement and it is still denied
 its Dexterity bonus to Armor Class against attacks from creatures it
@@ -4372,14 +4372,14 @@ swallowed again. The eidolon must possess the grab evolution, tied to a
 bite attack, to take this evolution. The summoner must be at least 9th
 level before selecting this evolution.
 
-*[Web](#web) (Ex)*: An eidolon gains a pair of
+*[Web] (Ex)*: An eidolon gains a pair of
 spinnerets, giving it the ability to spin webs. The eidolon can use
 these webs to support itself plus up to one creature of the same size.
 It can throw webbing as a ranged touch attack up to 8 times per day,
 entangling a creature up to one size larger than the eidolon. The
 webbing has a range of 50 feet and a 10-foot range increment. Creatures
 entangled by the web can escape with an [Escape
-Artist](#escape-artist) check or a
+Artist] check or a
 Strength check (at a –4 penalty). The DC of these checks is equal to 10
 + 1/2 the eidolon's HD + the eidolon's Con modifier. The webs have a
 Hardness of 0 and a number of hits points equal to the eidolon's total
@@ -4428,8 +4428,8 @@ gains a +8 bonus to Strength, a +4 bonus to Constitution, and a +2 bonus
 to its natural armor. It takes a –2 penalty to its Dexterity. This size
 change also gives the creature a –1 size penalty to its AC and on attack
 rolls, a +1 bonus to its CMB and CMD, a –2 penalty on
-[Fly](#fly) skill checks, and a –4 penalty on
-[Stealth](#stealth) skill checks. If the
+[Fly] skill checks, and a –4 penalty on
+[Stealth] skill checks. If the
 eidolon has the biped base form, it also gains 10-foot reach. Any reach
 evolutions the eidolon possesses are added to this total. The eidolon
 must be Medium to take this evolution. The summoner must be at least 8th
@@ -4440,9 +4440,9 @@ Huge. The eidolon gains a +16 bonus to Strength, a +8 bonus to
 Constitution, and a +5 bonus to its natural armor. It takes a –4 penalty
 to its Dexterity. This size change also give the creature a –2 size
 penalty to its AC and attack rolls, a +2 bonus to its CMB and CMD,
-10-foot reach, a –4 penalty on [Fly](#fly) skill
+10-foot reach, a –4 penalty on [Fly] skill
 checks, and a –8 penalty on
-[Stealth](#stealth) skill checks. If the
+[Stealth] skill checks. If the
 eidolon has the biped base form, its reach increases to 15 feet (10 feet
 for all other base forms). Any reach evolutions the eidolon possesses
 are added to this total. These bonuses and penalties replace, and do not
@@ -4453,7 +4453,7 @@ The ability increase evolution costs twice as much (4 evolution points)
 when adding to the Strength or Constitution scores of a Large or Huge
 eidolon.
 
-*Spell [Resistance](#resistance) (Ex)*: An
+*Spell [Resistance] (Ex)*: An
 eidolon is protected against magic, gaining spell resistance. The
 eidolon's spell resistance is equal to 11 + the summoner's level. This
 spell resistance does not apply to spells cast by the summoner. The
@@ -4467,180 +4467,180 @@ spells are found in the *Core Rulebook*, all spells marked with an
 asterisk (\*) appear in Chapter 5 of this book.
 
 **0-Level Summoner Spells**-*[acid
-splash](#acid-splash), [arcane
-mark](#arcane-mark),
-[daze](#daze), [detect
-magic](#detect-magic),
-[guidance](#guidance),
-[light](#light), [mage
-hand](#mage-hand),
-[mending](#mending),
-[message](#message),
-[open/close](#open-close), [read
-magic](#read-magic),
-[resistance](#resistance).*
+splash], [arcane
+mark],
+[daze], [detect
+magic],
+[guidance],
+[light], [mage
+hand],
+[mending],
+[message],
+[open/close], [read
+magic],
+[resistance].*
 
-**1st-Level Summoner Spells**-*[alarm](#alarm),
-[ant haul\*](#ant-haul-), [daze
-monster](#daze-monster), [endure
-elements](#endure-elements), [enlarge
-person](#enlarge-person), [expeditious
-retreat](#expeditious-retreat),
-[feather fall](#feather-fall),
-[grease](#grease),
-[identify](#identify),
-[jump](#jump), [mage
-armor](#mage-armor), [magic
-fang](#magic-fang), [magic
-mouth](#magic-mouth),
-[mount](#mount), [protection from
-chaos](#protection-from-chaos)/evil/good/law,
-[reduce person](#reduce-person),
+**1st-Level Summoner Spells**-*[alarm],
+[ant haul\*], [daze
+monster], [endure
+elements], [enlarge
+person], [expeditious
+retreat],
+[feather fall],
+[grease],
+[identify],
+[jump], [mage
+armor], [magic
+fang], [magic
+mouth],
+[mount], [protection from
+chaos]/evil/good/law,
+[reduce person],
 [rejuvenate eidolon
-(lesser)\*](#rejuvenate-eidolon,-lesser),
-[shield](#shield), [summon monster
-I](#summon-monster-i),
-[unfetter\*](#unfetter), [unseen
-servant](#unseen-servant),
-[ventriloquism](#ventriloquism).*
+(lesser)\*],
+[shield], [summon monster
+I],
+[unfetter\*], [unseen
+servant],
+[ventriloquism].*
 
 **2nd-Level Summoner Spells**-*[alter
-self](#alter-self),
-[barkskin](#barkskin), [bear's
-endurance](#bear-s-endurance),
-[blur](#blur), [bull's
-strength](#bull-s-strength), [cat's
-grace](#cat-s-grace), [create
-pit\*](#create-pit-), [detect
-thoughts](#detect-thoughts), [eagle's
-splendor](#eagle-s-splendor),
+self],
+[barkskin], [bear's
+endurance],
+[blur], [bull's
+strength], [cat's
+grace], [create
+pit\*], [detect
+thoughts], [eagle's
+splendor],
 [evolution surge
-(lesser)\*](#evolution-surge,-lesser),
-[fox's cunning](#fox-s-cunning),
-[glide\*](#glide-),
-[glitterdust](#glitterdust),
-[haste](#haste),
-[invisibility](#invisibility),
-[levitate](#levitate),
-[misdirection](#misdirection), [owl's
-wisdom](#owl-s-wisdom), [phantom
-steed](#phantom-steed), [protection from
-arrows](#protection-from-arrows),
-[resist energy](#resist-energy), [see
-invisibility](#see-invisibility),
-[slow](#slow), [spider
-climb](#spider-climb), [summon
-eidolon\*](#summon-eidolon), [summon
-monster II](#summon-monster-ii), [summon
-swarm](#summon-swarm), [wind
-wall](#wind-wall).*
+(lesser)\*],
+[fox's cunning],
+[glide\*],
+[glitterdust],
+[haste],
+[invisibility],
+[levitate],
+[misdirection], [owl's
+wisdom], [phantom
+steed], [protection from
+arrows],
+[resist energy], [see
+invisibility],
+[slow], [spider
+climb], [summon
+eidolon\*], [summon
+monster II], [summon
+swarm], [wind
+wall].*
 
 **3rd-Level Summoner Spells**-*[aqueous
-orb\*](#aqueous-orb), [black
-tentacles](#black-tentacles), [charm
-monster](#charm-monster),
-[devolution\*](#devolution), [dimension
-door](#dimension-door), [dimensional
-anchor](#dimensional), [dispel
-magic](#dispel-magic),
-[displacement](#displacement), [enlarge
-person (mass)](#enlarge-person-mass),
-[evolution surge\*](#evolution-surge),
-[fire shield](#fire-shield),
+orb\*], [black
+tentacles], [charm
+monster],
+[devolution\*], [dimension
+door], [dimensional
+anchor], [dispel
+magic],
+[displacement], [enlarge
+person (mass)],
+[evolution surge\*],
+[fire shield],
 [fly](),
-[heroism](#heroism), [invisibility
-(greater)](#invisibility-greater),
-[locate creature](#locate-creature),
+[heroism], [invisibility
+(greater)],
+[locate creature],
 [magic circle against
-chaos](#magic-circle-against-chaos)/evil/good/law,
-[magic fang (greater)](#magic-fang-greater),
-[minor creation](#minor-creation),
-[nondetection](#nondetection),
+chaos]/evil/good/law,
+[magic fang (greater)],
+[minor creation],
+[nondetection],
 [protection from
-energy](#protection-from-energy),
-[rage](#rage), [reduce person
-(mass)](#reduce-person-mass), [rejuvenate
-eidolon\*](#rejuvenate-eidolon), [seek
-thoughts\*](#seek-thoughts), [spiked
-pit\*](#spiked-pit),
-[stoneskin](#stoneskin), [summon monster
-IV](#summon-monster-iv),
-[tongues](#tongues), [wall of
-fire](#wall-of-fire), [wall of
-ice](#wall-of-ice), [water
-breathing](#water-breathing).*
+energy],
+[rage], [reduce person
+(mass)], [rejuvenate
+eidolon\*], [seek
+thoughts\*], [spiked
+pit\*],
+[stoneskin], [summon monster
+IV],
+[tongues], [wall of
+fire], [wall of
+ice], [water
+breathing].*
 
 **4th-Level Summoner Spells**-*[acid
-pit\*](#acid-pit-), [baleful
-polymorph](#baleful-polymorph),
+pit\*], [baleful
+polymorph],
 [bear's endurance
-(mass)](#bear-s-endurance-mass),
+(mass)],
 [bull's strength
-(mass)](#bull-s-strength-mass),
-[cat's](#grace)
+(mass)],
+[cat's]
 (mass), [contact other
-plane](#contact-other-plane),
-[dismissal](#dismissal), [eagle's splendor
-(mass)](#eagle-s-splendor-mass),
+plane],
+[dismissal], [eagle's splendor
+(mass)],
 [evolution surge
-(greater)\*](#evolution-surge,-greater),
-[fox's](#cunning)
-(mass), [hold monster](#hold-monster),
-[insect plague](#insect-plague), [mage's
+(greater)\*],
+[fox's]
+(mass), [hold monster],
+[insect plague], [mage's
 faithful
-hound](#mage-s-faithful-hound),
-[magic jar](#magic-jar), [major
-creation](#major-creation), [overland
-flight](#overland-flight), [owl's
-wisdom (mass)](#owl-s-wisdom-mass), [planar
+hound],
+[magic jar], [major
+creation], [overland
+flight], [owl's
+wisdom (mass)], [planar
 binding
-(lesser)](#planar-binding-lesser),
-[purified calling\*](#purified-calling),
-[sending](#sending), [summon monster
-V](#summon-monster-v),
-[teleport](#teleport),
-[transmogrify\*](#transmogrify), [wall of
-stone](#wall-of-stone).*
+(lesser)],
+[purified calling\*],
+[sending], [summon monster
+V],
+[teleport],
+[transmogrify\*], [wall of
+stone].*
 
 **5th-Level Summoner
-Spells**-*[banishment](#banishment),
-[creeping doom](#creeping-doom), [dispel
-magic (greater)](#dispel-magic-greater)
-[ethereal jaunt](#ethereal-jaunt),
-[heroism (greater)](#heroism-greater), [hungry
-pit\*](#hungry-pit-), [invisibility
-(mass)](#invisibility-mass), [planar
-adaptation\*](#planar-adaptation),
-[planar binding](#planar-binding),
-[plane shift](#plane-shift),
-[repulsion](#repulsion), [rejuvenate eidolon
-(greater)\*](#rejuvenate-eidolon,-greater),
-[sequester](#sequester),
-[simulacrum](#simulacrum), [spell
-turning](#spell-turning), [summon monster
-VII](#summon-monster-vii), [teleport
-(greater)](#teleport-greater), [true
-seeing](#true-seeing), [wall of
-iron](#wall-of-iron).*
+Spells**-*[banishment],
+[creeping doom], [dispel
+magic (greater)]
+[ethereal jaunt],
+[heroism (greater)], [hungry
+pit\*], [invisibility
+(mass)], [planar
+adaptation\*],
+[planar binding],
+[plane shift],
+[repulsion], [rejuvenate eidolon
+(greater)\*],
+[sequester],
+[simulacrum], [spell
+turning], [summon monster
+VII], [teleport
+(greater)], [true
+seeing], [wall of
+iron].*
 
 **6th-Level Summoner
-Spells**-*[antipathy](#antipathy),
-[binding](#binding), [charm monster
-(mass)](#charm-monster-mass),
-[dimensional lock](#dimensional-lock),
-[discern location](#discern-location),
-[dominate monster](#dominate-monster),
-[incendiary cloud](#incendiary-cloud),
-[maze](#maze), [planar adaptation
-(mass)\*](#planar-adaptation,-mass),
+Spells**-*[antipathy],
+[binding], [charm monster
+(mass)],
+[dimensional lock],
+[discern location],
+[dominate monster],
+[incendiary cloud],
+[maze], [planar adaptation
+(mass)\*],
 [planar binding
-(greater)](#planar-binding-greater),
+(greater)],
 [protection from
-spells](#protection-from-spells),
+spells],
 [summon monster
-VIII](#summon-monster-viii),
-[sympathy](#sympathy), [teleportation
-circle](#teleportation-circle).*
+VIII],
+[sympathy], [teleportation
+circle].*
 
 
 ## Witch
@@ -4670,17 +4670,17 @@ guide them.
 
 ### Class Skills
 
-The witch's class skills are [Craft](#craft)
-(Int), [Fly](#fly) (Dex),
-[Heal](#heal) (Wis),
-[Intimidate](#intimidate) (Cha),
-[Knowledge](#knowledge) (arcana) (Int),
-[Knowledge](#knowledge) (history) (Int),
-[Knowledge](#knowledge) (nature) (Int),
-[Knowledge](#knowledge) (planes) (Int),
-[Profession](#profession) (Wis),
-[Spellcraft](#spellcraft) (Int), and [Use
-Magic Device](#use-magic-device) (Cha).
+The witch's class skills are [Craft]
+(Int), [Fly] (Dex),
+[Heal] (Wis),
+[Intimidate] (Cha),
+[Knowledge] (arcana) (Int),
+[Knowledge] (history) (Int),
+[Knowledge] (nature) (Int),
+[Knowledge] (planes) (Int),
+[Profession] (Wis),
+[Spellcraft] (Int), and [Use
+Magic Device] (Cha).
 
 **Skill Ranks per Level**: 2 + Int modifier.
 
@@ -4691,49 +4691,49 @@ Table: Witch
 |     |Attack|Save |Save |Save |                            |    |    |    |    |    |    |    |    |    |    |
 |     |Bonus |     |     |     |                            |    |    |    |    |    |    |    |    |    |    |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|1st  |+0    |+0   |+0   |+2   |[Cantrips](#cantrips),      |3   |1   |-   |-   |-   |-   |-   |-   |-   |-   |
-|     |      |     |     |     |[hex](#hex), [witch's       |    |    |    |    |    |    |    |    |    |    |
-|     |      |     |     |     |familiar](#witch's-familiar)|    |    |    |    |    |    |    |    |    |    |
+|1st  |+0    |+0   |+0   |+2   |[Cantrips],      |3   |1   |-   |-   |-   |-   |-   |-   |-   |-   |
+|     |      |     |     |     |[hex], [witch's       |    |    |    |    |    |    |    |    |    |    |
+|     |      |     |     |     |familiar]|    |    |    |    |    |    |    |    |    |    |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|2nd  |+1    |+0   |+0   |+3   |[Hex](#hex)                 |4   |2   |-   |-   |-   |-   |-   |-   |-   |-   |
+|2nd  |+1    |+0   |+0   |+3   |[Hex]                 |4   |2   |-   |-   |-   |-   |-   |-   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
 |3rd  |+1    |+1   |+1   |+3   |                            |4   |2   |1   |-   |-   |-   |-   |-   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|4th  |+2    |+1   |+1   |+4   |[Hex](#hex)                 |4   |3   |2   |-   |-   |-   |-   |-   |-   |-   |
+|4th  |+2    |+1   |+1   |+4   |[Hex]                 |4   |3   |2   |-   |-   |-   |-   |-   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
 |5th  |+2    |+1   |+1   |+4   |                            |4   |3   |2   |1   |-   |-   |-   |-   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|6th  |+3    |+2   |+2   |+5   |[Hex](#hex)                 |4   |3   |3   |2   |-   |-   |-   |-   |-   |-   |
+|6th  |+3    |+2   |+2   |+5   |[Hex]                 |4   |3   |3   |2   |-   |-   |-   |-   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
 |7th  |+3    |+2   |+2   |+5   |                            |4   |4   |3   |2   |1   |-   |-   |-   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|8th  |+4    |+2   |+2   |+6   |[Hex](#hex)                 |4   |4   |3   |3   |2   |-   |-   |-   |-   |-   |
+|8th  |+4    |+2   |+2   |+6   |[Hex]                 |4   |4   |3   |3   |2   |-   |-   |-   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
 |9th  |+4    |+3   |+3   |+6   |                            |4   |4   |4   |3   |2   |1   |-   |-   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|10th |+5    |+3   |+3   |+7   |[Hex](#hex), [major         |4   |4   |4   |3   |3   |2   |-   |-   |-   |-   |
-|     |      |     |     |     |hex](#major-hex)            |    |    |    |    |    |    |    |    |    |    |
+|10th |+5    |+3   |+3   |+7   |[Hex], [major         |4   |4   |4   |3   |3   |2   |-   |-   |-   |-   |
+|     |      |     |     |     |hex]            |    |    |    |    |    |    |    |    |    |    |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
 |11th |+5    |+3   |+3   |+7   |                            |4   |4   |4   |4   |3   |2   |1   |-   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|12th |+6/+1 |+4   |+4   |+8   |[Hex](#hex)                 |4   |4   |4   |4   |3   |3   |2   |-   |-   |-   |
+|12th |+6/+1 |+4   |+4   |+8   |[Hex]                 |4   |4   |4   |4   |3   |3   |2   |-   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
 |13th |+6/+1 |+4   |+4   |+8   |                            |4   |4   |4   |4   |4   |3   |2   |1   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|14th |+7/+2 |+4   |+4   |+9   |[Hex](#hex)                 |4   |4   |4   |4   |4   |3   |3   |2   |-   |-   |
+|14th |+7/+2 |+4   |+4   |+9   |[Hex]                 |4   |4   |4   |4   |4   |3   |3   |2   |-   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
 |15th |+7/+2 |+5   |+5   |+9   |                            |4   |4   |4   |4   |4   |4   |3   |2   |1   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|16th |+8/+3 |+5   |+5   |+10  |[Hex](#hex)                 |4   |4   |4   |4   |4   |4   |3   |3   |2   |-   |
+|16th |+8/+3 |+5   |+5   |+10  |[Hex]                 |4   |4   |4   |4   |4   |4   |3   |3   |2   |-   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
 |17th |+8/+3 |+5   |+5   |+10  |                            |4   |4   |4   |4   |4   |4   |4   |3   |2   |1   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|18th |+9/+4 |+6   |+6   |+11  |[Hex](#hex), [grand         |4   |4   |4   |4   |4   |4   |4   |3   |3   |2   |
-|     |      |     |     |     |hex](#grand-hex)            |    |    |    |    |    |    |    |    |    |    |
+|18th |+9/+4 |+6   |+6   |+11  |[Hex], [grand         |4   |4   |4   |4   |4   |4   |4   |3   |3   |2   |
+|     |      |     |     |     |hex]            |    |    |    |    |    |    |    |    |    |    |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
 |19th |+9/+4 |+6   |+6   |+11  |                            |4   |4   |4   |4   |4   |4   |4   |4   |3   |3   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
-|20th |+10/+5|+6   |+6   |+12  |[Hex](#hex)                 |4   |4   |4   |4   |4   |4   |4   |4   |4   |4   |
+|20th |+10/+5|+6   |+6   |+12  |[Hex]                 |4   |4   |4   |4   |4   |4   |4   |4   |4   |4   |
 +-----+------+-----+-----+-----+----------------------------+----+----+----+----+----+----+----+----+----+----+
 
 
@@ -4792,7 +4792,7 @@ attack. If used on a creature of the animal or plant type, the creature
 gains the following curse: Blight Hex-*type* curse; *save*Will negates;
 *frequency* 1/day; *effect* 1 Con damage. Both types of curse can be
 removed with a *[remove
-curse](#remove-curse)* or similar magic,
+curse]* or similar magic,
 using the save DC as the DC to remove the curse. A witch can only have
 one blight in effect at a time. If another blight hex is made, the first
 immediately ends.
@@ -4803,14 +4803,14 @@ hex, evil eye hex, fortune hex, or misfortune hex caused by the witch
 has the duration of that hex extended by 1 round.
 
 *Cauldron (Ex)*: The witch receives [Brew
-Potion](#brew-potion) as a bonus feat and a +4 insight
-bonus on [Craft](#craft) (alchemy) skill checks.
+Potion] as a bonus feat and a +4 insight
+bonus on [Craft] (alchemy) skill checks.
 
 *Charm (Su)*: A witch can charm an animal or humanoid creature within 30
 feet by beckoning and speaking soothing words. This improves the
 attitude of an animal or humanoid creature by 1 step, as if the witch
 had successfully used the
-[Diplomacy](#diplomacy) skill. The effect
+[Diplomacy] skill. The effect
 lasts for a number of rounds equal to the Witch's Intelligence modifier.
 A Will save negates this effect. Whether or not the save is successful,
 a creature cannot be the target of this hex again for 1 day. At 8th
@@ -4826,7 +4826,7 @@ witch's spells and all of her hexes.
 
 *Disguise (Su)*: A witch can change her appearance for a number of hours
 equal to her class level, as if using *[disguise
-self](#disguise-self)*. These hours do
+self]*. These hours do
 not need to be consecutive, but they must be spent in 1-hour increments.
 
 *Evil Eye (Su)*: The witch can cause doubt to creep into the mind of a
@@ -4839,9 +4839,9 @@ penalty increases to –4.
 
 *Flight (Su)*: The witch grows lighter as she gains power, eventually
 gaining the ability to fly. At 1st level, the witch can use *[feather
-fall](#feather-fall)* at will and gains a
-+4 racial bonus on [Swim](#swim) checks. At 3rd
-level, she can cast *[levitate](#levitate)*
+fall]* at will and gains a
++4 racial bonus on [Swim] checks. At 3rd
+level, she can cast *[levitate]*
 once per day. At 5th level, she can fly, as per the spell, for a number
 of minutes per day equal to her level. These minutes do not need to be
 consecutive, but they must be spent in 1-minute increments. This hex
@@ -4858,11 +4858,11 @@ hours.
 
 *Healing (Su)*: A witch can soothe the wounds of those she touches. This
 acts as a *[cure light
-wounds](#cure-light-wounds)* spell,
+wounds]* spell,
 using the witch's caster level. Once a creature has benefited from the
 healing hex, it cannot benefit from it again for 24 hours. At 5th level,
 this hex acts like *[cure moderate
-wounds](#cure-moderate-wounds)*.
+wounds]*.
 
 *Misfortune (Su)*: The witch can cause a creature within 30 feet to
 suffer grave misfortune for 1 round. Anytime the creature makes an
@@ -4875,7 +4875,7 @@ hex again for 1 day.
 
 *Slumber (Su):* A witch can cause a creature within 30 feet to fall into
 a deep, magical sleep, as per the spell
-*[sleep](#sleep)*. The creature receives a Will
+*[sleep]*. The creature receives a Will
 save to negate the effect. If the save fails, the creature falls asleep
 for a number of rounds equal to the witch's level. This hex can affect a
 creature of any HD. The creature will not wake due to noise or light,
@@ -4885,10 +4885,10 @@ successful, a creature cannot be the target of this hex again for 1 day.
 
 *Tongues (Su)*: A witch with this hex can understand any spoken language
 for a number of minutes per day equal to her level, as *[comprehend
-languages](#comprehend-languages).*This
+languages].*This
 duration does not need to be consecutive, but it must be spent in
 1-minute increments. At 5th level, a witch can use this ability to speak
-any language, as per *[tongues](#tongues)*.
+any language, as per *[tongues]*.
 
 *Ward (Su)*: A witch can use this hex to place a protective ward over
 one creature. The warded creature receives a +2 deflection bonus to AC
@@ -4932,7 +4932,7 @@ again for 1 day.
 
 *Hag's Eye (Su)*: A witch with this hex can create a magic sensor that
 she can see through. This functions as per the spell *[arcane
-eye](#arcane-eye)*. If the witch has the
+eye]*. If the witch has the
 coven hex, all other witches within 10 feet who also have the coven hex
 can see through this sensor as well, although the witch that created it
 still controls it. The witch can use this eye for a number of minutes
@@ -4942,16 +4942,16 @@ but they must be spent in 1-minute increments.
 *Major Healing (Su)*: By calling upon eerie powers, the witch's touch
 can mend even the most terrible wounds of those she touches. This acts
 as *[cure serious
-wounds](#cure-serious-wounds)*,
+wounds]*,
 using the witch's caster level. Once a creature has benefited from the
 major healing hex, it cannot benefit from it again for 24 hours. At 15th
 level, this hex acts like *[cure critical
-wounds](#cure-critical-wounds)*.
+wounds]*.
 
 *Nightmares (Su)*: Calling upon fell powers, a witch can place a hex on
 a creature within 60 feet that causes its sleep to be tormented by
 terrible nightmares. This functions as the spell
-*[nightmare](#nightmare)* each time the
+*[nightmare]* each time the
 affected creature attempts to rest. A Will save negates this effect. If
 the save is failed, the target must make a new save each night or be
 unable to rest.
@@ -4999,7 +4999,7 @@ this effect, it is immune to it for 24 hours. The is an enchantment
 (compulsion) effect.
 
 *Weather Control (Su)*: A witch with this hex can use *[control
-weather](#control-weather)* once per
+weather]* once per
 day, but creating the weather takes 1 full hour of chanting, dancing,
 and communing with her familiar.
 
@@ -5023,7 +5023,7 @@ successful, a creature cannot be the target of this hex again for 1 day.
 drift off into a permanent slumber. The creature receives a Will save to
 negate this effect. If the save fails, the creature falls asleep and
 cannot be woken. The effect can only be removed with a
-*[wish](#wish)* or similar magic, although
+*[wish]* or similar magic, although
 slaying the witch ends the effect. The witch can use this ability to
 poison food or drink, causing those who ingest it to make a save or fall
 into an eternal slumber. She can only have one such dose of poison at
@@ -5035,19 +5035,19 @@ of this hex again for 1 day.
 to die and be immediately *reincarnated* into a new body. A Will save
 negates this effect. Those that fail are slain and immediately brought
 back to life with the spell
-*[reincarnate](#reincarnate)*. Whether or
+*[reincarnate]*. Whether or
 not the save is successful, a creature cannot be the target of this hex
 again for 1 day.
 
 *Life Giver (Su)*: Once per day the witch can, as a full round action,
 touch a dead creature and bring it back to life. This functions as
-*[resurrection](#resurrection)*, but it
+*[resurrection]*, but it
 does not require a material component.
 
 *Natural Disaster (Su)*: A witch using this hex calls down the forces of
 nature to wreak havoc on an area. This functions as a *[storm of
-vengeance](#storm-of-vengeance)*combined
-with an *[earthquake](#earthquake)* that
+vengeance]*combined
+with an *[earthquake]* that
 occurs on the second round of the effect (while acid is raining from the
 sky). A witch must concentrate for the duration of this effect. If
 disrupted, the effect immediately ends. A witch can only use this
@@ -5058,11 +5058,11 @@ ability once per day.
 
 Witches can add new spells to their familiars through several methods. A witch can only add spells to her familiar if those spells belong to the witch's spell list.
 
-**[Spells](#spells) Gained at a New Level**: A [witch's familiar](#witch's-familiar) learns a certain amount of lore and magic as the witch adventures. Whenever a witch gains a level, she may add two [spells](#spells) from the witch spell list to her familiar. The two free [spells](#spells) must be of spell levels she can cast.
+**[Spells] Gained at a New Level**: A [witch's familiar] learns a certain amount of lore and magic as the witch adventures. Whenever a witch gains a level, she may add two [spells] from the witch spell list to her familiar. The two free [spells] must be of spell levels she can cast.
 
-**Familiar Teaching Familiar**: A [witch's familiar](#witch's-familiar) can learn [spells](#spells) from another [witch's familiar](#witch's-familiar). To accomplish this, the familiars must spend one hour per level of the spell being taught in communion with one another. At the end of this time, the witch whose familiar is learning a spell must make a [Spellcraft](#spellcraft). Most witches require a spell of equal or greater level in return for this service. If a familiar belongs to a witch that has died, it only retains its knowledge of [spells](#spells) for 24 hours, during which time it is possible to coerce or bribe the familiar into teaching its [spells](#spells) to another, subject to GM discretion.
+**Familiar Teaching Familiar**: A [witch's familiar] can learn [spells] from another [witch's familiar]. To accomplish this, the familiars must spend one hour per level of the spell being taught in communion with one another. At the end of this time, the witch whose familiar is learning a spell must make a [Spellcraft]. Most witches require a spell of equal or greater level in return for this service. If a familiar belongs to a witch that has died, it only retains its knowledge of [spells] for 24 hours, during which time it is possible to coerce or bribe the familiar into teaching its [spells] to another, subject to GM discretion.
 
-**Learn from a Scroll**: A witch can use a scroll to teach her familiar a new spell. This process takes 1 hour per level of the spell to be learned, during which time the scroll is burned and its ashes used to create a special brew or powder that is consumed by the familiar. This process destroys the scroll. At the end of this time, the witch must make a [Spellcraft](#spellcraft) check (DC 15 + spell level). If the check fails, the process went awry in some way and the spell is not learned, although the scroll is still consumed.
+**Learn from a Scroll**: A witch can use a scroll to teach her familiar a new spell. This process takes 1 hour per level of the spell to be learned, during which time the scroll is burned and its ashes used to create a special brew or powder that is consumed by the familiar. This process destroys the scroll. At the end of this time, the witch must make a [Spellcraft] check (DC 15 + spell level). If the check fails, the process went awry in some way and the spell is not learned, although the scroll is still consumed.
 
 #### Adding Spells to a Witch's Familiar
 
@@ -5071,7 +5071,7 @@ service of a mystical advisor, a familiar to both serve her and reveal
 to her secrets unknown to most mortals. A familiar is an animal chosen
 by a witch to aid her in her spellcasting and grant her special powers.
 This uses the same rules as the wizard's [arcane
-bond](#arcane-bond) class feature, except as
+bond] class feature, except as
 noted below. A witch uses her level as her effective wizard level when
 determining the abilities of her familiar. A witch can choose any of the
 familiars available to a wizard in addition to the new familiars
@@ -5119,22 +5119,22 @@ utilizing the same rules as for any other familiar.
 
 These familiars make use these statistics: the [house
 centipede](), [king
-crab](#crab-giant), [greensting
+crab], [greensting
 scorpion](/pathfinderRPG/prd/ultimateMagic/magic/newFamiliars.html#greensting-scorpion-cr-1/4),
-fox ([dog](#dog) with the [young
-template](#young-creature)),
-octopus ([octopus](#octopus) with the [young
-template](#young-creature)), and
-[scarlet spider](#spider-giant).
+fox ([dog] with the [young
+template]),
+octopus ([octopus] with the [young
+template]), and
+[scarlet spider].
 
   Familiar    Special Ability
   ----------- ---------------------------------------------------------------------------------
-  Centipede   Master gains a +3 bonus on [Stealth](#stealth) checks
+  Centipede   Master gains a +3 bonus on [Stealth] checks
   Crab        Master gains a +2 bonus on grapple checks
   Fox         Master gains a +2 bonus on Reflex saves
-  Octopus     Master gains a +3 bonus on [Swim](#swim) checks
+  Octopus     Master gains a +3 bonus on [Swim] checks
   Scorpion    Master gains a +2 bonus on initiative rolls
-  Spider      Master gains a +3 bonus on [Climb](#climb) checks
+  Spider      Master gains a +3 bonus on [Climb] checks
 
 
 ### Patron Spells
@@ -5151,164 +5151,164 @@ this book. The spells gained depend upon the patron chosen. Each patron
 is listed by its theme. Its actual name is up to the GM and the witch to
 decide.
 
-**Agility**: 2nd-*[jump](#jump)*, 4th-*[cat's
-grace](#cat-s-grace)*,
-6th-*[haste](#haste)*, 8th-*[freedom of
-movement](#freedom-of-movement)*,
-10th-*[polymorph](#polymorph)*,
-12th-*[cat's](#grace)
+**Agility**: 2nd-*[jump]*, 4th-*[cat's
+grace]*,
+6th-*[haste]*, 8th-*[freedom of
+movement]*,
+10th-*[polymorph]*,
+12th-*[cat's]
 (mass)*, 14th-*[ethereal
-jaunt](#ethereal-jaunt)*, 16th-*[animal
-shapes](#animal-shapes)*,
-18th-*[shapechange](#shapechange)*.
+jaunt]*, 16th-*[animal
+shapes]*,
+18th-*[shapechange]*.
 
 **Animals**: 2nd-*charm animals*, 4th-*[speak with
-animals](#speak-with-animals)*,
+animals]*,
 6th-*[dominate
-animal](#dominate-animal)*,
+animal]*,
 8th-*[summon nature's ally
-IV](#summon-nature-s-ally-iv)*,
-10th-*[animal growth](#animal-growth)*,
+IV]*,
+10th-*[animal growth]*,
 12th-*[antilife
-shell](#antilife-shell)*, 14th-*[beast
-shape IV](#beast-shape-iv)*, 16th-*[animal
-shapes](#animal-shapes)*, 18th-*[summon
+shell]*, 14th-*[beast
+shape IV]*, 16th-*[animal
+shapes]*, 18th-*[summon
 nature's ally
-IX](#summon-nature-s-ally-ix)*.
+IX]*.
 
 **Deception**:
-2nd-*[ventriloquism](#ventriloquism)*,
-4th-*[invisibility](#invisibility)*,
-6th-*[blink](#blink)*,
-8th-*[confusion](#confusion)*,
-10th-*[passwall](#passwall)*,
+2nd-*[ventriloquism]*,
+4th-*[invisibility]*,
+6th-*[blink]*,
+8th-*[confusion]*,
+10th-*[passwall]*,
 12th-*[programmed
-image](#programmed-image)*,
+image]*,
 14th-*[invisibility
-(mass)](#invisibility-mass)*,
+(mass)]*,
 16th-*[scintillating
-pattern](#scintillating-pattern)*,
-18th-*[time stop](#time-stop)*.
+pattern]*,
+18th-*[time stop]*.
 
 **Elements**: 2nd-*[shocking
-grasp](#shocking-grasp)*, 4th-*[flaming
-sphere](#flaming-sphere)*,
-6th-*[fireball](#fireball)*, 8th-*[wall of
-ice](#wall-of-ice)*, 10th-*[flame
-strike](#flame-strike)*, 12th-*[freezing
-sphere](#freezing-sphere)*,
-14th-*[vortex\*](#vortex)*, 16th-*[fire
-storm](#fire-storm)*, 18th-*[meteor
-swarm](#meteor-swarm)*.
+grasp]*, 4th-*[flaming
+sphere]*,
+6th-*[fireball]*, 8th-*[wall of
+ice]*, 10th-*[flame
+strike]*, 12th-*[freezing
+sphere]*,
+14th-*[vortex\*]*, 16th-*[fire
+storm]*, 18th-*[meteor
+swarm]*.
 
-**[Endurance](#endurance)**: 2nd-*[endure
-elements](#endure-elements)*,
+**[Endurance]**: 2nd-*[endure
+elements]*,
 4th-*[bear's
-endurance](#bear-s-endurance)*,
+endurance]*,
 6th-*[protection from
-energy](#protection-from-energy),*
-8th-*[spell immunity](#spell-immunity)*,
+energy],*
+8th-*[spell immunity]*,
 10th-*[spell
-resistance](#armor-spell-resistance)*,
+resistance]*,
 12th-*[bear's endurance
-(mass)](#bear-s-endurance-mass)*,
+(mass)]*,
 14th-*[restoration
-(greater)](#restoration-greater)*,
+(greater)]*,
 16th-*[iron
-body](#miracle)*.
+body]*.
 
 **Plague**: 2nd-*[detect
-undead](#detect-undead)*, 4th-*[command
-undead](#command-undead)*,
-6th-*[contagion](#contagion)*, 8th-*[animate
-dead](#animate-dead)*, 10th-*[giant
-vermin](#giant-vermin)*, 12th-*[create
-undead](#create-undead)*, 14th-*[control
-undead](#control-undead)*, 16th-*[create
+undead]*, 4th-*[command
+undead]*,
+6th-*[contagion]*, 8th-*[animate
+dead]*, 10th-*[giant
+vermin]*, 12th-*[create
+undead]*, 14th-*[control
+undead]*, 16th-*[create
 greater
-undead](#create-greater-undead)*,
-18th-*[energy drain](#energy-drain)*.
+undead]*,
+18th-*[energy drain]*.
 
 **Shadow**: 2nd-*[silent
-image](#silent-image)*,
-4th-*[darkness](#darkness)*, 6th-*[deeper
-darkness](#deeper-darkness)*,
+image]*,
+4th-*[darkness]*, 6th-*[deeper
+darkness]*,
 8th-*[shadow
-conjuration](#shadow-conjuration)*,
+conjuration]*,
 10th-*[shadow
-evocation](#shadow-evocation)*,
-12th-*[shadow walk](#shadow-walk)*,
+evocation]*,
+12th-*[shadow walk]*,
 14th-*[shadow conjuration
-(greater)](#shadow-conjuration-greater)*,
+(greater)]*,
 16th-*[shadow evocation
-(greater)](#shadow-evocation-greater)*,
-18th-*[shades](#shades)*.
+(greater)]*,
+18th-*[shades]*.
 
 **Strength**: 2nd-*[divine
-favor](#divine-favor)*, 4th-*[bull's
-strength](#bull-s-strength)*,
+favor]*, 4th-*[bull's
+strength]*,
 6th-*[greater magic
-weapon](#magic-weapon-greater)*,
-8th-*[divine power](#divine-power)*,
+weapon]*,
+8th-*[divine power]*,
 10th-*[righteous
-might](#righteous-might)*,
+might]*,
 12th-*[bull's strength
-(mass)](#bull-s-strength-mass)*,
-14th-*[giant form I](#giant-form-i)*,
-16th-*[giant form II](#giant-form-ii)*,
-18th-*[shapechange](#shapechange)*.
+(mass)]*,
+14th-*[giant form I]*,
+16th-*[giant form II]*,
+18th-*[shapechange]*.
 
-**Transformation**: 2nd-*[jump](#jump)*,
+**Transformation**: 2nd-*[jump]*,
 4th-*[bear's
-endurance](#bear-s-endurance)*,
-6th-*[beast shape I](#beast-shape-i)*,
-8th-*[beast shape II](#beast-shape-ii)*,
-10th-*[beast shape III](#beast-shape-iii)*,
+endurance]*,
+6th-*[beast shape I]*,
+8th-*[beast shape II]*,
+10th-*[beast shape III]*,
 12th-*[form of the dragon
-I](#form-of-the-dragon-i)*,
+I]*,
 14th-*[form of the dragon
-II](#form-of-the-dragon-ii)*,
+II]*,
 16th-*[form of the dragon
-III](#form-of-the-dragon-iii)*,
-18th-*[shapechange](#shapechange)*.
+III]*,
+18th-*[shapechange]*.
 
 **Trickery**: 2nd-*[animate
-rope](#animate-rope)*, 4th-*[mirror
-image](#mirror-image)*, 6th-*[major
-image](#major-image)*, 8th-*[hallucinatory
-terrain](#hallucinatory-terrain)*,
-10th-*[mirage arcana](#mirage-arcana)*,
-12th-*[mislead](#mislead)*, 14th-*[reverse
-gravity](#reverse-gravity)*,
-16th-*[screen](#screen)*, 18th-*[time
-stop](#time-stop)*.
+rope]*, 4th-*[mirror
+image]*, 6th-*[major
+image]*, 8th-*[hallucinatory
+terrain]*,
+10th-*[mirage arcana]*,
+12th-*[mislead]*, 14th-*[reverse
+gravity]*,
+16th-*[screen]*, 18th-*[time
+stop]*.
 
 **Water**: 2nd-*[bless
-water](#bless-water)/curse water*,
-4th-*[slipstream\*](#slipstream)*, 6th-*[water
-breathing](#water-breathing)*,
-8th-*[control water](#control-water)*,
-10th-*[geyser\*](#geyser-)*, 12th-*[elemental body
-III](#elemental-body-iii)* (water only),
+water]/curse water*,
+4th-*[slipstream\*]*, 6th-*[water
+breathing]*,
+8th-*[control water]*,
+10th-*[geyser\*]*, 12th-*[elemental body
+III]* (water only),
 *14th-[elemental body
-IV](#elemental-body-iv)* (water only),
-16th-*[seamantle\*](#seamantle)*,
-18th-*[tsunami\*](#tsunami)*.
+IV]* (water only),
+16th-*[seamantle\*]*,
+18th-*[tsunami\*]*.
 
 **Wisdom**: 2nd-*[shield of
-faith](#shield-of-faith)*, 4th-*[owl's
-wisdom](#owl-s-wisdom)*, 6th-*[magic
-vestment](#magic-vestment)*, 8th-*[globe
-of](#armor-invulnerability)
-(lesser)*, 10th-*[dream](#dream)*, 12th-*[globe
+faith]*, 4th-*[owl's
+wisdom]*, 6th-*[magic
+vestment]*, 8th-*[globe
+of]
+(lesser)*, 10th-*[dream]*, 12th-*[globe
 of
-invulnerability](#globe-of-invulnerability)
+invulnerability]
 (greater)*, 14th-*[spell
-turning](#spell-turning)*,
+turning]*,
 16th-*[protection from
-spells](#protection-from-spells)*,
+spells]*,
 18th-*[mage's
-disjunction](#mage-s-disjunction)*.
+disjunction]*.
 
 
 ### Witch Spells
@@ -5318,285 +5318,285 @@ are found in the *Core Rulebook*, those marked with an asterisk (\*)
 appear in Chapter 5 of this book.
 
 **0-Level Witch Spells**-*[arcane
-mark](#arcane-mark),
-[bleed](#bleed), [dancing
-lights](#dancing-lights),
-[daze](#daze), [detect
-magic](#detect-magic), [detect
-poison](#detect-poison),
-[guidance](#guidance),
-[light](#light),
-[mending](#mending),
-[message](#message), [putrefy food and
-drink\*](#putrefy-food-and-drink),
-[read magic](#read-magic),
-[resistance](#resistance),
-[spark\*](#spark-),
-[stabilize](#stabilize), [touch of
-fatigue](#touch-of-fatigue).*
+mark],
+[bleed], [dancing
+lights],
+[daze], [detect
+magic], [detect
+poison],
+[guidance],
+[light],
+[mending],
+[message], [putrefy food and
+drink\*],
+[read magic],
+[resistance],
+[spark\*],
+[stabilize], [touch of
+fatigue].*
 
 **1st-Level Witch Spells**-*[beguiling
-gift\*](#beguiling-gift), [burning
-hands](#burning-hands), [cause
-fear](#cause-fear), [charm
-person](#charm-person), [chill
-touch](#chill-touch),
-[command](#command), [comprehend
-languages](#comprehend-languages),
+gift\*], [burning
+hands], [cause
+fear], [charm
+person], [chill
+touch],
+[command], [comprehend
+languages],
 [cure light
-wounds](#cure-light-wounds), [dancing
-lantern\*](#dancing-lantern-), [detect
-secret doors](#detect-secret-doors),
-[enlarge person](#enlarge-person),
-[hypnotism](#hypnotism),
-[identify](#identify), [ill
-omen\*](#ill-omen), [inflict light
-wounds](#inflict-light-wounds),
-[mage armor](#mage-armor), [mask
-dweomer\*](#mask-dweomer),
-[mount](#mount), [obscuring
-mist](#obscuring-mist), [ray of
-enfeeblement](#ray-of-enfeeblement),
-[reduce person](#reduce-person),
-[sleep](#sleep), [summon monster
-I](#summon-monster-i), [unseen
-servant](#unseen-servant).*
+wounds], [dancing
+lantern\*], [detect
+secret doors],
+[enlarge person],
+[hypnotism],
+[identify], [ill
+omen\*], [inflict light
+wounds],
+[mage armor], [mask
+dweomer\*],
+[mount], [obscuring
+mist], [ray of
+enfeeblement],
+[reduce person],
+[sleep], [summon monster
+I], [unseen
+servant].*
 
 **2nd-Level Witch Spells**-*[alter
-self](#alter-self),
-[augury](#augury),
-[blindness/deafness](#blindness-deafness),
-[burning gaze\*](#burning-gaze), [cure
+self],
+[augury],
+[blindness/deafness],
+[burning gaze\*], [cure
 moderate
-wounds](#cure-moderate-wounds),
-[daze monster](#daze-monster), [death
-knell](#death-knell), [delay
-poison](#delay-poison), [detect
-thoughts](#detect-thoughts),
-[enthrall](#enthrall), [false
-life](#false-life), [feast of
-ashes\*](#feast-of-ashes),
-[fester\*](#fester), [find
-traps](#find-traps), [fog
+wounds],
+[daze monster], [death
+knell], [delay
+poison], [detect
+thoughts],
+[enthrall], [false
+life], [feast of
+ashes\*],
+[fester\*], [find
+traps], [fog
 cloud](), [gentle
-repose](#gentle-repose),
-[glide\*](#glide-),
-[glitterdust](#glitterdust), [hidden
-speech\*](#hidden-speech), [hold
-person](#hold-person), [inflict moderate
-wounds](#inflict-moderate-wounds),
-[levitate](#levitate), [perceive
-cues\*](#perceive-cues), [pox
-pustules\*](#pox-pustules),
-[scare](#scare), [see
-invisibility](#see-invisibility),
-[spectral hand](#spectral-hand),
-[status](#status), [summon monster
-II](#summon-monster-ii), [summon
-swarm](#summon-swarm), [touch of
-idiocy](#touch-of-idiocy), [vomit
-swarm\*](#vomit-swarm),
-[web](#web), [zone of
-truth](#zone-of-truth).*
+repose],
+[glide\*],
+[glitterdust], [hidden
+speech\*], [hold
+person], [inflict moderate
+wounds],
+[levitate], [perceive
+cues\*], [pox
+pustules\*],
+[scare], [see
+invisibility],
+[spectral hand],
+[status], [summon monster
+II], [summon
+swarm], [touch of
+idiocy], [vomit
+swarm\*],
+[web], [zone of
+truth].*
 
 **3rd-Level Witch Spells**-*[arcane
-sight](#arcane-sight), [bestow
-curse](#bestow-curse),
-[clairaudience/clairvoyance](#clairaudience-clairvoyance),
-[cup of dust\*](#cup-of-dust), [deep
-slumber](#deep-slumber), [dispel
-magic](#dispel-magic),
+sight], [bestow
+curse],
+[clairaudience/clairvoyance],
+[cup of dust\*], [deep
+slumber], [dispel
+magic],
 [fly](), [glyph of
-warding](#glyph-of-warding), [guiding
-star\*](#guiding-star-),
-[heroism](#heroism), [lightning
-bolt](#lightning-bolt), [locate
-object](#locate-object), [nature's
-exile\*](#nature's-exile), [pain
-strike\*](#pain-strike),
-[rage](#rage), [ray of
-exhaustion](#ray-of-exhaustion),
+warding], [guiding
+star\*],
+[heroism], [lightning
+bolt], [locate
+object], [nature's
+exile\*], [pain
+strike\*],
+[rage], [ray of
+exhaustion],
 [remove
-blindness/deafness](#remove-blindness-deafness),
-[remove curse](#remove-curse), [remove
-disease](#remove-disease),
-[screech\*](#screech), [seek
-thoughts\*](#seek-thoughts), [sepia snake
-sigil](#sepia-snake-sigil), [share
-senses\*](#share-senses), [sleet
-storm](#sleet-storm), [speak with
-dead](#speak-with-dead), [stinking
-cloud](#stinking-cloud),
-[suggestion](#suggestion), [summon monster
-III](#summon-monster-iii),
-[tongues](#tongues), [twilight
-knife\*](#twilight-knife-), [vampiric
-touch](#vampiric-touch), [water
-walk](#water-walk).*
+blindness/deafness],
+[remove curse], [remove
+disease],
+[screech\*], [seek
+thoughts\*], [sepia snake
+sigil], [share
+senses\*], [sleet
+storm], [speak with
+dead], [stinking
+cloud],
+[suggestion], [summon monster
+III],
+[tongues], [twilight
+knife\*], [vampiric
+touch], [water
+walk].*
 
 **4th-Level Witch Spells**-*[arcane
-eye](#arcane-eye), [black
-tentacles](#black-tentacles), [charm
-monster](#charm-monster),
-[confusion](#confusion), [crushing
-despair](#crushing-despair), [cure
+eye], [black
+tentacles], [charm
+monster],
+[confusion], [crushing
+despair], [cure
 serious
-wounds](#cure-serious-wounds),
-[death ward](#death-ward), [detect
-scrying](#detect-scrying), [dimension
-door](#dimension-door), [discern
-lies](#discern-lies),
-[divination](#divination),
-[enervation](#enervation),
-[fear](#fear), [geas
-(lesser)](#geas-lesser), [ice
-storm](#ice-storm), [inflict serious
-wounds](#inflict-serious-wounds),
-[locate creature](#locate-creature),
-[minor creation](#minor-creation),
-[moonstruck\*](#moonstruck), [neutralize
-poison](#neutralize-poison),
+wounds],
+[death ward], [detect
+scrying], [dimension
+door], [discern
+lies],
+[divination],
+[enervation],
+[fear], [geas
+(lesser)], [ice
+storm], [inflict serious
+wounds],
+[locate creature],
+[minor creation],
+[moonstruck\*], [neutralize
+poison],
 [phantasmal
-killer](#phantasmal-killer),
-[poison](#poison),
-[scrying](#scrying), [secure
-shelter](#secure-shelter),
-[sleepwalk\*](#sleepwalk), [solid
-fog](#solid-fog),
-[spite\*](#spite), [summon monster
-IV](#summon-monster-iv), [threefold
-aspect\*](#threefold-aspect), [wandering
-star motes\*](#wandering-star-motes).*
+killer],
+[poison],
+[scrying], [secure
+shelter],
+[sleepwalk\*], [solid
+fog],
+[spite\*], [summon monster
+IV], [threefold
+aspect\*], [wandering
+star motes\*].*
 
 **5th-Level Witch Spells**-*[baleful
-polymorph](#baleful-polymorph),
-[banish](#seeming)\*,
-[blight](#blight), [break
-enchantment](#break-enchantment),
-[cloudkill](#cloudkill), [contact other
-plane](#contact-other-plane), [cure
+polymorph],
+[banish]\*,
+[blight], [break
+enchantment],
+[cloudkill], [contact other
+plane], [cure
 critical
-wounds](#cure-critical-wounds),
-[dominate person](#dominate-person),
-[feeblemind](#feeblemind), [hold
-monster](#hold-monster), [inflict critical
-wounds](#inflict-critical-wounds),
-[magic jar](#magic-jar), [major
-creation](#major-creation), [mark of
-justice](#mark-of-justice), [mind
-fog](#mind-fog), [overland
-flight](#overland-flight), [pain strike
-(mass)\*](#pain-strike,-mass), [prying
-eyes](#prying-eyes),
-[reincarnate](#reincarnate), [rest
-eternal\*](#rest-eternal), [secret
-chest](#secret-chest),
-[suffocation\*](#suffocation), [summon
-monster V](#summon-monster-v), [symbol
-of pain](#symbol-of-pain), [symbol of
-sleep](#symbol-of-sleep), [telepathic
-bond](#telepathic-bond),
-[teleport](#teleport), [waves of
-fatigue](#waves-of-fatigue).*
+wounds],
+[dominate person],
+[feeblemind], [hold
+monster], [inflict critical
+wounds],
+[magic jar], [major
+creation], [mark of
+justice], [mind
+fog], [overland
+flight], [pain strike
+(mass)\*], [prying
+eyes],
+[reincarnate], [rest
+eternal\*], [secret
+chest],
+[suffocation\*], [summon
+monster V], [symbol
+of pain], [symbol of
+sleep], [telepathic
+bond],
+[teleport], [waves of
+fatigue].*
 
 **6th-Level Witch Spells**-*[analyze
-dweomer](#analyze-dweomer), [animate
-objects](#animate-objects), [cloak of
-dreams\*](#cloak-of-dreams), [cone of
-cold](#cone-of-cold), [cure light wounds
-(mass)](#cure-light-wounds-mass),
+dweomer], [animate
+objects], [cloak of
+dreams\*], [cone of
+cold], [cure light wounds
+(mass)],
 [dispel magic
-(greater)](#dispel-magic-greater),
-[eyebite](#eyebite), [fester
-(mass)\*](#fester,-mass), [find the
-path](#find-the-path), [flesh to
-stone](#flesh-to-stone),
-[geas/quest](#geas-quest), [guards and
-wards](#guards-and-wards), [heroism
-(greater)](#heroism-greater), [inflict light
+(greater)],
+[eyebite], [fester
+(mass)\*], [find the
+path], [flesh to
+stone],
+[geas/quest], [guards and
+wards], [heroism
+(greater)], [inflict light
 wounds
-(mass)](#inflict-light-wounds-mass),
-[legend lore](#legend-lore), [raise
-dead](#raise-dead), [slay
-living](#slay-living), [stone to
-flesh](#stone-to-flesh), [suggestion
-(mass)](#suggestion-mass), [summon monster
-VI](#summon-monster-vi), [swarm
-skin\*](#swarm-skin-), [symbol of
-fear](#symbol-of-fear), [symbol of
-persuasion](#symbol-of-persuasion),
-[transformation](#transformation),
-[true seeing](#true-seeing), [unwilling
-shield\*](#unwilling-shield).*
+(mass)],
+[legend lore], [raise
+dead], [slay
+living], [stone to
+flesh], [suggestion
+(mass)], [summon monster
+VI], [swarm
+skin\*], [symbol of
+fear], [symbol of
+persuasion],
+[transformation],
+[true seeing], [unwilling
+shield\*].*
 
 **7th-Level Witch Spells**-*[arcane sight
-(greater)](#arcane-sight-greater), [chain
-lightning](#chain-lightning), [control
-weather](#control-weather), [cure
+(greater)], [chain
+lightning], [control
+weather], [cure
 moderate wounds
-(mass)](#cure-moderate-wounds-mass),
-[harm](#harm),
-[heal](#heal), [hold person
-(mass)](#hold-person-mass), [inflict
+(mass)],
+[harm],
+[heal], [hold person
+(mass)], [inflict
 moderate wounds
-(mass)](#inflict-moderate-wounds-mass),
-[insanity](#insanity), [instant
-summons](#instant-summons), [phase
-door](#phase-door), [plane
-shift](#plane-shift), [power word
-blind](#power-word-blind),
-[regenerate](#regenerate), [scrying
-(greater)](#scrying-greater), [summon monster
-VII](#summon-monster-vii), [symbol of
-stunning](#symbol-of-stunning),
+(mass)],
+[insanity], [instant
+summons], [phase
+door], [plane
+shift], [power word
+blind],
+[regenerate], [scrying
+(greater)], [summon monster
+VII], [symbol of
+stunning],
 [symbol of
-weakness](#symbol-of-weakness),
-[teleport (greater)](#teleport-greater),
-[teleport object](#teleport-object),
-[vision](#vision), [waves of
-exhaustion](#waves-of-exhaustion).*
+weakness],
+[teleport (greater)],
+[teleport object],
+[vision], [waves of
+exhaustion].*
 
 **8th-Level Witch
-Spells**-*[antipathy](#antipathy), [charm
-monster (mass)](#charm-monster-mass),
-[clone](#clone), [cure serious wounds
-(mass)](#cure-serious-wounds-mass),
-[demand](#demand),
-[destruction](#destruction), [discern
-location](#discern-location), [horrid
-wilting](#horrid-wilting), [inflict
+Spells**-*[antipathy], [charm
+monster (mass)],
+[clone], [cure serious wounds
+(mass)],
+[demand],
+[destruction], [discern
+location], [horrid
+wilting], [inflict
 serious wounds
-(mass)](#inflict-serious-wounds-mass),
+(mass)],
 [irresistible
-dance](#irresistible-dance),
-[maze](#maze), [mind
-blank](#mind-blank), [moment of
-prescience](#moment-of-prescience),
-[power word stun](#power-word-stun),
+dance],
+[maze], [mind
+blank], [moment of
+prescience],
+[power word stun],
 [prying eyes
-(greater)](#prying-eyes-greater),
-[resurrection](#resurrection),
-[stormbolts\*](#stormbolts), [summon monster
-VIII](#summon-monster-viii), [symbol of
-death](#symbol-of-death), [symbol of
-insanity](#symbol-of-insanity),
-[sympathy](#sympathy), [trap the
-soul](#trap-the-soul).*
+(greater)],
+[resurrection],
+[stormbolts\*], [summon monster
+VIII], [symbol of
+death], [symbol of
+insanity],
+[sympathy], [trap the
+soul].*
 
 **9th-Level Witch Spells**-*[astral
-projection](#astral-projection),
+projection],
 [cure critical wounds
-(mass)](#cure-critical-wounds-mass),
-[dominate monster](#dominate-monster),
-[elemental swarm](#elemental-swarm),
-[foresight](#foresight), [hold monster
-(mass)](#hold-monster-mass), [inflict
-critical wounds (mass)](#inflict-critical-wounds-mass),
-[power word kill](#power-word-kill),
-[refuge](#refuge), [soul
-bind](#soul-bind), [storm of
-vengeance](#storm-of-vengeance),
-[suffocation (mass)\*](#suffocation,-mass),
-[summon monster IX](#summon-monster-ix),
-[teleportation circle](#teleportation-circle),
-[wail of the banshee](#wail-of-the-banshee).*
+(mass)],
+[dominate monster],
+[elemental swarm],
+[foresight], [hold monster
+(mass)], [inflict
+critical wounds (mass)],
+[power word kill],
+[refuge], [soul
+bind], [storm of
+vengeance],
+[suffocation (mass)\*],
+[summon monster IX],
+[teleportation circle],
+[wail of the banshee].*

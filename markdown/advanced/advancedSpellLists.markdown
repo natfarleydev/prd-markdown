@@ -37,29 +37,29 @@ synonymously in the short description.
 # Spells by Class
 
 
-[Alchemist Spells](#alchemist-spells)
+[Alchemist Spells]
 
-[Antipaladin Spells](#antipaladin-spells)
+[Antipaladin Spells]
 
-[Bard Spells](#bard-spells)
+[Bard Spells]
 
-[Cleric Spells](#cleric-spells)
+[Cleric Spells]
 
-[Druid Spells](#druid-spells)
+[Druid Spells]
 
-[Elementalist Wizard Spells](#elementalist-wizard-spells)
+[Elementalist Wizard Spells]
 
-[Inquisitor Spells](#inquisitor-spells)
+[Inquisitor Spells]
 
-[Paladin Spells](#paladin-spells)
+[Paladin Spells]
 
-[Ranger Spells](#ranger-spells)
+[Ranger Spells]
 
-[Sorcerer/Wizard Spells](#sorcerer-wizard-spells)
+[Sorcerer/Wizard Spells]
 
-[Summoner Spells](#summoner-spells)
+[Summoner Spells]
 
-[Witch Spells](#witch-spells)
+[Witch Spells]
 
 
 # Alchemist Spells
@@ -68,134 +68,134 @@ synonymously in the short description.
 --------------------------
 
 **[Ant
-Haul](#ant-haul-)**^^:
+Haul]**^^:
 Triples carrying capacity of a creature.
 
 **[Bomber's
-Eye](#bomber's-eye)**^^:
+Eye]**^^:
 Increases thrown weapon range; +1 attack.
 
 **[Crafter's
-Fortune](#crafter's-fortune)**^^:
-Subject gains +5 on next [Craft](#craft) check.
+Fortune]**^^:
+Subject gains +5 on next [Craft] check.
 
 **[Keen
-Senses](#keen-senses)**^^:
-Gain +2 [Perception](#perception) and
+Senses]**^^:
+Gain +2 [Perception] and
 low-light vision.
 
 **[Negate
-Aroma](#negate-aroma)**^^:
+Aroma]**^^:
 Subject cannot be tracked by scent.
 
 **[Stone
-Fist](#stone-fist)**^^:
+Fist]**^^:
 Your unarmed strikes are lethal.
 
 **[Touch of the
-Sea](#touch-of-the-sea)**^^:
-[Swim](#swim) speed becomes 30 ft.
+Sea]**^^:
+[Swim] speed becomes 30 ft.
 
 2nd-Level Alchemist Spells
 --------------------------
 
 **[Alchemical
-Allocation](#alchemical-allocation)**^^:
+Allocation]**^^:
 Gain potion's benefits without consuming it.
 
 **[Elemental
-Touch](#elemental-touch)**^^:
+Touch]**^^:
 Gain energy damage touch attack.
 
 **[Fire
-Breath](#fire-breath)**^^:
+Breath]**^^:
 Exhale a cone of flame at will.
 
 **[Perceive
-Cues](#perceive-cues)**^^:
-+5 [Perception](#perception) and [Sense
-Motive](#sense-motive) 10 min./level.
+Cues]**^^:
++5 [Perception] and [Sense
+Motive] 10 min./level.
 
 **[Transmute Potion to
-Poison](#transmute-potion-to-poison)**^^:
+Poison]**^^:
 Spit poison onto weapon after drinking potion.
 
 **[Vomit
-Swarm](#vomit-swarm)**^^:
+Swarm]**^^:
 Produces a spider swarm that fights for you.
 
 3rd-Level Alchemist Spells
 --------------------------
 
 **[Absorbing
-Touch](#absorbing-touch)**^^:
+Touch]**^^:
 Caster absorbs an item for 1 day/level.
 
 **[Amplify
-Elixir](#amplify-elixir)**^^:
+Elixir]**^^:
 Empowers or extends the effects of any potion or elixir.
 
-**[Bloodhound](#bloodhound)**^^:
+**[Bloodhound]**^^:
 Enhances sense of smell and grants the caster the scent special ability.
 
 **[Draconic
-Reservoir](#draconic-reservoir-)**^^:
+Reservoir]**^^:
 Subject can absorb energy damage and enhance melee attacks with it.
 
 **[Elemental
-Aura](#elemental-aura)**^^:
+Aura]**^^:
 Creates an aura of energy around you.
 
 **[Seek
-Thoughts](#seek-thoughts)**^^:
+Thoughts]**^^:
 Detects thinking creatures' thoughts.
 
 **[Thorn
-Body](#thorn-body)**^^:
+Body]**^^:
 Those attacking you take 1d6 +1 damage/level.
 
 4th-Level Alchemist Spells
 --------------------------
 
-**[Detonate](#detonate)**^M^:
+**[Detonate]**^M^:
 Inflicts 1d8/level energy damage to all creatures within 15 ft.
 
 **[Dragon's
-Breath](#dragon's-breath)**^^:
+Breath]**^^:
 Gives you a dragon's breath weapon.
 
 **[Fluid
-Form](#fluid-form)**^^:
+Form]**^^:
 Gain DR 10/slashing, increases reach 10 ft., and breathe water.
 
 **[Universal
-Formula](#universal-formula)**^M^:
+Formula]**^M^:
 Acts as any extract 3rd level or lower.
 
 5th-Level Alchemist Spells
 --------------------------
 
 **[Delayed
-Consumption](#delayed-consumption)**^^:
+Consumption]**^^:
 Extract doesn't come into effect until you want it to.
 
 **[Elude
-Time](#elude-time)**^M^:
+Time]**^M^:
 Puts you in temporary suspended animation.
 
 **[Planar
-Adaptation](#planar-adaptation)**^^:
+Adaptation]**^^:
 Resist harmful effects of one plane.
 
 **[Resurgent
-Transformation](#resurgent-transformation)**^M^:
+Transformation]**^M^:
 Gain second wind when close to death.
 
 6th-Level Alchemist Spells
 --------------------------
 
 **[Twin
-Form](#twin-form)**^^:
+Form]**^^:
 Creates controllable duplicate of you.
 
 Antipaladin Spells
@@ -204,174 +204,174 @@ Antipaladin Spells
 1st-Level Antipaladin Spells
 ----------------------------
 
-**[Bane](#weapons-bane)**^^: Enemies take –1
+**[Bane]**^^: Enemies take –1
 on attack rolls and saves vs. fear.
 
-**[Cause Fear](#cause-fear)**^^: A creature of
+**[Cause Fear]**^^: A creature of
 5 HD or less flees for 1d4 rounds.
 
-**[Command](#command)**^^: One subject obeys a
+**[Command]**^^: One subject obeys a
 command for 1 round.
 
-**[Curse Water](#curse-water)**^M^^^: Makes
+**[Curse Water]**^M^^^: Makes
 water unholy.
 
-**[Death Knell](#death-knell)**^^: Kills dying
+**[Death Knell]**^^: Kills dying
 creature; you gain 1d8 temporary hp, +2 to Str, and +1 caster level.
 
-**[Detect Poison](#detect-poison)**^^:
+**[Detect Poison]**^^:
 Detects poison in a creature or object.
 
-**[Disguise Self](#disguise-self)**^^:
+**[Disguise Self]**^^:
 Changes your appearance.
 
-**[Doom](#doom)**^^: One subject takes –2 on attack
+**[Doom]**^^: One subject takes –2 on attack
 rolls, damage rolls, saves, and checks.
 
 **[Inflict Light
-Wounds](#inflict-light-wounds)**^^:
+Wounds]**^^:
 Touch deals 1d8 damage +1/level (max +5).
 
-**[Magic Weapon](#magic-weapon)**^^: Weapon
+**[Magic Weapon]**^^: Weapon
 gains +1 bonus.
 
 **[Protection from
-Good](#protection-from-good)/Law**^^:
+Good]/Law**^^:
 +2 to AC and saves, plus additional protection against selected
 alignments.
 
-**[Read Magic](#read-magic)**^^: Read scrolls
+**[Read Magic]**^^: Read scrolls
 and spellbooks.
 
 **[Summon Monster
-I](#summon-monster-i)**^^: *(Evil creatures
+I]**^^: *(Evil creatures
 only.)*Summons extraplanar creature to fight for you.
 
 2nd-Level Antipaladin Spells
 ----------------------------
 
-**[Blindness/Deafness](#blindness-deafness)**^^:
+**[Blindness/Deafness]**^^:
 Makes subject blind or deaf.
 
-**[Bull's Strength](#bull-s-strength)**^^:
+**[Bull's Strength]**^^:
 Subject gains +4 to Str for 1 min./level.
 
 **[Corruption
-Resistance](#corruption-resistance)**^^:
+Resistance]**^^:
 Protects creature against damage from alignment-based attacks.
 
-**[Darkness](#darkness)**^^: 20-ft. radius of
+**[Darkness]**^^: 20-ft. radius of
 supernatural shadow.
 
-**[Darkvision](#darkvision)**^^: See 60 ft. in
+**[Darkvision]**^^: See 60 ft. in
 total darkness.
 
-**[Desecrate](#desecrate)**^M^^^: Fills area
+**[Desecrate]**^M^^^: Fills area
 with negative energy; aids undead.
 
 **[Eagle's
-Splendor](#eagle-s-splendor)**^^: Subject
+Splendor]**^^: Subject
 gains +4 to Cha for 1 min./level.
 
-**[Hold Person](#hold-person)**^^: Paralyzes
+**[Hold Person]**^^: Paralyzes
 one humanoid for 1 round/level.
 
-**[Invisibility](#invisibility)**^^: Subject
+**[Invisibility]**^^: Subject
 is invisible for 1 min./level or until it attacks.
 
-**[Scare](#scare)**^^: Frightens creature of less
+**[Scare]**^^: Frightens creature of less
 than 6 HD.
 
-**[Silence](#silence)**^^: Negates sound in
+**[Silence]**^^: Negates sound in
 20-ft. radius.
 
 **[Summon Monster
-II](#summon-monster-ii)**^^: *(Evil
+II]**^^: *(Evil
 creatures only.)* Summons extraplanar creature to fight for you.
 
 **[Undetectable
-Alignment](#undetectable-alignment)**^^:
+Alignment]**^^:
 Conceals alignment for 24 hours.
 
 3rd-Level Antipaladin Spells
 ----------------------------
 
-**[Animate Dead](#animate-dead)**^M^^^:
+**[Animate Dead]**^M^^^:
 Creates undead skeletons and zombies.
 
-**[Bestow Curse](#bestow-curse)**^^: –6 to an
+**[Bestow Curse]**^^: –6 to an
 ability score; –4 on attack rolls, saves, and checks; or 50% chance of
 losing each action.
 
-**[Contagion](#contagion)**^^: Infects subject
+**[Contagion]**^^: Infects subject
 with chosen disease.
 
-**[Deeper Darkness](#deeper-darkness)**^^:
+**[Deeper Darkness]**^^:
 Object sheds shadows in 60-ft. radius.
 
 **[Defile
-Armor](#defile-armor)**^^:
+Armor]**^^:
 As *[sanctify armor](spells/sanctifyArmor.html#sanctify-armor)*, but
 gain DR 5/good when using judgment or smite.
 
-**[Dispel Magic](#dispel-magic)**^^: Cancels
+**[Dispel Magic]**^^: Cancels
 one magical spell or effect.
 
 **[Inflict Moderate
-Wounds](#inflict-moderate-wounds)**^^:
+Wounds]**^^:
 Touch attack, 2d8 damage +1/level (max +10).
 
 **[Magic Circle against
-Good](#magic-circle-against-good)/Law**^^:
+Good]/Law**^^:
 As *protection*spells, but 10-ft. radius and 10 min./level.
 
 **[Magic Weapon,
-Greater](#magic-weapon-greater)**^^: Weapon
+Greater]**^^: Weapon
 gains +1 bonus/four levels (max +5).
 
-**[Nondetection](#nondetection)**^M^^^:
+**[Nondetection]**^M^^^:
 Hides subject from divination, scrying.
 
 **[Summon Monster
-III](#summon-monster-iii)**^^: *(Evil
+III]**^^: *(Evil
 creatures only.)* Summons extraplanar creature to fight for you.
 
-**[Vampiric Touch](#vampiric-touch)**^^:
+**[Vampiric Touch]**^^:
 Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
 
 4th-Level Antipaladin Spells
 ----------------------------
 
-**[Dispel Good](#dispel-good)**^^: +4 against
+**[Dispel Good]**^^: +4 against
 attacks by good creatures.
 
-**[Dispel Law](#dispel-law)**^^: +4 against
+**[Dispel Law]**^^: +4 against
 attacks by lawful creatures.
 
-**[Fear](#fear)**^^: Subjects within cone flee for 1
+**[Fear]**^^: Subjects within cone flee for 1
 round/level.
 
 **[Inflict Serious
-Wounds](#inflict-serious-wounds)**^^:
+Wounds]**^^:
 Touch attack, 3d8 damage +1/level (max +15).
 
 **[Invisibility,
-Greater](#invisibility-greater)**^^: As
-*[invisibility](#invisibility)*, but subject
+Greater]**^^: As
+*[invisibility]*, but subject
 can attack and stay invisible.
 
-**[Poison](#poison)**^^: Touch deals 1d3 Con
+**[Poison]**^^: Touch deals 1d3 Con
 damage 1/round for 6 rounds.
 
 **[Resounding
-Blow](#resounding-blow)**^^:
+Blow]**^^:
 Melee attack deals 1d6 more damage.
 
-**[Slay Living](#slay-living)**^^: Touch
+**[Slay Living]**^^: Touch
 attack deals 12d6 +1 per level.
 
 **[Summon Monster
-IV](#summon-monster-iv)**^^: *(Evil
+IV]**^^: *(Evil
 creatures only.)* Summons extraplanar creature to fight for you.
 
 Bard Spells
@@ -380,264 +380,264 @@ Bard Spells
 0-Level Bard Spells
 -------------------
 
-**[Sift](#sift)**^^: See
+**[Sift]**^^: See
 area as though examining it.
 
-**[Spark](#spark-)**^^:
+**[Spark]**^^:
 Ignites flammable objects.
 
 **[Unwitting
-Ally](#unwitting-ally)**^^:
+Ally]**^^:
 Subject is considered ally for 1 round.
 
 1st-Level Bard Spells
 ---------------------
 
 **[Beguiling
-Gift](#beguiling-gift)**^^:
+Gift]**^^:
 Subject immediately accepts an offered item and uses it.
 
 **[Borrow
-Skill](#borrow-skill)**^^:
+Skill]**^^:
 Make a skill check using another's ranks.
 
 **[Dancing
-Lantern](#dancing-lantern-)**^^:
+Lantern]**^^:
 Animates a lantern that follows you.
 
 **[Feather
-Step](#feather-step)**^^:
+Step]**^^:
 Ignore movement penalty in difficult terrain.
 
 **[Flare
-Burst](#flare-burst)**^^:
+Burst]**^^:
 As flare, but on all creatures within 10 ft.
 
-**[Innocence](#innocence)**^^:
-Gain +10 on [Bluff](#bluff) checks to seem
+**[Innocence]**^^:
+Gain +10 on [Bluff] checks to seem
 innocent.
 
-**[Invigorate](#invigorate)**^^:
+**[Invigorate]**^^:
 Temporarily relieves fatigue or exhaustion.
 
 **[Memory
-Lapse](#memory-lapse)**^^:
+Lapse]**^^:
 Subject forgets events back to last turn.
 
 **[Restful
-Sleep](#restful-sleep)**^^:
+Sleep]**^^:
 Gain more hit points while sleeping.
 
 **[Saving
-Finale](#saving-finale)**^^:
+Finale]**^^:
 Subject rerolls failed saving throw.
 
 **[Share
-Language](#share-language-)**^^:
+Language]**^^:
 Subject understands chosen language.
 
 **[Solid
-Note](#solid-note)**^^:
+Note]**^^:
 Creates tangible music note.
 
 **[Timely
-Inspiration](#timely-inspiration)**^^:
+Inspiration]**^^:
 Gives bonus on failed check/attack.
 
 **[Touch of
-Gracelessness](#touch-of-gracelessness)**^^:
+Gracelessness]**^^:
 Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
 
-**[Vanish](#vanish)**^^:
-As *[invisibility](#invisibility)* for 1
+**[Vanish]**^^:
+As *[invisibility]* for 1
 round/level (5 max).
 
 2nd-Level Bard Spells
 ---------------------
 
 **[Blood
-Biography](#blood-biography-)**^^:
+Biography]**^^:
 Learn about a creature with its blood.
 
 **[Cacophonous
-Call](#cacophonous-call)**^^:
+Call]**^^:
 Nauseates target.
 
 **[Create Treasure
-Map](#create-treasure-map-)**^M^:
+Map]**^M^:
 Creates a treasure map out of a creature's corpse.
 
 **[Dust of
-Twilight](#dust-of-twilight)**^^:
+Twilight]**^^:
 Black particles extinguish light sources.
 
 **[Enter
-Image](#enter-image-)**^^:
+Image]**^^:
 Transfers your consciousness to an object bearing your likeness.
 
 **[Gallant
-Inspiration](#gallant-inspiration)**^^:
+Inspiration]**^^:
 +2d4 bonus on failed attack roll or skill check.
 
 **[Ghostbane
-Dirge](#ghostbane-dirge)**^^:
+Dirge]**^^:
 Incorporeal creature takes half damage from nonmagical weapons.
 
 **[Hidden
-Speech](#hidden-speech)**^^:
-Gain +10 on [Bluff](#bluff) to send secret
+Speech]**^^:
+Gain +10 on [Bluff] to send secret
 messages.
 
 **[Honeyed
-Tongue](#honeyed-tongue)**^^:
-Roll 2 dice when using [Diplomacy](#diplomacy),
+Tongue]**^^:
+Roll 2 dice when using [Diplomacy],
 take higher roll.
 
 **[Versatile
-Weapon](#versatile-weapon)**^^:
+Weapon]**^^:
 Weapon bypasses some DR.
 
 3rd-Level Bard Spells
 ---------------------
 
 **[Arcane
-Concordance](#arcane-concordance)**^^:
+Concordance]**^^:
 Grants metamagic to arcane spells.
 
 **[Campfire
-Wall](#campfire-wall-)**^^:
+Wall]**^^:
 Creates a shelter around a campfire.
 
 **[Coordinated
-Effort](#coordinated-effort)**^^:
+Effort]**^^:
 Grants a teamwork feat you have.
 
 **[Elemental
-Speech](#elemental-speech)**^^:
+Speech]**^^:
 Enables you to speak to elementals and some creatures.
 
 **[Feather Step,
-Mass](#feather-step,-mass)**^^:
+Mass]**^^:
 As *[feather step](spells/featherStep.html#feather-step)*, but multiple
 creatures.
 
 **[Invigorate,
-Mass](#invigorate,-mass)**^^:
+Mass]**^^:
 As *[invigorate](spells/invigorate.html#invigorate)*, but multiple
 creatures.
 
 **[Jester's
-Jaunt](#jester's-jaunt)**^^:
+Jaunt]**^^:
 Teleport target within 30 ft. of itself.
 
 **[Purging
-Finale](#purging-finale)**^^:
+Finale]**^^:
 Removes one negative effect.
 
 **[Reviving
-Finale](#reviving-finale)**^^:
+Finale]**^^:
 Allies cured 2d6 damage.
 
 **[Seek
-Thoughts](#seek-thoughts)**^^:
+Thoughts]**^^:
 Detects thinking creatures' thoughts.
 
 **[Thunderous
-Drums](#thundering-drums)**^^:
+Drums]**^^:
 1d8 damage/level and knocked prone.
 
 4th-Level Bard Spells
 ---------------------
 
-**[Denounce](#denounce)**^^:
+**[Denounce]**^^:
 Worsens attitudes toward target creature.
 
 **[Discordant
-Blast](#discordant-blast)**^^:
+Blast]**^^:
 3d6 sonic damage in 10-ft. burst or 30-ft. cone can also bull rush
 creatures.
 
 **[Ghostbane Dirge,
-Mass](#ghostbane-dirge,-mass)**^^:
+Mass]**^^:
 As *[ghostbane dirge](spells/ghostbaneDirge.html#ghostbane-dirge)*, but
 affecting multiple creatures.
 
 **[Heroic
-Finale](#heroic-finale)**^^:
+Finale]**^^:
 Subject within range of your bardic performance can take an action.
 
 **[Treasure
-Stitching](#treasure-stitching-)**^M^:
+Stitching]**^M^:
 Objects on cloth become embroidered.
 
 **[Wandering Star
-Motes](#wandering-star-motes)**^^:
+Motes]**^^:
 Outlines subject, produces light.
 
 5th-Level Bard Spells
 ---------------------
 
 **[Bard's
-Escape](#bard's-escape)**^^:
+Escape]**^^:
 You and allies escape an emergency by teleporting to safety.
 
 **[Cacophonous Call,
-Mass](#cacophonous-call,-mass)**^^:
+Mass]**^^:
 Nauseates multiple targets.
 
 **[Cloak of
-Dreams](#cloak-of-dreams)**^^:
+Dreams]**^^:
 Living creatures within 5 ft. fall asleep.
 
 **[Deafening Song
-Bolt](#deafening-song-bolt)**^^:
+Bolt]**^^:
 Blast of song deals 3d10 damage and deafens targets.
 
 **[Foe to
-Friend](#foe-to-friend)**^^:
+Friend]**^^:
 Redirect an enemy creature's attack.
 
 **[Frozen
-Note](#frozen-note-)**^^:
+Note]**^^:
 Paralyzes creatures listening to your song.
 
 **[Phantasmal
-Web](#phantasmal-web)**^^:
+Web]**^^:
 Catches subjects in illusory web.
 
 **[Stunning
-Finale](#stunning-finale)**^^:
+Finale]**^^:
 Stuns 3 creatures for 1 round.
 
 **[Unwilling
-Shield](#unwilling-shield)**^M^:
+Shield]**^M^:
 Subject shares wounds you receive.
 
 6th-Level Bard Spells
 ---------------------
 
 **[Brilliant
-Inspiration](#brilliant-inspiration)**^^:
+Inspiration]**^^:
 Take best of two d20 rolls.
 
 **[Deadly
-Finale](#deadly-finale)**^^:
+Finale]**^^:
 Deals 2d8 damage to multiple targets.
 
 **[Euphoric
-Tranquility](#euphoric-tranquility)**^^:
+Tranquility]**^^:
 Makes a single creature peaceful and friendly.
 
 **[Fool's
-Forbiddance](#fool's-forbiddance)**^^:
+Forbiddance]**^^:
 Confuses enemies who come within a magical emanation centered on you.
 
-**[Getaway](#getaway-)**^^:
+**[Getaway]**^^:
 Teleports a group of predetermined allies and creatures to a
 predetermined location.
 
 **[Pied
-Piping](#pied-piping-)**^^:
+Piping]**^^:
 Compel similar creatures to follow you.
 
 Cleric Spells
@@ -646,139 +646,139 @@ Cleric Spells
 0-Level Cleric Spells
 ---------------------
 
-**[Spark](#spark-)**^^:
+**[Spark]**^^:
 Ignites flammable objects.
 
 1st-Level Cleric Spells
 -----------------------
 
 **[Ant
-Haul](#ant-haul-)**^^:
+Haul]**^^:
 Triples carrying capacity of a creature.
 
 **[Dancing
-Lantern](#dancing-lantern-)**^^:
+Lantern]**^^:
 Animates a lantern that follows you.
 
 2nd-Level Cleric Spells
 -----------------------
 
 **[Blessing of Courage and
-Life](#blessing-of-courage-and-life)**^^:
+Life]**^^:
 +2 on saves vs. fear and death.
 
 **[Ghostbane
-Dirge](#ghostbane-dirge)**^^:
+Dirge]**^^:
 Incorporeal creature takes half damage from nonmagical weapons.
 
-**[Grace](#grace)**^^:
+**[Grace]**^^:
 Movement doesn't provoke attacks of opportunity.
 
 **[Instant
-Armor](#instant-armor-)**^^:
+Armor]**^^:
 Summon armor temporarily replacing your current attire.
 
 **[Oracle's
-Burden](#oracle's-burden)**^^:
+Burden]**^^:
 *(Oracle only.)* Creature is affected by negative oracle's curse
 effects.
 
 **[Share
-Language](#share-language-)**^^:
+Language]**^^:
 Subject understands chosen language.
 
 **[Weapon of
-Awe](#weapon-of-awe)**^^:
+Awe]**^^:
 Weapon gets +2 on damage rolls.
 
 3rd-Level Cleric Spells
 -----------------------
 
 **[Blood
-Biography](#blood-biography-)**^^:
+Biography]**^^:
 Learn about a creature with its blood.
 
 **[Borrow
-Fortune](#borrow-fortune)**^^:
+Fortune]**^^:
 *(Oracle only.)* Retry attack or check, but do worse on next two.
 
 **[Elemental
-Speech](#elemental-speech)**^^:
+Speech]**^^:
 You can speak with elementals and some creatures.
 
 **[Enter
-Image](#enter-image-)**^^:
+Image]**^^:
 Transfers your consciousness to an object bearing your likeness.
 
 **[Guiding
-Star](#guiding-star-)**^^:
+Star]**^^:
 Know approximate distance from where you cast this spell.
 
 **[Nap
-Stack](#nap-stack-)**^M^:
+Stack]**^M^:
 Subjects only need 2 hours for a night's sleep, and can sleep even
 longer for more benefits.
 
 **[Sacred
-Bond](#sacred-bond)**^F^:
+Bond]**^F^:
 Cast touch healing spells from a distance.
 
 **[Wrathful
-Mantle](#wrathful-mantle)**^^:
+Mantle]**^^:
 Subject gets +1/four levels on all saves.
 
 4th-Level Cleric Spells
 -----------------------
 
 **[Blessing of
-Fervor](#blessing-of-fervor)**^^:
+Fervor]**^^:
 Gives allies a choice of benefits.
 
 **[Planar
-Adaptation](#planar-adaptation)**^^:
+Adaptation]**^^:
 Resist harmful effects of other plane.
 
 **[Rest
-Eternal](#rest-eternal)**^M^:
+Eternal]**^M^:
 Dead creature cannot be revived.
 
 **[Spiritual
-Ally](#spiritual-ally)**^^:
+Ally]**^^:
 Creates a divine ally to aid you.
 
 5th-Level Cleric Spells
 -----------------------
 
-**[Cleanse](#cleanse)**^^:
+**[Cleanse]**^^:
 Cures 4d8 damage +1/level (max +25) and also removes several
 afflictions.
 
 **[Ghostbane Dirge,
-Mass](#ghostbane-dirge,-mass)**^^:
+Mass]**^^:
 As *[ghostbane dirge](spells/ghostbaneDirge.html#ghostbane-dirge)*, but
 affects multiple creatures.
 
 **[Life
-Bubble](#life-bubble-)**^^:
+Bubble]**^^:
 Protects creatures from environment.
 
 **[Pillar of
-Life](#pillar-of-life)**^^:
+Life]**^^:
 Created pillar heals 2d8 + 1/level (max +20).
 
 **[Snake
-Staff](#snake-staff)**^^:
+Staff]**^^:
 Transforms staff or other wood into snakes to fight for you.
 
 **[Treasure
-Stitching](#treasure-stitching-)**^M^:
+Stitching]**^M^:
 Objects on cloth become embroidered.
 
 6th-Level Cleric Spells
 -----------------------
 
 **[Planar Adaptation,
-Mass](#planar-adaptation,-mass)**^^:
+Mass]**^^:
 As *[planar
 adaptation](spells/planarAdaptation.html#planar-adaptation)*, but
 affects multiple creatures.
@@ -787,21 +787,21 @@ affects multiple creatures.
 -----------------------
 
 **[Divine
-Vessel](#divine-vessel)**^^:
+Vessel]**^^:
 *(Oracle only.)* Change into a huge, otherworldly creature.
 
 **[Euphoric
-Tranquility](#euphoric-tranquility)**^^:
+Tranquility]**^^:
 Makes a single creature peaceful and friendly.
 
-**[Stormbolts](#stormbolts)**^^:
+**[Stormbolts]**^^:
 1d8 damage/level (max 20d8) to targets.
 
 9th-Level Cleric Spells
 -----------------------
 
 **[Winds of
-Vengeance](#winds-of-vengeance)**^^:
+Vengeance]**^^:
 Grants flight; attack with wind.
 
 Druid Spells
@@ -810,177 +810,177 @@ Druid Spells
 0-Level Druid Spells
 --------------------
 
-**[Spark](#spark-)**^^:
+**[Spark]**^^:
 Ignites flammable objects.
 
 1st-Level Druid Spells
 ----------------------
 
 **[Alter
-Winds](#alter-winds)**^^:
+Winds]**^^:
 Increase/decrease strength of natural winds.
 
 **[Ant
-Haul](#ant-haul-)**^^:
+Haul]**^^:
 Triples carrying capacity of a creature.
 
 **[Aspect of the
-Falcon](#aspect-of-the-falcon)**^^:
-Gives bonuses on [Perception](#perception)
+Falcon]**^^:
+Gives bonuses on [Perception]
 checks and ranged attacks.
 
-**[Bristle](#bristle-)**^^:
+**[Bristle]**^^:
 Trade natural armor bonus for a bonus on attacks with natural weapons.
 
 **[Call
-Animal](#call-animal)**^^:
+Animal]**^^:
 Makes an animal come to you.
 
 **[Cloak of
-Shade](#cloak-of-shade)**^^:
+Shade]**^^:
 Reduces effects of sun exposure and heat.
 
 **[Detect
-Aberration](#detect-aberration)**^^:
+Aberration]**^^:
 Reveals presence of aberrations.
 
 **[Expeditious
-Excavation](#expeditious-excavation)**^^:
+Excavation]**^^:
 Moves 5-ft. cubes of earth.
 
 **[Feather
-Step](#feather-step)**^^:
+Step]**^^:
 Ignore movement penalty in difficult terrain.
 
 **[Flare
-Burst](#flare-burst)**^^:
-As *[flare](#flare)*, but all creatures within 10
+Burst]**^^:
+As *[flare]*, but all creatures within 10
 ft.
 
 **[Hydraulic
-Push](#hydraulic-push-)**^^:
+Push]**^^:
 Wave of water bull rushes an enemy.
 
 **[Keen
-Senses](#keen-senses)**^^:
-Gain +2 [Perception](#perception) and
+Senses]**^^:
+Gain +2 [Perception] and
 low-light vision.
 
 **[Negate
-Aroma](#negate-aroma)**^^:
+Aroma]**^^:
 Subject cannot be tracked by scent.
 
 **[Stone
-Fist](#stone-fist)**^^:
+Fist]**^^:
 Your unarmed strikes are lethal.
 
 **[Touch of the
-Sea](#touch-of-the-sea)**^^:
-[Swim](#swim) speed becomes 30 ft.
+Sea]**^^:
+[Swim] speed becomes 30 ft.
 
 2nd-Level Druid Spells
 ----------------------
 
 **[Accelerate
-Poison](#accelerate-poison)**^^:
+Poison]**^^:
 Hastens targeted poison's onset.
 
 **[Aspect of the
-Bear](#aspect-of-the-bear)**^^:
+Bear]**^^:
 +2 AC and combat maneuver rolls.
 
 **[Burning
-Gaze](#burning-gaze)**^^:
+Gaze]**^^:
 Inflict 1d6 fire damage to creature.
 
 **[Campfire
-Wall](#campfire-wall-)**^^:
+Wall]**^^:
 Creates a shelter around a campfire.
 
 **[Eagle
-Eye](#eagle-eye)**^^:
+Eye]**^^:
 Creates a magical sensor high above you.
 
 **[Elemental
-Speech](#elemental-speech)**^^:
+Speech]**^^:
 Enables you to speak to elementals and some creatures.
 
 **[Feast of
-Ashes](#feast-of-ashes)**^^:
+Ashes]**^^:
 A target starves with an insatiable hunger.
 
-**[Glide](#glide-)**^^:
+**[Glide]**^^:
 You take no falling damage, move 60 ft./round while falling.
 
-**[Lockjaw](#lockjaw)**^^:
+**[Lockjaw]**^^:
 Creature gains grab ability with natural attack.
 
 **[Natural
-Rhythm](#natural-rhythm-)**^^:
+Rhythm]**^^:
 +1 on damage rolls with each hit (max +5).
 
 **[Pox
-Pustules](#pox-pustules)**^^:
+Pustules]**^^:
 Subject is sickened and has –4 Dex.
 
 **[Scent
-Trail](#scent-trail-)**^^:
+Trail]**^^:
 Leave trail for allies to follow.
 
 **[Share
-Language](#share-language-)**^^:
+Language]**^^:
 Subject understands chosen language.
 
-**[Slipstream](#slipstream)**^^:
+**[Slipstream]**^^:
 Wave boosts creature's speed.
 
 **[Stone
-Call](#stone-call)**^^:
+Call]**^^:
 2d6 damage to all creatures in area.
 
 3rd-Level Druid Spells
 ----------------------
 
 **[Aqueous
-Orb](#aqueous-orb)**^^:
+Orb]**^^:
 Creates rolling sphere of water.
 
 **[Cloak of
-Winds](#cloak-of-winds)**^^:
+Winds]**^^:
 Creates screen of strong wind around you.
 
 **[Create Treasure
-Map](#create-treasure-map-)**^M^:
+Map]**^M^:
 Creates treasure map out of a creature's corpse.
 
 **[Cup of
-Dust](#cup-of-dust)**^^:
+Dust]**^^:
 Causes a creature to become dehydrated.
 
 **[Feather Step,
-Mass](#feather-step,-mass)**^^:
+Mass]**^^:
 As *[feather step](spells/featherStep.html#feather-step)*, but multiple
 creatures.
 
 **[Hide
-Campsite](#hide-campsite)**^^:
+Campsite]**^^:
 Hides all traces of your campsite.
 
 **[Hydraulic
-Torrent](#hydraulic-torrent-)**^^:
+Torrent]**^^:
 Creates torrent of water that bull rushes any creature in its path.
 
 **[Lily Pad
-Stride](#lily-pad-stride)**^^:
+Stride]**^^:
 Walk across water on moving lily pads.
 
 **[Nature's
-Exile](#nature's-exile)**^^:
-Gives subject –10 on [Survival](#survival)
+Exile]**^^:
+Gives subject –10 on [Survival]
 checks.
 
 **[Shifting
-Sand](#shifting-sand)**^^:
+Sand]**^^:
 Creates difficult terrain and erases tracks; can carry creatures or
 objects along.
 
@@ -988,111 +988,111 @@ objects along.
 ----------------------
 
 **[Aspect of the
-Stag](#aspect-of-the-stag)**^^:
+Stag]**^^:
 +2 AC against attacks of opportunity and increases speed.
 
 **[Ball
-Lightning](#ball-lightning)**^^:
+Lightning]**^^:
 Flying lightning spheres deal 3d6 electricity damage each.
 
 **[Bloody
-Claws](#bloody-claws)**^^:
+Claws]**^^:
 Causes bleed damage with natural attacks.
 
-**[Geyser](#geyser-)**^^:
+**[Geyser]**^^:
 Creates a geyser of boiling water.
 
 **[Grove of
-Respite](#grove-of-respite)**^^:
+Respite]**^^:
 Creates trees and a small spring.
 
 **[Life
-Bubble](#life-bubble-)**^^:
+Bubble]**^^:
 Protects from environmental effects.
 
-**[Moonstruck](#moonstruck)**^^:
+**[Moonstruck]**^^:
 Subject is enraged and confused.
 
 **[River of
-Wind](#river-of-wind)**^^:
+Wind]**^^:
 Creates wind that causes nonlethal damage and can knock down or push
 creatures.
 
 **[Strong
-Jaw](#strong-jaw)**^^:
+Jaw]**^^:
 Natural attacks damage as two sizes bigger.
 
 **[Thorn
-Body](#thorn-body)**^^:
+Body]**^^:
 Your attackers take 1d6 +1 damage/level.
 
 **[True
-Form](#true-form)**^^:
+Form]**^^:
 Removes polymorph effects.
 
 5th-Level Druid Spells
 ----------------------
 
 **[Aspect of the
-Wolf](#aspect-of-the-wolf)**^^:
+Wolf]**^^:
 +4 Str and Dex, +2 bonus on trip attacks.
 
 **[Blessing of the
-Salamander](#blessing-of-the-salamander)**^^:
+Salamander]**^^:
 Subject gets fast healing 2, fire resistance 10, and +2 to its CMD.
 
 **[Fire
-Snake](#fire-snake)**^^:
+Snake]**^^:
 Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire
 damage/level.
 
 **[Rest
-Eternal](#rest-eternal)**^M^:
+Eternal]**^M^:
 Dead creature cannot be revived.
 
 **[Snake
-Staff](#snake-staff)**^^:
+Staff]**^^:
 Transforms wood into snakes to fight for you.
 
 **[Threefold
-Aspect](#threefold-aspect)**^F^:
+Aspect]**^F^:
 Appear older or younger.
 
 6th-Level Druid Spells
 ----------------------
 
-**[Sirocco](#sirocco)**^^:
+**[Sirocco]**^^:
 Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures
 prone.
 
 **[Swarm
-Skin](#swarm-skin-)**^^:
+Skin]**^^:
 Turns your body into a swarm that can attack.
 
 7th-Level Druid Spells
 ----------------------
 
-**[Rampart](#rampart)**^^:
+**[Rampart]**^^:
 Creates 5-ft.-thick earthen barrier.
 
-**[Vortex](#vortex)**^^:
+**[Vortex]**^^:
 Creates a whirlpool in water.
 
 8th-Level Druid Spells
 ----------------------
 
 **[Euphoric
-Tranquility](#euphoric-tranquility)**^^:
+Tranquility]**^^:
 Makes a creature friendly.
 
-**[Seamantle](#seamantle)**^^:
+**[Seamantle]**^^:
 Sheathes you in protective water.
 
-**[Stormbolts](#stormbolts)**^^:
+**[Stormbolts]**^^:
 1d8 damage/level (max 20d8) to targets.
 
 **[Wall of
-Lava](#wall-of-lava)**^^:
+Lava]**^^:
 Wall damages foes that try to enter, periodically launches lava at
 nearby targets.
 
@@ -1100,18 +1100,18 @@ nearby targets.
 ----------------------
 
 **[Clashing
-Rocks](#clashing-rocks)**^^:
+Rocks]**^^:
 20d6 damage to target creature.
 
-**[Tsunami](#tsunami)**^^:
+**[Tsunami]**^^:
 Huge wave damages and sweeps up all in its path.
 
 **[Winds of
-Vengeance](#winds-of-vengeance)**^^:
+Vengeance]**^^:
 You can fly and attack with wind.
 
 **[World
-Wave](#world-wave-)**^^:
+Wave]**^^:
 Earth or water moves you across distances and damages things not of the
 natural world.
 
@@ -1123,22 +1123,22 @@ Elementalist Wizard Spells
 
 **Air**
 
-**[Message](#message)**^^: Whisper conversation
+**[Message]**^^: Whisper conversation
 at distance.
 
 **Earth**
 
-**[Acid Splash](#acid-splash)**^^: Orb deals
+**[Acid Splash]**^^: Orb deals
 1d3 acid damage.
 
 **Fire**
 
-**[Spark](#spark-)**^^:
+**[Spark]**^^:
 Ignites flammable objects.
 
 **Water**
 
-**[Ray of Frost](#ray-of-frost)**^^: Ray deals
+**[Ray of Frost]**^^: Ray deals
 1d3 cold damage.
 
 1st-Level Elementalist Wizard Spells
@@ -1147,49 +1147,49 @@ Ignites flammable objects.
 **Air**
 
 **[Alter
-Winds](#alter-winds)**^^:
+Winds]**^^:
 Increases/decreases natural wind strength.
 
-**[Feather Fall](#feather-fall)**^^: Objects
+**[Feather Fall]**^^: Objects
 or creatures fall slowly.
 
-**[Shocking Grasp](#shocking-grasp)**^^:
+**[Shocking Grasp]**^^:
 Touch delivers 1d6/level electricity damage (max 5d6).
 
 **Earth**
 
 **[Expeditious
-Excavation](#expeditious-excavation)**^^:
+Excavation]**^^:
 Moves 5-ft. cubes of earth.
 
-**[Grease](#grease)**^^: Makes 10-ft. square or
+**[Grease]**^^: Makes 10-ft. square or
 one object slippery.
 
 **[Stone
-Fist](#stone-fist)**^^:
+Fist]**^^:
 Your unarmed strikes are lethal.
 
 **Fire**
 
-**[Burning Hands](#burning-hands)**^^:
+**[Burning Hands]**^^:
 1d4/level fire damage (max 5d4).
 
 **[Dancing
-Lantern](#dancing-lantern-)**^^:
+Lantern]**^^:
 Animates a lantern that follows you.
 
 **Water**
 
 **[Hydraulic
-Push](#hydraulic-push-)**^^:
+Push]**^^:
 Sudden and powerful wave of water bull rushes an enemy.
 
-**[Obscuring Mist](#obscuring-mist)**^^:
+**[Obscuring Mist]**^^:
 Fog surrounds you.
 
 **[Touch of the
-Sea](#touch-of-the-sea)**^^:
-[Swim](#swim) speed becomes 30 ft.
+Sea]**^^:
+[Swim] speed becomes 30 ft.
 
 2nd-Level Elementalist Wizard Spells
 ------------------------------------
@@ -1197,82 +1197,82 @@ Sea](#touch-of-the-sea)**^^:
 **All**
 
 **[Elemental
-Speech](#elemental-speech)**^^:
+Speech]**^^:
 Enables you to speak to elementals and some creatures.
 
 **[Elemental
-Touch](#elemental-touch)**^^:
+Touch]**^^:
 Gain energy damage touch attack.
 
-**[Resist Energy](#resist-energy)**^^:
+**[Resist Energy]**^^:
 Ignores first 10 (or more) points of damage per attack from specified
 energy type.
 
 **[Summon Monster
-II](#summon-monster-ii)**^^: Summons
+II]**^^: Summons
 elemental creature.
 
 **Air**
 
-**[Glide](#glide-)**^^: No
+**[Glide]**^^: No
 fall damage, move 60 ft./round while falling.
 
-**[Gust of Wind](#gust-of-wind)**^^: Blast of
+**[Gust of Wind]**^^: Blast of
 wind blows away or knocks down creatures.
 
-**[Levitate](#levitate)**^^: Subject moves up
+**[Levitate]**^^: Subject moves up
 and down at your direction.
 
-**[Whispering Wind](#whispering-wind)**^^:
+**[Whispering Wind]**^^:
 Sends a short message 1 mile/level.
 
 **Earth**
 
-**[Acid Arrow](#acid-arrow)**^^: Ranged touch
+**[Acid Arrow]**^^: Ranged touch
 attack; 2d4 damage for 1 round + 1 round/3 levels.
 
 **[Create
-Pit](#create-pit-)**^F^:
+Pit]**^F^:
 Creates an extradimensional pit.
 
-**[Glitterdust](#glitterdust)**^^: Blinds
+**[Glitterdust]**^^: Blinds
 targets, outlines invisible things.
 
-**[Shatter](#shatter)**^^: Sonic energy damages
+**[Shatter]**^^: Sonic energy damages
 objects or creatures composed of crystal.
 
 **[Stone
-Call](#stone-call)**^^:
+Call]**^^:
 2d6 damage to all creatures in area.
 
 **Fire**
 
 **[Burning
-Gaze](#burning-gaze)**^^:
+Gaze]**^^:
 1d6 fire damage to target by looking at it.
 
 **[Fire
-Breath](#fire-breath)**^^:
+Breath]**^^:
 Exhale a cone of flame at will.
 
-**[Flaming Sphere](#flaming-sphere)**^^:
+**[Flaming Sphere]**^^:
 Ball of fire deals 3d6 fire damage.
 
-**[Pyrotechnics](#pyrotechnics)**^^: Turns
+**[Pyrotechnics]**^^: Turns
 fire into light or thick smoke.
 
-**[Scorching Ray](#scorching-ray)**^^:
+**[Scorching Ray]**^^:
 Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3).
 
 **Water**
 
 **[Accelerate
-Poison](#accelerate-poison)**^^:
+Poison]**^^:
 Hastens targeted poison's onset.
 
 **[Fog Cloud]()**^^: Fog obscures vision.
 
-**[Slipstream](#slipstream)**^^:
+**[Slipstream]**^^:
 Wave boosts creature's speed.
 
 3rd-Level Elementalist Wizard Spells
@@ -1281,74 +1281,74 @@ Wave boosts creature's speed.
 **All**
 
 **[Draconic
-Reservoir](#draconic-reservoir-)**^^:
+Reservoir]**^^:
 Subject can absorb energy damage and enhance melee attacks with it.
 
 **[Elemental
-Aura](#elemental-aura)**^^:
+Aura]**^^:
 Creates an aura of energy around you.
 
 **[Protection From
-Energy](#protection-from-energy)**^^:
+Energy]**^^:
 Absorbs 12 points/level of damage from one kind of energy.
 
 **Air**
 
 **[Cloak of
-Winds](#cloak-of-winds)**^^:
+Winds]**^^:
 A screen of strong wind around you.
 
 **[Fly]()**^^: Subject flies at a speed of 60 ft.
 
-**[Gaseous Form](#gaseous-form)**^^: Become
+**[Gaseous Form]**^^: Become
 insubstantial and fly slowly.
 
-**[Lightning Bolt](#lightning-bolt)**^^:
+**[Lightning Bolt]**^^:
 Electricity deals 1d6/level damage.
 
-**[Wind Wall](#wind-wall)**^^: Deflects arrows,
+**[Wind Wall]**^^: Deflects arrows,
 smaller creatures, gasses.
 
 **Earth**
 
 **[Shifting
-Sand](#shifting-sand)**^^:
+Sand]**^^:
 Creates difficult terrain, erases tracks.
 
 **[Spiked
-Pit](#spiked-pit)**^F^:
+Pit]**^F^:
 As *[create pit](spells/createPit.html#create-pit-)*, but filled with
 spikes.
 
-**[Stinking Cloud](#stinking-cloud)**^^:
+**[Stinking Cloud]**^^:
 Nauseating vapors, 1 round/level.
 
 **Fire**
 
 **[Campfire
-Wall](#campfire-wall-)**^^:
+Wall]**^^:
 Creates a shelter around a campfire.
 
-**[Fireball](#fireball)**^^: 1d6 fire damage per
+**[Fireball]**^^: 1d6 fire damage per
 level, 20-ft. radius.
 
-**[Flame Arrow](#flame-arrow)**^^: Arrows deal
+**[Flame Arrow]**^^: Arrows deal
 +1d6 fire damage.
 
 **Water**
 
 **[Aqueous
-Orb](#aqueous-orb)**^^:
+Orb]**^^:
 Creates rolling sphere of water.
 
 **[Hydraulic
-Torrent](#hydraulic-torrent-)**^^:
+Torrent]**^^:
 Creates torrent of water that bull rushes any creature in its path.
 
-**[Sleet Storm](#sleet-storm)**^^: Hampers
+**[Sleet Storm]**^^: Hampers
 vision and movement.
 
-**[Water Breathing](#water-breathing)**^^:
+**[Water Breathing]**^^:
 Subjects can breathe underwater.
 
 4th-Level Elementalist Wizard Spells
@@ -1356,75 +1356,75 @@ Subjects can breathe underwater.
 
 **All**
 
-**[Detonate](#detonate)**^^:
+**[Detonate]**^^:
 1d8/level energy damage to nearby creatures.
 
 **[Dragon's
-Breath](#dragon's-breath)**^^:
+Breath]**^^:
 Gives you a dragon's breath weapon.
 
 **[Elemental Body
-I](#elemental-body-i)**^^: Turns you into a
+I]**^^: Turns you into a
 Small elemental.
 
 **[Summon Monster
-IV](#summon-monster-iv)**^^: Summons
+IV]**^^: Summons
 elemental creature to fight for you.
 
 **Air**
 
 **[Ball
-Lightning](#ball-lightning)**^^:
+Lightning]**^^:
 Flying balls of lightning deal 3d6 electricity damage each.
 
 **[River of
-Wind](#river-of-wind)**^^:
+Wind]**^^:
 A stream of wind causes nonlethal damage and can knock down or push
 creatures.
 
-**[Shout](#shout)**^^: Deafens all within cone, 5d6
+**[Shout]**^^: Deafens all within cone, 5d6
 sonic damage.
 
 **Earth**
 
 **[Acid
-Pit](#acid-pit-)**^M^:
+Pit]**^M^:
 Creates a pit with acid at the bottom.
 
 **[Calcific
-Touch](#calcific-touch)**^^:
+Touch]**^^:
 Touch slows target, 1d4 Dex damage.
 
-**[Stone Shape](#stone-shape)**^^: Sculpts
+**[Stone Shape]**^^: Sculpts
 stone into any shape.
 
-**[Stoneskin](#stoneskin)**^M^: Grants DR
+**[Stoneskin]**^M^: Grants DR
 10/adamantine.
 
 **Fire**
 
-**[Fire Shield](#fire-shield)**^^: Creatures
+**[Fire Shield]**^^: Creatures
 attacking you take fire damage; you're protected from heat or cold.
 
-**[Fire Trap](#fire-trap)**^M^: Opened object
+**[Fire Trap]**^M^: Opened object
 deals 1d4 damage +1/level.
 
-**[Firefall](#firefall)**^^:
+**[Firefall]**^^:
 Fire bursts upward, dealing 2d6 fire damage.
 
-**[Wall of Fire](#wall-of-fire)**^^: 2d4 fire
+**[Wall of Fire]**^^: 2d4 fire
 damage to 10 ft. and 1d4 to 20 ft. Passing through wall deals 2d6 damage
 +1/level.
 
 **Water**
 
-**[Ice Storm](#ice-storm)**^^: Hail deals 5d6
+**[Ice Storm]**^^: Hail deals 5d6
 damage in area 40 ft. across.
 
-**[Solid Fog](#solid-fog)**^^: Blocks vision and
+**[Solid Fog]**^^: Blocks vision and
 slows movement.
 
-**[Wall of Ice](#wall-of-ice)**^^: Ice plane
+**[Wall of Ice]**^^: Ice plane
 creates wall or hemisphere creates dome.
 
 5th-Level Elementalist Wizard Spells
@@ -1433,69 +1433,69 @@ creates wall or hemisphere creates dome.
 **All**
 
 **[Elemental Body
-II](#elemental-body-ii)**^^: You become a
+II]**^^: You become a
 Medium elemental.
 
 **[Planar
-Adaptation](#planar-adaptation)**^^:
+Adaptation]**^^:
 Resist harmful effects of a plane.
 
-**[Planar](#binding),
+**[Planar],
 Lesser**^^: Traps elemental creature of 6 HD or less until it performs a
 task.
 
 **[Summon Monster
-V](#summon-monster-v)**^^: Summons
+V]**^^: Summons
 elemental creature to fight for you.
 
 **Air**
 
-**[Overland Flight](#overland-flight)**^^:
+**[Overland Flight]**^^:
 You fly at a speed of 40 ft. and can hustle over long distances.
 
-**[Suffocation](#suffocation)**^^:
+**[Suffocation]**^^:
 Target quickly suffocates to death.
 
 **Earth**
 
 **[Hungry
-Pit^F^](#hungry-pit-)**^^:
+Pit^F^]**^^:
 As *[create pit](spells/createPit.html#create-pit-)*, but dealing 4d6
 damage to those in it as it closes.
 
-**[Passwall](#passwall)**^^: Creates passage
+**[Passwall]**^^: Creates passage
 through wood or stone wall.
 
 **[Transmute Mud to
-Rock](#transmute-mud-to-rock)**^^: Two
+Rock]**^^: Two
 10-ft. cubes per level.
 
 **[Transmute Rock to
-Mud](#transmute-rock-to-mud)**^^: Two
+Mud]**^^: Two
 10-ft. cubes per level.
 
-**[Wall of Stone](#wall-of-stone)**^^:
+**[Wall of Stone]**^^:
 Creates a stone wall that can be shaped.
 
 **Fire**
 
 **[Fire
-Snake](#fire-snake)**^^:
+Snake]**^^:
 Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire
 damage/level.
 
-**[Geyser](#geyser-)**^^:
+**[Geyser]**^^:
 Creates a geyser of boiling water.
 
 **Water**
 
-**[Cloudkill](#cloudkill)**^^: Kills 3 HD or
+**[Cloudkill]**^^: Kills 3 HD or
 less; 4–6 HD save or die; 6+ HD take Con damage.
 
-**[Cone of Cold](#cone-of-cold)**^^: 1d6/level
+**[Cone of Cold]**^^: 1d6/level
 cold damage.
 
-**[Geyser](#geyser-)**^^:
+**[Geyser]**^^:
 Creates a geyser of boiling water.
 
 6th-Level Elementalist Wizard Spells
@@ -1504,61 +1504,61 @@ Creates a geyser of boiling water.
 **All**
 
 **[Elemental Body
-III](#elemental-body-iii)**^^: Turns you
+III]**^^: Turns you
 into a Large elemental.
 
-**[Planar Binding](#planar-binding)**^^: As
+**[Planar Binding]**^^: As
 *[lesser planar
-binding](#planar-binding-lesser)*, but up
+binding]*, but up
 to 12 HD.
 
 **[Summon Monster
-VI](#summon-monster-vi)**^^: Summons
+VI]**^^: Summons
 elemental creature to fight for you.
 
 **Air**
 
-**[Chain Lightning](#chain-lightning)**^^:
+**[Chain Lightning]**^^:
 1d6/level damage, 1 more bolt/level.
 
-**[Sirocco](#sirocco)**^^:
+**[Sirocco]**^^:
 Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures
 prone.
 
 **Earth**
 
-**[Acid Fog](#acid-fog)**^^: Fog deals acid
+**[Acid Fog]**^^: Fog deals acid
 damage.
 
-**[Flesh to Stone](#flesh-to-stone)**^^:
+**[Flesh to Stone]**^^:
 Turns subject creature into statue.
 
-**[Move Earth](#move-earth)**^^: Digs trenches
+**[Move Earth]**^^: Digs trenches
 and builds hills.
 
-**[Stone to Flesh](#stone-to-flesh)**^^:
+**[Stone to Flesh]**^^:
 Restores petrified creature.
 
-**[Wall of Iron](#wall-of-iron)**^M^: 30
+**[Wall of Iron]**^M^: 30
 hp/four levels; can topple onto foes.
 
 **Fire**
 
 **[Contagious
-Flame](#contagious-flame)**^^:
+Flame]**^^:
 Rays do 4d6 fire damage, then move on to new targets.
 
-**[Sirocco](#sirocco)**^^:
+**[Sirocco]**^^:
 Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures
 prone.
 
 **Water**
 
 **[Fluid
-Form](#fluid-form)**^^:
+Form]**^^:
 Gain DR 10/slashing, increases reach 10 ft., and breathe water.
 
-**[Freezing Sphere](#freezing-sphere)**^^:
+**[Freezing Sphere]**^^:
 Freezes water or deals cold damage.
 
 7th-Level Elementalist Wizard Spells
@@ -1567,55 +1567,55 @@ Freezes water or deals cold damage.
 **All**
 
 **[Elemental Body
-IV](#elemental-body-iv)**^^: Turns you into
+IV]**^^: Turns you into
 a Huge elemental.
 
 **[Planar Adaptation,
-Mass](#planar-adaptation,-mass)**^^:
+Mass]**^^:
 As *[planar
 adaptation](spells/planarAdaptation.html#planar-adaptation)*, but
 affects multiple creatures.
 
 **[Summon Monster
-VII](#summon-monster-vii)**^^: Summons
+VII]**^^: Summons
 elemental creature to fight for you.
 
 **Air**
 
-**[Control Weather](#control-weather)**^^:
+**[Control Weather]**^^:
 Changes weather in local area.
 
 **[Fly,
-Mass](#fly,-mass)**^^: One
+Mass]**^^: One
 creature/level gains ability to fly.
 
 **Earth**
 
-**[Rampart](#rampart)**^^:
+**[Rampart]**^^:
 Creates 5-ft. thick earthen barrier.
 
-**[Reverse Gravity](#reverse-gravity)**^^:
+**[Reverse Gravity]**^^:
 Objects and creatures fall upward.
 
-**[Statue](#statue)**^^: Subject can become a
+**[Statue]**^^: Subject can become a
 statue at will.
 
 **Fire**
 
 **[Delayed Blast
-Fireball](#delayed-blast-fireball)**^^:
+Fireball]**^^:
 1d6/level fire damage; you can postpone blast for up to 5 rounds.
 
-**[Firebrand](#firebrand)**^^:
-Allies gain *[flaming](#weapons-flaming)*
+**[Firebrand]**^^:
+Allies gain *[flaming]*
 weapons, immunity to your fire spells, and a one-use ray of fire attack.
 
 **Water**
 
-**[Control Weather](#control-weather)**^^:
+**[Control Weather]**^^:
 Changes weather in local area.
 
-**[Vortex](#vortex)**^^:
+**[Vortex]**^^:
 Creates a whirlpool in water.
 
 8th-Level Elementalist Wizard Spells
@@ -1623,53 +1623,53 @@ Creates a whirlpool in water.
 
 **All**
 
-**[Planar](#binding),
+**[Planar],
 Greater**^^: As *[lesser planar
-binding](#planar-binding-lesser)*, but up
+binding]*, but up
 to 18 HD.
 
 **[Summon Monster
-VIII](#summon-monster-viii)**^^: Summons
+VIII]**^^: Summons
 elemental creature to fight for you.
 
 **Air**
 
-**[Shout, Greater](#shout-greater)**^^: Devastating
+**[Shout, Greater]**^^: Devastating
 yell deals 10d6 sonic damage; stuns creatures.
 
-**[Stormbolts](#stormbolts)**^^:
+**[Stormbolts]**^^:
 1d8 damage/level (max 20d8) to targets.
 
 **Earth**
 
-**[Iron Body](#iron-body)**^^: Your body becomes
+**[Iron Body]**^^: Your body becomes
 living iron.
 
 **[Wall of
-Lava](#wall-of-lava)**^^:
+Lava]**^^:
 Wall damages foes that try to enter, periodically launches lava at
 nearby targets.
 
 **Fire**
 
 **[Incendiary
-Cloud](#incendiary-cloud)**^^: Deals 6d6
+Cloud]**^^: Deals 6d6
 fire damage/round.
 
 **[Wall of
-Lava](#wall-of-lava)**^^:
+Lava]**^^:
 Wall damages foes that try to enter, periodically launches lava at
 nearby targets.
 
 **Water**
 
-**[Horrid Wilting](#horrid-wilting)**^^:
+**[Horrid Wilting]**^^:
 Deals 1d6/level damage within 30 ft.
 
-**[Polar Ray](#polar-ray)**^^: Ranged touch
+**[Polar Ray]**^^: Ranged touch
 attack deals 1d6/level cold damage and 1d4 points of Dexterity drain.
 
-**[Seamantle](#seamantle)**^^:
+**[Seamantle]**^^:
 Sheathes you in protective water.
 
 9th-Level Elementalist Wizard Spells
@@ -1677,45 +1677,45 @@ Sheathes you in protective water.
 
 **All**
 
-**[Gate](#gate)**^M^: Connects two planes for travel
+**[Gate]**^M^: Connects two planes for travel
 or summoning.
 
 **Air**
 
 **[Suffocation,
-Mass](#suffocation,-mass)**^^:
+Mass]**^^:
 One creature/level suffocates.
 
 **[Winds of
-Vengeance](#winds-of-vengeance)**^^:
+Vengeance]**^^:
 Gives you the ability to fly and attack with wind.
 
 **Earth**
 
 **[Clashing
-Rocks](#clashing-rocks)**^^:
+Rocks]**^^:
 20d6 damage to target creature.
 
 **[World
-Wave](#world-wave-)**^^:
+Wave]**^^:
 Earth moves you across distances.
 
 **Fire**
 
 **[Fiery
-Body](#fiery-body)**^^:
+Body]**^^:
 You gain various fire-related powers.
 
-**[Meteor Swarm](#meteor-swarm)**^^: Four
+**[Meteor Swarm]**^^: Four
 meteors each deal 6d6 fire damage.
 
 **Water**
 
-**[Tsunami](#tsunami)**^^:
+**[Tsunami]**^^:
 Wave damages and sweeps up all in its path.
 
 **[World
-Wave](#world-wave-)**^^:
+Wave]**^^:
 Earth moves you across distances.
 
 Inquisitor Spells
@@ -1724,161 +1724,161 @@ Inquisitor Spells
 0-Level Inquisitor Spells
 -------------------------
 
-**[Brand](#brand)**^^:
+**[Brand]**^^:
 Creates permanent brand on target creature.
 
-**[Sift](#sift)**^^: See
+**[Sift]**^^: See
 area as though examining it.
 
 1st-Level Inquisitor Spells
 ---------------------------
 
 **[Burst
-Bonds](#burst-bonds)**^^:
+Bonds]**^^:
 1d6 damage/level (max 5d6) to restraints.
 
 **[Tireless
-Pursuit](#tireless-pursuit)**^^:
+Pursuit]**^^:
 Ignore fatigue while hustling.
 
-**[Wrath](#wrath)**^^: +1
+**[Wrath]**^^: +1
 attack and damage against target creature.
 
 2nd-Level Inquisitor Spells
 ---------------------------
 
-**[Bloodhound](#bloodhound)**^^:
+**[Bloodhound]**^^:
 Gives caster the scent special ability.
 
-**[Castigate](#castigate)**^^:
+**[Castigate]**^^:
 Causes target to be shaken and cower.
 
-**[Confess](#confess)**^^:
+**[Confess]**^^:
 Creature answers question truthfully or takes 1d6 damage/two levels (max
 5d6).
 
 **[Corruption
-Resistance](#corruption-resistance)**^^:
+Resistance]**^^:
 Protects creature against damage from alignment-based attacks.
 
 **[Flames of the
-Faithful](#flames-of-the-faithful)**^^:
-Gives weapon *[flaming](#weapons-flaming)*
+Faithful]**^^:
+Gives weapon *[flaming]*
 property.
 
 **[Follow
-Aura](#follow-aura)**^^:
+Aura]**^^:
 Gain ability to follow the trail of the aura of an alignment.
 
 **[Ghostbane
-Dirge](#ghostbane-dirge)**^^:
+Dirge]**^^:
 Incorporeal creature takes half damage from nonmagical weapons.
 
 **[Honeyed
-Tongue](#honeyed-tongue)**^^:
-Roll 2 dice when using [Diplomacy](#diplomacy),
+Tongue]**^^:
+Roll 2 dice when using [Diplomacy],
 take higher roll.
 
 **[Perceive
-Cues](#perceive-cues)**^^:
-+5 [Perception](#perception) and [Sense
-Motive](#sense-motive) 10 min./level.
+Cues]**^^:
++5 [Perception] and [Sense
+Motive] 10 min./level.
 
 **[Sacred
-Bond](#sacred-bond)**^F^:
+Bond]**^F^:
 Cast touch healing spells from a distance.
 
 **[Weapon of
-Awe](#weapon-of-awe)**^^:
+Awe]**^^:
 Weapon gets +2 on damage rolls.
 
 3rd-Level Inquisitor Spells
 ---------------------------
 
 **[Banish
-Seeming](#banish-seeming)**^^:
+Seeming]**^^:
 Dispels touched illusion or a creature's change in form.
 
 **[Blood
-Biography](#blood-biography-)**^^:
+Biography]**^^:
 Learn about a creature and how it became wounded by examining its blood.
 
 **[Cast
-Out](#cast-out)**^^:
+Out]**^^:
 Does 2d8 damage +1/level (max +15) to creature and dispels an effect.
 
 **[Coordinated
-Effort](#coordinated-effort)**^^:
+Effort]**^^:
 Grants allies a teamwork feat.
 
-**[Fester](#fester)**^^:
+**[Fester]**^^:
 Gives subject SR 12 + your level vs. healing effects.
 
 **[Hidden
-Speech](#hidden-speech)**^^:
-Gain +10 on [Bluff](#bluff) to send secret
+Speech]**^^:
+Gain +10 on [Bluff] to send secret
 messages.
 
 **[Hunter's
-Eye](#hunter's-eye)**^^:
-+20 on [Perception](#perception) checks to
+Eye]**^^:
++20 on [Perception] checks to
 locate a target.
 
-**[Retribution](#retribution)**^^:
+**[Retribution]**^^:
 Recent attacker is afflicted with penalties.
 
 **[Righteous
-Vigor](#righteous-vigor)**^^:
+Vigor]**^^:
 Boosts attack bonus with each hit.
 
 **[Seek
-Thoughts](#seek-thoughts)**^^:
+Thoughts]**^^:
 Detects thinking creatures' thoughts.
 
 **[Ward the
-Faithful](#ward-the-faithful)**^^:
+Faithful]**^^:
 Creatures of same faith gain bonuses to AC and on saving throws.
 
 4th-Level Inquisitor Spells
 ---------------------------
 
 **[Brand,
-Greater](#brand,-greater)**^^:
+Greater]**^^:
 As *[brand](spells/brand.html#brand)*, but brand glows when near your
 holy symbol.
 
 **[Coward's
-Lament](#coward's-lament)**^^:
+Lament]**^^:
 If subject doesn't attack you it receives a penalty.
 
 **[Defile
-Armor](#defile-armor)**^^:
+Armor]**^^:
 As *[sanctify armor](spells/sanctifyArmor.html#sanctify-armor)*, but
 gain DR 5/good when using judgment or smite.
 
-**[Denounce](#denounce)**^^:
+**[Denounce]**^^:
 Worsens creatures' attitudes.
 
 **[Forced
-Repentance](#forced-repentance)**^^:
+Repentance]**^^:
 Target falls prone and confesses all of its sins.
 
-**[Rebuke](#rebuke)**^^:
+**[Rebuke]**^^:
 Foes take 1d8 damage/two caster levels (max 5d8).
 
 **[Sanctify
-Armor](#sanctify-armor)**^^:
+Armor]**^^:
 +1 AC/four levels (max +5).
 
 **[Shared
-Wrath](#shared-wrath)**^^:
+Wrath]**^^:
 As *[wrath](spells/wrath.html#wrath)*, but affects multiple creatures.
 
-**[Sleepwalk](#sleepwalk)**^M^:
+**[Sleepwalk]**^M^:
 Causes creature to move while asleep.
 
 **[Tireless
-Pursuers](#tireless-pursuers)**^^:
+Pursuers]**^^:
 As *[tireless pursuit](spells/tirelessPursuit.html#tireless-pursuit)*,
 but affects multiple creatures.
 
@@ -1886,32 +1886,32 @@ but affects multiple creatures.
 ---------------------------
 
 **[Castigate,
-Mass](#castigate,-mass)**^^:
+Mass]**^^:
 As *[castigate](spells/castigate.html#castigate)*, but affects multiple
 creatures.
 
 **[Ghostbane Dirge,
-Mass](#ghostbane-dirge,-mass)**^^:
+Mass]**^^:
 As *[ghostbane dirge](spells/ghostbaneDirge.html#ghostbane-dirge)*, but
 affects multiple creatures.
 
 **[Resounding
-Blow](#resounding-blow)**^^:
+Blow]**^^:
 Melee attack deals 1d6 more damage.
 
 **[Unwilling
-Shield](#unwilling-shield)**^M^:
+Shield]**^M^:
 Subject shares wounds you receive.
 
 6th-Level Inquisitor Spells
 ---------------------------
 
-**[Cleanse](#cleanse)**^^:
-As *[heal](#heal)*, but only cures 4d8 damage
+**[Cleanse]**^^:
+As *[heal]*, but only cures 4d8 damage
 +1/level (max +25).
 
 **[Fester,
-Mass](#fester,-mass)**^^:
+Mass]**^^:
 As *[fester](spells/fester.html#fester)*, but affecting multiple
 targets.
 
@@ -1922,157 +1922,157 @@ Paladin Spells
 ------------------------
 
 **[Challenge
-Evil](#challenge-evil)**^^:
+Evil]**^^:
 Sickens creature if it refuses to fight you.
 
 **[Ghostbane
-Dirge](#ghostbane-dirge)**^^:
+Dirge]**^^:
 Incorporeal creature takes half damage from nonmagical weapons.
 
-**[Grace](#grace)**^^:
+**[Grace]**^^:
 Movement doesn't provoke attacks of opportunity.
 
 **[Hero's
-Defiance](#hero's-defiance)**^^:
+Defiance]**^^:
 Allows the use of lay on hands while falling unconscious.
 
 **[Honeyed
-Tongue](#honeyed-tongue)**^^:
-Roll 2 dice when using [Diplomacy](#diplomacy),
+Tongue]**^^:
+Roll 2 dice when using [Diplomacy],
 take higher roll.
 
 **[Knight's
-Calling](#knight's-calling)**^^:
+Calling]**^^:
 Forces target to move toward you and fight you.
 
 **[Rally
-Point](#rally-point-)**^^:
+Point]**^^:
 Square gives good creatures bonuses.
 
 **[Veil of Positive
-Energy](#veil-of-positive-energy)**^^:
+Energy]**^^:
 +2 AC, +2 on saves vs. undead.
 
 2nd-Level Paladin Spells
 ------------------------
 
 **[Aura of Greater
-Courage](#aura-of-greater-courage)**^^:
+Courage]**^^:
 Increases strength of a paladin's aura of courage.
 
 **[Bestow
-Grace](#bestow-grace)**^^:
+Grace]**^^:
 Subject gains bonus on saving throws equal to Cha modifier.
 
 **[Blessing of Courage and
-Life](#blessing-of-courage-and-life)**^^:
+Life]**^^:
 Grants a +2 bonus on saves vs. fear and death.
 
 **[Corruption
-Resistance](#corruption-resistance)**^^:
+Resistance]**^^:
 Protects creature against damage from alignment-based attacks.
 
 **[Fire of
-Entanglement](#fire-of-entanglement)**^^:
+Entanglement]**^^:
 Your ability to smite evil also entangles your foe.
 
 **[Instant
-Armor](#instant-armor-)**^^:
+Armor]**^^:
 Summon armor temporarily replacing your current attire.
 
 **[Light
-Lance](#light-lance-)**^^:
+Lance]**^^:
 Creates a soaring beacon of light.
 
 **[Paladin's
-Sacrifice](#paladin's-sacrifice)**^^:
+Sacrifice]**^^:
 Take the damage and effects for another creature.
 
 **[Righteous
-Vigor](#righteous-vigor)**^^:
+Vigor]**^^:
 Boosts attack bonus with each hit.
 
 **[Sacred
-Bond](#sacred-bond)**^F^:
+Bond]**^F^:
 Cast touch healing spells from a distance.
 
 **[Saddle
-Surge](#saddle-surge-)**^^:
+Surge]**^^:
 Bonus damage for moving on mount.
 
 **[Wake of
-Light](#wake-of-light-)**^^:
+Light]**^^:
 Magical trail aids good creatures, hinders evil ones.
 
 **[Weapon of
-Awe](#weapon-of-awe)**^^:
+Awe]**^^:
 Weapon gets +2 on damage rolls.
 
 3rd-Level Paladin Spells
 ------------------------
 
 **[Divine
-Transfer](#divine-transfer)**^^:
+Transfer]**^^:
 Transfer hit points and give DR/evil to target creature.
 
 **[Fire of
-Judgment](#fire-of-judgment)**^^:
+Judgment]**^^:
 Smited creature takes damage when it attacks.
 
 **[Ghostbane Dirge,
-Mass](#ghostbane-dirge,-mass)**^^:
+Mass]**^^:
 As *[ghostbane dirge](spells/ghostbaneDirge.html#ghostbane-dirge)*, but
 affects multiple creatures.
 
 **[Holy
-Whisper](#holy-whisper)**^^:
+Whisper]**^^:
 Whisper sickens evil creatures, gives good creatures bonuses.
 
 **[Marks of
-Forbiddance](#marks-of-forbiddance)**^^:
+Forbiddance]**^^:
 Makes 2 creatures pass Will saves in order to attack each other.
 
 **[Sanctify
-Armor](#sanctify-armor)**^^:
+Armor]**^^:
 +1 AC/four levels (max +5).
 
 **[Wrathful
-Mantle](#wrathful-mantle)**^^:
+Mantle]**^^:
 Subject shines and gets +1/four levels on all saves.
 
 4th-Level Paladin Spells
 ------------------------
 
 **[Blaze of
-Glory](#blaze-of-glory-)**^^:
+Glory]**^^:
 Last stand cures good creatures, hurts evil.
 
 **[Fire of
-Vengeance](#fire-of-vengeance)**^^:
+Vengeance]**^^:
 Smited creature takes 3d8 damage.
 
 **[Forced
-Repentance](#forced-repentance)**^^:
+Repentance]**^^:
 Target falls prone and confesses sins.
 
 **[King's
-Castle](#king's-castle)**^^:
+Castle]**^^:
 Instantly switch places with a single ally.
 
 **[Oath of
-Peace](#oath-of-peace)**^^:
+Peace]**^^:
 Grants +5 AC and DR 10/evil, can't attack.
 
 **[Resounding
-Blow](#resounding-blow)**^^:
+Blow]**^^:
 Melee attack deals 1d6 more damage.
 
 **[Sacrificial
-Oath](#sacrificial-oath)**^^:
+Oath]**^^:
 Take damage for an ally for many rounds.
 
 **[Stay the
-Hand](#stay-the-hand)**^^:
+Hand]**^^:
 Subject cannot attack with melee weapon.
 
 Ranger Spells
@@ -2082,200 +2082,200 @@ Ranger Spells
 -----------------------
 
 **[Ant
-Haul](#ant-haul-)**^^:
+Haul]**^^:
 Triples carrying capacity of a creature.
 
 **[Aspect of the
-Falcon](#aspect-of-the-falcon)**^^:
-Gives bonuses on [Perception](#perception) and
+Falcon]**^^:
+Gives bonuses on [Perception] and
 ranged attacks.
 
 **[Call
-Animal](#call-animal)**^^:
+Animal]**^^:
 Makes an animal come to you.
 
 **[Cloak of
-Shade](#cloak-of-shade)**^^:
+Shade]**^^:
 Reduces effects of intense sun exposure and environmental heat.
 
 **[Dancing
-Lantern](#dancing-lantern-)**^^:
+Lantern]**^^:
 Animates a lantern that follows you.
 
 **[Detect
-Aberration](#detect-aberration)**^^:
+Aberration]**^^:
 Detect presence of aberrations.
 
 **[Feather
-Step](#feather-step)**^^:
+Step]**^^:
 Subject ignores adverse movement effects in difficult terrain.
 
-**[Glide](#glide-)**^^: No
+**[Glide]**^^: No
 fall damage, move 60 ft./round while falling.
 
 **[Gravity
-Bow](#gravity-bow-)**^^:
+Bow]**^^:
 Arrows do damage as though one size category bigger.
 
 **[Hunter's
-Howl](#hunter's-howl)**^^:
+Howl]**^^:
 Treat enemies as favored for 1 round/level.
 
 **[Keen
-Senses](#keen-senses)**^^:
-Subject gains +2 [Perception](#perception),
+Senses]**^^:
+Subject gains +2 [Perception],
 low-light vision.
 
 **[Lead
-Blades](#lead-blades-)**^^:
+Blades]**^^:
 Melee weapons damage as if one size bigger.
 
 **[Negate
-Aroma](#negate-aroma)**^^:
+Aroma]**^^:
 Subject cannot be tracked by scent.
 
 **[Residual
-Tracking](#residual-tracking)**^^:
+Tracking]**^^:
 Tell creature's appearance by footprint.
 
 **[Tireless
-Pursuit](#tireless-pursuit)**^^:
+Pursuit]**^^:
 Ignore fatigue while hustling.
 
 2nd-Level Ranger Spells
 -----------------------
 
 **[Accelerate
-Poison](#accelerate-poison)**^^:
+Poison]**^^:
 Hastens targeted poison's onset.
 
-**[Allfood](#allfood-)**^^:
+**[Allfood]**^^:
 Turns item up to 5 lbs./level into food.
 
 **[Arrow
-Eruption](#arrow-eruption-)**^^:
+Eruption]**^^:
 Creates duplicates of an arrow used to kill a creature in the previous
 round.
 
 **[Aspect of the
-Bear](#aspect-of-the-bear)**^^:
+Bear]**^^:
 +2 AC and combat maneuver rolls.
 
-**[Bloodhound](#bloodhound)**^^:
+**[Bloodhound]**^^:
 Gives caster the scent special ability.
 
 **[Campfire
-Wall](#campfire-wall-)**^^:
+Wall]**^^:
 Creates a shelter around a campfire.
 
 **[Chameleon
-Stride](#chameleon-stride)**^^:
-Gives a +4 bonus on [Stealth](#stealth) checks
+Stride]**^^:
+Gives a +4 bonus on [Stealth] checks
 and concealment.
 
 **[Create Treasure
-Map](#create-treasure-map-)**^M^:
+Map]**^M^:
 Creates treasure map out of a creature's corpse.
 
 **[Eagle
-Eye](#eagle-eye)**^^:
+Eye]**^^:
 Creates a magical sensor high above you.
 
 **[Guiding
-Star](#guiding-star-)**^^:
+Star]**^^:
 Know approximate distance from where you cast this spell.
 
 **[Hide
-Campsite](#hide-campsite)**^^:
+Campsite]**^^:
 Hides all traces of your campsite.
 
 **[Hunter's
-Eye](#hunter's-eye)**^^:
-+20 on [Perception](#perception) checks to
+Eye]**^^:
++20 on [Perception] checks to
 locate a target.
 
-**[Lockjaw](#lockjaw)**^^:
+**[Lockjaw]**^^:
 Gives creature grab ability with a natural attack.
 
 **[Perceive
-Cues](#perceive-cues)**^^:
-+5 [Perception](#perception) and [Sense
-Motive](#sense-motive) 10 min./level.
+Cues]**^^:
++5 [Perception] and [Sense
+Motive] 10 min./level.
 
 **[Protective
-Spirit](#protective-spirit)**^^:
+Spirit]**^^:
 Protects from attacks of opportunity.
 
-**[Slipstream](#slipstream)**^^:
+**[Slipstream]**^^:
 Wave boosts creature's speed.
 
 **[Stone
-Call](#stone-call)**^^:
+Call]**^^:
 2d6 damage to all creatures in area.
 
 **[Versatile
-Weapon](#versatile-weapon)**^^:
+Weapon]**^^:
 Weapon bypasses some DR.
 
 3rd-Level Ranger Spells
 -----------------------
 
 **[Aspect of the
-Stag](#aspect-of-the-stag)**^^:
+Stag]**^^:
 +2 AC against attacks of opportunity and increases speed.
 
 **[Bloody
-Claws](#bloody-claws)**^^:
+Claws]**^^:
 Gives creature the ability to deal bleed damage with natural attacks.
 
 **[Cloak of
-Winds](#cloak-of-winds)**^^:
+Winds]**^^:
 Creates a whirling screen of strong wind around you.
 
 **[Feather Step,
-Mass](#feather-step,-mass)**^^:
+Mass]**^^:
 As *[feather step](spells/featherStep.html#feather-step)*, but affects
 many targets rather than one.
 
 **[Instant
-Enemy](#instant-enemy)**^^:
+Enemy]**^^:
 Target is treated as a favored enemy type of your choice.
 
 **[Life
-Bubble](#life-bubble-)**^^:
+Bubble]**^^:
 Protects creatures from sustained environmental effects.
 
 **[Strong
-Jaw](#strong-jaw)**^^:
+Jaw]**^^:
 Natural attacks damage as two sizes bigger.
 
 **[Tireless
-Pursuers](#tireless-pursuers)**^^:
+Pursuers]**^^:
 As *[tireless pursuit](spells/tirelessPursuit.html#tireless-pursuit)*,
 but affects many targets rather than one.
 
 **[Venomous
-Bolt](#venomous-bolt)**^^:
+Bolt]**^^:
 Arrow or bolt poisons target.
 
 4th-Level Ranger Spells
 -----------------------
 
 **[Aspect of the
-Wolf](#aspect-of-the-wolf)**^^:
+Wolf]**^^:
 Subject gains +4 Str and Dex, and +2 bonus on trip attacks.
 
 **[Blessing of the
-Salamander](#blessing-of-the-salamander)**^^:
+Salamander]**^^:
 Subject gets fast healing 2, fire resistance 10, +2 CMD.
 
 **[Bow
-Spirit](#bow-spirit)**^^:
+Spirit]**^^:
 Summons an invisible spirit that fires your arrows for you as a swift
 action.
 
 **[Grove of
-Respite](#grove-of-respite)**^^:
+Respite]**^^:
 Creates trees and a small spring.
 
 Sorcerer/Wizard Spells
@@ -2284,363 +2284,363 @@ Sorcerer/Wizard Spells
 0-Level Sorcerer/Wizard Spells
 ------------------------------
 
-**[Spark](#spark-)**^^:
+**[Spark]**^^:
 Ignites flammable objects.
 
 1st-Level Sorcerer/Wizard Spells
 --------------------------------
 
 **[Alter
-Winds](#alter-winds)**^^:
+Winds]**^^:
 Increase/decrease strength of natural winds.
 
 **[Ant
-Haul](#ant-haul-)**^^:
+Haul]**^^:
 Triples carrying capacity of a creature.
 
-**[Break](#break-)**^^:
+**[Break]**^^:
 Gives an object the broken condition.
 
 **[Crafter's
-Curse](#crafter's-curse)**^^:
-Subject takes –5 on [Craft](#craft) skill checks.
+Curse]**^^:
+Subject takes –5 on [Craft] skill checks.
 
 **[Crafter's
-Fortune](#crafter's-fortune)**^^:
-Subject gains +5 on next [Craft](#craft) check.
+Fortune]**^^:
+Subject gains +5 on next [Craft] check.
 
 **[Dancing
-Lantern](#dancing-lantern-)**^^:
+Lantern]**^^:
 Animates a lantern that follows you.
 
 **[Expeditious
-Excavation](#expeditious-excavation)**^^:
+Excavation]**^^:
 Moves 5-ft. cubes of earth.
 
 **[Flare
-Burst](#flare-burst)**^^:
-As *[flare](#flare)*, but affects all creatures in
+Burst]**^^:
+As *[flare]*, but affects all creatures in
 10 ft.
 
 **[Gravity
-Bow](#gravity-bow-)**^^:
+Bow]**^^:
 Arrows do damage as though one size category bigger.
 
 **[Hydraulic
-Push](#hydraulic-push-)**^^:
+Push]**^^:
 Wave of water bull rushes an enemy.
 
 **[Memory
-Lapse](#memory-lapse)**^^:
+Lapse]**^^:
 Subject forgets events back to last turn.
 
 **[Sculpt
-Corpse](#sculpt-corpse-)**^^:
+Corpse]**^^:
 Makes corpse look like another creature.
 
 **[Stone
-Fist](#stone-fist)**^^:
+Fist]**^^:
 Your unarmed strikes are lethal.
 
 **[Stumble
-Gap](#stumble-gap-)**^F^:
+Gap]**^F^:
 Small hole trips creatures.
 
 **[Touch of
-Gracelessness](#touch-of-gracelessness)**^^:
+Gracelessness]**^^:
 Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
 
 **[Touch of the
-Sea](#touch-of-the-sea)**^^:
-[Swim](#swim) speed becomes 30 ft.
+Sea]**^^:
+[Swim] speed becomes 30 ft.
 
-**[Vanish](#vanish)**^^:
-As *[invisibility](#invisibility)* for 1
+**[Vanish]**^^:
+As *[invisibility]* for 1
 round/level (5 max).
 
 2nd-Level Sorcerer/Wizard Spells
 --------------------------------
 
 **[Accelerate
-Poison](#accelerate-poison)**^^:
+Poison]**^^:
 Hastens targeted poison's onset.
 
 **[Arrow
-Eruption](#arrow-eruption-)**^^:
+Eruption]**^^:
 Creates duplicates of killing arrow.
 
 **[Burning
-Gaze](#burning-gaze)**^^:
+Gaze]**^^:
 Inflict 1d6 fire damage to creature by looking at it.
 
 **[Create
-Pit](#create-pit-)**^F^:
+Pit]**^F^:
 Creates an extradimensional pit.
 
 **[Create Treasure
-Map](#create-treasure-map-)**^M^:
+Map]**^M^:
 Creates treasure map out of a creature's corpse.
 
 **[Dust of
-Twilight](#dust-of-twilight)**^^:
+Twilight]**^^:
 Black particles extinguish light sources within area.
 
 **[Elemental
-Speech](#elemental-speech)**^^:
+Speech]**^^:
 Enables you to speak to elementals and some creatures.
 
 **[Elemental
-Touch](#elemental-touch)**^^:
+Touch]**^^:
 Gain energy damage touch attack.
 
 **[Fire
-Breath](#fire-breath)**^^:
+Breath]**^^:
 Exhale a cone of flame at will.
 
-**[Glide](#glide-)**^^:
+**[Glide]**^^:
 You take no falling damage, move 60 ft./round while falling.
 
 **[Share
-Language](#share-language-)**^^:
+Language]**^^:
 Subject understands chosen language.
 
-**[Slipstream](#slipstream)**^^:
+**[Slipstream]**^^:
 Wave boosts creature's speed.
 
 **[Stone
-Call](#stone-call)**^^:
+Call]**^^:
 2d6 damage to all creatures in area.
 
 3rd-Level Sorcerer/Wizard Spells
 --------------------------------
 
 **[Aqueous
-Orb](#aqueous-orb)**^^:
+Orb]**^^:
 Creates rolling sphere of water.
 
 **[Blood
-Biography](#blood-biography-)**^^:
+Biography]**^^:
 Learn about a creature with its blood.
 
 **[Campfire
-Wall](#campfire-wall-)**^^:
+Wall]**^^:
 Creates a shelter around a campfire.
 
 **[Cloak of
-Winds](#cloak-of-winds)**^^:
+Winds]**^^:
 Creates a screen of wind around you.
 
-**[Devolution](#devolution)**^^:
+**[Devolution]**^^:
 Target eidolon temporarily loses 1 evolution +1/five levels.
 
 **[Draconic
-Reservoir](#draconic-reservoir-)**^^:
+Reservoir]**^^:
 Subject can absorb energy damage and enhance melee attacks with it.
 
 **[Elemental
-Aura](#elemental-aura)**^^:
+Aura]**^^:
 Creates an aura of energy around you.
 
 **[Enter
-Image](#enter-image-)**^^:
+Image]**^^:
 Transfers your consciousness to an object bearing your likeness.
 
 **[Hydraulic
-Torrent](#hydraulic-torrent-)**^^:
+Torrent]**^^:
 Creates torrent of water that bull rushes any creature in its path.
 
 **[Pain
-Strike](#pain-strike)**^^:
+Strike]**^^:
 Inflicts 1d6 nonlethal damage 1 round/level.
 
 **[Seek
-Thoughts](#seek-thoughts)**^^:
+Thoughts]**^^:
 Detects thinking creatures' thoughts.
 
 **[Shifting
-Sand](#shifting-sand)**^^:
+Sand]**^^:
 Creates difficult terrain and erases tracks, can carry along some
 creatures and objects.
 
 **[Spiked
-Pit](#spiked-pit)**^F^:
+Pit]**^F^:
 As *[create pit](spells/createPit.html#create-pit-)*, but filled with
 spikes.
 
 **[Twilight
-Knife](#twilight-knife-)**^^:
+Knife]**^^:
 Floating knife attacks with you.
 
 **[Versatile
-Weapon](#versatile-weapon)**^^:
+Weapon]**^^:
 Weapon bypasses some DR.
 
 4th-Level Sorcerer/Wizard Spells
 --------------------------------
 
 **[Acid
-Pit](#acid-pit-)**^F^:
+Pit]**^F^:
 Creates a pit with a layer of acid on the bottom.
 
 **[Ball
-Lightning](#ball-lightning)**^^:
+Lightning]**^^:
 Flying balls of lightning deal 3d6 electricity damage each.
 
 **[Calcific
-Touch](#calcific-touch)**^^:
+Touch]**^^:
 Touch attack slows target, 1d4 Dex damage.
 
-**[Detonate](#detonate)**^M^:
+**[Detonate]**^M^:
 Inflicts 1d8/level energy damage to all creatures within 15 ft.
 
 **[Dragon's
-Breath](#dragon's-breath)**^^:
+Breath]**^^:
 Gives you a dragon's breath weapon.
 
-**[Firefall](#firefall)**^^:
+**[Firefall]**^^:
 Causes fire to burst up, dealing 2d6 fire damage.
 
-**[Moonstruck](#moonstruck)**^^:
+**[Moonstruck]**^^:
 Subject is enraged and confused.
 
 **[River of
-Wind](#river-of-wind)**^^:
+Wind]**^^:
 A stream of wind causes nonlethal damage and can knock down or push
 creatures.
 
 **[Shadow
-Projection](#shadow-projection)**^^:
+Projection]**^^:
 Temporarily become a shadow.
 
 **[Share
-Senses](#share-senses)**^^:
+Senses]**^^:
 See/hear/smell what your familiar is.
 
 **[True
-Form](#true-form)**^^:
+Form]**^^:
 Removes polymorph effects.
 
 **[Wandering Star
-Motes](#wandering-star-motes)**^^:
+Motes]**^^:
 Outlines subject and produces light as a sunrod.
 
 5th-Level Sorcerer/Wizard Spells
 --------------------------------
 
 **[Fire
-Snake](#fire-snake)**^^:
+Snake]**^^:
 Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire
 damage/level.
 
-**[Geyser](#geyser-)**^^:
+**[Geyser]**^^:
 Creates a geyser of boiling water.
 
 **[Hungry
-Pit^F^](#hungry-pit-)**^^:
+Pit^F^]**^^:
 As *[create pit](spells/createPit.html#create-pit-)*, but dealing 4d6
 damage to those in it as it closes.
 
 **[Life
-Bubble](#life-bubble-)**^^:
+Bubble]**^^:
 Protects creatures from sustained environmental effects.
 
 **[Pain Strike,
-Mass](#pain-strike,-mass)**^^:
+Mass]**^^:
 As *pain*, but affects multiple creatures.
 
 **[Phantasmal
-Web](#phantasmal-web)**^^:
+Web]**^^:
 Catches subjects in illusory web.
 
 **[Planar
-Adaptation](#planar-adaptation)**^^:
+Adaptation]**^^:
 Resist harmful effects of other plane.
 
-**[Suffocation](#suffocation)**^^:
+**[Suffocation]**^^:
 Target quickly suffocates to death.
 
 **[Treasure
-Stitching](#treasure-stitching-)**^M^:
+Stitching]**^M^:
 Objects on cloth become embroidered.
 
 6th-Level Sorcerer/Wizard Spells
 --------------------------------
 
 **[Cloak of
-Dreams](#cloak-of-dreams)**^^:
+Dreams]**^^:
 Creatures within 5 ft. fall asleep.
 
 **[Contagious
-Flame](#contagious-flame)**^^:
+Flame]**^^:
 Scorching rays cause 4d6 fire damage, then move on to new targets.
 
 **[Enemy
-Hammer](#enemy-hammer-)**^^:
+Hammer]**^^:
 Allows you to telekinetically use a creature as a weapon.
 
 **[Fluid
-Form](#fluid-form)**^^:
+Form]**^^:
 Gain DR 10/slashing, increases reach 10 ft., and breathe water.
 
-**[Getaway](#getaway-)**^^:
+**[Getaway]**^^:
 Teleports you and select creatures to predetermined location.
 
-**[Sirocco](#sirocco)**^^:
+**[Sirocco]**^^:
 Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures
 prone.
 
 **[Unwilling
-Shield](#unwilling-shield)**^M^:
+Shield]**^M^:
 Subject shares wounds you receive.
 
 7th-Level Sorcerer/Wizard Spells
 --------------------------------
 
-**[Deflection](#deflection-)**^^:
+**[Deflection]**^^:
 Attacks that miss are redirected back to the source of the attack.
 
-**[Expend](#expend-)**^^:
+**[Expend]**^^:
 Wastes creatures' limited use magical ability.
 
-**[Firebrand](#firebrand)**^^:
-Allies gain *[flaming](#weapons-flaming)*
+**[Firebrand]**^^:
+Allies gain *[flaming]*
 weapons, immunity to your fire spells, and a one-use ray of fire attack.
 
 **[Fly,
-Mass](#fly,-mass)**^^: One
+Mass]**^^: One
 creature/level gains ability to fly.
 
 **[Phantasmal
-Revenge](#phantasmal-revenge)**^^:
+Revenge]**^^:
 Ghost from corpse hunts killer.
 
 **[Planar Adaptation,
-Mass](#planar-adaptation,-mass)**^^:
+Mass]**^^:
 As *[planar
 adaptation](spells/planarAdaptation.html#planar-adaptation)*, but
 affects multiple creatures.
 
-**[Rampart](#rampart)**^^:
+**[Rampart]**^^:
 Creates 5-ft.-thick earthen barrier.
 
-**[Vortex](#vortex)**^^:
+**[Vortex]**^^:
 Creates a whirlpool in water.
 
 8th-Level Sorcerer/Wizard Spells
 --------------------------------
 
 **[Euphoric
-Tranquility](#euphoric-tranquility)**^^:
+Tranquility]**^^:
 Makes a creature friendly.
 
-**[Seamantle](#seamantle)**^^:
+**[Seamantle]**^^:
 Sheathes you in protective water.
 
-**[Stormbolts](#stormbolts)**^^:
+**[Stormbolts]**^^:
 1d8 damage/level (max 20d8) to targets.
 
 **[Wall of
-Lava](#wall-of-lava)**^^:
+Lava]**^^:
 Wall damages foes that try to enter, periodically launches lava at
 nearby targets.
 
@@ -2648,30 +2648,30 @@ nearby targets.
 --------------------------------
 
 **[Clashing
-Rocks](#clashing-rocks)**^^:
+Rocks]**^^:
 20d6 damage to target creature.
 
 **[Fiery
-Body](#fiery-body)**^^:
+Body]**^^:
 You gain various fire-related powers.
 
 **[Suffocation,
-Mass](#suffocation,-mass)**^^:
+Mass]**^^:
 One creature/level suffocates to death.
 
-**[Tsunami](#tsunami)**^^:
+**[Tsunami]**^^:
 Huge wave damages and sweeps up all in its path.
 
 **[Wall of
-Suppression](#wall-of-suppression-)**^M^:
+Suppression]**^M^:
 Creates wall that disables magic.
 
 **[Winds of
-Vengeance](#winds-of-vengeance)**^^:
+Vengeance]**^^:
 Gives you the ability to fly and attack with wind.
 
 **[World
-Wave](#world-wave-)**^^:
+Wave]**^^:
 Earth moves you across distances.
 
 Summoner Spells
@@ -2681,60 +2681,60 @@ Summoner Spells
 -------------------------
 
 **[Ant
-Haul](#ant-haul-)**^^:
+Haul]**^^:
 Triples carrying capacity of a creature.
 
 **[Rejuvenate Eidolon,
-Lesser](#rejuvenate-eidolon,-lesser)**^^:
+Lesser]**^^:
 Eidolon cured 1d10 damage +1/level (max +5).
 
-**[Unfetter](#unfetter)**^^:
+**[Unfetter]**^^:
 Remove distance restriction on eidolon.
 
 2nd-Level Summoner Spells
 -------------------------
 
 **[Create
-Pit](#create-pit-)**^F^:
+Pit]**^F^:
 Creates an extradimensional pit.
 
 **[Evolution Surge,
-Lesser](#evolution-surge,-lesser)**^^:
+Lesser]**^^:
 Grants eidolon an evolution with 2 evolution points.
 
-**[Glide](#glide-)**^^:
+**[Glide]**^^:
 You take no falling damage and move 60 ft./round while falling.
 
 **[Summon
-Eidolon](#summon-eidolon)**^^:
+Eidolon]**^^:
 Instantly summons your eidolon for duration of spell.
 
 3rd-Level Summoner Spells
 -------------------------
 
 **[Aqueous
-Orb](#aqueous-orb)**^^:
+Orb]**^^:
 Creates rolling sphere of water.
 
-**[Devolution](#devolution)**^^:
+**[Devolution]**^^:
 An eidolon temporarily loses 1 evolution +1/five levels.
 
 **[Evolution
-Surge](#evolution-surge)**^^:
+Surge]**^^:
 Grants eidolon an evolution with 4 evolution points.
 
 **[Rejuvenate
-Eidolon](#rejuvenate-eidolon)**^^:
+Eidolon]**^^:
 As *[lesser rejuvenate
 eidolon](spells/rejuvenateEidolon.html#rejuvenate-eidolon,-lesser)*,
 but cures 3d10 damage +1/level (max +10).
 
 **[Seek
-Thoughts](#seek-thoughts)**^^:
+Thoughts]**^^:
 Detects creatures in the area thinking about something.
 
 **[Spiked
-Pit](#spiked-pit)**^F^:
+Pit]**^F^:
 As *[create pit](spells/createPit.html#create-pit-)*, but filled with
 spikes.
 
@@ -2742,34 +2742,34 @@ spikes.
 -------------------------
 
 **[Acid
-Pit](#acid-pit-)**^M^:
+Pit]**^M^:
 Creates a pit with a layer of acid on the bottom.
 
 **[Evolution Surge,
-Greater](#evolution-surge,-greater)**^^:
+Greater]**^^:
 Grants eidolon two evolutions with a total of 6 evolution points.
 
 **[Purified
-Calling](#purified-calling)**^^:
+Calling]**^^:
 Eidolon summoned is fully healed.
 
-**[Transmogrify](#transmogrify)**^M^:
+**[Transmogrify]**^M^:
 Change your eidolon's evolutions.
 
 5th-Level Summoner Spells
 -------------------------
 
 **[Hungry
-Pit^F^](#hungry-pit-)**^^:
+Pit^F^]**^^:
 As *[create pit](spells/createPit.html#create-pit-)*, but dealing 4d6
 damage to those in it as it closes.
 
 **[Planar
-Adaptation](#planar-adaptation)**^^:
+Adaptation]**^^:
 Resist harmful effects of other plane.
 
 **[Rejuvenate Eidolon,
-Greater](#rejuvenate-eidolon,-greater)**^^:
+Greater]**^^:
 As *[lesser rejuvenate
 eidolon](spells/rejuvenateEidolon.html#rejuvenate-eidolon,-lesser)*,
 but cures 5d10 damage +1/level (max +20).
@@ -2778,7 +2778,7 @@ but cures 5d10 damage +1/level (max +20).
 -------------------------
 
 **[Planar Adaptation,
-Mass](#planar-adaptation,-mass)**^^:
+Mass]**^^:
 As *[planar
 adaptation](spells/planarAdaptation.html#planar-adaptation)*, but
 affects multiple creatures.
@@ -2790,169 +2790,169 @@ Witch Spells
 --------------------
 
 **[Putrefy Food and
-Drink](#putrefy-food-and-drink)**^^:
+Drink]**^^:
 Makes food and water inedible.
 
-**[Spark](#spark-)**^^:
+**[Spark]**^^:
 Ignites flammable objects.
 
 1st-Level Witch Spells
 ----------------------
 
 **[Beguiling
-Gift](#beguiling-gift)**^^:
+Gift]**^^:
 Subject immediately accepts an offered item and uses it.
 
 **[Dancing
-Lantern](#dancing-lantern-)**^^:
+Lantern]**^^:
 Animates a lantern that follows you.
 
 **[Ill
-Omen](#ill-omen)**^^:
+Omen]**^^:
 Target rolls twice for checks and attacks and uses worst roll.
 
 **[Mask
-Dweomer](#mask-dweomer)**^^:
+Dweomer]**^^:
 Hides presence of a spell from d*etect magic*.
 
 2nd-Level Witch Spells
 ----------------------
 
 **[Burning
-Gaze](#burning-gaze)**^^:
+Gaze]**^^:
 Inflict 1d6 fire damage to creature by looking at it.
 
 **[Feast of
-Ashes](#feast-of-ashes)**^^:
+Ashes]**^^:
 A target starves with an insatiable hunger.
 
-**[Fester](#fester)**^^:
+**[Fester]**^^:
 Gives subject SR 12 + your level vs. healing effects.
 
-**[Glide](#glide-)**^^:
+**[Glide]**^^:
 You take no falling damage and move 60 ft./round while falling.
 
 **[Hidden
-Speech](#hidden-speech)**^^:
-Gain +10 on [Bluff](#bluff) to send secret
+Speech]**^^:
+Gain +10 on [Bluff] to send secret
 messages.
 
 **[Perceive
-Cues](#perceive-cues)**^^:
-+5 [Perception](#perception) and [Sense
-Motive](#sense-motive) 10 min./level.
+Cues]**^^:
++5 [Perception] and [Sense
+Motive] 10 min./level.
 
 **[Pox
-Pustules](#pox-pustules)**^^:
+Pustules]**^^:
 Subject is sickened and has –4 Dex.
 
 **[Vomit
-Swarm](#vomit-swarm)**^^:
+Swarm]**^^:
 Produces a spider swarm that fights for you.
 
 3rd-Level Witch Spells
 ----------------------
 
 **[Cup of
-Dust](#cup-of-dust)**^^:
+Dust]**^^:
 Causes a creature to become dehydrated.
 
 **[Guiding
-Star](#guiding-star-)**^^:
+Star]**^^:
 Know approximate distance from where you cast this spell.
 
 **[Nature's
-Exile](#nature's-exile)**^^:
-Gives subject –10 on [Survival](#survival)
+Exile]**^^:
+Gives subject –10 on [Survival]
 checks.
 
 **[Pain
-Strike](#pain-strike)**^^:
+Strike]**^^:
 Inflicts 1d6 nonlethal damage 1 round/level.
 
-**[Screech](#screech)**^^:
+**[Screech]**^^:
 Foes provoke attacks of opportunity.
 
 **[Seek
-Thoughts](#seek-thoughts)**^^:
+Thoughts]**^^:
 Detects thinking creatures' thoughts.
 
 **[Share
-Senses](#share-senses)**^^:
+Senses]**^^:
 Perceive the world around your familiar.
 
 **[Twilight
-Knife](#twilight-knife-)**^^:
+Knife]**^^:
 Floating knife attacks with you.
 
 4th-Level Witch Spells
 ----------------------
 
-**[Moonstruck](#moonstruck)**^^:
+**[Moonstruck]**^^:
 Subject is enraged and confused.
 
-**[Sleepwalk](#sleepwalk)**^M^:
+**[Sleepwalk]**^M^:
 Causes creature to move while asleep.
 
-**[Spite](#spite)**^M^:
+**[Spite]**^M^:
 Inflict touch spell upon creature that attacks you.
 
 **[Threefold
-Aspect](#threefold-aspect)**^F^:
+Aspect]**^F^:
 Appear older or younger.
 
 **[Wandering Star
-Motes](#wandering-star-motes)**^^:
+Motes]**^^:
 Outlines subject and produces light as a sunrod.
 
 5th-Level Witch Spells
 ----------------------
 
 **[Banish
-Seeming](#banish-seeming)**^^:
+Seeming]**^^:
 Dispels touched illusion or a creature's change in form.
 
 **[Pain Strike,
-Mass](#pain-strike,-mass)**^^:
+Mass]**^^:
 As *[pain strike](spells/painStrike.html#pain-strike)*, but affects
 multiple creatures.
 
 **[Rest
-Eternal](#rest-eternal)**^M^:
+Eternal]**^M^:
 Dead creature cannot be revived.
 
-**[Suffocation](#suffocation)**^^:
+**[Suffocation]**^^:
 Target quickly suffocates to death.
 
 6th-Level Witch Spells
 ----------------------
 
 **[Cloak of
-Dreams](#cloak-of-dreams)**^^:
+Dreams]**^^:
 Causes living creatures within 5 ft. to fall asleep.
 
 **[Fester,
-Mass](#fester,-mass)**^^:
+Mass]**^^:
 As *[fester](spells/fester.html#fester)*, but affecting multiple
 targets.
 
 **[Swarm
-Skin](#swarm-skin-)**^^:
+Skin]**^^:
 Turns your body into a swarm of vermin.
 
 **[Unwilling
-Shield](#unwilling-shield)**^M^:
+Shield]**^M^:
 Subject shares wounds you receive.
 
 8th-Level Witch Spells
 ----------------------
 
-**[Stormbolts](#stormbolts)**^^:
+**[Stormbolts]**^^:
 1d8 damage/level (max 20d8) to targets.
 
 9th-Level Witch Spells
 ----------------------
 
 **[Suffocation,
-Mass](#suffocation,-mass)**^^:
+Mass]**^^:
 One creature/level suffocates to death.

@@ -85,55 +85,55 @@ The core class archetypes that follow are included in this chapter.
 Characters may take more than one archetype if they meet the
 requirements.
 
-**[Barbarian](#Barbarian)**: Breaker, Brutal Pugilist, Drunken Brute,
+**[Barbarian]**: Breaker, Brutal Pugilist, Drunken Brute,
 Elemental Kin, Hurler, Invulnerable Rager, Mounted Fury, Savage
 Barbarian, Superstitious, and Totem Warrior. This section also includes
 a host of new rage powers that any barbarian can take.
 
-**[Bard](#Bard)**: Arcane Duelist, Archivist, Court Bard, Detective,
+**[Bard]**: Arcane Duelist, Archivist, Court Bard, Detective,
 Magician, Sandman, Savage Skald, Sea Singer, and Street Performer.
 
-**[Cleric](#Cleric)**: Instead of specific archetypes, each cleric can
+**[Cleric]**: Instead of specific archetypes, each cleric can
 choose from a host of subdomains that focus on one aspect of their
 deity's power. Two or more subdomains are presented for each domain.
 
-**[Druid](#Druid)**: Aquatic Druid, Arctic Druid, Blight Druid, Cave
+**[Druid]**: Aquatic Druid, Arctic Druid, Blight Druid, Cave
 Druid, Desert Druid, Jungle Druid, Mountain Druid, Plains Druid, Swamp
 Druid, and Urban Druid. Alternatively, druid can choose to be an animal
 shaman, such as a Bear Shaman, Eagle Shaman, Lion Shaman, Serpent
 Shaman, or Wolf Shaman.
 
-**[Fighter](#Fighter)**: Archer, Crossbowman, Free Hand Fighter, Mobile
+**[Fighter]**: Archer, Crossbowman, Free Hand Fighter, Mobile
 Fighter, Phalanx Soldier, Polearm Master, Roughrider, Savage Warrior,
 Shielded Fighter, Two-Handed Fighter, Two-Weapon Warrior, and Weapon
 Master.
 
-**[Monk](#Monk)**: Drunken Master, Hungry Ghost Monk, *Ki* Mystic, Monk
+**[Monk]**: Drunken Master, Hungry Ghost Monk, *Ki* Mystic, Monk
 of the Empty Hand, Monk of the Four Winds, Monk of the Healing Hand,
 Monk of the Lotus, Monk of the Sacred Mountain, Weapon Adept, Zen
 Archer.
 
-**[Paladin](#Paladin)**: Divine Defender, Hospitaler, Sacred Servant,
+**[Paladin]**: Divine Defender, Hospitaler, Sacred Servant,
 Shining Knight, Undead Scourge, and Warrior of the Holy Light. This
 section also includes rules for an alternate version of the paladin
 class, the antipaladin.
 
-**[Ranger](#Ranger)**: Beast Master, Guide, Horse Lord, Infiltrator,
+**[Ranger]**: Beast Master, Guide, Horse Lord, Infiltrator,
 Shapeshifter, Skirmisher, Spirit Ranger, and Urban Ranger. This section
 also includes new combat style choices that any ranger can take.
 
-**[Rogue](#Rogue)**: Acrobat, Burglar, Cutpurse, Investigator, Poisoner,
+**[Rogue]**: Acrobat, Burglar, Cutpurse, Investigator, Poisoner,
 Rake, Scout, Sniper, Spy, Swashbuckler, Thug, and Trapsmith. This
 section also includes a number of rogue talents and advanced rogue
 talents that any rogue can take.
 
-**[Sorcerer](#Sorcerer)**: Aquatic Bloodline, Boreal Bloodline,
+**[Sorcerer]**: Aquatic Bloodline, Boreal Bloodline,
 Deepearth Bloodline, Dreamspun Bloodline, Protean Bloodline, Serpentine
 Bloodline, Shadow Bloodline, Starsoul Bloodline, Stormborn Bloodline,
 and Verdant Bloodline. Unlike other alternate class features, a sorcerer
 may never have more than one bloodline.
 
-**[Wizard](#Wizard)**: This section includes four elemental wizard
+**[Wizard]**: This section includes four elemental wizard
 schools, air, earth, fire, and water. It also includes focused arcane
 schools, which allow wizards of one school to focus on one element of
 that school's power.

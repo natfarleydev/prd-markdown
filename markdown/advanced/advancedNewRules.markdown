@@ -23,7 +23,7 @@ Noted here are the three new rules subsystems presented in this chapter,
 along with reasons why GMs might choose to incorporate them into their
 games.
 
-**[Combat Maneuvers](#combat-maneuvers)**: Expanding upon the combat
+**[Combat Maneuvers]**: Expanding upon the combat
 maneuvers included in the *Core Rulebook*—such as disarm, grapple, trip,
 and others—these new options give all combatants new actions and
 opportunities in battle, regardless of their race or class. Intended to
@@ -31,7 +31,7 @@ make melee more flexible and dynamic, these new tactics allow for
 greater control of opponents on the battlefield and open the door for
 additional uses of various debilitating conditions and colorful effects.
 
-**[Hero Points](#hero-points)**: A common house rule standardized and
+**[Hero Points]**: A common house rule standardized and
 expanded for the Pathfinder RPG, this system allows players a measure of
 control over fate and random dice rolls. Rather than having the outcome
 of an adventure's worth of effort come down to or be thwarted by simple
@@ -39,7 +39,7 @@ bad luck, hero points grant the PCs a resource by which they can
 influence destiny, or at least have a second chance when they need it
 most.
 
-[**Traits**](#traits): This system gives players a way to draw benefits
+[**Traits**]: This system gives players a way to draw benefits
 from their characters' histories and backgrounds, giving players cause
 to invest more thought into their characters' lives while providing GMs
 with hooks to further link PCs to the greater campaign.

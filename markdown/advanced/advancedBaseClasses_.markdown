@@ -19,27 +19,27 @@ character classes in his or her world.
 Each new class presents interesting character themes and special
 abilities as follows.
 
-**[Alchemist](#Alchemist)**: The alchemist is the master of alchemy,
+**[Alchemist]**: The alchemist is the master of alchemy,
 using extracts to grant him great power, mutagens to enhance his form,
 and bombs to destroy his enemies.
 
-**[Cavalier](#Cavalier)**: Mounted upon his mighty steed, the cavalier
+**[Cavalier]**: Mounted upon his mighty steed, the cavalier
 is a brave warrior, using his wit, charm, and strength at arms to rally
 his companions and achieve his goals.
 
-**[Inquisitor](#Inquisitor)**: Scourge of the unfaithful and hunter of
+**[Inquisitor]**: Scourge of the unfaithful and hunter of
 horrors, the inquisitor roots out the enemies of her faith with grim
 conviction and an array of divine blessings.
 
-**[Oracle](#Oracle)**: Drawing upon divine mysteries, the oracle
+**[Oracle]**: Drawing upon divine mysteries, the oracle
 channels divine power through her body and soul, but at a terrible
 price.
 
-**[Summoner](#Summoner)**: Bonded to a mysterious creature called an
+**[Summoner]**: Bonded to a mysterious creature called an
 eidolon, the summoner focuses his power on strengthing that connection
 and enhancing his strange, otherworldy companion.
 
-**[Witch](#Witch)**: Lurking on the fringe of civilization, the witch
+**[Witch]**: Lurking on the fringe of civilization, the witch
 makes a powerful connection with a patron that grants her strange and
 mysterious powers through a special familiar.
 

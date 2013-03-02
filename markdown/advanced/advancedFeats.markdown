@@ -25,13 +25,13 @@ bonus feat. This designation does not restrict characters of other
 classes from selecting these feats, assuming they meet the
 prerequisites.
 
-## [Metamagic Feats](#table-advanced-metamagic-feats-table)
+## [Metamagic Feats]
 
 Metamagic feats allow spellcasters to modify and change their spells,
 granting them new powers and effects. Such spells generally take up a
 higher-level spell slot than the normal spell.
 
-## [Teamwork Feats](#table-teamwork-feats)
+## [Teamwork Feats]
 
 Teamwork feats grant large bonuses, but they only function under
 specific circumstances. In most cases, these feats require an ally who
@@ -75,433 +75,433 @@ Table: Feats
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 |Feat                                              |Prerequisite                                                      |Benefits                                                               |
 +==================================================+==================================================================+=======================================================================+
-|[Additional Traits](#additional-traits)           |N/A                                                               |Gain two additional character traits                                   |
+|[Additional Traits]           |N/A                                                               |Gain two additional character traits                                   |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Arcane Blast](#arcane-blast)                     |Arcane spellcaster, caster level 10th                             |Sacrifice a spell to make a ray attack                                 |
+|[Arcane Blast]                     |Arcane spellcaster, caster level 10th                             |Sacrifice a spell to make a ray attack                                 |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Arcane Shield](#arcane-shield)                   |Arcane spellcaster, caster level 10th                             |Sacrifice a spell to gain deflection bonus to AC                       |
+|[Arcane Shield]                   |Arcane spellcaster, caster level 10th                             |Sacrifice a spell to gain deflection bonus to AC                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Arcane Talent](#arcane-talent)                   |Cha 10 ; elf, half-elf, or gnome                                  |Cast a 0-level spell 3 times per day as a spell-like ability           |
-|                                                  |                                                                  |                                                                       |
-|                                                  |                                                                  |                                                                       |
-+--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Aspect of the Beast](#aspect-of-the-beast)       |Wild s hape class feature                                         |Gain one of four bestial advantages                                    |
-|                                                  |                                                                  |                                                                       |
-+--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Bashing Finish\*](#bashing-finish-combat)        |[Shie ld Master](#shield-master), [Two-Weapon                     |Make a free shield bash after a critical hit                           |
-|                                                  |Fighting](#two-weapon-fighting), base attack bonus +11            |                                                                       |
-+--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Bloody Assault\*](#bloody-assault)               |[Power Attack](#power-attack), base attack bonus +6               |Trade melee attack bonus for bleed damage                              |
-|                                                  |                                                                  |                                                                       |
-+--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Bodyguard\*](#bodyguard)                         |[Combat Reflexes](../feats.html#_combat-reflexes)                 |Use attack of opportunity to add a bonus to adjacent ally's AC         |
+|[Arcane Talent]                   |Cha 10 ; elf, half-elf, or gnome                                  |Cast a 0-level spell 3 times per day as a spell-like ability           |
 |                                                  |                                                                  |                                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [In Harm's Way\*](#in-harm's-way)                |[Bodyguard](#bodyguard)                                           |Take the damage of a successful attack upon an adjacent ally           |
+|[Aspect of the Beast]       |Wild s hape class feature                                         |Gain one of four bestial advantages                                    |
+|                                                  |                                                                  |                                                                       |
++--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
+|[Bashing Finish\*]        |[Shie ld Master], [Two-Weapon                     |Make a free shield bash after a critical hit                           |
+|                                                  |Fighting], base attack bonus +11            |                                                                       |
++--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
+|[Bloody Assault\*]               |[Power Attack], base attack bonus +6               |Trade melee attack bonus for bleed damage                              |
+|                                                  |                                                                  |                                                                       |
++--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
+|[Bodyguard\*]                         |[Combat Reflexes](../feats.html#_combat-reflexes)                 |Use attack of opportunity to add a bonus to adjacent ally's AC         |
+|                                                  |                                                                  |                                                                       |
+|                                                  |                                                                  |                                                                       |
++--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
+| [In Harm's Way\*]                |[Bodyguard]                                           |Take the damage of a successful attack upon an adjacent ally           |
 |                                                  |                                                                  |                                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Breadth of                                      |Dwarf, elf, or gnome; 100+ years old                              |+2 bonus on all [Knowledge](../skills/knowledge.html#_knowledge) and   |
-| Experience](#breadth-of-experience)              |                                                                  |[Profession](../skills/profession.html#_profession) checks             |
+| Experience]              |                                                                  |[Profession](../skills/profession.html#_profession) checks             |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Bull Rush                                       |[Improved Bull Rush](../feats.html#_improved-bull-rush), base     |Attempt a bull rush on a successful critical hit                       |
-| Strike\*](#bull-rush-strike)                     |attack bonus +9                                                   |                                                                       |
+| Strike\*]                     |attack bonus +9                                                   |                                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Charge Through\*](#charge-through)              |[Improved Overrun](../feats.html#_improved-overrun), base attack  |Make overrun as free action while charging                             |
+| [Charge Through\*]              |[Improved Overrun](../feats.html#_improved-overrun), base attack  |Make overrun as free action while charging                             |
 |                                                  |bonus +1                                                          |                                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Childlike](#childlike)                          |Cha 13, halfling                                                  |+2 on [Disguise](../skills/disguise.html#_disguise) checks to look like|
+| [Childlike]                          |Cha 13, halfling                                                  |+2 on [Disguise](../skills/disguise.html#_disguise) checks to look like|
 |                                                  |                                                                  |human child, take 10 on [Bluff](../skills/bluff.html#_bluff) checks    |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Cockatrice                                      |[Medusa's Wrath](../feats.html#_medusa-s-wrath), base attack bonus|Turn a target to stone with a critical hit                             |
-| Strike\*](#cockatrice-strike)                    |+16                                                               |                                                                       |
+| Strike\*]                    |+16                                                               |                                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Combat Patrol\*](#combat-patrol)                |[Combat Reflexes](../feats.html#_combat-reflexes),                |Increase threatened area for attack of opportunity                     |
+| [Combat Patrol\*]                |[Combat Reflexes](../feats.html#_combat-reflexes),                |Increase threatened area for attack of opportunity                     |
 |                                                  |[Mobility](../feats.html#_mobility), base attack bonus +5         |                                                                       |
 |                                                  |                                                                  |                                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Cooperative                                     |1 rank in any [Craft](../skills/craft.html#_craft) skill, any item|+2 bonus on [Craft](../skills/craft.html#_craft) or                    |
-| Crafting](#cooperative-craftin)                  |creation feat                                                     |[Spellcraft](../skills/spellcraft.html#_spellcraft) checks while       |
+| Crafting]                  |creation feat                                                     |[Spellcraft](../skills/spellcraft.html#_spellcraft) checks while       |
 |                                                  |                                                                  |workingtogether                                                        |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Cosmopolitan](#cosmopolitan)                    |N/A                                                               |Read and speak two additional languages                                |
+| [Cosmopolitan]                    |N/A                                                               |Read and speak two additional languages                                |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Covering                                        |[Shield Focus](../feats.html#_shield-focus), base attack bonus +6 |Provide cover to an ally with total defense                            |
-| Defense\*](#covering-defense)                    |                                                                  |                                                                       |
+| Defense\*]                    |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Crippling                                       |[Critical Focus](../feats.html#_critical-focus), base attack bonus|Whenever you score a critical hit, the target's speed is halved        |
-| Critical](#crippling-critical)\*                 |+13                                                               |                                                                       |
+| Critical]\*                 |+13                                                               |                                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Crossbow                                        |Dex 15, [Rapid Reload](../feats.html#_rapid-reload), [Rapid       |Reload crossbow as free action and make full attacks                   |
-| Mastery\*](#crossbow-mastery)                    |Shot](../feats.html#_rapid-shot)                                  |                                                                       |
+| Mastery\*]                    |Shot](../feats.html#_rapid-shot)                                  |                                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Dastardly                                       |Sneak attack +5d6                                                 |Deliver coup de grace to cowering or stunned target                    |
-| Finish\*](#dastardly-finish)                     |                                                                  |                                                                       |
+| Finish\*]                     |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Dazing Assault\*](#dazing-assault)              |[Power Attack](../feats.html#_power-attack), base attack bonus +11|Trade melee attack bonus to daze opponents                             |
+| [Dazing Assault\*]              |[Power Attack](../feats.html#_power-attack), base attack bonus +11|Trade melee attack bonus to daze opponents                             |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Deep Drinker](#deep-drinker)                    |Con 13, monk level 11, drunken *ki* class feature                 |Gain 2 temporary *ki* from drunken ki                                  |
+| [Deep Drinker]                    |Con 13, monk level 11, drunken *ki* class feature                 |Gain 2 temporary *ki* from drunken ki                                  |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Deepsight](#deepsight)                          |Darkvision 60 feet                                                |Your darkvision has a range of 120 feet                                |
+| [Deepsight]                          |Darkvision 60 feet                                                |Your darkvision has a range of 120 feet                                |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Disarming                                       |[Improved Disarm](../feats.html#_improved-disarm), base attack    |Attempt a disarm on a successful critical hit                          |
-| Strike\*](#disarming-strike)                     |bonus +9                                                          |                                                                       |
+| Strike\*]                     |bonus +9                                                          |                                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Disrupting                                      |Dex 13, [Point-Blank Shot](../feats.html#_point-blank-shot),      |Ranged attacks increase enemy's DC to cast spells                      |
-| Shot\*](#disrupting-shot)                        |6th-level fighter                                                 |                                                                       |
+| Shot\*]                        |6th-level fighter                                                 |                                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Diviner's                                       |[Spell Focus](../feats.html#_spell-focus) (divination)            |+2 bonus on caster level checks with divinations                       |
-| Delving](#diviner's-delvin)                      |                                                                  |                                                                       |
+| Delving]                      |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Eagle Eyes](#eagle-eyes)                        |Wis 13, keen senses racial trait                                  |Ignore up to –5 due to distance on visual                              |
+| [Eagle Eyes]                        |Wis 13, keen senses racial trait                                  |Ignore up to –5 due to distance on visual                              |
 |                                                  |                                                                  |[Perception](../skills/perception.html#_perception) checks             |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Eclectic](#eclectic)                            |Human                                                             |Gain an additional favored class                                       |
+| [Eclectic]                            |Human                                                             |Gain an additional favored class                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Eldritch Claws](#eldritch-claws)                |Str 15, natural weapons, base attack bonus +6                     |Natural weapons treated as magic and silver                            |
+| [Eldritch Claws]                |Str 15, natural weapons, base attack bonus +6                     |Natural weapons treated as magic and silver                            |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Elemental Fist\*](#elemental-fist)              |Con 13, Wis 13, [Improved Unarmed                                 |Deal 1d6 energy damage with an unarmed strike                          |
+| [Elemental Fist\*]              |Con 13, Wis 13, [Improved Unarmed                                 |Deal 1d6 energy damage with an unarmed strike                          |
 |                                                  |Strike](../feats.html#_improved-unarmed-strike), base attack bonus|                                                                       |
 |                                                  |+8                                                                |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Elemental Focus](#elemental-focus)              |N/A                                                               |+1 bonus on save DCs for one energy type                               |
+| [Elemental Focus]              |N/A                                                               |+1 bonus on save DCs for one energy type                               |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Greater Elemental                               |[Elemental Focus](#elemental-focus)                               |+1 bonus on save DCs for one energy type                               |
-| Focus](#greater-elemental-focus)                 |                                                                  |                                                                       |
+| [Greater Elemental                               |[Elemental Focus]                               |+1 bonus on save DCs for one energy type                               |
+| Focus]                 |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Elven Accuracy\*](#elven-accuracy)              |Elf                                                               |Reroll miss chance due to concealment when using a bow                 |
+| [Elven Accuracy\*]              |Elf                                                               |Reroll miss chance due to concealment when using a bow                 |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Enforcer\*](#enforcer)                          |[Intimidate](../skills/intimidate.html#_intimidate) 1 rank        |Demoralize opponent as free action when you inflict nonlethal damage   |
+| [Enforcer\*]                          |[Intimidate](../skills/intimidate.html#_intimidate) 1 rank        |Demoralize opponent as free action when you inflict nonlethal damage   |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Expanded Arcana](#expanded-arcana)              |Caster level 1st, see feat                                        |Add one or two spells to list of spells known                          |
+| [Expanded Arcana]              |Caster level 1st, see feat                                        |Add one or two spells to list of spells known                          |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Extra Bombs](#extra-bombs)                      |Bomb class feature                                                |Throw two additional bombs per day                                     |
+| [Extra Bombs]                      |Bomb class feature                                                |Throw two additional bombs per day                                     |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Extra Discovery](#extra-discovery)              |Discovery class feature                                           |Gain one additional discovery                                          |
+| [Extra Discovery]              |Discovery class feature                                           |Gain one additional discovery                                          |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Extra Hex](#extra-hex)                          |Hex class feature                                                 |Gain one additional hex                                                |
+| [Extra Hex]                          |Hex class feature                                                 |Gain one additional hex                                                |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Extra Rage                                      |Rage power class feature                                          |Gain one additional rage power                                         |
-| Power](#extra-rage-power)                        |                                                                  |                                                                       |
+| Power]                        |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Extra                                           |Revelation class feature                                          |Gain one additional revelation                                         |
-| Revelation](#extra-revelation)                   |                                                                  |                                                                       |
+| Revelation]                   |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Extra Rogue                                     |Rogue talent class feature                                        |Gain one additional rogue talent                                       |
-| Talent](#extra-rogue-talent)                     |                                                                  |                                                                       |
+| Talent]                     |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Fast Drinker](#fast-drinker)                    |Con 18, drunken *ki* class feature                                |Drink as a swift action                                                |
+| [Fast Drinker]                    |Con 18, drunken *ki* class feature                                |Drink as a swift action                                                |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Fast Healer](#fast-healer)                      |Con 13, [Diehard](../feats.html#_diehard),                        |Regain additional hit points when healing                              |
+| [Fast Healer]                      |Con 13, [Diehard](../feats.html#_diehard),                        |Regain additional hit points when healing                              |
 |                                                  |[Endurance](./feats.html#_endurance)                              |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Favored Defense](#favored-defense)              |Favored enemy class feature                                       |Bonus to CMD and AC when attacked by favored enemy                     |
+| [Favored Defense]              |Favored enemy class feature                                       |Bonus to CMD and AC when attacked by favored enemy                     |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Fight On](#fight-on)                            |Con 13; dwarf, half-orc, or orc                                   |Gain temporary hit points when reduced to 0                            |
+| [Fight On]                            |Con 13; dwarf, half-orc, or orc                                   |Gain temporary hit points when reduced to 0                            |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Focused Shot\*](#focused-shot)                  |Int 13, [Precise Shot](../feats.html#_precise-shot)               |Add Int modifier on damage rolls with bows or crossbows                |
+| [Focused Shot\*]                  |Int 13, [Precise Shot](../feats.html#_precise-shot)               |Add Int modifier on damage rolls with bows or crossbows                |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Following Step\*](#following-step)              |Dex 13, [Step Up](../feats.html#_step-up)                         |Move up to 10 feet as an immediate action                              |
+| [Following Step\*]              |Dex 13, [Step Up](../feats.html#_step-up)                         |Move up to 10 feet as an immediate action                              |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Step Up and                                     |[Following Step](#following-step), base attack bonus +6           |Follow adjacent creature and attack as an immediate action             |
-| Strike\*](#step-up-and-strike)                   |                                                                  |                                                                       |
+| [Step Up and                                     |[Following Step], base attack bonus +6           |Follow adjacent creature and attack as an immediate action             |
+| Strike\*]                   |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Furious Focus\*](#furious-focus)                |Str 13, [Power Attack](../feats.html#_power-attack), base         |Do not take the [Power Attack](../feats.html#_power-attack) penalty on |
+| [Furious Focus\*]                |Str 13, [Power Attack](../feats.html#_power-attack), base         |Do not take the [Power Attack](../feats.html#_power-attack) penalty on |
 |                                                  |attack bonus                                                      |the first attack each round                                            |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Dreadful                                        |Str 15, [Furious Focus](#furious-focus), base attack bonus        |Make a free [Intimidate](../skills/intimidate.html#_intimidate) check  |
-| Carnage\*](#dreadful-carnage)                    |+11                                                               |when you knock down a foe                                              |
+| [Dreadful                                        |Str 15, [Furious Focus], base attack bonus        |Make a free [Intimidate](../skills/intimidate.html#_intimidate) check  |
+| Carnage\*]                    |+11                                                               |when you knock down a foe                                              |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Gang Up\*](#gang-up)                            |[Combat Expertise](../feats.html#_combat-expertise)               |Flank an opponent if at least two allies are adjacent to it            |
+| [Gang Up\*]                            |[Combat Expertise](../feats.html#_combat-expertise)               |Flank an opponent if at least two allies are adjacent to it            |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Team Up\*](#team-up)                            |Gang-Up, base attack bonus +6                                     |Aid another as a move action with two adjacent allies                  |
+| [Team Up\*]                            |Gang-Up, base attack bonus +6                                     |Aid another as a move action with two adjacent allies                  |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Gnome Trickster](#gnome-trickster)              |Cha 13, gnome, gnome magic racial trait                           |Use *[mage hand](../spells/mageHand.html#_mage-hand)* and              |
+| [Gnome Trickster]              |Cha 13, gnome, gnome magic racial trait                           |Use *[mage hand](../spells/mageHand.html#_mage-hand)* and              |
 |                                                  |                                                                  |*[prestidigitation](../spells/prestidigitation.html#_prestidigitation)*|
 |                                                  |                                                                  |once per day                                                           |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Go Unnoticed](#go-unnoticed)                    |Dex 13, Small size or smaller                                     |Make [Stealth](../skills/stealth.html#_stealth) check against          |
+| [Go Unnoticed]                    |Dex 13, Small size or smaller                                     |Make [Stealth](../skills/stealth.html#_stealth) check against          |
 |                                                  |                                                                  |flat-footed opponents during first round of combat                     |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Groundling](#groundlin)                         |Cha 13, gnome, gnome magic racial trait                           |Speak with burrowing animals as spell-like ability                     |
+| [Groundling]                         |Cha 13, gnome, gnome magic racial trait                           |Speak with burrowing animals as spell-like ability                     |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Heroic Defiance](#heroic-defiance)              |[Diehard](../feats.html#_diehard), base Fortitude save +8         |Once per day, delay onset of harmful condition for 1 round             |
+| [Heroic Defiance]              |[Diehard](../feats.html#_diehard), base Fortitude save +8         |Once per day, delay onset of harmful condition for 1 round             |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Heroic Recovery](#heroic-recovery)              |[Diehard](../feats.html#_diehard), base Fortitude save +4         |Once per day, gain new saving throw against harmful condition requiring|
+| [Heroic Recovery]              |[Diehard](../feats.html#_diehard), base Fortitude save +4         |Once per day, gain new saving throw against harmful condition requiring|
 |                                                  |                                                                  |Fort save                                                              |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Improved                                        |[Perception](../skills/perception.html#_perception) 10 ranks,     |Ignore miss chance for less than total concealment                     |
-| Blind-Fight\*](#improved-blind-fight)            |[Blind-Fight](../feats.html#_blind-fight)                         |                                                                       |
+| Blind-Fight\*]            |[Blind-Fight](../feats.html#_blind-fight)                         |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Greater                                         |[Perception](../skills/perception.html#_perception) 15 ranks,     |Total concealment is considered normal concealment                     |
-| Blind-Fight\*](#greater-blind-fight)             |[Improved](#improved-blind-fight)                                 |                                                                       |
+| Blind-Fight\*]             |[Improved]                                 |                                                                       |
 |                                                  |[Blind-Fight](../feats.html#_blind-fight)                         |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Improved Dirty                                  |[Combat Expertise](../feats.html#_combat-expertise)               |+2 bonus on dirty trick attempts, no attack of opportunity             |
-| Trick\*](#improved-dirty-trick)                  |                                                                  |                                                                       |
+| Trick\*]                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Greater Dirty                                   |[Improved Dirty Trick](#improved-dirty-trick), base attack        |Dirty trick penalty lasts 1d4 rounds                                   |
-| Trick\*](#greater-dirty-trick)                   |bonus +6                                                          |                                                                       |
+| [Greater Dirty                                   |[Improved Dirty Trick], base attack        |Dirty trick penalty lasts 1d4 rounds                                   |
+| Trick\*]                   |bonus +6                                                          |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Improved Drag\*](#improved-drag)                |[Power Attack](../feats.html#_power-attack)                       |+2 bonus on drag attempts, no attack of opportunity                    |
+| [Improved Drag\*]                |[Power Attack](../feats.html#_power-attack)                       |+2 bonus on drag attempts, no attack of opportunity                    |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Greater Drag\*](#greater-drag)                  |[Improved Drag](#improved-dra), base attack bonus +6              |Enemies you drag provoke attacks of opportunity                        |
+| [Greater Drag\*]                  |[Improved Drag], base attack bonus +6              |Enemies you drag provoke attacks of opportunity                        |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Improved                                        |[Combat Expertise](../feats.html#_combat-expertise)               |+2 bonus on reposition attempts, no attack of opportunity              |
-| Reposition\*](#improved-reposition)              |                                                                  |                                                                       |
+| Reposition\*]              |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Greater                                         |[Improved Reposition](#improved-reposition), base attack          |Enemies you reposition provoke attacks of opportunity                  |
-| Reposition\*](#greater-reposition)               |bonus +6                                                          |                                                                       |
+| [Greater                                         |[Improved Reposition], base attack          |Enemies you reposition provoke attacks of opportunity                  |
+| Reposition\*]               |bonus +6                                                          |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Improved Share                                  |[Spellcraft](../skills/spellcraft.html#_spellcraft) 10 ranks,     |Spells affect both you and your bonded creature                        |
-| Spells](#improved-share-spells)                  |see feat                                                          |                                                                       |
+| Spells]                  |see feat                                                          |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Improved Steal\*](#improved-steal)              |[Combat Expertise](../feats.html#_combat-expertise)               |+2 bonus on steal attempts, no attack of opportunity                   |
+| [Improved Steal\*]              |[Combat Expertise](../feats.html#_combat-expertise)               |+2 bonus on steal attempts, no attack of opportunity                   |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Greater Steal\*](#greater-steal)                |[Improved Steal](#improved-steal), base attack bonus +6           |Enemies don't notice theft until after combat                          |
+| [Greater Steal\*]                |[Improved Steal], base attack bonus +6           |Enemies don't notice theft until after combat                          |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Improved                                        |Wis 13, dwarf, stonecunning racial trait                          |+4 bonus on [Perception](../skills/perception.html#_perception) checks |
-| Stonecunning](#improved-stonecunnin)             |                                                                  |to notice unusual stonework                                            |
+| Stonecunning]             |                                                                  |to notice unusual stonework                                            |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Stone Sense](#stone-sense)                      |[Perception](../skills/perception.html#_perception) 10 ranks,     |Gain tremorsense 10 ft.                                                |
+| [Stone Sense]                      |[Perception](../skills/perception.html#_perception) 10 ranks,     |Gain tremorsense 10 ft.                                                |
 |                                                  |Improved Stonecunning                                             |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Ironguts](#ironguts)                            |Con 13; dwarf, half-orc, or orc                                   |+2 on saves against nausea, sickening, and ingested poisons            |
+| [Ironguts]                            |Con 13; dwarf, half-orc, or orc                                   |+2 on saves against nausea, sickening, and ingested poisons            |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Ironhide](#ironhide)                            |Con 13; dwarf, half-orc, or orc                                   |+1 natural armor bonus to AC                                           |
+| [Ironhide]                            |Con 13; dwarf, half-orc, or orc                                   |+1 natural armor bonus to AC                                           |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Keen Scent](#keen-scent)                        |Wis 13, half-orc or orc                                           |Gain the scent special ability                                         |
+| [Keen Scent]                        |Wis 13, half-orc or orc                                           |Gain the scent special ability                                         |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Smell Fear](#smell-fear)                        |[Keen Scent](#keen-scent), half-orc or orc                        |+4 on [Perception](../skills/perception.html#_perception) checks to    |
+| [Smell Fear]                        |[Keen Scent], half-orc or orc                        |+4 on [Perception](../skills/perception.html#_perception) checks to    |
 |                                                  |                                                                  |detect frightened creatures                                            |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [*Ki* Throw](#ki-throw)\*                        |[Improved Trip](../feats.html#_improved-trip), [Improved          |Throw opponent into adjacent square with a trip attack                 |
+| [*Ki* Throw]\*                        |[Improved Trip](../feats.html#_improved-trip), [Improved          |Throw opponent into adjacent square with a trip attack                 |
 |                                                  |Unarmed Strike](../feats.html#_improved-unarmed-strike)           |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Improved *Ki*                                   |[Improved Bull Rush](../feats.html#_improved-bull-rush),          |Throw opponent into occupied square as a bull rush                     |
-| Throw](#improved-ki-throw)\*                     |[KiThrow](#ki-throw)                                              |                                                                       |
+| Throw]\*                     |[KiThrow]                                              |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Leaf Singer](#leaf-singer)                      |Cha 13, bardic performance, elf or half-elf                       |Gain benefits to bardic performance in forests and against fey         |
+| [Leaf Singer]                      |Cha 13, bardic performance, elf or half-elf                       |Gain benefits to bardic performance in forests and against fey         |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Light Step](#light-step)                        |[Acrobatic Steps](../feats.html#_acrobatic-steps), [Nimble        |Move normal speed in difficult terrain                                 |
+| [Light Step]                        |[Acrobatic Steps](../feats.html#_acrobatic-steps), [Nimble        |Move normal speed in difficult terrain                                 |
 |                                                  |Moves](../feats.html#_nimble-moves), elf                          |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Lingering                                       |Bardic performance class ability                                  |Bardic performance continues for 2 rounds after you stop performing    |
-| Performance](#lingering-performance)             |                                                                  |                                                                       |
+| Performance]             |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Low Profile\*](#low-profile)                    |Dex 13, Small size or smaller                                     |+1 dodge bonus to AC against ranged attacks                            |
+| [Low Profile\*]                    |Dex 13, Small size or smaller                                     |+1 dodge bonus to AC against ranged attacks                            |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Lucky Halfling](#lucky-halflin)                 |Halfling                                                          |You may roll saving throw for an ally once per day                     |
+| [Lucky Halfling]                 |Halfling                                                          |You may roll saving throw for an ally once per day                     |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Master Alchemist](#master-alchemist)            |[Craft](../skills/craft.html#_craft) (alchemy) 5 ranks            |+2 on [Craft](../skills/craft.html#_craft) (alchemy) checks, and you   |
+| [Master Alchemist]            |[Craft](../skills/craft.html#_craft) (alchemy) 5 ranks            |+2 on [Craft](../skills/craft.html#_craft) (alchemy) checks, and you   |
 |                                                  |                                                                  |can create alchemical items and poisons faster                         |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Minor Spell                                     |Cast 4th-level spells                                             |Cast 1st-level spell as spell-like ability 2/day                       |
-| Expertise](#minor-spell-expertise)               |                                                                  |                                                                       |
+| Expertise]               |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Major Spell                                     |[Minor Spell Expertise](#minor-spell-expertise), cast             |Cast 5th-level or lower spell as spell-like ability 2/day              |
-| Expertise](#major-spell-expertise)               |9th-level spells                                                  |                                                                       |
+| [Major Spell                                     |[Minor Spell Expertise], cast             |Cast 5th-level or lower spell as spell-like ability 2/day              |
+| Expertise]               |9th-level spells                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Missile Shield\*](#missile-shield)              |Dex 13, [Shield Focus](../feats.html#_shield-focus)               |Deflect one ranged attack per round with shield                        |
+| [Missile Shield\*]              |Dex 13, [Shield Focus](../feats.html#_shield-focus)               |Deflect one ranged attack per round with shield                        |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Ray Shield\*](#ray-shield)                      |Dex 15, [Missile Shield](#missile-shield),                        |Deflect one ranged touch attack per round with shield                  |
+| [Ray Shield\*]                      |Dex 15, [Missile Shield],                        |Deflect one ranged touch attack per round with shield                  |
 |                                                  |[Spellbreaker](../feats.html#_spellbreaker)                       |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Mounted Shield\*](#mounted-shield)              |[Mounted Combat](../feats.html#_mounted-combat), [Shield          |Apply shield bonus to mount's AC                                       |
+| [Mounted Shield\*]              |[Mounted Combat](../feats.html#_mounted-combat), [Shield          |Apply shield bonus to mount's AC                                       |
 |                                                  |Focus](../feats.html#_shield-focus)                               |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Parry Spell](#parry-spell)                      |[Spellcraft](../skills/spellcraft.html#_spellcraft) 15 ranks,     |Reflect a counterspelled spell back on its caster                      |
+| [Parry Spell]                      |[Spellcraft](../skills/spellcraft.html#_spellcraft) 15 ranks,     |Reflect a counterspelled spell back on its caster                      |
 |                                                  |[Improved Counterspell](../feats.html#_improved-counterspell)     |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Parting Shot\*](#parting-shot)                  |[Shot on the Run](../feats.html#_shot-on-the-run), base           |Make a ranged attack when withdrawing                                  |
+| [Parting Shot\*]                  |[Shot on the Run](../feats.html#_shot-on-the-run), base           |Make a ranged attack when withdrawing                                  |
 |                                                  |attack bonus +6                                                   |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Pass for Human](#pass-for-human)                |Half-elf, half-orc, or halfling                                   |+10 on [Disguise](../skills/disguise.html#_disguise) checks to look    |
+| [Pass for Human]                |Half-elf, half-orc, or halfling                                   |+10 on [Disguise](../skills/disguise.html#_disguise) checks to look    |
 |                                                  |                                                                  |like a human                                                           |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Perfect Strike\*](#perfect-strike)              |Dex 13, Wis 13, [Improved Unarmed                                 |Roll twice for attacks with monk weapons and take the better roll      |
+| [Perfect Strike\*]              |Dex 13, Wis 13, [Improved Unarmed                                 |Roll twice for attacks with monk weapons and take the better roll      |
 |                                                  |Strike](../feats.html#_improved-unarmed-strike), base attack      |                                                                       |
 |                                                  |bonus +8                                                          |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Point-Blank                                     |[Weapon Specialization](../feats.html#_weapon-specialization)     |e attacks of opportunity while firing one ranged weapon                |
-| Master](#point-blank-master)\*                   |with a ranged weapon                                              |                                                                       |
+| Master]\*                   |with a ranged weapon                                              |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Practiced                                       |Tactician class feature                                           |Use tactician ability one additional time per day                      |
-| Tactician](#practiced-tactician)                 |                                                                  |                                                                       |
+| Tactician]                 |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Preferred Spell](#preferred-spell)              |[Spellcraft](../skills/spellcraft.html#_spellcraft) 5 ranks,      |Spontaneously cast a specific spell                                    |
+| [Preferred Spell]              |[Spellcraft](../skills/spellcraft.html#_spellcraft) 5 ranks,      |Spontaneously cast a specific spell                                    |
 |                                                  |[Heighten Spell](../feats.html#_heighten-spell)                   |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Punishing Kick\*](#punishing-kick)              |Con 13, Wis 13, [Improved Unarmed                                 |Knock down or push back foes with unarmed strikes                      |
+| [Punishing Kick\*]              |Con 13, Wis 13, [Improved Unarmed                                 |Knock down or push back foes with unarmed strikes                      |
 |                                                  |Strike](../feats.html#_improved-unarmed-strike), base attack      |                                                                       |
 |                                                  |bonus +8                                                          |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Pushing Assault\*](#pushing-assault)            |Str 15, [Power Attack](../feats.html#_power-attack), base         |Push a foe back with a two-handed weapon                               |
+| [Pushing Assault\*]            |Str 15, [Power Attack](../feats.html#_power-attack), base         |Push a foe back with a two-handed weapon                               |
 |                                                  |attack bonus +1                                                   |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Racial Heritage](#racial-heritage)              |Human                                                             |Affected as though both human and another race                         |
+| [Racial Heritage]              |Human                                                             |Affected as though both human and another race                         |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Raging Vitality](#raging-vitality)              |Con 15, rage class feature                                        |+2 bonus to Con when raging, and continue raging if unconscious        |
+| [Raging Vitality]              |Con 15, rage class feature                                        |+2 bonus to Con when raging, and continue raging if unconscious        |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Razortusk](#razortusk)                          |Half-orc                                                          |Gain bite attack                                                       |
+| [Razortusk]                          |Half-orc                                                          |Gain bite attack                                                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Rending Claws\*](#rending-claws)                |Str 13, two claw attacks, base attack bonus +6                    |Deal 1d6 extra damage if both claws hit                                |
+| [Rending Claws\*]                |Str 13, two claw attacks, base attack bonus +6                    |Deal 1d6 extra damage if both claws hit                                |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Repositioning                                   |[Improved Repostion](#improved-reposition), base attack bonus     |Attempt a reposition attack on a successful critical hit               |
-| Strike\*](#repositioning-strike)                 |+9                                                                |                                                                       |
+| [Repositioning                                   |[Improved Repostion], base attack bonus     |Attempt a reposition attack on a successful critical hit               |
+| Strike\*]                 |+9                                                                |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Saving Shield\*](#saving-shield)                |[Shield Proficiency](../feats.html#_shield-proficiency)           |Grant shield bonus to an adjacent ally                                 |
+| [Saving Shield\*]                |[Shield Proficiency](../feats.html#_shield-proficiency)           |Grant shield bonus to an adjacent ally                                 |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Second Chance\*](#second-chance)                |[Combat Expertise](../feats.html#_combat-expertise), base         |Exchange later attacks to reroll missed first attack                   |
+| [Second Chance\*]                |[Combat Expertise](../feats.html#_combat-expertise), base         |Exchange later attacks to reroll missed first attack                   |
 |                                                  |attack bonus +6                                                   |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Improved Second                                 |[Second Chance](#second-chance), base attack bonus +11            |Take a –5 penalty on later attacks to reroll missed attack             |
-| Chance\*](#improved-second-chance)               |                                                                  |                                                                       |
+| [Improved Second                                 |[Second Chance], base attack bonus +11            |Take a –5 penalty on later attacks to reroll missed attack             |
+| Chance\*]               |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Shadow Strike\*](#shadow-strike)                |Base attack bonus +1                                              |Deal precision damage against targets with concealment                 |
+| [Shadow Strike\*]                |Base attack bonus +1                                              |Deal precision damage against targets with concealment                 |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Shared Insight](#shared-insight)                |Wis 13, half-elf                                                  |Grant friendly creatures a +2 bonus on                                 |
+| [Shared Insight]                |Wis 13, half-elf                                                  |Grant friendly creatures a +2 bonus on                                 |
 |                                                  |                                                                  |[Perception](../skills/perception.html#_perception) checks             |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Sharp Senses](#sharp-senses)                    |Keen senses racial trait                                          |+4 racial bonus on [Perception](../skills/perception.html#_perception) |
+| [Sharp Senses]                    |Keen senses racial trait                                          |+4 racial bonus on [Perception](../skills/perception.html#_perception) |
 |                                                  |                                                                  |checks                                                                 |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Shield of                                       |Str 13, [Power Attack](../feats.html#_power-attack), base         |Reduce damage with a two handed weapon to gain a +4 shield bonus       |
-| Swings\*](#shield-of-swings)                     |attack bonus +1                                                   |                                                                       |
+| Swings\*]                     |attack bonus +1                                                   |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Shield                                          |[Shield Focus](../feats.html#_shield-focus), 4th-level            |+2 bonus to AC against criticals with one type of shield               |
-| Specialization\*](#shield-specialization)        |fighter                                                           |                                                                       |
+| Specialization\*]        |fighter                                                           |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Greater Shield                                  |[Greater Shield Focus](../feats.html#_greater-shield-focus),      |+2 bonus to AC against criticals, and negate critical hit once per day |
-| Specialization](#greater-shield-specialization)\*|[Shield Specialization](#shield-specialization), 12th-level       |                                                                       |
+| Specialization]\*|[Shield Specialization], 12th-level       |                                                                       |
 |                                                  |fighter                                                           |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Sidestep\*](#sidestep)                          |Dex 13, [Dodge](../feats.html#_dodge),                            |Make 5-foot step immediately after an opponent misses                  |
+| [Sidestep\*]                          |Dex 13, [Dodge](../feats.html#_dodge),                            |Make 5-foot step immediately after an opponent misses                  |
 |                                                  |[Mobility](../feats.html#_mobility)                               |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Improved Sidestep\*](#improved-sidestep)        |Dex 15, [Sidestep](#sidestep)                                     |[Sidestep](#sidestep) without using your 5-foot step on your next turn |
+| [Improved Sidestep\*]        |Dex 15, [Sidestep]                                     |[Sidestep] without using your 5-foot step on your next turn |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Smash\*](#smash)                                |[Power Attack](../feats.html#_power-attack), half-orc             |Ignore 5 points of hardness when breaking an object                    |
+| [Smash\*]                                |[Power Attack](../feats.html#_power-attack), half-orc             |Ignore 5 points of hardness when breaking an object                    |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Sociable](#sociable)                            |Cha 13, half-elf                                                  |Grant friendly creatures a +2 bonus on                                 |
+| [Sociable]                            |Cha 13, half-elf                                                  |Grant friendly creatures a +2 bonus on                                 |
 |                                                  |                                                                  |[Diplomacy](../skills/diplomacy.html#_diplomacy) checks                |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Spell Perfection](#spell-perfection)            |[Spellcraft](../skills/spellcraft.html#_spellcraft) 15 ranks,     |Apply any metamagic feat to one spell without penalty, up to 9th level |
+| [Spell Perfection]            |[Spellcraft](../skills/spellcraft.html#_spellcraft) 15 ranks,     |Apply any metamagic feat to one spell without penalty, up to 9th level |
 |                                                  |3 metamagic feats                                                 |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Spider Step](#spider-step)                      |[Acrobatics](../skills/acrobatics.html#_acrobatics) 6 ranks,      |Walk on walls or ceilings for half your slow fall distance             |
+| [Spider Step]                      |[Acrobatics](../skills/acrobatics.html#_acrobatics) 6 ranks,      |Walk on walls or ceilings for half your slow fall distance             |
 |                                                  |[Climb](../skills/climb.html#_climb) 6 ranks, 6th-level monk      |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Cloud Step](#cloud-step)                        |[Spider Step](#spider-step), 12th-level monk                      |*[Air walk](../spells/airWalk.html#_air-walk)* for half your slow fall |
+| [Cloud Step]                        |[Spider Step], 12th-level monk                      |*[Air walk](../spells/airWalk.html#_air-walk)* for half your slow fall |
 |                                                  |                                                                  |distance                                                               |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Stabbing Shot\*](#stabbing-shot)                |[Rapid Shot](../feats.html#_rapid-shot), elf                      |Use arrow as a melee attack to push enemies back                       |
+| [Stabbing Shot\*]                |[Rapid Shot](../feats.html#_rapid-shot), elf                      |Use arrow as a melee attack to push enemies back                       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Steel Soul](#steel-soul)                        |Dwarf, hardy racial trait                                         |+4 racial bonus on saves against spells and spell-like abilities       |
+| [Steel Soul]                        |Dwarf, hardy racial trait                                         |+4 racial bonus on saves against spells and spell-like abilities       |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Stone-Faced](#stone-faced)                      |Dwarf                                                             |+4 bonus on [Bluff](../skills/bluff.html#_bluff) checks to lie or      |
+| [Stone-Faced]                      |Dwarf                                                             |+4 bonus on [Bluff](../skills/bluff.html#_bluff) checks to lie or      |
 |                                                  |                                                                  |conceal motives                                                        |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Stone Singer](#stone-singer)                    |Cha 13, bardic performance, dwarf                                 |Gain benefits to bardic performance underground and against earth      |
+| [Stone Singer]                    |Cha 13, bardic performance, dwarf                                 |Gain benefits to bardic performance underground and against earth      |
 |                                                  |                                                                  |creatures                                                              |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Stunning Assault\*](#stunning-assault)          |[Power Attack](../feats.html#_power-attack), base attack          |Trade melee attack bonus to stun opponents                             |
+| [Stunning Assault\*]          |[Power Attack](../feats.html#_power-attack), base attack          |Trade melee attack bonus to stun opponents                             |
 |                                                  |bonus +16                                                         |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Summoner's Call](#summoner's-call)              |Eidolon class feature                                             |Your eidolon gets a bonus when summoned                                |
+| [Summoner's Call]              |Eidolon class feature                                             |Your eidolon gets a bonus when summoned                                |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Sundering Strike\*](#sundering-strike)          |[Improved Sunder](../feats.html#_improved-sunder), base           |+9 Attempt a sunder attack on a successful critical hit                |
+| [Sundering Strike\*]          |[Improved Sunder](../feats.html#_improved-sunder), base           |+9 Attempt a sunder attack on a successful critical hit                |
 |                                                  |attack bonus                                                      |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Swift Aid\*](#swift-aid)                        |[Combat Expertise](../feats.html#_combat-expertise), base         |+6 Attempt to aid another as a swift action                            |
+| [Swift Aid\*]                        |[Combat Expertise](../feats.html#_combat-expertise), base         |+6 Attempt to aid another as a swift action                            |
 |                                                  |attack bonus                                                      |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Taunt](#taunt)                                  |Cha 13, Small size or smaller                                     |Demoralize opponents with [Bluff](../skills/bluff.html#_bluff) instead |
+| [Taunt]                                  |Cha 13, Small size or smaller                                     |Demoralize opponents with [Bluff](../skills/bluff.html#_bluff) instead |
 |                                                  |                                                                  |of [Intimidate](../skills/intimidate.html#_intimidate)                 |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Teleport Tactician\*](#teleport-tactician)      |[Combat Reflexes](../feats.html#_combat-reflexes),                |Teleporting creatures provoke attacks of opportunity                   |
+| [Teleport Tactician\*]      |[Combat Reflexes](../feats.html#_combat-reflexes),                |Teleporting creatures provoke attacks of opportunity                   |
 |                                                  |[Disruptive](../feats.html#_disruptive),                          |                                                                       |
 |                                                  |[Spellbreaker](../feats.html#_spellbreaker)                       |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Tenacious                                       |[Spell Focus](../feats.html#_spell-focus) (transmutation)         |+2 to DC to dispel your transmutations                                 |
-| Transmutation](#tenacious-transmutation)         |                                                                  |                                                                       |
+| Transmutation]         |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Touch of Serenity\*](#touch-of-serenity)        |Wis 18, [Improved Unarmed                                         |Foes hit by unarmed strikes cannot attack or cast spells               |
+| [Touch of Serenity\*]        |Wis 18, [Improved Unarmed                                         |Foes hit by unarmed strikes cannot attack or cast spells               |
 |                                                  |Strike](../feats.html#_improved-unarmed-strike), base attack      |                                                                       |
 |                                                  |bonus +8                                                          |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Trick Riding\*](#trick-riding)                  |[Ride](../skills/ride.html#_ride) rank 9, [Mounted                |Automatically pass simple [Ride](../skills/ride.html#_ride) skill      |
+| [Trick Riding\*]                  |[Ride](../skills/ride.html#_ride) rank 9, [Mounted                |Automatically pass simple [Ride](../skills/ride.html#_ride) skill      |
 |                                                  |Combat](../feats.html#_mounted-combat)                            |checks                                                                 |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Mounted Skirmisher\*](#mounted-skirmisher)      |[Ride](../skills/ride.html#_ride) rank 14, [Trick                 |Make a full attack if mount moves its speed or less                    |
-|                                                  |Riding](#trick-ridin)                                             |                                                                       |
+| [Mounted Skirmisher\*]      |[Ride](../skills/ride.html#_ride) rank 14, [Trick                 |Make a full attack if mount moves its speed or less                    |
+|                                                  |Riding]                                             |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Tripping Strike\*](#tripping-strike)            |[Improved Trip](../feats.html#_improved-trip), base attack        |Attempt a trip attack on a successful critical hit                     |
+| [Tripping Strike\*]            |[Improved Trip](../feats.html#_improved-trip), base attack        |Attempt a trip attack on a successful critical hit                     |
 |                                                  |bonus +9                                                          |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Under and Over\*](#under-and-over)              |[Agile Maneuvers](../feats.html#_agile-maneuvers), Small size     |Failed grapples against you cause attacker to fall prone               |
+| [Under and Over\*]              |[Agile Maneuvers](../feats.html#_agile-maneuvers), Small size     |Failed grapples against you cause attacker to fall prone               |
 |                                                  |or smaller                                                        |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Underfoot\*](#underfoot)                        |[Dodge](../feats.html#_dodge),                                    |+4 on [Acrobatics](../skills/acrobatics.html#_acrobatics) checks to    |
+| [Underfoot\*]                        |[Dodge](../feats.html#_dodge),                                    |+4 on [Acrobatics](../skills/acrobatics.html#_acrobatics) checks to    |
 |                                                  |[Mobility](../feats.html#_mobility), Small size or smaller        |move past larger opponents                                             |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Vermin Heart](#vermin-heart)                    |Wild empathy class feature                                        |Target vermin with spells as if they were animals                      |
+| [Vermin Heart]                    |Wild empathy class feature                                        |Target vermin with spells as if they were animals                      |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [War Singer](#war-singer)                        |Cha 13, bardic performance, half-orc or orc                       |Gain benefits to bardic performance on battlefields and against orcs   |
+| [War Singer]                        |Cha 13, bardic performance, half-orc or orc                       |Gain benefits to bardic performance on battlefields and against orcs   |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-| [Well-Prepared](#well-prepared)                  |Halfling                                                          |Retrieve a specific mundane item from your person                      |
+| [Well-Prepared]                  |Halfling                                                          |Retrieve a specific mundane item from your person                      |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 
@@ -510,35 +510,35 @@ Table: Feats
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 |Metamagic Feats                                   |Prerequisites                                                     |Benefits                                                               |
 +==================================================+==================================================================+=======================================================================+
-|[Bouncing Spell](#bouncing-spell)                 |N/A                                                               |Redirect a spell that had no effect on initial target                  |
+|[Bouncing Spell]                 |N/A                                                               |Redirect a spell that had no effect on initial target                  |
 |                                                  |                                                                  |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Dazing Spell](#dazing-spell)                     |N/A                                                               |Daze creature with spell damage                                        |
+|[Dazing Spell]                     |N/A                                                               |Daze creature with spell damage                                        |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Disruptive Spell](#disruptive-spell)             |N/A                                                               |Target of spell must make concentration check to cast a spell in the   |
+|[Disruptive Spell]             |N/A                                                               |Target of spell must make concentration check to cast a spell in the   |
 |                                                  |                                                                  |next round                                                             |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Ectoplasmic Spell](#ectoplasmic-spell)           |N/A                                                               |Spell fully affects incorporeal and ethereal creatures                 |
+|[Ectoplasmic Spell]           |N/A                                                               |Spell fully affects incorporeal and ethereal creatures                 |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Elemental Spell](#elemental-spell)               |N/A                                                               |Inflict energy damage instead of regular spell damage                  |
+|[Elemental Spell]               |N/A                                                               |Inflict energy damage instead of regular spell damage                  |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Focused Spell](#focused-spell)                   |N/A                                                               |Increase save DC of spell for one target in a group                    |
+|[Focused Spell]                   |N/A                                                               |Increase save DC of spell for one target in a group                    |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Intensified Spell](#intensified-spell)           |N/A                                                               |Increase maximum damage dice by 5 levels                               |
+|[Intensified Spell]           |N/A                                                               |Increase maximum damage dice by 5 levels                               |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Lingering Spell](#lingering-spell)               |N/A                                                               |Instantaneous area effect spell lasts for 1 round                      |
+|[Lingering Spell]               |N/A                                                               |Instantaneous area effect spell lasts for 1 round                      |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Merciful Spell](#merciful-spell)                 |N/A                                                               |Spell inflicts nonlethal damage instead of lethal                      |
+|[Merciful Spell]                 |N/A                                                               |Spell inflicts nonlethal damage instead of lethal                      |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Persistent Spell](#persistent-spell)             |N/A                                                               |Creatures who saved against a spell must save again                    |
+|[Persistent Spell]             |N/A                                                               |Creatures who saved against a spell must save again                    |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Reach Spell](#reach-spell)                       |N/A                                                               |Increase spell range to higher range category                          |
+|[Reach Spell]                       |N/A                                                               |Increase spell range to higher range category                          |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Selective Spell](#selective-spell)               |[Spellcraft](../skills/spellcraft.html#_spellcraft) 10 ranks      |Exclude targets from an area effect spell                              |
+|[Selective Spell]               |[Spellcraft](../skills/spellcraft.html#_spellcraft) 10 ranks      |Exclude targets from an area effect spell                              |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Sickening Spell](#sickening-spell)               |N/A                                                               |Sicken creature with spell damage                                      |
+|[Sickening Spell]               |N/A                                                               |Sicken creature with spell damage                                      |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Thundering Spell](#thundering-spell)             |N/A                                                               |Deafen creature with spell damage                                      |
+|[Thundering Spell]             |N/A                                                               |Deafen creature with spell damage                                      |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 
 : Advanced Teamwork Feats Table
@@ -546,27 +546,27 @@ Table: Feats
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 |Teamwork Feats                                    |Prerequisites                                                     |Benefits                                                               |
 +==================================================+==================================================================+=======================================================================+
-|[Allied Spellcaster](#allied-spellcaster)         |Caster level 1st                                                  |+2 bonus on level checks to overcome spell resistance                  |
+|[Allied Spellcaster]         |Caster level 1st                                                  |+2 bonus on level checks to overcome spell resistance                  |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Coordinated Defense\*](#coordinated-defense)     |N/A                                                               |+2 bonus to CMD                                                        |
+|[Coordinated Defense\*]     |N/A                                                               |+2 bonus to CMD                                                        |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Coordinated Maneuvers\*](#coordinated-maneuvers) |N/A                                                               |+2 bonus on combat maneuver checks                                     |
+|[Coordinated Maneuvers\*] |N/A                                                               |+2 bonus on combat maneuver checks                                     |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Duck and Cover](#duck-and-cover)                 |N/A                                                               |Take ally's result on Reflex saving throw                              |
+|[Duck and Cover]                 |N/A                                                               |Take ally's result on Reflex saving throw                              |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Lookout\*](#lookout)                             |N/A                                                               |Act in surprise round if ally can act                                  |
+|[Lookout\*]                             |N/A                                                               |Act in surprise round if ally can act                                  |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Outflank\*](#outflank)                           |Base attack bonus +4                                              |Gain +4 bonus on attack rolls when flanking                            |
+|[Outflank\*]                           |Base attack bonus +4                                              |Gain +4 bonus on attack rolls when flanking                            |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Paired Opportunists\*](#paired-opportunists)     |N/A                                                               |+4 bonus on attacks of opportunity                                     |
+|[Paired Opportunists\*]     |N/A                                                               |+4 bonus on attacks of opportunity                                     |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Precise Strike\*](#precise-strike)               |Dex 13, base attack bonus +1                                      |Deal +1d6 points of precision damage with melee attacks                |
+|[Precise Strike\*]               |Dex 13, base attack bonus +1                                      |Deal +1d6 points of precision damage with melee attacks                |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Shield Wall\*](#shield-wall)                     |[Shield Proficiency](../feats.html#_shield-proficiency)           |Increase your shield bonus to AC                                       |
+|[Shield Wall\*]                     |[Shield Proficiency](../feats.html#_shield-proficiency)           |Increase your shield bonus to AC                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Shielded Caster](#shielded-caster)               |N/A                                                               |+4 bonus on concentration checks                                       |
+|[Shielded Caster]               |N/A                                                               |+4 bonus on concentration checks                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
-|[Swap Places\*](#swap-places)                     |N/A                                                               |Switch places with an adjacent ally                                    |
+|[Swap Places\*]                     |N/A                                                               |Switch places with an adjacent ally                                    |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 
 \* This is a combat feat and can be selected as a fighter bonus feat.
@@ -666,7 +666,7 @@ bonus on [Survival](../skills/survival.html#_survival) skill checks.
 feat without having to meet the prerequisites. A ranger who selects the
 natural weapon combat style can take this feat without having to meet
 the prerequisites (even if he does not select [Aspect of the
-Beast](#aspect-of-the-beast) as a bonus feat).
+Beast] as a bonus feat).
 
 ## Bashing Finish (Combat)
 
@@ -765,10 +765,10 @@ provoke an attack of opportunity.
 opponent.
 
 **Special:** You can only apply the effects of one of the following
-feats to a given critical hit: [Bull Rush Strike](#bull-rush-strike),
-[Disarming Strike](#disarming-strike), [Repositioning
-Strike](#repositioning-strike), [Sundering Strike](#sundering-strike),
-or [Tripping Strike](#tripping-strike). You may choose to use this feat
+feats to a given critical hit: [Bull Rush Strike],
+[Disarming Strike], [Repositioning
+Strike], [Sundering Strike],
+or [Tripping Strike]. You may choose to use this feat
 after you make your confirmation roll.
 
 ## Charge Through (Combat)
@@ -808,7 +808,7 @@ different race and age category while doing so.
 
 Your tread is of unearthly lightness.
 
-**Prerequisites:** [Spider Step](#spider-step), monk level 12th.
+**Prerequisites:** [Spider Step], monk level 12th.
 
 **Benefit:** As a move action, you can *[air
 walk](../spells/airWalk.html#_air-walk)* (as the spell) up to half your
@@ -954,7 +954,7 @@ Reload](../feats.html#_rapid-reload) no longer provokes attacks of
 opportunity.
 
 **Special:** Starting at 6th level, a ranger with the archery combat
-style may select [Crossbow Mastery](#crossbow-mastery) as a combat style
+style may select [Crossbow Mastery] as a combat style
 feat.
 
 ## Dastardly Finish (Combat)
@@ -1042,10 +1042,10 @@ not provoke an attack of opportunity.
 opponent.
 
 **Special:** You can only apply the effects of one of the following
-feats to a given critical hit: [Bull Rush Strike](#bull-rush-strike),
-[Disarming Strike](#disarming-strike), [Repositioning
-Strike](#repositioning-strike), [Sundering Strike](#sundering-strike),
-or [Tripping Strike](#tripping-strike). You may choose to use this feat
+feats to a given critical hit: [Bull Rush Strike],
+[Disarming Strike], [Repositioning
+Strike], [Sundering Strike],
+or [Tripping Strike]. You may choose to use this feat
 after you make your confirmation roll.
 
 ## Disrupting Shot (Combat)
@@ -1097,7 +1097,7 @@ information from the third round in the second round of concentration).
 Slaying an enemy demoralizes your other nearby foes.
 
 **Prerequisites:** Str 15, [Power Attack](../feats.html#_power-attack),
-[Furious Focus](#furious-focus), base attack bonus +11.
+[Furious Focus], base attack bonus +11.
 
 **Benefit:** Whenever you reduce an enemy to 0 or fewer hit points, you
 can make an [Intimidate](../skills/intimidate.html#_intimidate) check to
@@ -1180,9 +1180,9 @@ attempt an elemental fist attack once per day for every four levels you
 have attained (see Special), and no more than once per round.
 
 **Special:** A monk of the four winds receives [Elemental
-Fist](#elemental-fist) as a bonus feat at 1st level, even if he does not
+Fist] as a bonus feat at 1st level, even if he does not
 meet the prerequisites. A monk may attempt an [Elemental
-Fist](#elemental-fist) attack a number of times per day equal to his
+Fist] attack a number of times per day equal to his
 monk level, plus one more time per day for every four levels he has in
 classes other than monk.
 
@@ -1259,7 +1259,7 @@ changed.
 class whose spellcasting relies on a limited list of spells known, such
 as the bard, oracle, and sorcerer.
 
-You can gain [Expanded Arcana](#expanded-arcana) multiple times.
+You can gain [Expanded Arcana] multiple times.
 
 ## Extra Bombs
 
@@ -1270,7 +1270,7 @@ You can throw more bombs per day.
 
 **Benefit:** You can throw two additional bombs per day.
 
-**Special:** You can gain [Extra Bombs](#extra-bombs) multiple times.
+**Special:** You can gain [Extra Bombs] multiple times.
 Its effects stack.
 
 ## Extra Discovery
@@ -1283,7 +1283,7 @@ You have made a new alchemical discovery.
 **Benefit:** You gain one additional discovery. You must meet all of the
 prerequisites for this discovery.
 
-**Special:** You can gain [Extra Discovery](#extra-discovery) multiple
+**Special:** You can gain [Extra Discovery] multiple
 times.
 
 ## Extra Hex
@@ -1296,7 +1296,7 @@ You have learned the secrets of a new hex.
 **Benefit:** You gain one additional hex. You must meet all of the
 prerequisites for this hex.
 
-**Special:** You can gain [Extra Hex](#extra-hex) multiple times.
+**Special:** You can gain [Extra Hex] multiple times.
 
 ## Extra Rage Power
 
@@ -1308,7 +1308,7 @@ You have unlocked a new ability to use while raging.
 **Benefit:** You gain one additional rage power. You must meet all of
 the prerequisites for this rage power.
 
-**Special:** You can gain [Extra Rage Power](#extra-rage-power) multiple
+**Special:** You can gain [Extra Rage Power] multiple
 times.
 
 ## Extra Revelation
@@ -1321,7 +1321,7 @@ You have discovered a new aspect of your mystery.
 **Benefit:** You gain one additional revelation. You must meet all of
 the prerequisites for this revelation.
 
-**Special:** You can gain [Extra Revelation](#extra-revelation) multiple
+**Special:** You can gain [Extra Revelation] multiple
 times.
 
 ## Extra Rogue Talent
@@ -1335,7 +1335,7 @@ trick.
 **Benefit:** You gain one additional rogue talent. You must meet all of
 the prerequisites for this rogue talent.
 
-**Special:** You can gain [Extra Rogue Talent](#extra-rogue-talent)
+**Special:** You can gain [Extra Rogue Talent]
 multiple times.
 
 ## Fast Drinker
@@ -1407,7 +1407,7 @@ immune to critical hits and sneak attacks are immune to this extra
 damage.
 
 **Special:** Starting at 2nd level, a ranger with the archery combat
-style may select [Focused Shot](#focused-shot) as a combat style feat.
+style may select [Focused Shot] as a combat style feat.
 
 ## Focused Spell (Metamagic)
 
@@ -1528,11 +1528,11 @@ When you pull a dirty trick, your foe is truly hindered.
 
 **Prerequisites:** Int 13, [Combat
 Expertise](../feats.html#_combat-expertise), [Improved Dirty
-Trick](#improved-dirty-trick), base attack bonus +6.
+Trick], base attack bonus +6.
 
 **Benefit:** You receive a +2 bonus on checks made to attempt a dirty
 trick. This bonus stacks with the bonus granted by [Improved Dirty
-Trick](#improved-dirty-trick). Whenever you successfully perform a dirty
+Trick]. Whenever you successfully perform a dirty
 trick, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by
 which your attack exceeds the target's CMD. In addition, removing the
 condition requires the target to spend a standard action.
@@ -1546,11 +1546,11 @@ Removing the condition requires the target to spend a move action.
 
 Foes that you drag are thrown out of balance.
 
-**Prerequisites:** Str 13, [Improved Drag](#improved-drag), [Power
+**Prerequisites:** Str 13, [Improved Drag], [Power
 Attack](../feats.html#_power-attack), base attack bonus +6.
 
 **Benefit:** You receive a +2 bonus on checks made to drag a foe. This
-bonus stacks with the bonus granted by [Improved Drag](#improved-drag).
+bonus stacks with the bonus granted by [Improved Drag].
 Whenever you drag a foe, his movement provokes attacks of opportunity
 from all of your allies (but not you).
 
@@ -1561,18 +1561,18 @@ opportunity.
 
 
 Choose an energy type to which you have already applied the [Elemental
-Focus](#elemental-focus) feat. Any spells you cast of this energy type
+Focus] feat. Any spells you cast of this energy type
 are very hard to resist.
 
-**Prerequisite:** [Elemental Focus](#elemental-focus).
+**Prerequisite:** [Elemental Focus].
 
 **Benefit:** Add +1 to the Difficulty Class for all saving throws
 against spells that deal damage of the energy type you select. This
-bonus stacks with the bonus from [Elemental Focus](#elemental-focus).
+bonus stacks with the bonus from [Elemental Focus].
 
 **Special:** You can gain this feat multiple times. Its effects do not
 stack. Each time you take this feat, it applies to a new energy type to
-which you have already applied the [Elemental Focus](#elemental-focus)
+which you have already applied the [Elemental Focus]
 feat.
 
 ## Greater Reposition (Combat)
@@ -1583,11 +1583,11 @@ your allies.
 
 **Prerequisites:** Int 13, [Combat
 Expertise](../feats.html#_combat-expertise), [Improved
-Reposition](#improved-reposition), base attack bonus +6.
+Reposition], base attack bonus +6.
 
 **Benefit:** You receive a +2 bonus on checks made to reposition a foe.
 This bonus stacks with the bonus granted by [Improved
-Reposition](#improved-reposition). Whenever you reposition a foe, his
+Reposition]. Whenever you reposition a foe, his
 movement provokes attacks of opportunity from all of your allies (but
 not you).
 
@@ -1603,15 +1603,15 @@ areas.
 **Prerequisites:** Proficiency with selected shield, [Greater Shield
 Focus](../feats.html#_greater-shield-focus), [Shield
 Focus](../feats.html#_shield-focus), [Shield
-Specialization](#shield-specialization) with selected shield, fighter
+Specialization] with selected shield, fighter
 level 12th.
 
 **Benefit:** Choose one type of shield (buckler, light, heavy, or tower
 shield) for which you possess the [Shield
-Specialization](#shield-specialization) feat. With the selected shield,
+Specialization] feat. With the selected shield,
 you gain a +2 bonus to your Armor Class against critical hit
 confirmation rolls (this bonus stacks with that from [Shield
-Specialization](#shield-specialization)). In addition, once per day you
+Specialization]). In addition, once per day you
 may negate a critical hit, and damage is instead rolled normally.
 
 **Special:** You can gain this feat multiple times. Its effects do not
@@ -1624,11 +1624,11 @@ You have a knack for snatching items from your opponents in combat.
 
 **Prerequisites:** Int 13, [Combat
 Expertise](../feats.html#_combat-expertise), [Improved
-Steal](#improved-steal), base attack bonus +6.
+Steal], base attack bonus +6.
 
 **Benefit:** You receive a +2 bonus on checks made to steal an item from
 a foe. This bonus stacks with the bonus granted by [Improved
-Steal](#improved-steal). If you successfully steal an item from a foe
+Steal]. If you successfully steal an item from a foe
 during combat, it does not notice the theft until after combat is over
 or if it attempts to use the missing item.
 
@@ -1784,13 +1784,13 @@ later attacks.
 
 **Prerequisites:** Int 13, [Combat
 Expertise](../feats.html#_combat-expertise), [Second
-Chance](#second-chance), base attack bonus +11.
+Chance], base attack bonus +11.
 
 **Benefit:** When you reroll a missed attack using the [Second
-Chance](#second-chance) feat, you can still make the rest of your
+Chance] feat, you can still make the rest of your
 attacks that turn, albeit at a –5 penalty to each attack.
 
-**Normal:** When using the [Second Chance](#second-chance) feat, you
+**Normal:** When using the [Second Chance] feat, you
 must normally forgo the rest of your attacks that turn.
 
 ## Improved Share Spells
@@ -1828,14 +1828,14 @@ You are adept at sidestepping your opponent's melee attacks without
 compromising your mobility.
 
 **Prerequisites:** Dex 15, [Dodge](../feats.html#_dodge),
-[Mobility](../feats.html#_mobility), [Sidestep](#sidestep).
+[Mobility](../feats.html#_mobility), [Sidestep].
 
 **Benefit:** After sidestepping an opponent's missed attack using the
-[Sidestep](#sidestep) feat, you may still take a 5-foot step during your
+[Sidestep] feat, you may still take a 5-foot step during your
 next turn, or you may move up to your full speed if you take an action
 to move during your next turn.
 
-**Normal:** If you use the [Sidestep](#sidestep) feat, you cannot take a
+**Normal:** If you use the [Sidestep] feat, you cannot take a
 5-foot step during your next turn.
 
 ## Improved Steal (Combat)
@@ -1885,7 +1885,7 @@ actual level.
 
 You put yourself in danger's path to save your allies.
 
-**Prerequisite:** [Bodyguard](#bodyguard).
+**Prerequisite:** [Bodyguard].
 
 **Benefit:** While using the aid another action to improve an adjacent
 ally's AC, you can intercept a successful attack against that ally as an
@@ -2044,7 +2044,7 @@ place of his own.
 
 You can cast a single low-level spell as a spell-like ability.
 
-**Prerequisites:** [Minor Spell Expertise](#minor-spell-expertise),
+**Prerequisites:** [Minor Spell Expertise],
 ability to cast 9th-level spells.
 
 **Benefit:** Choose one spell that you know of 5th level or lower. You
@@ -2143,7 +2143,7 @@ Combat](../feats.html#_mounted-combat) feat.
 You are adept at attacking from upon a swift moving steed.
 
 **Prerequisites:** [Ride](../skills/ride.html#_ride) rank 14, [Mounted
-Combat](../feats.html#_mounted-combat), [Trick Riding](#trick-riding).
+Combat](../feats.html#_mounted-combat), [Trick Riding].
 
 **Benefit:** If your mount moves its speed or less, you can still take a
 full-attack action.
@@ -2207,7 +2207,7 @@ make a single ranged attack at any point during your movement.
 **Normal:** You cannot attack when using the withdraw action.
 
 **Special:** Starting at 6th level, a ranger with the archery combat
-style may select [Parting Shot](#parting-shot) as a combat style feat.
+style may select [Parting Shot] as a combat style feat.
 
 ## Pass For Human
 
@@ -2226,7 +2226,7 @@ populated or settled by humans, you can take 10 on your
 tend to assume you are human unless given a reason to think otherwise.
 
 **Special:** A halfling may take this feat, but must have the
-[Childlike](#childlike) feat as a prerequisite. The benefits of the two
+[Childlike] feat as a prerequisite. The benefits of the two
 feats stack.
 
 ## Perfect Strike (Combat)
@@ -2248,7 +2248,7 @@ per day for every four levels you have attained (but see Special), and
 no more than once per round.
 
 **Special:** A weapon master monk or zen archer monk receives [Perfect
-Strike](#perfect-strike) as a bonus feat at 1st level, even if he does
+Strike] as a bonus feat at 1st level, even if he does
 not meet the prerequisites. A monk may attempt an perfect strike attack
 a number of times per day equal to his monk level, plus one more time
 per day for every four levels he has in classes other than monk.
@@ -2285,7 +2285,7 @@ attacks of opportunity when firing the selected weapon while threatened.
 attacks of opportunity.
 
 **Special:** Starting at 6th level, a ranger with the archery combat
-style may select [Point Blank Master](#point-blank-master) as a combat
+style may select [Point Blank Master] as a combat
 style feat, but he must have [Weapon Focus](../feats.html#_weapon-focus)
 instead of [Weapon Specialization](../feats.html#_weapon-specialization)
 in the selected weapon.
@@ -2301,7 +2301,7 @@ combat.
 **Benefit:** You can use your tactician ability to grant allies a
 teamwork feat one additional time per day.
 
-**Special:** You can gain [Practiced Tactician](#practiced-tactician)
+**Special:** You can gain [Practiced Tactician]
 multiple times. Its effects stack.
 
 ## Precise Strike (Combat, Teamwork)
@@ -2358,7 +2358,7 @@ for every four levels you have attained (but see Special), and no more
 than once per round.
 
 **Special:** A hungry ghost monk receives [Punishing
-Kick](#punishing-kick) as a bonus feat at 1st level, even if he does not
+Kick] as a bonus feat at 1st level, even if he does not
 meet the prerequisites. A monk may attempt a punishing kick attack a
 number of times per day equal to his monk level, plus one more time per
 day for every four levels he has in classes other than monk.
@@ -2412,7 +2412,7 @@ day each round.
 
 You can even deflect rays with your shield.
 
-**Prerequisites:** Dex 15, [Missile Shield](#missile-shield),
+**Prerequisites:** Dex 15, [Missile Shield],
 [Spellbreaker](../feats.html#_spellbreaker).
 
 **Benefit:** You must be using a light, heavy, or tower shield to use
@@ -2485,10 +2485,10 @@ not provoke an attack of opportunity.
 an opponent.
 
 **Special:** You can only apply the effects of one of the following
-feats to a given critical hit: [Bull Rush Strike](#bull-rush-strike),
-[Disarming Strike](#disarming-strike), [Repositioning
-Strike](#repositioning-strike), [Sundering Strike](#sundering-strike),
-or [Tripping Strike](#tripping-strike). You may choose to use this feat
+feats to a given critical hit: [Bull Rush Strike],
+[Disarming Strike], [Repositioning
+Strike], [Sundering Strike],
+or [Tripping Strike]. You may choose to use this feat
 after you make your confirmation roll.
 
 ## Saving Shield (Combat)
@@ -2689,7 +2689,7 @@ objects.
 
 You can catch the sour scent of fear on the wind.
 
-**Prerequisites:** [Keen Scent](#keen-scent), half-orc or orc.
+**Prerequisites:** [Keen Scent], half-orc or orc.
 
 **Benefit:** You receive a +4 bonus on
 [Perception](../skills/perception.html#_perception) checks to detect
@@ -2783,11 +2783,11 @@ against spells and spell-like abilities.
 
 When a foe tries to move away, you can follow and make an attack.
 
-**Prerequisites:** Dex 13, [Following Step](#following-step), [Step
+**Prerequisites:** Dex 13, [Following Step], [Step
 Up](../feats.html#_step-up), base attack bonus +6.
 
 **Benefit:** When using the [Step Up](../feats.html#_step-up) or
-[Following Step](#following-step) feats to follow an adjacent foe, you
+[Following Step] feats to follow an adjacent foe, you
 may also make a single melee attack against that foe at your highest
 base attack bonus. This attack counts as one of your attacks of
 opportunity for the round. Using this feat does not count toward the
@@ -2815,7 +2815,7 @@ about you is 25 rather than 20.
 
 You can feel movement in the very earth and stones around you.
 
-**Prerequisites:** [Improved Stonecunning](#improved-stonecunnin),
+**Prerequisites:** [Improved Stonecunning],
 [Perception](../skills/perception.html#_perception) 10 ranks.
 
 **Benefit:** You gain tremorsense to a range of 10 feet.
@@ -2881,10 +2881,10 @@ not provoke an attack of opportunity.
 opponent's weapon.
 
 **Special:** You can only apply the effects of one of the following
-feats to a given critical hit: [Bull Rush Strike](#bull-rush-strike),
-[Disarming Strike](#disarming-strike), [Repositioning
-Strike](#repositioning-strike), [Sundering Strike](#sundering-strike),
-or [Tripping Strike](#tripping-strike). You may choose to use this feat
+feats to a given critical hit: [Bull Rush Strike],
+[Disarming Strike], [Repositioning
+Strike], [Sundering Strike],
+or [Tripping Strike]. You may choose to use this feat
 after you make your confirmation roll.
 
 ## Swap Places (Combat, Teamwork)
@@ -2937,7 +2937,7 @@ When you are ganging up against an enemy, you can aid an ally with a
 quick feint.
 
 **Prerequisites:** Int 13, [Combat
-Expertise](../feats.html#_combat-expertise), [Gang Up](#gang-up), base
+Expertise](../feats.html#_combat-expertise), [Gang Up], base
 attack bonus +6.
 
 **Benefit:** When you and at least two of your allies are adjacent to an
@@ -3010,7 +3010,7 @@ serenity once per day for every four levels you have attained (but see
 Special), and no more than once per round.
 
 **Special:** A monk of the lotus receives [Touch of
-Serenity](#touch-of-serenity) as a bonus feat at 1st level, even if he
+Serenity] as a bonus feat at 1st level, even if he
 does not meet the prerequisites. A monk may attempt a touch of serenity
 a number of times per day equal to his monk level, plus one more time
 per day for every four levels he has in classes other than monk.
@@ -3050,10 +3050,10 @@ trip attempt, you can drop your weapon to avoid being tripped.
 **Normal:** You must perform a trip combat maneuver to trip an opponent.
 
 **Special:** You can only apply the effects of one of the following
-feats to a given critical hit: [Bull Rush Strike](#bull-rush-strike),
-[Disarming Strike](#disarming-strike), [Repositioning
-Strike](#repositioning-strike), [Sundering Strike](#sundering-strike),
-or [Tripping Strike](#tripping-strike). You may choose to use this feat
+feats to a given critical hit: [Bull Rush Strike],
+[Disarming Strike], [Repositioning
+Strike], [Sundering Strike],
+or [Tripping Strike]. You may choose to use this feat
 after you make your confirmation roll.
 
 ## Under and Over (Combat)
