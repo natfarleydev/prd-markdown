@@ -28,11 +28,11 @@ ability, the wearer gains a +2 sacred bonus to AC against attacks from
 the chosen opponent.
 
 Faint abjuration; CL 5th; [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 *[protection from
-evil](/pathfinderRPG/prd/spells/protectionFromEvil.html#_protection-from-evil)*
+evil]*
 or *[protection from
-good](/pathfinderRPG/prd/spells/protectionFromGood.html#_protection-from-good)*;
+good]*;
 Price +1 bonus.
 
 **Dastard**: This armor property only works for evil creatures with the
@@ -43,74 +43,74 @@ ability, the wearer gains a +2 profane bonus to AC against attacks from
 the chosen opponent.
 
 Faint abjuration; CL 5th; [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 *[protection from
-evil](/pathfinderRPG/prd/spells/protectionFromEvil.html#_protection-from-evil)*
+evil]*
 or *[protection from
-good](/pathfinderRPG/prd/spells/protectionFromGood.html#_protection-from-good)*;
+good]*;
 Price +1 bonus.
 
 **Determination**: A shield or armor with this property provides the
 ability to fight on against seemingly impossible odds. Once per day,
 when the owner reaches 0 or fewer hit points, the item automatically
 provides a *[breath of
-life](/pathfinderRPG/prd/spells/breathOfLife.html#_breath-of-life)*
+life]*
 spell.
 
 Moderate conjuration; CL 10th; [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 *[breath of
-life](/pathfinderRPG/prd/spells/breathOfLife.html#_breath-of-life)*;
+life]*;
 Price +30,000 gp.
 
 **Jousting**: This suit of armor helps its wearer remain mounted and in
 control of his mount. The wearer gains a +5 competence bonus on
-[Ride](/pathfinderRPG/prd/skills/ride.html#_ride) skill checks.
+[Ride] skill checks.
 
 Faint transmutation; CL 5th; [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 creator must have 5 ranks in the
-[Ride](/pathfinderRPG/prd/skills/ride.html#_ride) skill; Price +3,750
+[Ride] skill; Price +3,750
 gp.
 
 **Righteous**: Armor with this property is often engraved or enameled
 with religious symbols. On command once per day, the wearer can invoke
 an effect, as per the spell *[righteous
-might](/pathfinderRPG/prd/spells/righteousMight.html#_righteous-might)*,
+might]*,
 lasting for 10 rounds. Righteous armor is always aligned toward good
 (positive energy), for the effects of *[righteous
-might](/pathfinderRPG/prd/spells/righteousMight.html#_righteous-might)*.
+might]*.
 *[Righteous]* armor bestows one permanent negative level on
 any evil creature attempting to wear it. The negative level remains as
 long as the armor is worn and disappears when it is removed. This
 negative level cannot be overcome in any way (including by
-*[restoration](/pathfinderRPG/prd/spells/restoration.html#_restoration)*
+*[restoration]*
 spells) while the armor is worn.
 
 Moderate transmutation; CL 10th; [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 *[righteous
-might](/pathfinderRPG/prd/spells/righteousMight.html#_righteous-might)*;
+might]*;
 Cost +27,000 gp.
 
 **Unrighteous**: This armor is often sculpted with unholy symbols. On
 command once per day, the wearer can invoke an effect, as per the spell
 *[righteous
-might](/pathfinderRPG/prd/spells/righteousMight.html#_righteous-might)*,
+might]*,
 lasting for 10 rounds. *[Unrighteous]* armor is always
 aligned toward evil (negative energy), for the effects of *[righteous
-might](/pathfinderRPG/prd/spells/righteousMight.html#_righteous-might)*.
+might]*.
 Unrighteous armor bestows one permanent negative level on any good
 creature attempting to wear it. The negative level remains as long as
 the armor is worn and disappears when it is removed. This negative level
 cannot be overcome in any way (including by
-*[restoration](/pathfinderRPG/prd/spells/restoration.html#_restoration)*
+*[restoration]*
 spells) while the armor is worn.
 
 Moderate transmutation; CL 10th; [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 *[righteous
-might](/pathfinderRPG/prd/spells/righteousMight.html#_righteous-might)*;
+might]*;
 Cost +27,000 gp.
 
 # Specific Armors
@@ -196,8 +196,8 @@ has no effect on creatures that do not use a spoken language.
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
-*[confusion](/pathfinderRPG/prd/spells/confusion.html#_confusion)*;
+Armor],
+*[confusion]*;
 **Cost** 7,675 gp
 
 **Boneless Leather**
@@ -211,21 +211,21 @@ Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
 This suit of *+1 leather* gives its wearer the ability to twist and
 contort his body in virtually any direction. He gains a +5 bonus on
 [Escape
-Artist](/pathfinderRPG/prd/skills/escapeArtist.html#_escape-artist)
+Artist]
 checks, a +5 bonus on
-[Acrobatics](/pathfinderRPG/prd/skills/acrobatics.html#_acrobatics)
+[Acrobatics]
 checks to reduce damage from falls, a +5 bonus to CMD, and DR 5/piercing
 or slashing.
 
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
-*[alter self](/pathfinderRPG/prd/spells/alterSelf.html#_alter-self)*,
+Armor],
+*[alter self]*,
 creator must have 5 ranks in the
-[Acrobatics](/pathfinderRPG/prd/skills/acrobatics.html#_acrobatics) and
+[Acrobatics] and
 [Escape
-Artist](/pathfinderRPG/prd/skills/escapeArtist.html#_escape-artist)
+Artist]
 skills; **Cost** 6,160 gp
 
 **Buccaneer's Breastplate**
@@ -239,15 +239,15 @@ skills; **Cost** 6,160 gp
 This *+1 breastplate* is made of bluish metal and decorated with wave
 motifs. It allows the wearer to continually utilize the effects of the
 spell *[water
-walk](/pathfinderRPG/prd/spells/waterWalk.html#_water-walk)*. If a
+walk]*. If a
 creature puts on the armor while underwater, the wearer is borne toward
 the surface at a rate of 60 feet per round.
 
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
-*[water walk](/pathfinderRPG/prd/spells/waterWalk.html#_water-walk)*;
+Armor],
+*[water walk]*;
 **Cost** 12,100 gp
 
 **Daystar Half-Plate**
@@ -260,17 +260,17 @@ Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
 
 The silvery sheen of this *+1 half-plate* causes it to sparkle in even
 the faintest light. At will, the wearer can command it to shine with a
-*[daylight](/pathfinderRPG/prd/spells/daylight.html#_daylight)* spell
+*[daylight]* spell
 for 10 minutes. Once per day, the wearer can command it to shine as per
-the *[sunburst](/pathfinderRPG/prd/spells/sunburst.html#_sunburst)*
+the *[sunburst]*
 spell.
 
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
-*[daylight](/pathfinderRPG/prd/spells/daylight.html#_daylight)*,
-*[sunburst](/pathfinderRPG/prd/spells/sunburst.html#_sunburst)*;
+Armor],
+*[daylight]*,
+*[sunburst]*;
 **Cost** 41,000 gp
 
 **Folding Plate**
@@ -294,9 +294,9 @@ if the wearer is already armored.
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 *[instant
-summons](/pathfinderRPG/prd/spells/instantSummons.html#_instant-summons)*;
+summons]*;
 **Cost** 7,650 gp
 
 **Forsaken Banded Mail**
@@ -319,7 +319,7 @@ outsider serving a deity), and treats the armor's enhancement bonus as
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 creator cannot be a divine spellcaster; **Cost** 12,900 gp
 
 **Giant-Hide Armor**
@@ -335,9 +335,9 @@ creator cannot be a divine spellcaster; **Cost** 12,900 gp
 This drooping, many-folded suit of *+3 hide armor* is made from the
 tanned skin of an actual giant. Once per day on command, the wearer can
 grow to match the size of the appropriate giant, as if using *[giant
-form I](/pathfinderRPG/prd/spells/giantForm.html#_giant-form-i)* (ogre,
+form I]* (ogre,
 troll, hill giant, stone giant, fire giant, or frost giant) or *[giant
-form II](/pathfinderRPG/prd/spells/giantForm.html#_giant-form-ii)*
+form II]*
 (cloud giant or storm giant). This transformation lasts up to 15
 minutes, and ends when the wearer commands. Most good folk consider
 wearing the skins of intelligent creatures to be abhorrent. Giants gain
@@ -348,11 +348,11 @@ attacker.
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
-*[giant form I](/pathfinderRPG/prd/spells/giantForm.html#_giant-form-i)*
+Armor],
+*[giant form I]*
 (ogre, troll, hill giant, stone giant, fire giant, or frost giant) or
 *[giant form
-II](/pathfinderRPG/prd/spells/giantForm.html#_giant-form-ii)* (cloud
+II]* (cloud
 giant or storm giant); **Cost** 19,660 gp (ogre), 23,415 gp (hill
 giant), 29,665 gp (troll), 27,165 gp (stone, fire, or frost giant),
 34,665 gp (cloud giant), 38,415 gp (storm giant)
@@ -378,9 +378,9 @@ fog form, it reforms at the character's feet.
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 *[obscuring
-mist](/pathfinderRPG/prd/spells/obscuringMist.html#_obscuring-mist)*;
+mist]*;
 **Cost** 1,250 gp
 
 **Murderer's Blackcloth**
@@ -392,7 +392,7 @@ mist](/pathfinderRPG/prd/spells/obscuringMist.html#_obscuring-mist)*;
 **Description**
 
 This silk *+1
-[shadow](/pathfinderRPG/prd/magicItems/armor.html#_armor-shadow) padded
+[shadow] padded
 armor* is as dark as night and stitched with thread the color of dried
 blood. When worn by a rogue with the bleed talent, it increases the
 bleed damage of the rogue's sneak attacks by +1.
@@ -400,10 +400,10 @@ bleed damage of the rogue's sneak attacks by +1.
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
-*[bleed](/pathfinderRPG/prd/spells/bleed.html#_bleed)*,
-*[invisibility](/pathfinderRPG/prd/spells/invisibility.html#_invisibility)*,
-*[silence](/pathfinderRPG/prd/spells/silence.html#_silence)*; **Cost**
+Armor],
+*[bleed]*,
+*[invisibility]*,
+*[silence]*; **Cost**
 6,280 gp
 
 **Soothsayer's Raiment**
@@ -426,15 +426,15 @@ oracle can use that ability one additional time per day. This ability
 has no effect if worn by a non-oracle.
 
 For divination spells with a percentage-based chance of success (such as
-*[augury](/pathfinderRPG/prd/spells/augury.html#_augury)* and
-*[divination](/pathfinderRPG/prd/spells/divination.html#_divination)*),
+*[augury]* and
+*[divination]*),
 the wearer's chance increases by +5.
 
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
-*[augury](/pathfinderRPG/prd/spells/augury.html#_augury)*, creator must
+Armor],
+*[augury]*, creator must
 be an oracle with the desired revelation; **Cost** 5,300 gp
 
 # Specific Shields
@@ -455,7 +455,7 @@ be an oracle with the desired revelation; **Cost** 5,300 gp
 **Description**
 
 Once per day on command, this *+2 tower
-[shield](/pathfinderRPG/prd/spells/shield.html#_shield)* can transform
+[shield]* can transform
 into a solid, 10-foot by 10-foot by 1-foot wall of masonry with a
 battlement on top and an arrow slit in each 5-foot length. The wall acts
 as cover just like any physical wall. The wielder can touch the wall
@@ -472,9 +472,9 @@ accommodate it.
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 *[wall of
-stone](/pathfinderRPG/prd/spells/wallOfStone.html#_wall-of-stone)*;
+stone]*;
 **Cost** 8,180 gp
 
 **Fortress Shield**
@@ -486,7 +486,7 @@ stone](/pathfinderRPG/prd/spells/wallOfStone.html#_wall-of-stone)*;
 **Description**
 
 The wearer of this *+1 tower
-[shield](/pathfinderRPG/prd/spells/shield.html#_shield)* may, as a
+[shield]* may, as a
 full-round action, transform the shield into a 1-inch thick cube of iron
 that springs into being around him, completely enclosing his space. The
 cube has hardness 10 and 30 hit points per side. This cube grants the
@@ -503,9 +503,9 @@ unconscious or dies.
 **Construction**
 
 **Requirements** [Craft Magic Arms and
-Armor](/pathfinderRPG/prd/feats.html#_craft-magic-arms-and-armor),
+Armor],
 *[wall of
-iron](/pathfinderRPG/prd/spells/wallOfIron.html#_wall-of-iron)*;
+iron]*;
 **Cost** 9,680 gp
 
 Cursed Items

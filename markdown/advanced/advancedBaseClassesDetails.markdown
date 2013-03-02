@@ -4538,7 +4538,7 @@ utilizing the same rules as for any other familiar.
 These familiars make use these statistics: the [house
 centipede](), [king
 crab], [greensting
-scorpion](/pathfinderRPG/prd/ultimateMagic/magic/newFamiliars.html#greensting-scorpion-cr-1/4),
+scorpion],
 fox ([dog] with the [young
 template]),
 octopus ([octopus] with the [young
