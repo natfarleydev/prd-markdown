@@ -7,12 +7,12 @@ The following armor and shield properties add to those presented in the
 
   Minor   Medium   Major    Special Ability                   Base Price Modifier
   ------- -------- -------- --------------------------------- ---------------------
-  01-40   01-35    01-19    *[Champion]*           +1 bonus^1^
-  41-80   36-66    20-37    *[Dastard]*             +1 bonus^1^
-  81-99   67-70    38-39    *[Jousting]*           +3,750 gp
-  —       71-83    40-61    *[Righteous]*         +27,000 gp
-  —       84-96    62-80    *[Unrighteous]*     +27,000 gp
-  —       97-99    81-90    [Determination]   +30,000 gp
+  01-40   01-35    01-19    *[Champion]*                      +1 bonus^1^
+  41-80   36-66    20-37    *[Dastard]*                       +1 bonus^1^
+  81-99   67-70    38-39    *[Jousting]*                      +3,750 gp
+  —       71-83    40-61    *[Righteous]*                     +27,000 gp
+  —       84-96    62-80    *[Unrighteous]*                   +27,000 gp
+  —       97-99    81-90    [Determination]                   +30,000 gp
   100     100      91-100   Roll again twice2                 —
 
   : Table: Armor Special Abilities
@@ -27,12 +27,9 @@ template). When worn by such a creature that uses a challenge or smite
 ability, the wearer gains a +2 sacred bonus to AC against attacks from
 the chosen opponent.
 
-Faint abjuration; CL 5th; [Craft Magic Arms and
-Armor],
-*[protection from
-evil]*
-or *[protection from
-good]*;
+Faint abjuration; CL 5th; [Craft Magic Arms and Armor],
+*[protection from evil]*
+or *[Protection from Good]*;
 Price +1 bonus.
 
 **Dastard**: This armor property only works for evil creatures with the
@@ -42,44 +39,35 @@ template). When worn by such a creature that uses a challenge or smite
 ability, the wearer gains a +2 profane bonus to AC against attacks from
 the chosen opponent.
 
-Faint abjuration; CL 5th; [Craft Magic Arms and
-Armor],
-*[protection from
-evil]*
-or *[protection from
-good]*;
+Faint abjuration; CL 5th; [Craft Magic Arms and Armor],
+*[Protection from Evil]*
+or *[Protection from Good]*;
 Price +1 bonus.
 
 **Determination**: A shield or armor with this property provides the
 ability to fight on against seemingly impossible odds. Once per day,
 when the owner reaches 0 or fewer hit points, the item automatically
-provides a *[breath of
-life]*
+provides a *[Breath of Life]*
 spell.
 
-Moderate conjuration; CL 10th; [Craft Magic Arms and
-Armor],
-*[breath of
-life]*;
+Moderate conjuration; CL 10th; [Craft Magic Arms and Armor],
+*[Breath of Life]*;
 Price +30,000 gp.
 
 **Jousting**: This suit of armor helps its wearer remain mounted and in
 control of his mount. The wearer gains a +5 competence bonus on
 [Ride] skill checks.
 
-Faint transmutation; CL 5th; [Craft Magic Arms and
-Armor],
+Faint transmutation; CL 5th; [Craft Magic Arms and Armor],
 creator must have 5 ranks in the
 [Ride] skill; Price +3,750
 gp.
 
 **Righteous**: Armor with this property is often engraved or enameled
 with religious symbols. On command once per day, the wearer can invoke
-an effect, as per the spell *[righteous
-might]*,
+an effect, as per the spell *[Righteous Might]*,
 lasting for 10 rounds. Righteous armor is always aligned toward good
-(positive energy), for the effects of *[righteous
-might]*.
+(positive energy), for the effects of *[righteous might]*.
 *[Righteous]* armor bestows one permanent negative level on
 any evil creature attempting to wear it. The negative level remains as
 long as the armor is worn and disappears when it is removed. This
@@ -114,59 +102,59 @@ might]*;
 Cost +27,000 gp.
 
 # Specific Armors
-+----------+----------+--------------------------------------------------+----------+
-|Medium    |Major     |Specific Armor                                    |Market    |
-|          |          |                                                  |Price     |
-+==========+==========+==================================================+==========+
-|01-20     |01-02     |*[Mistmail]*                          |2,250 gp  |
-+----------+----------+--------------------------------------------------+----------+
-|21-35     |03-05     |*[Soothsayer's raiment]*   |10,300 gp |
-|          |          |                                                  |          |
-+----------+----------+--------------------------------------------------+----------+
-|36-50     |06        |*[Boneless leather]*          |12,160 gp |
-|          |          |                                                  |          |
-+----------+----------+--------------------------------------------------+----------+
-|51-65     |07        |*[Murderer's blackcloth]*|12,405 gp |
-|          |          |                                                  |          |
-+----------+----------+--------------------------------------------------+----------+
-|66-90     |08-12     |*[Folding plate]*                 |12,650 gp |
-+----------+----------+--------------------------------------------------+----------+
-|91-100    |13-27     |*[Armor of insults]*          |16,175 gp |
-|          |          |                                                  |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |28-42     |*[Buccaneer's                                     |23,850 gp |
-|          |          |breastplate]*          |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |43-49     |*[Forsaken banded mail]*  |25,400 gp |
-|          |          |                                                  |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |50-61     |*[Giant-hide armor] (ogre)*   |39,165 gp |
-|          |          |                                                  |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |62-71     |*[Giant-hide armor] (hill     |46,665 gp |
-|          |          |giant)*                                           |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |72-81     |*[Giant-hide armor] (stone    |54,165 gp |
-|          |          |giant)*                                           |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |82-86     |*[Giant-hide armor] (fire     |54,165 gp |
-|          |          |giant)*                                           |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |87-91     |*[Giant-hide armor] (frost    |54,165 gp |
-|          |          |giant)*                                           |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |92-96     |*[Giant-hide armor] (troll)*  |59,165 gp |
-|          |          |                                                  |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |97        |*[Giant-hide armor] (cloud    |69,165 gp |
-|          |          |giant)*                                           |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |98        |*[Giant-hide armor] (storm    |76,665 gp |
-|          |          |giant)*                                           |          |
-+----------+----------+--------------------------------------------------+----------+
-|—         |99-100    |*[Daystar half-plate]*      |81,250 gp |
-|          |          |                                                  |          |
-+----------+----------+--------------------------------------------------+----------+
++------+------+-----------------------------------+----------+
+|Medium|Major |Specific Armor                     |Market    |
+|      |      |                                   |Price     |
++======+======+===================================+==========+
+|01-20 |01-02 |*[Mistmail]*                       |2,250 gp  |
++------+------+-----------------------------------+----------+
+|21-35 |03-05 |*[Soothsayer's raiment]*           |10,300 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|36-50 |06    |*[Boneless leather]*               |12,160 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|51-65 |07    |*[Murderer's blackcloth]*          |12,405 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|66-90 |08-12 |*[Folding plate]*                  |12,650 gp |
++------+------+-----------------------------------+----------+
+|91-100|13-27 |*[Armor of insults]*               |16,175 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |28-42 |*[Buccaneer's Breastplate]*        |23,850 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |43-49 |*[Forsaken Banded Mail]*           |25,400 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |50-61 |*[Giant-hide Armor] (ogre)*        |39,165 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |62-71 |*[Giant-hide Armor] (hill giant)*  |46,665 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |72-81 |*[Giant-hide Armor] (stone giant)* |54,165 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |82-86 |*[Giant-hide Armor] (fire giant)*  |54,165 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |87-91 |*[Giant-hide Armor] (frost giant)* |54,165 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |92-96 |*[Giant-hide Armor] (troll)*       |59,165 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |97    |*[Giant-hide Armor] (cloud giant)* |69,165 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |98    |*[Giant-hide Armor] (storm giant)* |76,665 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
+|—     |99-100|*[Daystar Half-plate]*             |81,250 gp |
+|      |      |                                   |          |
++------+------+-----------------------------------+----------+
 
 
 Table: Specific Armors
@@ -210,8 +198,7 @@ Armor],
 
 This suit of *+1 leather* gives its wearer the ability to twist and
 contort his body in virtually any direction. He gains a +5 bonus on
-[Escape
-Artist]
+[Escape Artist]
 checks, a +5 bonus on
 [Acrobatics]
 checks to reduce damage from falls, a +5 bonus to CMD, and DR 5/piercing
@@ -219,8 +206,7 @@ or slashing.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[alter self]*,
 creator must have 5 ranks in the
 [Acrobatics] and
@@ -245,8 +231,7 @@ the surface at a rate of 60 feet per round.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[water walk]*;
 **Cost** 12,100 gp
 
@@ -267,8 +252,7 @@ spell.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[daylight]*,
 *[sunburst]*;
 **Cost** 41,000 gp
@@ -293,8 +277,7 @@ if the wearer is already armored.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[instant
 summons]*;
 **Cost** 7,650 gp
@@ -318,8 +301,7 @@ outsider serving a deity), and treats the armor's enhancement bonus as
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 creator cannot be a divine spellcaster; **Cost** 12,900 gp
 
 **Giant-Hide Armor**
@@ -347,8 +329,7 @@ attacker.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[giant form I]*
 (ogre, troll, hill giant, stone giant, fire giant, or frost giant) or
 *[giant form
@@ -377,8 +358,7 @@ fog form, it reforms at the character's feet.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[obscuring
 mist]*;
 **Cost** 1,250 gp
@@ -399,8 +379,7 @@ bleed damage of the rogue's sneak attacks by +1.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[bleed]*,
 *[invisibility]*,
 *[silence]*; **Cost**
@@ -432,8 +411,7 @@ the wearer's chance increases by +5.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[augury]*, creator must
 be an oracle with the desired revelation; **Cost** 5,300 gp
 
@@ -471,8 +449,7 @@ accommodate it.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[wall of
 stone]*;
 **Cost** 8,180 gp
@@ -502,8 +479,7 @@ unconscious or dies.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[wall of
 iron]*;
 **Cost** 9,680 gp
@@ -2614,8 +2590,7 @@ the *[allying] weapon*'s wielder's next turn. The enhancement
 bonus from the *[allying] weapon* does not stack with the
 enhancement bonus on the ally's weapon (if any).
 
-Faint transmutation; CL 5th; [Craft Magic Arms and
-Armor], *[magic
+Faint transmutation; CL 5th; [Craft Magic Arms and Armor], *[magic
 weapon]*; Price +1 bonus.
 
 **Conductive**: A conductive weapon is able to channel the energy of a
@@ -2635,8 +2610,7 @@ hands. This weapon property can only be used once per round, and only
 works with magical abilities of the same type as the weapon (melee or
 ranged).
 
-Moderate necromancy; CL 8th; [Craft Magic Arms and
-Armor], *[spectral
+Moderate necromancy; CL 8th; [Craft Magic Arms and Armor], *[spectral
 hand]*; Price +1 bonus.
 
 **Corrosive**: Upon command, a *[corrosive] weapon* becomes
@@ -2644,8 +2618,7 @@ slick with acid that deals an extra 1d6 points of acid damage on a
 successful hit. The acid does not harm the wielder. The effect remains
 until another command is given.
 
-Moderate evocation; CL 10th; [Craft Magic Arms and
-Armor], *[acid
+Moderate evocation; CL 10th; [Craft Magic Arms and Armor], *[acid
 arrow]*; Price +1 bonus.
 
 **Corrosive Burst**: A corrosive burst weapon functions as a corrosive
@@ -2660,8 +2633,7 @@ points of acid damage instead, and if the modifier is ×4, add an extra
 Even if the *[corrosive]*ability is not active, the weapon
 still deals its extra acid damage on a successful critical hit.
 
-Moderate evocation; CL 12th; [Craft Magic Arms and
-Armor], *[acid
+Moderate evocation; CL 12th; [Craft Magic Arms and Armor], *[acid
 arrow]*; Price +2 bonus.
 
 **Cunning**: This special ability allows a weapon to find chinks in a
@@ -2673,8 +2645,7 @@ target's creature type (such as
 [Knowledge] [planes] for an
 outsider opponent).
 
-Moderate divination; CL 6th; [Craft Magic Arms and
-Armor], *[true
+Moderate divination; CL 6th; [Craft Magic Arms and Armor], *[true
 strike]*; Price +1 bonus.
 
 **Dueling**: This ability can only be placed on a melee weapon. A
@@ -2685,8 +2656,7 @@ in hand when the Initiative check is made. It provides a +2 bonus on
 disarm checks and feint checks, a +2 bonus to CMD to resist disarm
 attempts, and a +2 to the DC to perform a feint against the wielder.
 
-Faint transmutation; CL 5th; [Craft Magic Arms and
-Armor], *[cat's
+Faint transmutation; CL 5th; [Craft Magic Arms and Armor], *[cat's
 grace]*; Price +14,000 gp.
 
 **Furious**: This ability can only be placed on a melee weapon. A
@@ -2700,8 +2670,7 @@ whenever the weapon is wielded or held in hand, even when not raging;
 this bonus is equal to the enhancement bonus of the weapon (including
 the +2 when the wielder is raging).
 
-Moderate enchantment (compulsion); CL 8th; [Craft Magic Arms and
-Armor], rage; Price +1
+Moderate enchantment (compulsion); CL 8th; [Craft Magic Arms and Armor], rage; Price +1
 bonus.
 
 **Grayflame**: This weapon responds to channeled positive or negative
@@ -2719,8 +2688,7 @@ negative energy, the flame is an ashen gray, evil creatures are immune
 to the weapon's extra damage, and the weapon counts as an evil and cold
 iron weapon for the purpose of bypassing damage reduction.
 
-Moderate transmutation; CL 6th; [Craft Magic Arms and
-Armor], [Channel
+Moderate transmutation; CL 6th; [Craft Magic Arms and Armor], [Channel
 Smite], *[align
 weapon]*; Price +1 bonus.
 
@@ -2731,8 +2699,7 @@ checks made to track any creature the weapon has damaged in the past
 day. It deals +1d6 damage to creatures the wielder has tracked with
 [Survival] in the past day.
 
-Moderate divination; CL 7th; [Craft Magic Arms and
-Armor], *[detect animals
+Moderate divination; CL 7th; [Craft Magic Arms and Armor], *[detect animals
 or
 plants]*;
 Price +1 bonus.
@@ -2743,8 +2710,7 @@ this weapon grants her an enhancement bonus on her
 The bonus is +1 on the first round of her judgment, and increases by +1
 each round, to a maximum of +3 on the third and following rounds.
 
-Moderate transmutation; CL 4th; [Craft Magic Arms and
-Armor], *[owl's
+Moderate transmutation; CL 4th; [Craft Magic Arms and Armor], *[owl's
 wisdom]*; Price +1 bonus.
 
 **Menacing**: This ability can only be placed on a melee weapon. This
@@ -2754,8 +2720,7 @@ bonus on attack rolls for all flanking allies increases by +2. This
 ability works even if the wielder is not one of the characters flanking
 the creature.
 
-Moderate illusion; CL 10th; [Craft Magic Arms and
-Armor], *[phantasmal
+Moderate illusion; CL 10th; [Craft Magic Arms and Armor], *[phantasmal
 killer]*; Price
 +1 bonus.
 
@@ -2784,8 +2749,7 @@ of a piercing or slashing weapon, but cannot use the
 the shape of a bludgeoning weapon. When unattended, the weapon reverts
 to its true shape.
 
-Moderate transmutation; CL 10th; [Craft Magic Arms and
-Armor], *[major
+Moderate transmutation; CL 10th; [Craft Magic Arms and Armor], *[major
 creation]*; Price
 +10,000 gp.
 
@@ -2840,8 +2804,7 @@ this fashion. If unattended, the club reverts to its normal shape.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[shillelagh]*; **Cost** 3,800
 gp
 
@@ -2876,8 +2839,7 @@ condition.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[animate
+**Requirements** [Craft Magic Arms and Armor], *[animate
 rope]*; **Cost** 6,350 gp
 
 **Boulderhead Mace**
@@ -2901,8 +2863,7 @@ terrain. A new stone mace-head grows on the weapon's haft over the next
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[wall of
+**Requirements** [Craft Magic Arms and Armor], *[wall of
 stone]*; **Cost** 3,652 gp
 
 **Dustburst Bullet**
@@ -2921,8 +2882,7 @@ or be sickened and blinded for 1 round.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[stinking
+**Requirements** [Craft Magic Arms and Armor], *[stinking
 cloud]*; **Cost** 98 gp
 
 **Guarding Blade**
@@ -2947,8 +2907,7 @@ it tends to select a random target each round.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[animate
+**Requirements** [Craft Magic Arms and Armor], *[animate
 objects]*, *[mage's
 faithful
 hound]*;
@@ -2974,8 +2933,7 @@ generally considered a dishonorable form of cheating.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[bull's
+**Requirements** [Craft Magic Arms and Armor], *[bull's
 strength]*; **Cost**
 2,105 gp
 
@@ -3010,8 +2968,7 @@ wielder's additional attacks for that round.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[telekinesis]*; **Cost**
 10,301 gp
 
@@ -3032,8 +2989,7 @@ shield's hardness.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[keen
+**Requirements** [Craft Magic Arms and Armor], *[keen
 edge]*,
 *[shatter]*; **Cost** 9,310 gp
 
@@ -3055,8 +3011,7 @@ and it burns up once the 3 rounds pass.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[flame
+**Requirements** [Craft Magic Arms and Armor], *[flame
 blade]*, *[flame
 strike]*, or
 *[fireball]*; **Cost** 758 gp
@@ -3079,8 +3034,7 @@ dissolves up once the 3 rounds pass.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[acid
+**Requirements** [Craft Magic Arms and Armor], *[acid
 arrow]*; **Cost** 758 gp
 
 **Sparkwake Starknife**
@@ -3100,8 +3054,7 @@ half), returning to its physical form at the end of the bolt's path.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[lightning
+**Requirements** [Craft Magic Arms and Armor], *[lightning
 bolt]*; **Cost** 10,824
 gp
 
@@ -3121,8 +3074,7 @@ once per day.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[dispel
+**Requirements** [Craft Magic Arms and Armor], *[dispel
 magic]*, *[plane
 shift]*, creator must be 9th
 level; **Cost** 24,402 gp
@@ -3144,8 +3096,7 @@ tanglefoot bag.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], *[true
+**Requirements** [Craft Magic Arms and Armor], *[true
 seeing]* and
 *[web]* or creator must have 5 ranks in
 [Craft] (alchemy); **Cost** 113 gp
@@ -3174,8 +3125,7 @@ fallen.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor],
+**Requirements** [Craft Magic Arms and Armor],
 *[levitate]*; **Cost** 5,065 gp
 
 **Undercutting Axe**
@@ -3196,8 +3146,7 @@ DC 16 for half).
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and
-Armor], [Maximize
+**Requirements** [Craft Magic Arms and Armor], [Maximize
 Spell], *[ray of
 enfeeblement]*,
 *[summon monster I]*;
@@ -3205,80 +3154,80 @@ enfeeblement]*,
 
 Wondrous Items
 
-  d%       Item                                                                      Market Price
-  -------- ------------------------------------------------------------------------- --------------
-  01-05    *[Ioun torch]*                                               75 gp
-  06-09    *[War paint of the terrible visage]*   100 gp
-  10-12    *[Assisting glove]*                                     180 gp
-  13-15    *[Bandages of rapid recovery]*               200 gp
-  16-18    *[Catching cape]*                                         200 gp
-  19-20    *[Soul soap]*                                                 200 gp
-  21-23    *[Bottle of messages]*                               300 gp
-  24-27    *[Key of lock jamming]*                             400 gp
-  28-29    *[Campfire bead]*                                         720 gp
-  30-35    *[Defoliant polish]*                                   800 gp
-  36-39    *[Dust of emulation]*                                 800 gp
-  40-42    *[Muleback cords]*                                       1,000 gp
-  43-45    *[All tools vest]*                                       1,800 gp
-  46-49    *[Cowardly crouching cloak]*                   1,800 gp
-  50-56    *[Scabbard of vigor]*                                 1,800 gp
-  57-58    *[Clamor box]*                                               2,000 gp
-  59-61    *[Glowing glove]*                                         2,000 gp
-  62-63    *[Manacles of cooperation]*                     2,000 gp
-  64-70    *[Knight's pennon]* (honor)                             2,200 gp
-  71-75    *[Flying ointment]*                                     2,250 gp
-  76-78    *[Boots of friendly terrain]*                 2,400 gp
-  79-80    *[Apple of eternal sleep]*                       2,500 gp
-  81-83    *[Cauldron of brewing]*                             3,000 gp
-  84-85    *[Philter of love]*                                     3,000 gp
-  86-88    *[Sash of the war champion]*                   4,000 gp
-  89-90    *[Knight's pennon]* (battle)                            4,500 gp
-  91-92    *[Knight's pennon]* (parley)                            4,500 gp
-  93-94    *[Helm of fearsome mien]*                         5,000 gp
-  95-96    *[Horn of the huntmaster]*                       5,000 gp
-  97-98    *Scabbard of staunching*                                                  5,000 gp
-  99-100   *[Sheath of bladestealth]*                       5,000 gp
+  d%       Item                                  Market Price
+  -------- ------------------------------------- --------------
+  01-05    *[Ioun torch]*                        75 gp
+  06-09    *[War paint of the terrible visage]*  100 gp
+  10-12    *[Assisting glove]*                   180 gp
+  13-15    *[Bandages of rapid recovery]*        200 gp
+  16-18    *[Catching cape]*                     200 gp
+  19-20    *[Soul soap]*                         200 gp
+  21-23    *[Bottle of messages]*                300 gp
+  24-27    *[Key of lock jamming]*               400 gp
+  28-29    *[Campfire bead]*                     720 gp
+  30-35    *[Defoliant polish]*                  800 gp
+  36-39    *[Dust of emulation]*                 800 gp
+  40-42    *[Muleback cords]*                    1,000 gp
+  43-45    *[All tools vest]*                    1,800 gp
+  46-49    *[Cowardly crouching cloak]*          1,800 gp
+  50-56    *[Scabbard of vigor]*                 1,800 gp
+  57-58    *[Clamor box]*                        2,000 gp
+  59-61    *[Glowing glove]*                     2,000 gp
+  62-63    *[Manacles of cooperation]*           2,000 gp
+  64-70    *[Knight's pennon]* (honor)           2,200 gp
+  71-75    *[Flying ointment]*                   2,250 gp
+  76-78    *[Boots of friendly terrain]*         2,400 gp
+  79-80    *[Apple of eternal sleep]*            2,500 gp
+  81-83    *[Cauldron of brewing]*               3,000 gp
+  84-85    *[Philter of love]*                   3,000 gp
+  86-88    *[Sash of the war champion]*          4,000 gp
+  89-90    *[Knight's pennon]* (battle)          4,500 gp
+  91-92    *[Knight's pennon]* (parley)          4,500 gp
+  93-94    *[Helm of fearsome mien]*             5,000 gp
+  95-96    *[Horn of the huntmaster]*            5,000 gp
+  97-98    *Scabbard of staunching*              5,000 gp
+  99-100   *[Sheath of bladestealth]*            5,000 gp
 
   : Table: Minor Wondrous Items
 
-  d%       Item                                                      Market Price
-  -------- --------------------------------------------------------- --------------
-  01-06    *[Grappler's mask]*                     5,000 gp
-  07-16    *[Torc of lionheart fury]*       8,000 gp
+  d%       Item                            Market Price
+  -------- ------------------------------- --------------
+  01-06    *[Grappler's mask]*             5,000 gp
+  07-16    *[Torc of lionheart fury]*      8,000 gp
   17-19    *[Amulet of spell cunning]*     10,000 gp
   20-23    *[Construct channel brick]*     10,000 gp
-  24-25    *[Doomharp]*                                   10,000 gp
-  26-27    *[Ki mat]*                                       10,000 gp
-  28-37    *[Lord's banner]* (swiftness)             10,000 gp
-  38-40    *[Crystal of healing hands]*   12,000 gp
-  41-44    *[Book of the loremaster]*       15,000 gp
-  45-48    *[Bracelet of mercy]*                 15,000 gp
-  49-56    *[Cauldron of plenty]*               15,000 gp
-  57-61    *[Gloves of dueling]*                 15,000 gp
+  24-25    *[Doomharp]*                    10,000 gp
+  26-27    *[Ki mat]*                      10,000 gp
+  28-37    *[Lord's banner]* (swiftness)   10,000 gp
+  38-40    *[Crystal of healing hands]*    12,000 gp
+  41-44    *[Book of the loremaster]*      15,000 gp
+  45-48    *[Bracelet of mercy]*           15,000 gp
+  49-56    *[Cauldron of plenty]*          15,000 gp
+  57-61    *[Gloves of dueling]*           15,000 gp
   62-64    *[Necklace of ki serenity]*     16,000 gp
-  65-69    *[Robes of arcane heritage]*   16,000 gp
-  70-74    *[Silver smite bracelet]*         16,000 gp
-  75-82    *[Vest of the cockroach]*         16,000 gp
-  83-86    *[Amulet of magecraft]*             20,000 gp
-  87-90    *[Horn of antagonism]*               20,000 gp
-  91-93    *[Moon circlet]*                           20,000 gp
-  94-96    *[Necromancer's athame]*            20,000 gp
-  97-98    *[Sniper goggles]*                       20,000 gp
+  65-69    *[Robes of arcane heritage]*    16,000 gp
+  70-74    *[Silver smite bracelet]*       16,000 gp
+  75-82    *[Vest of the cockroach]*       16,000 gp
+  83-86    *[Amulet of magecraft]*         20,000 gp
+  87-90    *[Horn of antagonism]*          20,000 gp
+  91-93    *[Moon circlet]*                20,000 gp
+  94-96    *[Necromancer's athame]*        20,000 gp
+  97-98    *[Sniper goggles]*              20,000 gp
   99-100   *[Annihilation spectacles]*     25,000 gp
 
   : Table: Medium Wondrous Items
 
-  d%       Item                                                      Market Price
-  -------- --------------------------------------------------------- --------------
-  01-08    *[Cauldron of the dead]*           30,000 gp
-  09-20    *[Mask of giants]* (lesser)              30,000 gp
+  d%       Item                           Market Price
+  -------- ------------------------------ --------------
+  01-08    *[Cauldron of the dead]*       30,000 gp
+  09-20    *[Mask of giants]* (lesser)    30,000 gp
   21-32    *[Cauldron of resurrection]*   33,000 gp
-  33-48    *[Cauldron of flying]*               40,000 gp
-  49-64    *[Cauldron of seeing]*               42,000 gp
-  65-76    *[Lord's banner]* (terror)                56,000 gp
-  77-88    *[Lord's banner]* (victory)               75,000 gp
-  89-96    *[Mask of giants]* (greater)             90,000 gp
-  97-100   *[Lord's banner]* (crusades)              100,000 gp
+  33-48    *[Cauldron of flying]*         40,000 gp
+  49-64    *[Cauldron of seeing]*         42,000 gp
+  65-76    *[Lord's banner]* (terror)     56,000 gp
+  77-88    *[Lord's banner]* (victory)    75,000 gp
+  89-96    *[Mask of giants]* (greater)   90,000 gp
+  97-100   *[Lord's banner]* (crusades)   100,000 gp
 
   : Table: Major Wondrous Items
 
@@ -3309,9 +3258,7 @@ creature touches them, whichever comes first.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[summon
-instrument]*;
+**Requirements** [Craft Wondrous Item], *[Summon Instrument]*;
 **Cost** 900 gp
 
 **Amulet of Magecraft**
@@ -3337,10 +3284,8 @@ evocation wizard spell of 3rd level or lower that he knows.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item],
-*[permanency]*, creator must
-be a universalist; **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item],
+*[Permanency]*, creator must be a universalist; **Cost** 10,000 gp
 
 **Amulet of Spell Cunning**
 
@@ -3355,9 +3300,7 @@ It allows a wizard to prepare an additional 3 levels of spells per day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[mnemonic
-enhancer]*;
+**Requirements** [Craft Wondrous Item], *[Mnemonic Enhancer]*;
 **Cost** 5,000 gp
 
 **Annihilation Spectacles**
@@ -3380,9 +3323,7 @@ higher, even if he doesn't know that spell.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item],
-*[disintegrate]*, creator
+**Requirements** [Craft Wondrous Item], *[Disintegrate]*, creator
 must be a transmuter; **Cost** 12,500 gp
 
 **Apple of Eternal Sleep**
@@ -3398,12 +3339,8 @@ bite into it (even a small taste), he must make an immediate DC 19 Will
 saving throw or be stricken by [eternal
 sleep], the same as the
 witch's hex of that name. The victim can only be awakened by a casting
-of *[break
-enchantment]*,
-*[limited wish]*,
-*[wish]*, or
-*[miracle]*, or by a kiss from
-someone of royal blood.
+of *[Break Enchantment]*, *[Limited Wish]*, *[Wish]*, or *[Miracle]*, or
+by a kiss from someone of royal blood.
 
 **Construction**
 
@@ -3430,11 +3367,8 @@ first, at which time it becomes a nonmagical lambskin glove.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[mage
-hand]*, *[unseen
-servant]*; **Cost** 90
-gp
+**Requirements** [Craft Wondrous Item], *[mage hand]*, *[unseen servant]*;
+**Cost** 90 gp
 
 **Bandages of Rapid Recovery**
 
@@ -3458,11 +3392,8 @@ first.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[cure light
-wounds]*, *[lesser
-restoration]*,
-*[stabilize]*; **Cost** 100 gp
+**Requirements** [Craft Wondrous Item], *[Cure Light Wounds]*,
+*[Lesser Restoration]*, *[Stabilize]*; **Cost** 100 gp
 
 **Book of the Loremaster**
 
@@ -3480,9 +3411,7 @@ consult it while using the lore master class feature in order to gain a
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item],
-*[clairaudience/clairvoyance]*;
+**Requirements** [Craft Wondrous Item], *[Clairaudience/clairvoyance]*;
 **Cost** 7,500 gp
 
 **Boots of Friendly Terrain**
@@ -3503,10 +3432,8 @@ as one of his favored terrains, his bonus for that terrain increases by
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[pass without
-trace]*, creator
-must be a ranger; **Cost** 1,200 gp
+**Requirements** [Craft Wondrous Item], *[Pass Without
+Trace]*, creator must be a ranger; **Cost** 1,200 gp
 
 **Bottle of Messages**
 
@@ -3526,9 +3453,7 @@ words at that moment. Once the bottle releases its message, it shatters.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[magic
-mouth]*; **Cost** 150 gp
+**Requirements** [Craft Wondrous Item], *[Magic Mouth]*; **Cost** 150 gp
 
 **Bracelet of Mercy**
 
@@ -3545,9 +3470,7 @@ removing diseases increases by +4.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[remove
-disease]*; **Cost**
+**Requirements** [Craft Wondrous Item], *[Remove Disease]*; **Cost**
 7,500 gp
 
 **Campfire Bead**
@@ -3566,9 +3489,7 @@ he can order the bead to become a campfire again.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[produce
-flame]*; **Cost** 360 gp
+**Requirements** [Craft Wondrous Item], *[Produce Flame]*; **Cost** 360 gp
 
 **Catching Cape**
 
@@ -3636,9 +3557,7 @@ provides partial cover for anyone standing in it. It has a hardness of
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[overland
-flight]*; **Cost**
+**Requirements** [Craft Wondrous Item], *[Overland Flight]*; **Cost**
 20,000 gp
 
 **Cauldron of Plenty**
@@ -3658,11 +3577,8 @@ it does so instantly upon command.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[create food and
-water]*,
-*[heroes' feast]*; **Cost**
-7,500 gp
+**Requirements** [Craft Wondrous Item], *[Create Food and Water]*,
+*[Heroes' Feast]*; **Cost** 7,500 gp
 
 **Cauldron of Resurrection**
 
@@ -3687,9 +3603,8 @@ materials, while
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item],
-*[resurrection]*; **Cost**
+**Requirements** [Craft Wondrous Item],
+*[Resurrection]*; **Cost**
 16,500 gp
 
 **Cauldron of Seeing**
@@ -3701,17 +3616,14 @@ Item],
 **Description**
 
 When filled with liquid, this small cauldron allows the user to see over
-virtually any distance as if using the
-*[scrying]* spell. It may have
-additional powers like those of a *[crystal
-ball]* for the same
+virtually any distance as if using the *[Scrying]* spell. It may have
+additional powers like those of a *[Crystal Ball]* for the same
 prices.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item],
-*[scrying]*; **Cost** 21,000 gp
+**Requirements** [Craft Wondrous Item],
+*[Scrying]*; **Cost** 21,000 gp
 
 **Cauldron of the Dead**
 
@@ -3735,9 +3647,7 @@ earlier specimens to become uncontrolled.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[animate
-dead]*; **Cost** 15,000 gp
+**Requirements** [Craft Wondrous Item], *[Animate Dead]*; **Cost** 15,000 gp
 
 **Clamor Box**
 
@@ -3756,9 +3666,7 @@ as loud as 40 people. The sound persists for 2d6 rounds.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[ghost
-sound]*; **Cost** 1,000 gp
+**Requirements** [Craft Wondrous Item], *[Ghost Sound]*; **Cost** 1,000 gp
 
 **Construct Channel Brick**
 
@@ -3801,8 +3709,7 @@ wearer can end his crouch simply by standing up or moving.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item],
+**Requirements** [Craft Wondrous Item],
 *[sanctuary]*; **Cost** 900 gp
 
 **Crystal of Healing Hands**
@@ -3827,8 +3734,7 @@ including any mercies they had at the time.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[cure light
+**Requirements** [Craft Wondrous Item], *[cure light
 wounds]*, creator
 must be a paladin; **Cost** 6,000 gp
 
@@ -3853,8 +3759,7 @@ attack.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[diminish
+**Requirements** [Craft Wondrous Item], *[diminish
 plants]*; **Cost**
 400 gp
 
@@ -3875,8 +3780,7 @@ part of his performance increases the effective radius to 60 feet.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[cause
+**Requirements** [Craft Wondrous Item], *[cause
 fear]*; **Cost** 5,000 gp
 
 **Dust of Emulation**
@@ -3900,8 +3804,7 @@ exposure to the dust.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[disguise
+**Requirements** [Craft Wondrous Item], *[disguise
 self]*; **Cost** 400 gp
 
 **Flying Ointment**
@@ -3921,8 +3824,7 @@ up to 9 hours.
 
 **Construction**
 
-**Requirements**[Craft Wondrous
-Item], *[overland
+**Requirements**[Craft Wondrous Item], *[overland
 flight]*; **Cost**
 1,125 gp
 
@@ -3944,8 +3846,7 @@ training bonus increases by +2.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[greater magic
+**Requirements** [Craft Wondrous Item], *[greater magic
 weapon]*; **Cost**
 7,500 gp
 
@@ -3967,8 +3868,7 @@ fingers, and so on.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[arcane
+**Requirements** [Craft Wondrous Item], *[arcane
 mark]*; **Cost** 1,000 gp
 
 **Grappler's Mask**
@@ -3986,8 +3886,7 @@ bull rushes and grapples without provoking attacks of opportunity.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[bull's
+**Requirements** [Craft Wondrous Item], *[bull's
 strength]*, *[cat's
 grace]*, *[expeditious
 retreat]*;
@@ -4009,8 +3908,7 @@ another class with the rage class feature).
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[cause
+**Requirements** [Craft Wondrous Item], *[cause
 fear]*; **Cost** 2,500 gp
 
 **Horn of Antagonism**
@@ -4032,8 +3930,7 @@ its magic. The horn's magic works once per day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[daze
+**Requirements** [Craft Wondrous Item], *[daze
 monster]*; **Cost** 10,000
 gp
 
@@ -4054,8 +3951,7 @@ who can see and hear him. The effect lasts for 1 minute.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[greater
+**Requirements** [Craft Wondrous Item], *[greater
 heroism]*; **Cost** 2,500 gp
 
 **Ioun Torch**
@@ -4076,8 +3972,7 @@ sphere, and so on).
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[continual
+**Requirements** [Craft Wondrous Item], *[continual
 flame]*, creator must
 be 12th level; **Cost** 62 gp, 5 sp
 
@@ -4102,8 +3997,7 @@ leaving the lock intact and rendering the mechanism operable again.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[hold
+**Requirements** [Craft Wondrous Item], *[hold
 portal]*; **Cost** 200 gp
 
 **Ki Mat**
@@ -4125,8 +4019,7 @@ regains 1 *ki* point.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[lesser
+**Requirements** [Craft Wondrous Item], *[lesser
 restoration]*,
 creator must be a monk; **Cost** 5,000 gp
 
@@ -4162,8 +4055,7 @@ so long as the bearer does not initiate any hostile action.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item],
+**Requirements** [Craft Wondrous Item],
 *[heroism]* (battle), *[protection
 from
 evil]*(honor),
@@ -4217,8 +4109,7 @@ they can see the banner.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[eagle's
+**Requirements** [Craft Wondrous Item], *[eagle's
 splendor](../../spells/eagleSSplendor.html)* (leadership),
 *[hallow]* (crusades), *[freedom of
 movement]*
@@ -4243,8 +4134,7 @@ Will saving throw.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[charm
+**Requirements** [Craft Wondrous Item], *[charm
 person]*; **Cost** 1,000 gp
 
 **Mask of Giants**
@@ -4281,8 +4171,7 @@ bonus.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[giant form
+**Requirements** [Craft Wondrous Item], *[giant form
 I]*; **Cost** 15,000 gp
 (lesser), 45,000 gp (greater)
 
@@ -4318,8 +4207,7 @@ wish]*,
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item],
+**Requirements** [Craft Wondrous Item],
 *[darkvision]*,
 *[light]*; **Cost** 10,000 gp
 
@@ -4341,8 +4229,7 @@ wearer can carry.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[bull's
+**Requirements** [Craft Wondrous Item], *[bull's
 strength]*; **Cost**
 500 gp
 
@@ -4362,8 +4249,7 @@ determining the size of his *ki* pool and the level-based effects of his
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[calm
+**Requirements** [Craft Wondrous Item], *[calm
 emotions], [owl's
 wisdom]*; **Cost** 8,000 gp
 
@@ -4384,8 +4270,7 @@ be of the same level or lower than the prepared spell.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[create
+**Requirements** [Craft Wondrous Item], *[create
 undead]*, creator must be
 a necromancer; **Cost** 10,000 gp
 
@@ -4413,8 +4298,7 @@ curse]*, or
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[charm
+**Requirements** [Craft Wondrous Item], *[charm
 monster]*,
 *[permanency]*; **Cost** 1,500
 gp
@@ -4436,8 +4320,7 @@ their effects.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[speak with
+**Requirements** [Craft Wondrous Item], *[speak with
 dead]*, creator must
 be a sorcerer; **Cost** 8,000 gp
 
@@ -4457,8 +4340,7 @@ armor training and bravery class features.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[cat's
+**Requirements** [Craft Wondrous Item], *[cat's
 grace]*, *[remove
 fear]*; **Cost** 2,000 gp
 
@@ -4479,8 +4361,7 @@ bleed damage from effects that require a DC 16 or higher caster level or
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[cure light
+**Requirements** [Craft Wondrous Item], *[cure light
 wounds]*; **Cost**
 2,500 gp
 
@@ -4506,10 +4387,8 @@ depends on the desired enhancement bonus for the weapon.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[greater magic
-weapon]*; **Cost**
-900 gp
+**Requirements** [Craft Wondrous Item], *[Greater Magic Weapon]*;
+**Cost** 900 gp
 
 **Sheath of Bladestealth**
 
@@ -4533,9 +4412,8 @@ the sheathed weapon.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item],
-*[invisibility]*; **Cost**
+**Requirements** [Craft Wondrous Item],
+*[Invisibility]*; **Cost**
 2,500 gp
 
 **Silver Smite Bracelet**
@@ -4553,9 +4431,7 @@ higher than normal for the purpose of her smite evil class feature.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[align
-weapon]*, creator must be a
+**Requirements** [Craft Wondrous Item], *[Align Weapon]*, creator must be a
 paladin; **Cost** 8,000 gp
 
 **Sniper Goggles**
@@ -4574,9 +4450,7 @@ circumstance bonus on each sneak attack damage die.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[true
-strike]*; **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item], *[True Strike]*; **Cost** 10,000 gp
 
 **Soul Soap**
 
@@ -4597,9 +4471,7 @@ is sufficient to wash one creature.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item],
-*[resistance]*; **Cost** 100
+**Requirements** [Craft Wondrous Item], *[Resistance]*; **Cost** 100
 gp
 
 **Torc of Lionheart Fury**
@@ -4620,9 +4492,7 @@ regain 1 round of rage.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[remove
-fear]*; **Cost** 4,000 gp
+**Requirements** [Craft Wondrous Item], *[Remove Fear]*; **Cost** 4,000 gp
 
 **Vest of the Cockroach**
 
@@ -4640,9 +4510,7 @@ per rogue level instead of 1.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[false
-life]*; **Cost** 8,000 gp
+**Requirements** [Craft Wondrous Item], *[False Life]*; **Cost** 8,000 gp
 
 **War Paint of the Terrible Visage**
 
@@ -4665,6 +4533,4 @@ otherwise it fades away.
 
 **Construction**
 
-**Requirements** [Craft Wondrous
-Item], *[cause
-fear]*; **Cost** 50 gp
+**Requirements** [Craft Wondrous Item], *[Cause Fear]*; **Cost** 50 gp

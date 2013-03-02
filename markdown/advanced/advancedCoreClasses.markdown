@@ -20,7 +20,7 @@ best serve that class, emulate the abilities and talents of classic
 fantasy archetypes, and expand players' freedom to design exactly the
 characters they desire.
 
-# Alternate Class Features
+## Alternate Class Features
 
 Most of the options presented on the following pages include a host of
 alternate class features. When a character selects a class, he must
@@ -49,7 +49,7 @@ paladin could, however, be both an undead scourge and a warrior of the
 holy light, since none of their new class features replace the same core
 class feature.
 
-# Adapting Existing Characters
+## Adapting Existing Characters
 
 Players with existing characters should talk with their GM about whether
 on not these alternate class features are available in her game, and if
@@ -79,7 +79,7 @@ not allowing players to rebuild characters or by disallowing certain
 options. While the GM should always strive to help players run the
 characters they want, ultimately she knows what's best for the campaign.
 
-# Core Class Archetypes
+## Core Class Archetypes
 
 The core class archetypes that follow are included in this chapter.
 Characters may take more than one archetype if they meet the

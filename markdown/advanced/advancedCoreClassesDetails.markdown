@@ -1,4 +1,4 @@
-# Barbarian
+## Barbarian
 
 The true barbarian is a creature of bestial, savage fury. Whether a
 stoic tribal champion who whips herself into a berserker frenzy for the
@@ -369,7 +369,7 @@ abilities. This damage bonus increases by +1 for every four levels the
 barbarian has obtained. A barbarian must have the superstition\* rage
 power to select this rage power.
 
-# Breaker
+### Breaker
 
 While most barbarians are skilled at breaking things, some find the need
 to destroy their surroundings an almost uncontrollable urge when in the
@@ -391,7 +391,7 @@ rolls with improvised or broken weapons for every three levels beyond
 **Rage Powers**: The following rage powers complement the breaker
 archetype: ground breaker, smasher, and strength surge\*.
 
-# Brutal Pugilist
+### Brutal Pugilist
 
 Some barbarians focus on using their bare hands to tear their opponents
 limb from limb. These brutal pugilists also learn a great deal about
@@ -430,7 +430,7 @@ pugilist archetype: animal fury\*, brawler, greater brawler,
 knockback\*, knockdown, overbearing advance, overbearing onslaught, and
 strength surge\*.
 
-# Drunken Brute
+### Drunken Brute
 
 Barbarians are known for their ability to consume potent drink, but
 drunken brutes turn drinking into a combat tactic, using the potent
@@ -453,7 +453,7 @@ archetype: boasting taunt, good for what ails you, internal fortitude\*,
 liquid courage, moment of clarity\*, roaring drunk, and staggering
 drunk.
 
-# Elemental Kin
+### Elemental Kin
 
 Some barbarian tribes have strong ties to the elemental forces of
 nature. Their shamans anoint the warriors at birth, tying them to the
@@ -473,7 +473,7 @@ archetype: elemental rage, energy absorption, energy eruption, energy
 resistance, greater elemental rage, greater energy resistance, and
 lesser elemental rage.
 
-# Hurler
+### Hurler
 
 A raging barbarian is frightening enough in melee, but some become
 skilled at throwing objects at their foes before closing in for the
@@ -487,7 +487,7 @@ combat. Increase the range increment of any thrown weapon or object by
 archetype: hurling, greater hurling, hurling charge, lesser hurling,
 strength surge\*, and surprise accuracy\*.
 
-# Invulnerable Rager
+### Invulnerable Rager
 
 Some barbarians learn to take whatever comes their way, shrugging off
 mortal wounds with ease. These barbarians invite their enemies to attack
@@ -509,7 +509,7 @@ every three levels beyond 3rd. This ability replaces trap sense.
 rager archetype: come and get me, guarded life, increased damage
 reduction\*, inspire ferocity, reckless abandon, and renewed vigor\*.
 
-# Mounted Fury
+### Mounted Fury
 
 Many barbarian tribes are masters of the horse, teaching their members
 how to ride from a young age. As a result, barbarians from such tribes
@@ -535,7 +535,7 @@ dodge.
 archetype: ferocious mount, ferocious trample, greater ferocious mount,
 greater ferocious trample, and spirit steed.
 
-# Savage Barbarian
+### Savage Barbarian
 
 Some barbarians are truly savage, having little training in modern arms.
 These savage barbarians learn to avoid blows and toughen up their skin.
@@ -556,7 +556,7 @@ barbarian archetype: flesh wound, guarded stance\*, increased damage
 reduction\*, intimidating glare\*, rolling dodge\*, superstition\*, and
 terrifying howl\*.
 
-# Superstitious
+### Superstitious
 
 Many barbarians distrust magic. While most just shy away from magic,
 others focus their rage on users of such foul arts. These barbarians are
@@ -580,7 +580,7 @@ reduction.
 archetype: clear mind\*, disruptive, roused anger\*, spellbreaker,
 superstition\*, and witch hunter.
 
-# Totem Warrior
+### Totem Warrior
 
 A barbarian often has a special totem that is the patron of her tribe.
 While individual totems vary, those in the tribe that call upon a totem
@@ -593,9 +593,8 @@ powers complement the totem warrior archtype (depending on the totem
 chosen): animal fury\*, low-light vision\*, night vision\*, raging
 climber\*, raging leaper\*, raging swimmer\*, and swift foot\*.
 
-Bard
 
-# Bard
+## Bard
 
 A good bard can sing the birds from the trees or talk a king into
 abdicating his throne. A jack of all trades, the bard sees little need
@@ -604,7 +603,7 @@ a little of that, but always with a keen eye for other people and how
 they might be manipulated, whether through artistic performances or more
 mundane avenues. Presented below are several classic bardic themes.
 
-# Arcane Duelist
+### Arcane Duelist
 
 A master of the martial applications of steel and spell, the arcane
 duelist blends both into a lethal combination.
@@ -678,7 +677,7 @@ chance of arcane spell failure. At 16th level, he gains Heavy Armor
 Proficiency and can cast bard spells in heavy armor with no arcane spell
 failure. This ability replaces jack of all trades.
 
-# Archivist
+### Archivist
 
 Some bards greatly prefer academic pursuits to the drama (and sometimes
 melodrama) of their artistic brethren.
@@ -741,7 +740,7 @@ take 10 on any d20 roll. He may use this ability one additional time per
 day for every three levels after 10th. This ability replaces jack of all
 trades.
 
-# Court Bard
+### Court Bard
 
 Spending years studying all of the finer points of erudition and
 etiquette, the court bard takes up the role of resplendent proclaimer
@@ -805,7 +804,7 @@ creature than normal for every five levels beyond 5th. This does not
 affect powers that affect only a single creature. This ability replaces
 lore master and jack of all trades.
 
-# Detective
+### Detective
 
 Piecing together clues and catching the guilty with sheer cleverness,
 the detective is skilled at divining the truth.
@@ -883,7 +882,7 @@ one of these spells or any divination spell on the bard spell list to
 his list of spells known at 2nd level and every four levels thereafter.
 This ability replaces versatile performance.
 
-# Magician
+### Magician
 
 A magician dabbles in performance, but sees it as a means to tap into
 universal energies and channel them.
@@ -952,7 +951,7 @@ the wand's save DC. At 16th level, when using such a wand, he uses his
 caster level in place of the wand's caster level. This ability replaces
 jack of all trades.
 
-# Sandman
+### Sandman
 
 Combining performance with stealth, trickery, and guile, the sandman
 uses cleverness to keep others off-balance.
@@ -1049,7 +1048,7 @@ damage against targets within 30 feet that he flanks or that are denied
 their Dex bonus to AC against him. This damage increases by +1d6 every
 five levels after 5th. This ability replaces lore master.
 
-# Savage Skald
+### Savage Skald
 
 Far from civilization, furious tribes have their own war-singers,
 work-chanters, and lore-keepers, savaging enemies with song and sword
@@ -1100,7 +1099,7 @@ This performance replaces soothing performance.
 within 30 feet when using performance to incite rage. This performance
 replaces mass suggestion.
 
-# Sea Singer
+### Sea Singer
 
 The sea singer calls the blue waters his home, and is much in demand
 among sea captains wishing good fortune for their crew and hull as they
@@ -1174,7 +1173,7 @@ sea singer to slip, trip, or otherwise be knocked prone. He gains a +2
 bonus to CMD against grapple, overrun, and trip. This ability replaces
 well-versed.
 
-# Street Performer
+### Street Performer
 
 Whether acrobat, troubadour, or thespian, the street performer mixes
 with the masses, singing for his supper.
@@ -1254,9 +1253,8 @@ a swift action. He can take 20 on a
 plus one time per six levels beyond 5th. This ability replaces lore
 master.
 
-Cleric
 
-# Cleric
+## Cleric
 
 Clerics are messengers and servants of the gods, venturing forth into
 the world to spread their patrons' gospel through compassion, reason,
@@ -1268,7 +1266,7 @@ and methods as varied as the gods they serve. They are living proof of
 the gods' power and interest in the world of mortals, and to deny them
 is to invite destruction, both in this world and the next.
 
-# Subdomains
+### Subdomains
 
 Presented in the section below are new rules for subdomains—more
 specific focuses for clerical worship and power that allow players
@@ -1328,7 +1326,7 @@ equal to 10 + 1/2 the character's cleric level + her Wisdom modifier.
 
   : Table: Subdomains
 
-## Agathion Subdomain
+### Agathion Subdomain
 
 **Associated Domain**: Good.
 
@@ -1351,7 +1349,7 @@ Faith]*,
 3rd—*[Tongues]*, 6th—*[Planar
 Ally]*(agathions only).
 
-## Ancestors Subdomain
+### Ancestors Subdomain
 
 **Associated Domain**: Repose.
 
@@ -1369,7 +1367,7 @@ day equal to your cleric level.
 Eternal]*\*,
 6th—*[Geas/quest]*.
 
-## Arcane Subdomain
+### Arcane Subdomain
 
 **Associated Domain**: Magic.
 
@@ -1388,7 +1386,7 @@ Aura]*, 4th—*[Arcane
 Eye]*, 6th—*[Analyze
 Dweomer]*.
 
-## Archon Subdomain
+### Archon Subdomain
 
 **Associated Domains**: Good, Law.
 
@@ -1407,7 +1405,7 @@ Favor]*,
 3rd—*[Prayer]*, 6th—*[Planar
 Ally]*(archon only).
 
-## Ash Subdomain
+### Ash Subdomain
 
 **Associated Domain**: Fire.
 
@@ -1428,7 +1426,7 @@ these minutes do not need to be consecutive.
 7th—*[Disintegrate]*,
 9th—*[Fiery Body]*\*.
 
-## Azata Subdomain
+### Azata Subdomain
 
 **Associated Domains**: Chaos, Good.
 
@@ -1456,7 +1454,7 @@ Retreat]*,
 3rd—*[Fly]*, 6th—*[Planar
 Ally]*(azata only).
 
-## Blood Subdomain
+### Blood Subdomain
 
 **Associated Domain**: War.
 
@@ -1476,7 +1474,7 @@ Thorns]*, 7th—*[Inflict
 Serious Wounds
 (Mass)]*.
 
-## Catastrophe Subdomain
+### Catastrophe Subdomain
 
 **Associated Domain**: Destruction.
 
@@ -1504,7 +1502,7 @@ Lightning]*,
 7th—*[Control
 Weather].*
 
-## Caves Subdomain
+### Caves Subdomain
 
 **Associated Domain**: Earth.
 
@@ -1529,7 +1527,7 @@ Pit]\**, 3rd—*[Spiked
 Pit]*\*, 6th—*[Hungry
 Pit]\**.
 
-## Cloud Subdomain
+### Cloud Subdomain
 
 **Associated Domain**: Air.
 
@@ -1549,7 +1547,7 @@ level. These rounds do not need to be consecutive.
 Fog]*, 9th—*[Storm of
 Vengeance]*.
 
-## Construct Subdomain
+### Construct Subdomain
 
 **Associated Domain**: Artifice.
 
@@ -1567,7 +1565,7 @@ beyond 8th.
 Wish]*, 8th—*[Polymorph Any
 Object]*.
 
-## Curse Subdomain
+### Curse Subdomain
 
 **Associated Domain**: Luck.
 
@@ -1585,7 +1583,7 @@ level—*[Bane]*,
 3rd—*[Bestow Curse]*,
 6th—*[Eyebite].*
 
-## Daemon Subdomain
+### Daemon Subdomain
 
 **Associated Domain**: Evil.
 
@@ -1607,7 +1605,7 @@ Touch]*, 6th—*[Planar
 Binding]*(daemons
 only).
 
-## Day Subdomain
+### Day Subdomain
 
 **Associated Domain**: Sun.
 
@@ -1631,7 +1629,7 @@ every 2 levels beyond 8th.
 Flame]*,
 3rd—*[Daylight].*
 
-## Decay Subdomain
+### Decay Subdomain
 
 **Associated Domain**: Plant.
 
@@ -1653,7 +1651,7 @@ need to be consecutive.
 4th—*[Poison]*,
 6th—*[Harm].*
 
-## Deception Subdomain
+### Deception Subdomain
 
 **Associated Domain**: Trickery.
 
@@ -1670,7 +1668,7 @@ this power a number of times each day equal to 3 + your Wisdom modifier.
 Image]*, 7th—*[Project
 Image]*.
 
-## Defense Subdomain
+### Defense Subdomain
 
 **Associated Domain**: Protection.
 
@@ -1687,7 +1685,7 @@ AC and combat maneuver defense.
 2nd—*[Barkskin]*,
 7th—*[Deflection]*\**.*
 
-## Demon Subdomain
+### Demon Subdomain
 
 **Associated Domains**: Chaos, Evil.
 
@@ -1708,7 +1706,7 @@ Wisdom modifier.
 3rd—*[Rage]*, 6th—*[Planar
 Binding]*(demons only).
 
-## Devil Subdomain
+### Devil Subdomain
 
 **Associated Domains**: Evil, Law.
 
@@ -1730,7 +1728,7 @@ ability for a number of times per day equal to 3 + your Wisdom modifier.
 6th—*[Planar
 Binding]*(devils only).
 
-## Divine Subdomain
+### Divine Subdomain
 
 **Associated Domain**: Magic.
 
@@ -1750,7 +1748,7 @@ Water]*,
 7th—*[Resurrection]*,
 9th*—[Miracle].*
 
-## Exploration Subdomain
+### Exploration Subdomain
 
 **Associated Domain**: Travel.
 
@@ -1772,7 +1770,7 @@ Retreat]*,
 Creature]*,
 9th—*[World Wave]\*.*
 
-## Family Subdomain
+### Family Subdomain
 
 **Associated Domain**: Community.
 
@@ -1794,7 +1792,7 @@ Emotions]*, 3rd—*[Create
 Food and
 Water]*.
 
-## Fate Subdomain
+### Fate Subdomain
 
 **Associated Domain**: Luck.
 
@@ -1812,7 +1810,7 @@ levels beyond 8th.
 2nd—*[Augury]*, 3rd—*[Borrow
 Fortune]*\*.
 
-## Feather Subdomain
+### Feather Subdomain
 
 **Associated Domain**: Animal.
 
@@ -1833,7 +1831,7 @@ fall]*,
 3rd—*[Fly]*, 6th—*[Fly
 (Mass)]\**.
 
-## Ferocity Subdomain
+### Ferocity Subdomain
 
 **Associated Domain**: Strength.
 
@@ -1850,7 +1848,7 @@ modifier.
 3rd—*[Rage]*, 6th—*[Bull's Strength
 (Mass)].*
 
-## Freedom Subdomain
+### Freedom Subdomain
 
 **Associated Domain**: Liberation.
 
@@ -1871,7 +1869,7 @@ your Wisdom modifier.
 1st—*[Sanctuary]*, 5th—*[Plane
 Shift]*.
 
-## Fur Subdomain
+### Fur Subdomain
 
 **Associated Domain**: Animal.
 
@@ -1890,7 +1888,7 @@ a number of times per day equal to 3 + your Wisdom modifier.
 Fang]*, 3rd—*[Beast Shape
 I]*(animals only).
 
-## Growth Subdomain
+### Growth Subdomain
 
 **Associated Domain**: Plant.
 
@@ -1908,7 +1906,7 @@ Person]*,
 5th—*[Righteous
 Might].*
 
-## Heroism Subdomain
+### Heroism Subdomain
 
 **Associated Domain**: Glory.
 
@@ -1926,7 +1924,7 @@ need to be consecutive.
 3rd—*[Heroism]*, 6th—*[Heroism
 (Greater)]*.
 
-## Home Subdomain
+### Home Subdomain
 
 **Associated Domain**: Community.
 
@@ -1951,7 +1949,7 @@ Warding]*,
 7th—*[Guards and
 Wards]*.
 
-## Honor Subdomain
+### Honor Subdomain
 
 **Associated Domain**: Glory.
 
@@ -1974,7 +1972,7 @@ modifier.
 Truth]*,
 6th—*[Geas/quest].*
 
-## Ice Subdomain
+### Ice Subdomain
 
 **Associated Domain**: Water.
 
@@ -1993,7 +1991,7 @@ day equal to your cleric level. The rounds need not be consecutive.
 Sphere]*, 9th—*[Polar
 Ray]*.
 
-## Inevitable Subdomain
+### Inevitable Subdomain
 
 **Associated Domain**: Law.
 
@@ -2014,7 +2012,7 @@ Undead]*, 5th—*[Command
 Binding]* (inevitables
 only).
 
-## Insanity Subdomain
+### Insanity Subdomain
 
 **Associated Domain**: Madness.
 
@@ -2034,7 +2032,7 @@ times per day equal to 3 + your Wisdom modifier.
 6th—*[Phantasmal
 Web]*\**.*
 
-## Language Subdomain
+### Language Subdomain
 
 **Associated Domain**: Rune.
 
@@ -2052,7 +2050,7 @@ Languages]*,
 3rd—*[Tongues]*, 5th*—[Telepathic
 Bond].*
 
-## Leadership Subdomain
+### Leadership Subdomain
 
 **Associated Domain**: Nobility.
 
@@ -2072,7 +2070,7 @@ level—*[Bless]*,
 3rd—*[Prayer]*, 6th—*[Brilliant
 Inspiration]*\**.*
 
-## Light Subdomain
+### Light Subdomain
 
 **Associated Domain**: Sun.
 
@@ -2092,7 +2090,7 @@ times per day equal to 3 + your Wisdom modifier
 Fire]*,
 3rd—*[Daylight].*
 
-## Loss Subdomain
+### Loss Subdomain
 
 **Associated Domain**: Darkness.
 
@@ -2114,7 +2112,7 @@ These rounds do not need to be consecutive.
 6th—*[Modify Memory]*,
 9th—*[Energy Drain]*.
 
-## Love Subdomain
+### Love Subdomain
 
 **Associated Domain**: Charm.
 
@@ -2135,7 +2133,7 @@ This is a mind-affecting effect.
 2nd—*[Enthrall]*, 8th—*[Euphoric
 Tranquility]*\*.
 
-## Lust Subdomain
+### Lust Subdomain
 
 **Associated Domain**: Charm.
 
@@ -2155,7 +2153,7 @@ mind-affecting effect.
 Idiocy]*,
 4th—*[Confusion]*.
 
-## Martyr Subdomain
+### Martyr Subdomain
 
 **Associated Domain**: Nobility.
 
@@ -2173,7 +2171,7 @@ day at 14th level and 20th level.
 Other]*, 6th—*[Sacrificial
 Oath]\*.*
 
-## Memory Subdomain
+### Memory Subdomain
 
 **Associated Domain**:
 [Knowledge](#knowledge-domain).
@@ -2195,7 +2193,7 @@ lapse]\**, 6th—*[modify
 memory]*, 8th—*[moment of
 prescience]*.
 
-## Metal Subdomain
+### Metal Subdomain
 
 **Associated Domain**: Earth.
 
@@ -2216,7 +2214,7 @@ metal]*, 6th—*[wall of
 iron]*, 8th—*[iron
 body].*
 
-## Murder Subdomain
+### Murder Subdomain
 
 **Associated Domain**: Death.
 
@@ -2236,7 +2234,7 @@ edge]*,
 9th—*[suffocation
 (mass)]\**.
 
-## Night Subdomain
+### Night Subdomain
 
 **Associated Domain**: Darkness.
 
@@ -2255,7 +2253,7 @@ a number of times per day equal to 3 + your Wisdom modifier.
 1st—*[sleep]*,
 6th—*[nightmare].*
 
-## Nightmare Subdomain
+### Nightmare Subdomain
 
 **Associated Domain**: Madness.
 
@@ -2276,7 +2274,7 @@ killer]*,
 6th—*[cloak of dreams]\**,
 9th—*[weird].*
 
-## Oceans Subdomain
+### Oceans Subdomain
 
 **Associated Domain**: Water.
 
@@ -2294,7 +2292,7 @@ number of times per day equal to 3 + your Wisdom modifier.
 2nd—*[slipstream]\**, 3rd—*[water
 walk].*
 
-## Protean Subdomain
+### Protean Subdomain
 
 **Associated Domain**: Chaos.
 
@@ -2319,7 +2317,7 @@ cannot perform.
 binding]*(proteans
 only).
 
-## Purity Subdomain
+### Purity Subdomain
 
 **Associated Domain**: Protection.
 
@@ -2340,7 +2338,7 @@ chaos]/evil/good/law*,
 blindness/deafness]*,
 5th—*[atonement]*.
 
-## Rage Subdomain
+### Rage Subdomain
 
 **Associated Domain**: Destruction.
 
@@ -2359,7 +2357,7 @@ might have from levels of barbarian.
 strength]*,
 6th—*[moonstruck]\**.
 
-## Resolve Subdomain
+### Resolve Subdomain
 
 **Associated Domain**: Strength.
 
@@ -2377,7 +2375,7 @@ levels you possess beyond 8th.
 1st—*[bless]*, 6th—*[heroes'
 feast].*
 
-## Restoration Subdomain
+### Restoration Subdomain
 
 **Associated Domain**: Healing.
 
@@ -2398,7 +2396,7 @@ poison]*,
 5th—*[break
 enchantment]*.
 
-## Resurrection Subdomain
+### Resurrection Subdomain
 
 **Associated Domain**: Healing.
 
@@ -2422,7 +2420,7 @@ Dead]*,
 9th—*[True
 Resurrection]*.
 
-## Revolution Subdomain
+### Revolution Subdomain
 
 **Associated Domain**: Liberation.
 
@@ -2440,7 +2438,7 @@ additional time per day for every 2 levels beyond 8th.
 2nd—*[Enthrall]*, 6th—*[Symbol of
 Persuasion].*
 
-## Seasons Subdomain
+### Seasons Subdomain
 
 **Associated Domain**: Weather.
 
@@ -2458,7 +2456,7 @@ times per day equal to 3 + your Wisdom modifier.
 4th—*[Blight]*,
 8th—*[Sunburst].*
 
-## Smoke Subdomain
+### Smoke Subdomain
 
 **Associated Domain**: Fire.
 
@@ -2478,7 +2476,7 @@ number of times per day equal to 3 + your Wisdom modifier.
 2nd—*[Pyrotechnics]*,
 3rd—*[Stinking Cloud]*.
 
-## Souls Subdomain
+### Souls Subdomain
 
 **Associated Domain**: Repose.
 
@@ -2497,7 +2495,7 @@ Dead]*, 6th—*antilife
 [Shield],*9th—*[Trap the
 Soul].*
 
-## Storms Subdomain
+### Storms Subdomain
 
 **Associated Domain**: Weather.
 
@@ -2516,7 +2514,7 @@ not need to be consecutive.
 Storm]*,
 6th—*[Sirocco]\*.*
 
-## Tactics Subdomain
+### Tactics Subdomain
 
 **Associated Domain**: War.
 
@@ -2534,7 +2532,7 @@ revealed. You can use this ability a number of times per day equal to 3
 8th—*[Planar Ally
 (Greater)]*.
 
-## Thievery Subdomain
+### Thievery Subdomain
 
 **Associated Domain**: Trickery.
 
@@ -2552,7 +2550,7 @@ additional time per day for every 2 levels beyond 8th.
 Object]*, 7th—*[Ethereal
 Jaunt]*.
 
-## Thought Subdomain
+### Thought Subdomain
 
 **Associated Domain**:
 [Knowledge](#knowledge-domain).
@@ -2579,7 +2577,7 @@ Thoughts]\**,
 Bond]*, 8th—*[Mind
 Blank]*.
 
-## Toil Subdomain
+### Toil Subdomain
 
 **Associated Domain**: Artifice.
 
@@ -2603,7 +2601,7 @@ Fatigue]*,
 7th—*[Waves of
 Exhaustion]*.
 
-## Trade Subdomain
+### Trade Subdomain
 
 **Associated Domain**: Travel.
 
@@ -2623,7 +2621,7 @@ Disk]*, 5th—*[Overland
 Flight]*,
 9th—*[Gate].*
 
-## Undead Subdomain
+### Undead Subdomain
 
 **Associated Domain**: Death.
 
@@ -2644,7 +2642,7 @@ Touch]*,
 4th—*[Enervation]*,
 9th—*[Energy Drain]*.
 
-## Wards Subdomain
+### Wards Subdomain
 
 **Associated Domain**: Rune.
 
@@ -2666,7 +2664,7 @@ Lock]*, 4th—*[Dimensional
 Anchor]*, 6th—*[Guards
 and Wards].*
 
-## Wind Subdomain
+### Wind Subdomain
 
 **Associated Domain**: Air.
 
@@ -2685,9 +2683,8 @@ Wind]*, 6th—*[Wind
 Walk],*9th—*[Winds of
 Vengeance]\**.
 
-Druid
 
-# Druid
+## Druid
 
 Druids are the keepers of the wildlands, the guardians watching at
 nature's border to ensure that hubristic civilization does not overreach
@@ -2701,7 +2698,7 @@ Presented below are new variant class rules to help you customize your
 druid for specific terrain types, as well as rules for druidic shamans
 who worship specific totem animals.
 
-# Aquatic Druid
+### Aquatic Druid
 
 Shepherds of the lakes and seas, aquatic druids guard ecosystems ranging
 from shallows streams to deep ocean trenches, ministering to their
@@ -2750,7 +2747,7 @@ Tentacles]*,
 never takes pressure damage from deep water. This ability replaces a
 thousand faces.
 
-# Arctic Druid
+### Arctic Druid
 
 An arctic druid watches over the stark landscape of the far frozen
 reaches of the world, tending the stunted and rugged life that ekes out
@@ -2797,7 +2794,7 @@ this form, she gains a circumstance bonus on
 terrain equal to her druid level. This ability replaces a thousand
 faces.
 
-# Blight Druid
+### Blight Druid
 
 The devoted servants of nature corrupted, ruined, and destroyed, blight
 druids are the caretakers of lands ravaged by natural disaster. While
@@ -2840,7 +2837,7 @@ must succeed at a Fortitude save with a DC of 10 + 1/2 the druid's level
 creature makes its save, it is immune to this effect for 24 hours. This
 ability replaces a thousand faces.
 
-# Cave Druid
+### Cave Druid
 
 Far from the green fields of the world above lies a lightless expanse
 beneath the surface. This darkling fairyland is not without beauty and
@@ -2887,7 +2884,7 @@ if it were a magical beast without a natural armor bonus). When in ooze
 form, the cave druid has no discernible anatomy and is immune to poison,
 sneak attacks, and critical hits.
 
-# Desert Druid
+### Desert Druid
 
 Not all climates are verdant paradises, but even in the sere deserts
 there is life—though often hidden from the sun and rarely friendly—and
@@ -2940,7 +2937,7 @@ this form, the druid gains a circumstance bonus on
 terrain equal to her druid level. This ability replaces a thousand
 faces.
 
-# Jungle Druid
+### Jungle Druid
 
 The fecund jungles of the equatorial regions are rich in life and
 ancient tradition; druidical guardians of sacred pools, elder trees, and
@@ -2975,7 +2972,7 @@ druid level – 2.
 Shape]* at will. This ability
 replaces a thousand faces.
 
-# Mountain Druid
+### Mountain Druid
 
 As more and more of the soft, easy lands become cultivated and
 civilized, many druids look for refuge and solitude among the eternal
@@ -3024,7 +3021,7 @@ her body into a weathered stone outcrop and back at will. This effect
 functions as *[Statue]*. This ability
 replaces a thousand faces.
 
-# Plains Druid
+### Plains Druid
 
 Out upon the wide and rolling prairies and savannahs, plains druids
 stand guard over the grasslands. These druids range far and wide,
@@ -3070,7 +3067,7 @@ wearing light or no armor and carrying a light load. This functions as
 the rogue ability of the same name. This ability replaces a thousand
 faces.
 
-# Swamp Druid
+### Swamp Druid
 
 Some druids eschew pleasant glades and groves and instead seek out dank
 marshes, misty bogs and heaths, and trackless swamps as the place they
@@ -3109,7 +3106,7 @@ druid level – 2.
 Movement]*.
 This ability replaces a thousand faces.
 
-# Urban Druid
+### Urban Druid
 
 While many druids keep to the wilderness, some make their way within
 settlements, communing with the animals and vermin who live there and
@@ -3149,7 +3146,7 @@ druid level – 4.
 **Mental Strength (Ex)**: At 9th level, an urban druid gains immunity to
 charm and compulsion effects. This ability replaces venom immunity.
 
-# Animal Shamans
+### Animal Shamans
 
 Some druids form a close bond with one type of animal. The following
 animal shamans represent just some of the possibilities, exploring the
@@ -3157,7 +3154,7 @@ unique bond between a druid and her totem. These shamans all possess
 similar powers, which are explained fully in the bear shaman
 description.
 
-## Bear Shaman
+#### Bear Shaman
 
 A shaman with this focus calls upon the mighty bear, titan of the
 woodlands and mountains, a paragon of strength and ferocity, and yet
@@ -3211,7 +3208,7 @@ Fortitude],
 prerequisites for these bonus feats. This ability replaces venom
 immunity.
 
-## Eagle Shaman
+#### Eagle Shaman
 
 A shaman with this totem calls upon the noble eagle, stern and proud,
 soaring high above the world with keen and pitiless eyes that miss
@@ -3256,7 +3253,7 @@ Focus]
 Stance]. She must meet the prerequisites
 for these bonus feats. This ability replaces venom immunity.
 
-## Lion Shaman
+#### Lion Shaman
 
 A shaman with this totem calls upon the proud lion, imposing and
 majestic, the mighty leader of deadly hunters.
@@ -3298,7 +3295,7 @@ Focus]
 the prerequisites for these bonus feats. This ability replaces venom
 immunity.
 
-## Serpent Shaman
+#### Serpent Shaman
 
 A shaman with this totem calls upon the cunning serpent, the stealthy
 deceiver who draws the weak minded in and strikes while they are
@@ -3343,7 +3340,7 @@ Focus]
 Back]. She must meet the prerequisites
 for these bonus feats. This ability replaces venom immunity.
 
-## Wolf Shaman
+#### Wolf Shaman
 
 A shaman with this totem calls upon the clever wolf, capable of roaming
 alone yet wise enough to run with a pack when facing dangers too great
@@ -3388,9 +3385,8 @@ Attack]. She must meet the
 prerequisites for these bonus feats. This ability replaces venom
 immunity.
 
-Fighter
 
-# Fighter
+## Fighter
 
 From dockside brawlers to legendary champions, poor foot soldiers to the
 greatest duelists of the nobility, fighters are those who devote
@@ -3404,7 +3400,7 @@ Presented below are a number of common martial themes, complete with
 variant class abilities to help customize characters to their chosen
 fighting style.
 
-# Archer
+### Archer
 
 The archer is dedicated to the careful mastery of the bow, perfecting
 his skills with years of practice honed day after day on ranges and
@@ -3457,7 +3453,7 @@ replaces armor mastery.
 
 **Weapon Mastery (Ex)**: An archer must choose a type of bow.
 
-# Crossbowman
+### Crossbowman
 
 The crossbowman has perfected the deadly use of the crossbow, a simple
 but cruelly efficient weapon, as a craftsman mastering a lethal tool.
@@ -3511,7 +3507,7 @@ the penalties stack. This ability replaces armor mastery.
 
 **Weapon Mastery (Ex)**: A crossbowman must choose a type of crossbow.
 
-# Free Hand Fighter
+### Free Hand Fighter
 
 The free hand fighter specializes in the delicate art of handling a
 single weapon in one hand while using his free hand to balance, block,
@@ -3558,7 +3554,7 @@ successful, the attack changes to target the target of the free hand
 fighter's maneuver instead of the free hand fighter himself. This
 ability replaces armor mastery.
 
-# Mobile Fighter
+### Mobile Fighter
 
 Where some fighters focus on strength and raw power, the mobile fighter
 relies on swiftness and mobility, gliding across the battlefield like a
@@ -3593,7 +3589,7 @@ full-attack action as a standard action. He may also use the [Whirlwind
 Attack] feat as a standard action.
 This ability replaces weapon mastery.
 
-# Phalanx Soldier
+### Phalanx Soldier
 
 The phalanx soldier specializes in defensive tactics, using his shield
 to guard himself and his allies and forming a shield wall like an
@@ -3649,7 +3645,7 @@ beginning of his next turn. As an immediate action, he can provide
 improved evasion to an adjacent ally against one attack. This ability
 replaces weapon mastery.
 
-# Polearm Master
+### Polearm Master
 
 The polearm master is schooled in the ancient wisdom that enemies are
 best faced at the end of long striking pole, lashing like a serpent
@@ -3701,7 +3697,7 @@ replaces armor mastery.
 **Weapon Mastery (Ex)**: A polearm master must choose a spear or
 polearm.
 
-# Roughrider
+### Roughrider
 
 Roughriders study and practice the fine points of mounted combat,
 drilling endlessly with warbeasts—from noble thoroughbreds to trained
@@ -3752,7 +3748,7 @@ ability replaces armor training 4.
 **Indomitable Steed (Ex)**: At 19th level, a roughrider and his steed
 gain DR 5/— when mounted. This ability replaces armor mastery.
 
-# Savage Warrior
+### Savage Warrior
 
 Warriors' might is not measured only by their skill with steel, but also
 by their ability to inflict death with fang and claw, horn and hoof, and
@@ -3793,7 +3789,7 @@ creatures and difficult terrain. This ability replaces weapon training
 **Natural Weapon Mastery (Ex)**: At 20th level, a savage warrior must
 choose one natural weapon. This ability replaces weapon mastery.
 
-# Shielded Fighter
+### Shielded Fighter
 
 A shielded fighter focuses on both offense and defense, blending weapon
 and shield in perfect balance to impede his enemies while delivering
@@ -3845,7 +3841,7 @@ AC (not including enhancement bonuses) on Reflex saves and to his touch
 AC. In addition, his shield cannot be disarmed or sundered. This ability
 replaces weapon mastery.
 
-# Two-Handed Fighter
+### Two-Handed Fighter
 
 Some fighters focus their efforts on finding the biggest, heaviest, most
 imposing weapon they can find and training to manage and harness the
@@ -3889,7 +3885,7 @@ threat. Special weapon abilities that activate only on a critical hit do
 not activate if this critical hit is confirmed. This ability replaces
 armor mastery.
 
-# Two-Weapon Warrior
+### Two-Weapon Warrior
 
 Trained under great masters who preached the simple truth that two are
 better than one when it comes to weapons, the two-weapon warrior is a
@@ -3940,7 +3936,7 @@ a full attack with both weapons, every creature that hits him with a
 melee attack before the beginning of his next turn provokes an attack of
 opportunity from the warrior. This ability replaces armor mastery.
 
-# Weapon Master
+### Weapon Master
 
 Devoted to the perfection of a single weapon, the weapon master's
 meditations upon his favored weapon border on the obsessive, but none
@@ -3988,9 +3984,8 @@ standard action to make one attack with his chosen weapon as a touch
 attack that ignores damage reduction (or hardness, if attacking an
 object). This ability replaces armor mastery.
 
-Monk
 
-# Monk
+## Monk
 
 Monks are martial mystics. Through mediation and discipline, and
 sometimes by way of secrets passed down for generations within a
@@ -4009,7 +4004,7 @@ monks seeking perfection.
 Bonus feats marked with asterisks (\*) are found in the feat section of
 this book.
 
-# Drunken Master
+### Drunken Master
 
 Most monks lead lives of moderation and quiet contemplation. But the
 drunken master finds perfection through excess. Powered by strong wine,
@@ -4057,7 +4052,7 @@ that consumes 4 *ki* points from the monk's *ki* pool. The monk must
 have at least 1 drunken *ki* point to use this ability. This ability
 replaces empty body.
 
-# Hungry Ghost Monk
+### Hungry Ghost Monk
 
 The hungry ghost monk looks to spirits that prey upon the living as
 models of perfection. He sees the life energy of the universe as a
@@ -4118,7 +4113,7 @@ he has at least 1 *ki* point in his *ki* pool. This ability is a
 proscribed manipulation of *ki* considered by many good monks to be a
 corruption. The ability replaces diamond soul.
 
-# Ki Mystic
+### Ki Mystic
 
 The *ki*mystic believes that violence is sometimes necessary, but
 knowing and understanding is the true root of perfection. Through
@@ -4167,7 +4162,7 @@ aura. The monk can dismiss the aura at any time as a free action, but
 the *ki* points for the full duration of the aura are lost. This ability
 replaces empty body.
 
-# Monk of the Empty Hand
+### Monk of the Empty Hand
 
 The monk of the empty hand eschews normal weapons in favor of whatever
 is lying around—rocks, chair legs, flagons of ale, even a simple quill
@@ -4229,7 +4224,7 @@ quality to a slashing weapon, or the
 bludgeoning weapon. This ability replaces purity of body and diamond
 body.
 
-# Monk of the Four Winds
+### Monk of the Four Winds
 
 The monk of the four winds is connected to the natural world in a way
 few other creatures—even other monks—can hope to match. He can call upon
@@ -4318,7 +4313,7 @@ hours later in a place of his choosing within 20 miles of the place he
 died. The monk must have visited the place in which he returns back to
 life at least once. This ability replaces perfect self.
 
-# Monk of the Healing Hand
+### Monk of the Healing Hand
 
 Monks of the healing hand seek perfection through helping others. By
 focusing their meditations on the flow of life within themselves and all
@@ -4366,7 +4361,7 @@ a deity. Furthermore, the monk's name can never be spoken or written
 down again. All written mentions of his name become nothing more than a
 blank space. This ability replaces perfect self.
 
-# Monk of the Lotus
+### Monk of the Lotus
 
 Monks are warriors who hone their bodies into deadly weapons, but some
 monks eschew violence in favor of a more peaceful philosophy. While a
@@ -4422,7 +4417,7 @@ replaces quivering palm.
 skills. The monk uses Wisdom instead of Intelligence as the key ability
 for these skills. This ability replaces tongue of the sun and the moon.
 
-# Monk of the Sacred Mountain
+### Monk of the Sacred Mountain
 
 The monk of the sacred mountain finds strength and power in the earth
 beneath his feet. Rather than spinning though the battlefield with the
@@ -4465,7 +4460,7 @@ does not lose the capacity for speech, but if he ever speaks, he loses
 this feature for 24 hours. This ability replaces tongue of the sun and
 the moon.
 
-# Weapon Adept
+### Weapon Adept
 
 While all monks train in both unarmed combat and with weapons, the
 weapon adept seeks to become one with his weapons, transforming them
@@ -4502,7 +4497,7 @@ perfect self to become a bastion of the physical and mental virtues
 monks hold dear. The monk gains a +2 bonus to Strength, Dexterity, and
 Wisdom. This ability replaces perfect self.
 
-# Zen Archer
+### Zen Archer
 
 Some monks seek to become one with another weapon entirely—the bow. The
 zen archer takes a weapon most other monks eschew and seeks perfection
@@ -4609,9 +4604,8 @@ focus]* weapons,
 allowing him to use his special *ki* attacks as if his arrows were
 unarmed attacks. This ability replaces tongue of the sun and moon.
 
-Paladin
 
-# Paladin
+## Paladin
 
 Holy warriors and defenders of the faith, paladins know that the only
 thing more abhorrent than an evil creature is a fundamentally good
@@ -4626,7 +4620,7 @@ Presented below are several variant class features to help flesh out
 common paladin archetypes, the better to customize characters for
 fighting the good fight.
 
-# Divine Defender
+### Divine Defender
 
 Some paladins see themselves as the last line of defense between the
 teeming hordes of evil and the innocent folk trying to make a living in
@@ -4702,7 +4696,7 @@ defender loses the use of this ability for 30 days, or until she gains a
 level, whichever comes first. During this 30-day period, the divine
 defender takes a –1 penalty on attack and weapon damage rolls.
 
-# Hospitaler
+### Hospitaler
 
 Paladins are known for their charity and for tending to the sick. The
 hospitaler takes to this calling above all others, spending much of her
@@ -4735,7 +4729,7 @@ can only be healed once by a use of this ability and they can only
 attempt additional saving throws once per day, even if they are exposed
 to this aura multiple times. This ability replaces aura of justice.
 
-# Sacred Servant
+### Sacred Servant
 
 Paladins as a general rule, venerate the gods of good and purity, but
 some take this a step further, dedicating themselves to a specific deity
@@ -4799,7 +4793,7 @@ Ally]*. The sacred
 servant's caster level for this effect is equal to her paladin level.
 This ability replaces aura of resolve.
 
-# Shining Knight
+### Shining Knight
 
 While paladins often are seen mounted atop a loyal steed, the shining
 knight is the true symbol of mounted bravery. They are never far from
@@ -4825,7 +4819,7 @@ equal to 1/2 the shining knight's level. The DC of this save is equal to
 10 + 1/2 the shining knight's level + the shining knight's Charisma
 modifier. This ability replaces aura of justice.
 
-# Undead Scourge
+### Undead Scourge
 
 Undead are an abomination in the eyes of the just and righteous. It is
 no surprise then that there are some paladins that dedicate themselves
@@ -4853,7 +4847,7 @@ Charisma modifier. Undead with twice as many Hit Dice as the undead
 scourge are unaffected by this ability. If the attack misses, the smite
 evil is wasted without effect. This ability replaces aura of justice.
 
-# Warrior of the Holy Light
+### Warrior of the Holy Light
 
 Some paladins use their gifts to focus on the holy light that shines
 within their souls. With the gifts of purity and redemption, these
@@ -4921,7 +4915,7 @@ throws, and skill checks for 1 round. A warrior of the holy light can
 use this ability once per day at 14th level plus one additional time per
 day at 17th and 20th levels. This ability replaces aura of faith.
 
-## Antipaladin (Alternate Class)
+#### Antipaladin (Alternate Class)
 
 
 *Not all paladins that fall become antipaladins. In fact, the transformation is quite rare. Most paladins spend months or even years regaining their paladinhood, but they never stray so far from the path as to become irredeemable. Rarely, a paladin turns from the light and seeks instead to make a pact with the dark powers. Often this is through temptation or some sort of ruse, but once the deal is struck, the paladin finds himself on the path to damnation.*
@@ -4971,7 +4965,7 @@ with the class's new special abilities, can be found on Table 2–13.
 
 **Hit Die**: d10.
 
-### Class Skills
+##### Class Skills
 
 The antipaladin's class skills are
 [Bluff] (Cha),
@@ -5051,7 +5045,7 @@ Table: Antipaladin
 |     |              |          |          |          |                                  |     |     |     |     |
 +-----+--------------+----------+----------+----------+----------------------------------+-----+-----+-----+-----+
 
-### Class Features
+##### Class Features
 
 All of the following are class features of the antipaladin.
 
@@ -5358,7 +5352,7 @@ such an unusual alliance as long as his nefarious goals are met in the
 end—evil cares only about results. An antipaladin may accept only
 henchmen, followers, or cohorts who are chaotic evil.
 
-# Ex-Antipaladins
+### Ex-Antipaladins
 
 A antipaladin who ceases to be chaotic evil, who willfully commits an
 good act, or who violates the code of conduct loses all antipaladin
@@ -5369,9 +5363,8 @@ potential if he atones for his violations (see the
 *[Atonement]* spell), as
 appropriate.
 
-Ranger
 
-# Ranger
+## Ranger
 
 Where the average druid eschews settlements entirely, seeking solace in
 the wilds, rangers are the border riders, living on civilization's
@@ -5391,7 +5384,7 @@ to help customize your ranger, whether he's a bold master of beasts or a
 shifty forest scout adept at tracking the enemy and picking off the
 unwary.
 
-# New Combat Styles
+### New Combat Styles
 
 At 2nd level, a ranger must select one of the two core [Combat
 Styles] or one of the
@@ -5462,7 +5455,7 @@ level, he adds [Bashing
 Finish]) and [Greater
 Shield Focus] to the list.
 
-# Beast Master
+### Beast Master
 
 Some rangers, particularly those in primitive lands or who were raised
 by animals, have unusually strong bonds with animals. Unique among
@@ -5526,7 +5519,7 @@ animal companions is now equal to his ranger level; he may immediately
 allocate these additional levels to his companions as he sees fit. This
 ability replaces camouflage.
 
-# Guide
+### Guide
 
 Many rangers are loners, but some choose to use their familiarity with
 the land to guide others safely through the wilderness. The guide
@@ -5581,7 +5574,7 @@ that enemy takes a –4 penalty on the roll. This bonus or penalty is also
 applied on any roll to confirm critical hits. This ability replaces
 improved evasion.
 
-# Horse Lord
+### Horse Lord
 
 Rangers of the plains use horses or other riding beasts to hunt their
 lands, forging a near-mystical relationship with their mounts. Horse
@@ -5616,7 +5609,7 @@ feet of the him, he can choose to share the damage taken by his mount as
 if using *[shield other]*.
 This ability replaces hide in plain sight.
 
-# Infiltrator
+### Infiltrator
 
 Some rangers study their favored enemies and learn their ways, applying
 this knowledge to their own abilities and using their foes' strengths
@@ -5745,7 +5738,7 @@ Focus]
 Fortitude], [Iron
 Will], swim 15 ft.
 
-# Shapeshifter
+### Shapeshifter
 
 Most rangers venture into the wilderness, but there are some who let the
 wilderness seep into them. Whether by curse, disease, ancient rite, a
@@ -5856,7 +5849,7 @@ ranger gains a swim speed of 60 feet and a +5 bonus on
 can polymorph into the form of an otter or similar river mammal as if
 the caster of *[Beast Shape IV]*.
 
-# Skirmisher
+### Skirmisher
 
 Many rangers rely on spells, but there are some who eschew aid from
 divine powers for their own reasons. Skirmishers rely on their wits,
@@ -5999,7 +5992,7 @@ action when an enemy adjacent to him hits an ally with a melee or ranged
 attack. The ranger can make a single melee attack at his highest base
 attack bonus against the creature who attacked his ally.
 
-# Spirit Ranger
+### Spirit Ranger
 
 Some rangers nurture a connection with the spirits that reside in all
 things. By communing with these spirits, the spirit ranger can gain
@@ -6026,7 +6019,7 @@ his favored terrains, the ranger can cast
 *[Divination]* is equal to the
 ranger's level. This ability replaces camouflage.
 
-# Urban Ranger
+### Urban Ranger
 
 For the urban ranger, the streets and sewers of the city are just as
 dangerous as the barren wastelands or the deep forests. An urban ranger
@@ -6267,9 +6260,9 @@ based on the complexity of the disguise, as noted on the following
 table. The times are cumulative, so if a female rogue wants to disguise
 herself as a male of a different race, that takes 2 minutes.
 
-  Disguise                                                                        Time
-  ------------------------------------------------------------------------------- ---------------------
-  Minor details only                                                              1 full-round action
+  Disguise                                              Time
+  ----------------------------------------------------- -------------------
+  Minor details only                                    1 full-round action
   [Disguise] as a different gender          1 minute
   [Disguise] as a different race            1 minute
   [Disguise] as a different age category    1 minute
@@ -6380,7 +6373,7 @@ Motive], or
 try to gain new or better information from the roll. This reroll can be
 made any time during the same day as the original check.
 
-## Acrobat
+### Acrobat
 
 Agility and daring are both excellent rogue traits, and their confluence
 can create spectacular feats of acrobatics. Whether they are daring
@@ -6417,7 +6410,7 @@ maneuver, rogue crawl\*, and stand up\*.
 the acrobat archetype: defensive roll\*, fast getaway, fast tumble, and
 improved evasion\*.
 
-# Burglar
+### Burglar
 
 Adept at infiltration, trap removal, and lock picking, burglars prey on
 the homes of the wealthy and forgotten tombs alike. Such riches are
@@ -6451,7 +6444,7 @@ and trap spotter\*.
 the burglar archetype: knock-out blow, skill mastery\*, and thoughtful
 reexamining.
 
-# Cutpurse
+### Cutpurse
 
 Everyone who lives in the city understands that a wealthy man stays
 wealthy by guarding his purse while wandering the streets and markets.
@@ -6495,7 +6488,7 @@ magic\*, slow reactions\*, and surprise attack\*.
 the cutpurse archetype: crippling strike\*, fast tumble, and skill
 mastery\*.
 
-# Investigator
+### Investigator
 
 Not all rogues work against the law. Investigators use their skills to
 serve the law, often in the employ of nobles or in the pursuit of noble
@@ -6521,7 +6514,7 @@ to fool, and minor magic\*.
 the investigator archetype: hunter's surprise, slippery mind\*, and
 thought reexamining.
 
-# Poisoner
+### Poisoner
 
 Some consider poisoning an evil act. The poisoner knows poison is just a
 tool toward an end, and is no different than any other weapon. Some
@@ -6552,7 +6545,7 @@ poison, and weapon training\*.
 the poisoner archetype: deadly cocktail, hunter's surprise, and
 opportunist\*.
 
-# Rake
+### Rake
 
 The rake is a rogue who is open about her skills and talents, often to
 the point of being boastful. Usually she has the protection of an
@@ -6581,7 +6574,7 @@ attack\*.
 **Advanced Talents**: The following advanced rogue talents complement
 the rake archetype: another day, redirect attack, and skill mastery\*.
 
-# Scout
+### Scout
 
 Not all rogues live in the city. Scouts frequently roam the wilderness,
 often banding together as bandits, but sometimes serving as guides, as
@@ -6609,7 +6602,7 @@ trap spotter\*.
 the scout archetype: hunter's surprise, skill mastery\*, and stealthy
 sniper.
 
-# Sniper
+### Sniper
 
 Some say that the sniper is the worst kind of assassin: a killer who
 waits silently in the shadows and then strikes from a distance without
@@ -6636,7 +6629,7 @@ archetype: camouflage, snap shot, sniper's eye, and weapon training\*.
 the sniper archetype: defensive roll\*, master of disguise, and stealthy
 sniper.
 
-# Spy
+### Spy
 
 The best spies are like chameleons, but not only can they change their
 appearances to fit the situation, they can also change their
@@ -6663,7 +6656,7 @@ magic\*, minor magic\*, and quick disguise.
 the spy archetype: crippling strike\*, master of disguise, and stealthy
 sniper.
 
-# Swashbuckler
+### Swashbuckler
 
 A paragon of mobile swordplay, the swashbuckler is a rogue who focuses
 almost exclusively on honing her skill at arms and perfecting daring
@@ -6687,7 +6680,7 @@ sneak, and weapon training\*.
 the swashbuckler archetype: crippling strike\*, entanglement of blades,
 and redirect attack.
 
-# Thug
+### Thug
 
 Some criminals steal with finesse, their victims only discovering the
 crime when the rogue is long gone and the coin already spent. A thug, on
@@ -6716,7 +6709,7 @@ weapon training\*.
 the thug archetype: crippling strike\*, deadly sneak, and knock-out
 blow.
 
-# Trapsmith
+### Trapsmith
 
 Some rogues are not content with just disabling traps—they love to build
 them, finding a captivating beauty in the turning of gears and the
@@ -6747,9 +6740,8 @@ quick trapsmith.
 the trapsmith archetype: another day, frugal trapsmith, and skill
 mastery\*.
 
-Sorcerer
 
-# Sorcerer
+## Sorcerer
 
 Filled with magical power that screams for release, sorcery is not so
 much a calling as a blessing—or a curse. For some sorcerers, this arcane
@@ -6762,7 +6754,7 @@ abilities.
 
 New spells presented in Chapter 5 are marked here with asterisks (\*).
 
-# Aquatic
+### Aquatic
 
 Your family traces its heritage back to the ocean depths, whether scions
 of undersea empires left in the wake of nomadic sea-tribes, or the spawn
@@ -6837,7 +6829,7 @@ Movement]*.
 Underwater, you gain evasion and blindsight 120 feet, and you are immune
 to pressure damage from deep water.
 
-# Boreal
+### Boreal
 
 Descended from inhabitants of the lands of ice and snow, you count among
 your ancestors giant-kin, troll-born, and frost-rimed spirits. Their
@@ -6912,7 +6904,7 @@ subtype and you become immune to fatigue and exhaustion. In addition,
 you gain immunity to sneak attacks and critical hits. This power causes
 you to gain vulnerability to fire.
 
-# Deep Earth
+### Deep Earth
 
 The echoing cave-songs and the rumble and creak of primal spirits deep
 below the ground thrum in your soul and in all your family line. You are
@@ -6985,7 +6977,7 @@ spaces and are immune to bull rush, drag, grapple, reposition, and trip
 maneuvers, and to push and pull effects as long as you are standing on
 the ground.
 
-# Dreamspun
+### Dreamspun
 
 Your family is a long line of dreamers, who dream not as ordinary
 mortals do but rather as those who reach through and touch the supernal
@@ -7064,7 +7056,7 @@ corporeal creatures, but spells and abilities that do not deal damage
 function normally. The duration need not be continuous, but it must be
 used in 1-minute increments.
 
-# Protean
+### Protean
 
 You have in your veins the ever-changing wildness of primal chaos, the
 raw essence of unbound creation. Your mind and spirit burst with the
@@ -7141,7 +7133,7 @@ effects (except when cast on self), as well as a +2 bonus to save DCs
 and on checks to overcome spell penetration against creatures with the
 lawful subtype.
 
-# Serpentine
+### Serpentine
 
 Your bloodline carries the lingering stain of ancient serpent races that
 ruled when the world was young; your forebears were likely favored
@@ -7222,7 +7214,7 @@ components when transformed. You also become immune to poison and
 paralysis. You may use serpent's fang as often as desired, and you may
 choose to inflict damage to any ability score.
 
-# Shadow
+### Shadow
 
 Spirits from the shadow plane dally at times in the world of light, and
 such as these lay with your ancestors once upon a time, imparting the
@@ -7297,7 +7289,7 @@ your creations are 20% more real, and any creatures you create gain the
 benefits of the [Augment Summoning]
 feat.
 
-# Starsoul
+### Starsoul
 
 You come from a line of stargazers and explorers who delved deeply into
 the darkness beyond the stars. In touching the void, the void touched
@@ -7369,7 +7361,7 @@ per round and must hold its breath or begin to suffocate.
 and you can see perfectly in natural or magical darkness. In addition,
 you gain fast healing 1 when you are outdoors at night.
 
-# Stormborn
+### Stormborn
 
 You trace your heritage to fierce and proud spirits of storm and sky,
 and living lightning sings in your veins.
@@ -7445,7 +7437,7 @@ forgo your saving throw and absorb the energies of the attack, healing 1
 point of damage for every 3 points of damage the attack would otherwise
 have dealt.
 
-# Verdant
+### Verdant
 
 Your progenitors infused themselves with raw plant life, binding it into
 their own tissue and passing it down to their literal seed, giving you
@@ -7518,9 +7510,8 @@ manifests. You gain a +4 natural armor bonus. You gain immunity to
 paralysis, poison, polymorph, sleep, and stunning, and you gain
 tremorsense 30 feet even when not rooted.
 
-Wizard
 
-# Wizard
+## Wizard
 
 Bending reality to their will through careful study, wizards are the
 embodiment of the phrase “mind over matter,” changing whole worlds with
@@ -7530,7 +7521,7 @@ come to appreciate the benefits of narrowly focusing their study.
 Presented below are several new schools of magic to help you customize
 your wizard's arcane pursuits.
 
-# Elemental Arcane Schools
+### Elemental Arcane Schools
 
 Instead of specializing in one of the standard eight schools of magic, a
 wizard can choose to specialize in one of the four elemental schools of
@@ -7544,7 +7535,7 @@ fire opposes water). He does not need to select a second opposition
 school. He must expend two spell slots to prepare a spell from his
 opposed elemental school as normal.
 
-## Air School
+#### Air School
 
 The air elementalist uses the forces of the wind, sky, clouds, and
 lightning to confuse and destroy his foes, all while flying through the
@@ -7585,7 +7576,7 @@ a DC 15 [Perception] skill
 check. You can use this ability for a number of rounds per day equal to
 your wizard level. These rounds do not need to be consecutive.
 
-## Earth School
+#### Earth School
 
 The earth elementalist draws power from the stone around him, shaping
 it, shattering it, and bending it to his will. He can use it to defend
@@ -7621,7 +7612,7 @@ round. Your burrowing does not leave a hole, nor does it give any sign
 of your presence (although you can be detected by creatures with
 tremorsense). These rounds do not need to be consecutive.
 
-## Fire School
+#### Fire School
 
 The fire elementalist sees a world around him that is made to burn, and
 he can bring that fire to consume his foes. He has also learned that
@@ -7661,7 +7652,7 @@ must have a new source of fuel. If it does not, it is extinguished in
 one round. You can use this ability a number of times per day equal to
 1/2 your wizard level.
 
-## Water School
+#### Water School
 
 The water elementalist draws magic from the ocean depths. His power is
 fluid as well, crushing foes in mighty waves or wearing them down
@@ -7702,7 +7693,7 @@ Nonmagical fires hit by the wave are automatically extinguished. Magical
 fire effects are unaffected. You can use this ability for a number of
 rounds per day equal to 1/2 your wizard level.
 
-# Focused Arcane Schools
+### Focused Arcane Schools
 
 Wizards that specialize in one of the schools of magic can instead chose
 to focus their studies still further. Wizards who choose a focused
@@ -7712,7 +7703,7 @@ more of the powers granted by their arcane school. A wizard must take
 all of the replacement powers associated with his focused arcane school.
 Once a focused arcane school is chosen, it cannot be changed.
 
-## Admixture School
+#### Admixture School
 
 **Associated School**: Evocation.
 
@@ -7743,7 +7734,7 @@ only partially within your aura, only the portions within the aura are
 transformed. You can use this ability for a number of rounds per day
 equal to your wizard level. The rounds do not need to be consecutive.
 
-## Banishment School
+#### Banishment School
 
 **Associated School**: Abjuration.
 
@@ -7767,7 +7758,7 @@ summoned it immediately ends. If that spell summoned more than one
 creature, only the creature that failed its saving throws is affected.
 These rounds do not need to be consecutive.
 
-## Controller School
+#### Controller School
 
 **Associated School**: Enchantment.
 
@@ -7793,7 +7784,7 @@ for a number of rounds per day equal to your wizard level. These rounds
 do not need to be consecutive. You must concentrate as a standard action
 to maintain control over a dominated creature.
 
-## Counterspell School
+#### Counterspell School
 
 **Associated School**: Abjuration.
 
@@ -7820,7 +7811,7 @@ least one level higher than the spell being countered to use this
 ability. You can use this ability once per day at 6th level, plus one
 additional time per day for every 4 levels beyond 6th.
 
-## Creation School
+#### Creation School
 
 **Associated School**: Conjuration.
 
@@ -7846,7 +7837,7 @@ ends. At 12th level, this ability improves to *[Major
 Creation]*. You can use
 this ability a number of times per day equal to 1/2 your wizard level.
 
-## Enhancement School
+#### Enhancement School
 
 **Associated School**: Transmutation.
 
@@ -7868,7 +7859,7 @@ grant yourself an enhancement bonus to a single ability score equal to
 1/2 your wizard level (maximum +10) for one round. You may use this
 ability for a number of times per day equal to your wizard level.
 
-## Foresight School
+#### Foresight School
 
 **Associated School**: Divination.
 
@@ -7892,7 +7883,7 @@ hinder, your enemies take a –2 penalty on those rolls instead. You can
 use this ability for a number of rounds per day equal to your wizard
 level. These rounds do not need to be consecutive.
 
-## Generation School
+#### Generation School
 
 **Associated School**: Evocation.
 
@@ -7916,7 +7907,7 @@ creature with an object, you must succeed at a ranged touch attack. You
 can use this ability a number of times per day equal to 3 + your
 Intelligence modifier.
 
-## Life School
+#### Life School
 
 **Associated School**: Necromancy.
 
@@ -7947,7 +7938,7 @@ hit points. You can use this ability a number of times per day equal to
 3 + your Intelligence modifier. This ability has no effect if you are
 immune to nonlethal damage.
 
-## Manipulator School
+#### Manipulator School
 
 **Associated School**: Enchantment.
 
@@ -7976,7 +7967,7 @@ enhance emotional influence, enemies within the aura receive a –2
 penalty on saves against mind-affecting spells and effects. These rounds
 do not need to be consecutive.
 
-## Phantasm School
+#### Phantasm School
 
 **Associated School**: Illusion.
 
@@ -7998,7 +7989,7 @@ are considered to be flanked. This is a mind-affecting effect. You can
 use this ability for a number of rounds per day equal to your wizard
 level. These rounds do not need to be consecutive.
 
-## Scryer School
+#### Scryer School
 
 **Associated School**: Divination.
 
@@ -8014,7 +8005,7 @@ through this sensor for number of rounds equal to 1/2 your wizard level
 wizard level. You can use this ability a number of times per day equal
 to 3 + your Intelligence modifier.
 
-## Shadow School
+#### Shadow School
 
 **Associated School**: Illusion.
 
@@ -8047,7 +8038,7 @@ expend an equal amount of distance for each additional creature brought
 with you. They likewise re-enter off target (roll location for each
 creature) and are cloaked in shadow for 1 round.
 
-## Shapechange School
+#### Shapechange School
 
 **Associated School**: Transmutation.
 
@@ -8063,7 +8054,7 @@ can shape two natural weapons. You may not grow additional limbs or a
 tail with this ability. You can use this ability a number of times per
 day equal to 3 + your Intelligence modifier.
 
-## Teleportation School
+#### Teleportation School
 
 **Associated School**: Conjuration.
 
@@ -8079,7 +8070,7 @@ for every two wizard levels you possess (minimum 5 feet). You can use
 this ability a number of times per day equal to 3 + your Intelligence
 modifier.
 
-## Undead School
+#### Undead School
 
 **Associated School**: Necromancy.
 
