@@ -34,7 +34,7 @@ synonymously in the short description.
 
 
 
-# Spells by Class
+## Spells by Class
 
 
 [Alchemist Spells]
@@ -62,10 +62,9 @@ synonymously in the short description.
 [Witch Spells]
 
 
-# Alchemist Spells
+## Alchemist Spells
 
-1st-Level Alchemist Spells
---------------------------
+### 1st-Level Alchemist Spells
 
 **[Ant
 Haul]**^^:
@@ -96,8 +95,7 @@ Your unarmed strikes are lethal.
 Sea]**^^:
 [Swim] speed becomes 30 ft.
 
-2nd-Level Alchemist Spells
---------------------------
+### 2nd-Level Alchemist Spells
 
 **[Alchemical
 Allocation]**^^:
@@ -124,8 +122,7 @@ Spit poison onto weapon after drinking potion.
 Swarm]**^^:
 Produces a spider swarm that fights for you.
 
-3rd-Level Alchemist Spells
---------------------------
+### 3rd-Level Alchemist Spells
 
 **[Absorbing
 Touch]**^^:
@@ -154,8 +151,7 @@ Detects thinking creatures' thoughts.
 Body]**^^:
 Those attacking you take 1d6 +1 damage/level.
 
-4th-Level Alchemist Spells
---------------------------
+### 4th-Level Alchemist Spells
 
 **[Detonate]**^M^:
 Inflicts 1d8/level energy damage to all creatures within 15 ft.
@@ -172,8 +168,7 @@ Gain DR 10/slashing, increases reach 10 ft., and breathe water.
 Formula]**^M^:
 Acts as any extract 3rd level or lower.
 
-5th-Level Alchemist Spells
---------------------------
+### 5th-Level Alchemist Spells
 
 **[Delayed
 Consumption]**^^:
@@ -191,18 +186,15 @@ Resist harmful effects of one plane.
 Transformation]**^M^:
 Gain second wind when close to death.
 
-6th-Level Alchemist Spells
---------------------------
+### 6th-Level Alchemist Spells
 
 **[Twin
 Form]**^^:
 Creates controllable duplicate of you.
 
-Antipaladin Spells
-==================
+## Antipaladin Spells
 
-1st-Level Antipaladin Spells
-----------------------------
+### 1st-Level Antipaladin Spells
 
 **[Bane]**^^: Enemies take –1
 on attack rolls and saves vs. fear.
@@ -247,8 +239,7 @@ and spellbooks.
 I]**^^: *(Evil creatures
 only.)*Summons extraplanar creature to fight for you.
 
-2nd-Level Antipaladin Spells
-----------------------------
+### 2nd-Level Antipaladin Spells
 
 **[Blindness/Deafness]**^^:
 Makes subject blind or deaf.
@@ -293,8 +284,7 @@ creatures only.)* Summons extraplanar creature to fight for you.
 Alignment]**^^:
 Conceals alignment for 24 hours.
 
-3rd-Level Antipaladin Spells
-----------------------------
+### 3rd-Level Antipaladin Spells
 
 **[Animate Dead]**^M^^^:
 Creates undead skeletons and zombies.
@@ -339,8 +329,7 @@ creatures only.)* Summons extraplanar creature to fight for you.
 **[Vampiric Touch]**^^:
 Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
 
-4th-Level Antipaladin Spells
-----------------------------
+### 4th-Level Antipaladin Spells
 
 **[Dispel Good]**^^: +4 against
 attacks by good creatures.
@@ -374,11 +363,9 @@ attack deals 12d6 +1 per level.
 IV]**^^: *(Evil
 creatures only.)* Summons extraplanar creature to fight for you.
 
-Bard Spells
-===========
+## Bard Spells
 
-0-Level Bard Spells
--------------------
+### 0-Level Bard Spells
 
 **[Sift]**^^: See
 area as though examining it.
@@ -390,8 +377,7 @@ Ignites flammable objects.
 Ally]**^^:
 Subject is considered ally for 1 round.
 
-1st-Level Bard Spells
----------------------
+### 1st-Level Bard Spells
 
 **[Beguiling
 Gift]**^^:
@@ -452,8 +438,7 @@ Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
 As *[invisibility]* for 1
 round/level (5 max).
 
-2nd-Level Bard Spells
----------------------
+### 2nd-Level Bard Spells
 
 **[Blood
 Biography]**^^:
@@ -497,8 +482,7 @@ take higher roll.
 Weapon]**^^:
 Weapon bypasses some DR.
 
-3rd-Level Bard Spells
----------------------
+### 3rd-Level Bard Spells
 
 **[Arcane
 Concordance]**^^:
@@ -546,8 +530,7 @@ Detects thinking creatures' thoughts.
 Drums]**^^:
 1d8 damage/level and knocked prone.
 
-4th-Level Bard Spells
----------------------
+### 4th-Level Bard Spells
 
 **[Denounce]**^^:
 Worsens attitudes toward target creature.
@@ -574,8 +557,7 @@ Objects on cloth become embroidered.
 Motes]**^^:
 Outlines subject, produces light.
 
-5th-Level Bard Spells
----------------------
+### 5th-Level Bard Spells
 
 **[Bard's
 Escape]**^^:
@@ -613,8 +595,7 @@ Stuns 3 creatures for 1 round.
 Shield]**^M^:
 Subject shares wounds you receive.
 
-6th-Level Bard Spells
----------------------
+### 6th-Level Bard Spells
 
 **[Brilliant
 Inspiration]**^^:
@@ -640,17 +621,14 @@ predetermined location.
 Piping]**^^:
 Compel similar creatures to follow you.
 
-Cleric Spells
-=============
+## Cleric Spells
 
-0-Level Cleric Spells
----------------------
+### 0-Level Cleric Spells
 
 **[Spark]**^^:
 Ignites flammable objects.
 
-1st-Level Cleric Spells
------------------------
+### 1st-Level Cleric Spells
 
 **[Ant
 Haul]**^^:
@@ -660,8 +638,7 @@ Triples carrying capacity of a creature.
 Lantern]**^^:
 Animates a lantern that follows you.
 
-2nd-Level Cleric Spells
------------------------
+### 2nd-Level Cleric Spells
 
 **[Blessing of Courage and
 Life]**^^:
@@ -691,8 +668,7 @@ Subject understands chosen language.
 Awe]**^^:
 Weapon gets +2 on damage rolls.
 
-3rd-Level Cleric Spells
------------------------
+### 3rd-Level Cleric Spells
 
 **[Blood
 Biography]**^^:
@@ -727,8 +703,7 @@ Cast touch healing spells from a distance.
 Mantle]**^^:
 Subject gets +1/four levels on all saves.
 
-4th-Level Cleric Spells
------------------------
+### 4th-Level Cleric Spells
 
 **[Blessing of
 Fervor]**^^:
@@ -746,8 +721,7 @@ Dead creature cannot be revived.
 Ally]**^^:
 Creates a divine ally to aid you.
 
-5th-Level Cleric Spells
------------------------
+### 5th-Level Cleric Spells
 
 **[Cleanse]**^^:
 Cures 4d8 damage +1/level (max +25) and also removes several
@@ -774,8 +748,7 @@ Transforms staff or other wood into snakes to fight for you.
 Stitching]**^M^:
 Objects on cloth become embroidered.
 
-6th-Level Cleric Spells
------------------------
+### 6th-Level Cleric Spells
 
 **[Planar Adaptation,
 Mass]**^^:
@@ -783,8 +756,7 @@ As *[planar
 adaptation](spells/planarAdaptation.html#planar-adaptation)*, but
 affects multiple creatures.
 
-8th-Level Cleric Spells
------------------------
+### 8th-Level Cleric Spells
 
 **[Divine
 Vessel]**^^:
@@ -797,24 +769,20 @@ Makes a single creature peaceful and friendly.
 **[Stormbolts]**^^:
 1d8 damage/level (max 20d8) to targets.
 
-9th-Level Cleric Spells
------------------------
+### 9th-Level Cleric Spells
 
 **[Winds of
 Vengeance]**^^:
 Grants flight; attack with wind.
 
-Druid Spells
-============
+## Druid Spells
 
-0-Level Druid Spells
---------------------
+### 0-Level Druid Spells
 
 **[Spark]**^^:
 Ignites flammable objects.
 
-1st-Level Druid Spells
-----------------------
+### 1st-Level Druid Spells
 
 **[Alter
 Winds]**^^:
@@ -878,8 +846,7 @@ Your unarmed strikes are lethal.
 Sea]**^^:
 [Swim] speed becomes 30 ft.
 
-2nd-Level Druid Spells
-----------------------
+### 2nd-Level Druid Spells
 
 **[Accelerate
 Poison]**^^:
@@ -938,8 +905,7 @@ Wave boosts creature's speed.
 Call]**^^:
 2d6 damage to all creatures in area.
 
-3rd-Level Druid Spells
-----------------------
+### 3rd-Level Druid Spells
 
 **[Aqueous
 Orb]**^^:
@@ -984,8 +950,7 @@ Sand]**^^:
 Creates difficult terrain and erases tracks; can carry creatures or
 objects along.
 
-4th-Level Druid Spells
-----------------------
+### 4th-Level Druid Spells
 
 **[Aspect of the
 Stag]**^^:
@@ -1030,8 +995,7 @@ Your attackers take 1d6 +1 damage/level.
 Form]**^^:
 Removes polymorph effects.
 
-5th-Level Druid Spells
-----------------------
+### 5th-Level Druid Spells
 
 **[Aspect of the
 Wolf]**^^:
@@ -1058,8 +1022,7 @@ Transforms wood into snakes to fight for you.
 Aspect]**^F^:
 Appear older or younger.
 
-6th-Level Druid Spells
-----------------------
+### 6th-Level Druid Spells
 
 **[Sirocco]**^^:
 Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures
@@ -1069,8 +1032,7 @@ prone.
 Skin]**^^:
 Turns your body into a swarm that can attack.
 
-7th-Level Druid Spells
-----------------------
+### 7th-Level Druid Spells
 
 **[Rampart]**^^:
 Creates 5-ft.-thick earthen barrier.
@@ -1078,8 +1040,7 @@ Creates 5-ft.-thick earthen barrier.
 **[Vortex]**^^:
 Creates a whirlpool in water.
 
-8th-Level Druid Spells
-----------------------
+### 8th-Level Druid Spells
 
 **[Euphoric
 Tranquility]**^^:
@@ -1096,8 +1057,7 @@ Lava]**^^:
 Wall damages foes that try to enter, periodically launches lava at
 nearby targets.
 
-9th-Level Druid Spells
-----------------------
+### 9th-Level Druid Spells
 
 **[Clashing
 Rocks]**^^:
@@ -1115,11 +1075,9 @@ Wave]**^^:
 Earth or water moves you across distances and damages things not of the
 natural world.
 
-Elementalist Wizard Spells
-==========================
+## Elementalist Wizard Spells
 
-0-Level Elementalist Wizard Spells
-----------------------------------
+### 0-Level Elementalist Wizard Spells
 
 **Air**
 
@@ -1141,8 +1099,7 @@ Ignites flammable objects.
 **[Ray of Frost]**^^: Ray deals
 1d3 cold damage.
 
-1st-Level Elementalist Wizard Spells
-------------------------------------
+### 1st-Level Elementalist Wizard Spells
 
 **Air**
 
@@ -1191,8 +1148,7 @@ Fog surrounds you.
 Sea]**^^:
 [Swim] speed becomes 30 ft.
 
-2nd-Level Elementalist Wizard Spells
-------------------------------------
+### 2nd-Level Elementalist Wizard Spells
 
 **All**
 
@@ -1275,8 +1231,7 @@ Hastens targeted poison's onset.
 **[Slipstream]**^^:
 Wave boosts creature's speed.
 
-3rd-Level Elementalist Wizard Spells
-------------------------------------
+### 3rd-Level Elementalist Wizard Spells
 
 **All**
 
@@ -1351,8 +1306,7 @@ vision and movement.
 **[Water Breathing]**^^:
 Subjects can breathe underwater.
 
-4th-Level Elementalist Wizard Spells
-------------------------------------
+### 4th-Level Elementalist Wizard Spells
 
 **All**
 
@@ -1427,8 +1381,7 @@ slows movement.
 **[Wall of Ice]**^^: Ice plane
 creates wall or hemisphere creates dome.
 
-5th-Level Elementalist Wizard Spells
-------------------------------------
+### 5th-Level Elementalist Wizard Spells
 
 **All**
 
@@ -1498,8 +1451,7 @@ cold damage.
 **[Geyser]**^^:
 Creates a geyser of boiling water.
 
-6th-Level Elementalist Wizard Spells
-------------------------------------
+### 6th-Level Elementalist Wizard Spells
 
 **All**
 
@@ -1561,8 +1513,7 @@ Gain DR 10/slashing, increases reach 10 ft., and breathe water.
 **[Freezing Sphere]**^^:
 Freezes water or deals cold damage.
 
-7th-Level Elementalist Wizard Spells
-------------------------------------
+### 7th-Level Elementalist Wizard Spells
 
 **All**
 
@@ -1618,8 +1569,7 @@ Changes weather in local area.
 **[Vortex]**^^:
 Creates a whirlpool in water.
 
-8th-Level Elementalist Wizard Spells
-------------------------------------
+### 8th-Level Elementalist Wizard Spells
 
 **All**
 
@@ -1672,8 +1622,7 @@ attack deals 1d6/level cold damage and 1d4 points of Dexterity drain.
 **[Seamantle]**^^:
 Sheathes you in protective water.
 
-9th-Level Elementalist Wizard Spells
-------------------------------------
+### 9th-Level Elementalist Wizard Spells
 
 **All**
 
@@ -1718,11 +1667,9 @@ Wave damages and sweeps up all in its path.
 Wave]**^^:
 Earth moves you across distances.
 
-Inquisitor Spells
-=================
+## Inquisitor Spells
 
-0-Level Inquisitor Spells
--------------------------
+### 0-Level Inquisitor Spells
 
 **[Brand]**^^:
 Creates permanent brand on target creature.
@@ -1730,8 +1677,7 @@ Creates permanent brand on target creature.
 **[Sift]**^^: See
 area as though examining it.
 
-1st-Level Inquisitor Spells
----------------------------
+### 1st-Level Inquisitor Spells
 
 **[Burst
 Bonds]**^^:
@@ -1744,8 +1690,7 @@ Ignore fatigue while hustling.
 **[Wrath]**^^: +1
 attack and damage against target creature.
 
-2nd-Level Inquisitor Spells
----------------------------
+### 2nd-Level Inquisitor Spells
 
 **[Bloodhound]**^^:
 Gives caster the scent special ability.
@@ -1792,8 +1737,7 @@ Cast touch healing spells from a distance.
 Awe]**^^:
 Weapon gets +2 on damage rolls.
 
-3rd-Level Inquisitor Spells
----------------------------
+### 3rd-Level Inquisitor Spells
 
 **[Banish
 Seeming]**^^:
@@ -1839,8 +1783,7 @@ Detects thinking creatures' thoughts.
 Faithful]**^^:
 Creatures of same faith gain bonuses to AC and on saving throws.
 
-4th-Level Inquisitor Spells
----------------------------
+### 4th-Level Inquisitor Spells
 
 **[Brand,
 Greater]**^^:
@@ -1882,8 +1825,7 @@ Pursuers]**^^:
 As *[tireless pursuit](spells/tirelessPursuit.html#tireless-pursuit)*,
 but affects multiple creatures.
 
-5th-Level Inquisitor Spells
----------------------------
+### 5th-Level Inquisitor Spells
 
 **[Castigate,
 Mass]**^^:
@@ -1903,8 +1845,7 @@ Melee attack deals 1d6 more damage.
 Shield]**^M^:
 Subject shares wounds you receive.
 
-6th-Level Inquisitor Spells
----------------------------
+### 6th-Level Inquisitor Spells
 
 **[Cleanse]**^^:
 As *[heal]*, but only cures 4d8 damage
@@ -1915,11 +1856,9 @@ Mass]**^^:
 As *[fester](spells/fester.html#fester)*, but affecting multiple
 targets.
 
-Paladin Spells
-==============
+## Paladin Spells
 
-1st-Level Paladin Spells
-------------------------
+### 1st-Level Paladin Spells
 
 **[Challenge
 Evil]**^^:
@@ -1953,8 +1892,7 @@ Square gives good creatures bonuses.
 Energy]**^^:
 +2 AC, +2 on saves vs. undead.
 
-2nd-Level Paladin Spells
-------------------------
+### 2nd-Level Paladin Spells
 
 **[Aura of Greater
 Courage]**^^:
@@ -2008,8 +1946,7 @@ Magical trail aids good creatures, hinders evil ones.
 Awe]**^^:
 Weapon gets +2 on damage rolls.
 
-3rd-Level Paladin Spells
-------------------------
+### 3rd-Level Paladin Spells
 
 **[Divine
 Transfer]**^^:
@@ -2040,8 +1977,7 @@ Armor]**^^:
 Mantle]**^^:
 Subject shines and gets +1/four levels on all saves.
 
-4th-Level Paladin Spells
-------------------------
+### 4th-Level Paladin Spells
 
 **[Blaze of
 Glory]**^^:
@@ -2075,11 +2011,9 @@ Take damage for an ally for many rounds.
 Hand]**^^:
 Subject cannot attack with melee weapon.
 
-Ranger Spells
-=============
+## Ranger Spells
 
-1st-Level Ranger Spells
------------------------
+### 1st-Level Ranger Spells
 
 **[Ant
 Haul]**^^:
@@ -2142,8 +2076,7 @@ Tell creature's appearance by footprint.
 Pursuit]**^^:
 Ignore fatigue while hustling.
 
-2nd-Level Ranger Spells
------------------------
+### 2nd-Level Ranger Spells
 
 **[Accelerate
 Poison]**^^:
@@ -2217,8 +2150,7 @@ Call]**^^:
 Weapon]**^^:
 Weapon bypasses some DR.
 
-3rd-Level Ranger Spells
------------------------
+### 3rd-Level Ranger Spells
 
 **[Aspect of the
 Stag]**^^:
@@ -2258,8 +2190,7 @@ but affects many targets rather than one.
 Bolt]**^^:
 Arrow or bolt poisons target.
 
-4th-Level Ranger Spells
------------------------
+### 4th-Level Ranger Spells
 
 **[Aspect of the
 Wolf]**^^:
@@ -2278,17 +2209,14 @@ action.
 Respite]**^^:
 Creates trees and a small spring.
 
-Sorcerer/Wizard Spells
-======================
+## Sorcerer/Wizard Spells
 
-0-Level Sorcerer/Wizard Spells
-------------------------------
+### 0-Level Sorcerer/Wizard Spells
 
 **[Spark]**^^:
 Ignites flammable objects.
 
-1st-Level Sorcerer/Wizard Spells
---------------------------------
+### 1st-Level Sorcerer/Wizard Spells
 
 **[Alter
 Winds]**^^:
@@ -2358,8 +2286,7 @@ Sea]**^^:
 As *[invisibility]* for 1
 round/level (5 max).
 
-2nd-Level Sorcerer/Wizard Spells
---------------------------------
+### 2nd-Level Sorcerer/Wizard Spells
 
 **[Accelerate
 Poison]**^^:
@@ -2411,8 +2338,7 @@ Wave boosts creature's speed.
 Call]**^^:
 2d6 damage to all creatures in area.
 
-3rd-Level Sorcerer/Wizard Spells
---------------------------------
+### 3rd-Level Sorcerer/Wizard Spells
 
 **[Aqueous
 Orb]**^^:
@@ -2475,8 +2401,7 @@ Floating knife attacks with you.
 Weapon]**^^:
 Weapon bypasses some DR.
 
-4th-Level Sorcerer/Wizard Spells
---------------------------------
+### 4th-Level Sorcerer/Wizard Spells
 
 **[Acid
 Pit]**^F^:
@@ -2524,8 +2449,7 @@ Removes polymorph effects.
 Motes]**^^:
 Outlines subject and produces light as a sunrod.
 
-5th-Level Sorcerer/Wizard Spells
---------------------------------
+### 5th-Level Sorcerer/Wizard Spells
 
 **[Fire
 Snake]**^^:
@@ -2563,8 +2487,7 @@ Target quickly suffocates to death.
 Stitching]**^M^:
 Objects on cloth become embroidered.
 
-6th-Level Sorcerer/Wizard Spells
---------------------------------
+### 6th-Level Sorcerer/Wizard Spells
 
 **[Cloak of
 Dreams]**^^:
@@ -2593,8 +2516,7 @@ prone.
 Shield]**^M^:
 Subject shares wounds you receive.
 
-7th-Level Sorcerer/Wizard Spells
---------------------------------
+### 7th-Level Sorcerer/Wizard Spells
 
 **[Deflection]**^^:
 Attacks that miss are redirected back to the source of the attack.
@@ -2626,8 +2548,7 @@ Creates 5-ft.-thick earthen barrier.
 **[Vortex]**^^:
 Creates a whirlpool in water.
 
-8th-Level Sorcerer/Wizard Spells
---------------------------------
+### 8th-Level Sorcerer/Wizard Spells
 
 **[Euphoric
 Tranquility]**^^:
@@ -2644,8 +2565,7 @@ Lava]**^^:
 Wall damages foes that try to enter, periodically launches lava at
 nearby targets.
 
-9th-Level Sorcerer/Wizard Spells
---------------------------------
+### 9th-Level Sorcerer/Wizard Spells
 
 **[Clashing
 Rocks]**^^:
@@ -2674,11 +2594,9 @@ Gives you the ability to fly and attack with wind.
 Wave]**^^:
 Earth moves you across distances.
 
-Summoner Spells
-===============
+## Summoner Spells
 
-1st-Level Summoner Spells
--------------------------
+### 1st-Level Summoner Spells
 
 **[Ant
 Haul]**^^:
@@ -2691,8 +2609,7 @@ Eidolon cured 1d10 damage +1/level (max +5).
 **[Unfetter]**^^:
 Remove distance restriction on eidolon.
 
-2nd-Level Summoner Spells
--------------------------
+### 2nd-Level Summoner Spells
 
 **[Create
 Pit]**^F^:
@@ -2709,8 +2626,7 @@ You take no falling damage and move 60 ft./round while falling.
 Eidolon]**^^:
 Instantly summons your eidolon for duration of spell.
 
-3rd-Level Summoner Spells
--------------------------
+### 3rd-Level Summoner Spells
 
 **[Aqueous
 Orb]**^^:
@@ -2738,8 +2654,7 @@ Pit]**^F^:
 As *[create pit](spells/createPit.html#create-pit-)*, but filled with
 spikes.
 
-4th-Level Summoner Spells
--------------------------
+### 4th-Level Summoner Spells
 
 **[Acid
 Pit]**^M^:
@@ -2756,8 +2671,7 @@ Eidolon summoned is fully healed.
 **[Transmogrify]**^M^:
 Change your eidolon's evolutions.
 
-5th-Level Summoner Spells
--------------------------
+### 5th-Level Summoner Spells
 
 **[Hungry
 Pit^F^]**^^:
@@ -2774,8 +2688,7 @@ As *[lesser rejuvenate
 eidolon](spells/rejuvenateEidolon.html#rejuvenate-eidolon,-lesser)*,
 but cures 5d10 damage +1/level (max +20).
 
-6th-Level Summoner Spells
--------------------------
+### 6th-Level Summoner Spells
 
 **[Planar Adaptation,
 Mass]**^^:
@@ -2783,11 +2696,9 @@ As *[planar
 adaptation](spells/planarAdaptation.html#planar-adaptation)*, but
 affects multiple creatures.
 
-Witch Spells
-============
+## Witch Spells
 
-0-Level Witch Spells
---------------------
+### 0-Level Witch Spells
 
 **[Putrefy Food and
 Drink]**^^:
@@ -2796,8 +2707,7 @@ Makes food and water inedible.
 **[Spark]**^^:
 Ignites flammable objects.
 
-1st-Level Witch Spells
-----------------------
+### 1st-Level Witch Spells
 
 **[Beguiling
 Gift]**^^:
@@ -2815,8 +2725,7 @@ Target rolls twice for checks and attacks and uses worst roll.
 Dweomer]**^^:
 Hides presence of a spell from d*etect magic*.
 
-2nd-Level Witch Spells
-----------------------
+### 2nd-Level Witch Spells
 
 **[Burning
 Gaze]**^^:
@@ -2850,8 +2759,7 @@ Subject is sickened and has –4 Dex.
 Swarm]**^^:
 Produces a spider swarm that fights for you.
 
-3rd-Level Witch Spells
-----------------------
+### 3rd-Level Witch Spells
 
 **[Cup of
 Dust]**^^:
@@ -2885,8 +2793,7 @@ Perceive the world around your familiar.
 Knife]**^^:
 Floating knife attacks with you.
 
-4th-Level Witch Spells
-----------------------
+### 4th-Level Witch Spells
 
 **[Moonstruck]**^^:
 Subject is enraged and confused.
@@ -2905,8 +2812,7 @@ Appear older or younger.
 Motes]**^^:
 Outlines subject and produces light as a sunrod.
 
-5th-Level Witch Spells
-----------------------
+### 5th-Level Witch Spells
 
 **[Banish
 Seeming]**^^:
@@ -2924,8 +2830,7 @@ Dead creature cannot be revived.
 **[Suffocation]**^^:
 Target quickly suffocates to death.
 
-6th-Level Witch Spells
-----------------------
+### 6th-Level Witch Spells
 
 **[Cloak of
 Dreams]**^^:
@@ -2944,14 +2849,12 @@ Turns your body into a swarm of vermin.
 Shield]**^M^:
 Subject shares wounds you receive.
 
-8th-Level Witch Spells
-----------------------
+### 8th-Level Witch Spells
 
 **[Stormbolts]**^^:
 1d8 damage/level (max 20d8) to targets.
 
-9th-Level Witch Spells
-----------------------
+### 9th-Level Witch Spells
 
 **[Suffocation,
 Mass]**^^:
