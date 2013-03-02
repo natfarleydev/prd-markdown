@@ -1,5 +1,4 @@
-Equipment
-=========
+# Equipment
 
 A well-equipped character can take on nearly any challenge, from
 surviving in the wilderness to making an impression at the king's
@@ -10,8 +9,7 @@ equipment presented here should be relatively easy to find and purchase
 in most towns and cities, although GMs might wish to restrict the
 availability of some of the more expensive and exotic items.
 
-Weapons
-=======
+## Weapons
 
 Adventurers are always on the look out for new or strange weapons to
 give them an advantage in combat.
@@ -67,7 +65,7 @@ bec de corbin.
 with a spiked projection on the back of the blade. The spike is commonly
 used to block and parry. When fighting defensively or with full defense,
 this weapon gives you a +1 shield bonus to AC. A mounted opponent hit by
-a bill takes a –1 penalty on his [Ride](../skills/ride.html#_ride) check
+a bill takes a –1 penalty on his [Ride] check
 to stay mounted.
 
 **Boar Spear**: This spear with a spiraling blade has a metal crossbar
@@ -126,7 +124,7 @@ take a –4 penalty on your attack roll if you're proficient with it, or
 –8 if you're not. If the attack hits, the target takes damage from both
 bolts. Critical hits, sneak attack damage, and other precision-based
 damage only apply to the first bolt. Reloading one bolt is a standard
-action; the [Rapid Reload](../feats.html#_rapid-reload) feat reduces
+action; the [Rapid Reload] feat reduces
 this to a move action. Crossbow Mastery allows you to reload both bolts
 as a move action
 
@@ -136,7 +134,7 @@ momentum of an axe with the cutting edge of a sword.
 
 **Glaive-Guisarme**: This polearm combines the blade of a glaive with a
 wicked hook. A mounted opponent hit by a glaive-guisarme takes a –2
-penalty on his [Ride](../skills/ride.html#_ride) check to stay mounted.
+penalty on his [Ride] check to stay mounted.
 
 **Khopesh**: This heavy blade has a convex curve near the end, making
 its overall shape similar to a battleaxe.
@@ -145,7 +143,7 @@ its overall shape similar to a battleaxe.
 knot on one end that allows you entangle a foe like you would using a
 net. The DC to cast a spell while entangled with a lasso is 10 + the
 spell level being cast. An entangled creature can slip free with a DC 15
-[Escape Artist](../skills/escapeArtist.html#_escape-artist) check as a
+[Escape Artist] check as a
 full-round action. The lasso has 2 hit points and AC 10. It requires a
 DC 23 Strength check to break it. On a successful hit, the lasso
 tightens; to use it again you must spend a standard action sliding the
@@ -178,8 +176,8 @@ standard action to pry the remnants of the pilum from his shield.
 **Sword Cane**: This slender light blade lies within a wooden container
 that serves as both its scabbard and hiding place. You can draw the
 blade from the cane as a swift action (or a free action if you have the
-[Quick Draw](../feats.html#_quick-draw) feat). An observer must make a
-DC 20 [Perception](../skills/perception.html#_perception) check to
+[Quick Draw] feat). An observer must make a
+DC 20 [Perception] check to
 realize an undrawn sword cane is a weapon rather than a walking stick;
 the DC decreases to 10 if the observer is able to handle the weapon.
 
@@ -289,21 +287,21 @@ much, and a Large weapon weighs twice as much.
 ^2^ A weapon with two types is both types if the entry specifies “and,”
 or either type (wielder's choice) if the entry specifies “or.”
 
-Armor
-=====
+
+## Armor
 
 These armors follow the same rules as the armors presented in the
 *Pathfinder RPG Core Rulebook*.
 
 **Agile Breastplate**: This breastplate is specially crafted in a manner
 that allows extra maneuverability for some physical activities. The
-armor check penalty for [Climb](../skills/climb.html#_climb) checks and
+armor check penalty for [Climb] checks and
 jump checks is only –1 (masterwork and mithral versions of this armor
 reduce this penalty as well as the normal penalty).
 
 **Agile Half-Plate**: This style of half-plate is specially crafted in a
 manner that allows extra maneuverability for some physical activities.
-The armor check penalty for [Climb](../skills/climb.html#_climb) checks
+The armor check penalty for [Climb] checks
 and jump checks is only –4 (masterwork and mithral versions of this
 armor reduce this penalty as well as the normal penalty). In addition,
 unlike most heavy armors, the wearer can still run at quadruple speed
@@ -324,10 +322,10 @@ proficient in shields to ready or stow it on his or her back quickly and
 easily. If you have a base attack bonus of +1 or higher, you may don or
 put away a quickdraw shield as a swift action combined with a regular
 move. If you have the [Two-Weapon
-Fighting](../feats.html#_two-weapon-fighting) feat, you can draw a light
+Fighting] feat, you can draw a light
 or one-handed weapon with one hand and a quickdraw shield with the other
 in the time it would normally take you to draw one weapon. If you have
-the [Quick Draw](../feats.html#_quick-draw) feat, you may don or put
+the [Quick Draw] feat, you may don or put
 away a quickdraw shield as a free action.
 
 **Quilted Cloth**: This enhanced form of padded armor has internal
@@ -393,8 +391,8 @@ Large characters weighs twice as much.
 ^2^ When running in agile half-plate, you may still move quadruple your
 speed, instead of the normal triple speed for heavy armor.
 
-Goods and Services
-==================
+
+## Goods and Services
 
   Adventuring Gear               Cost          Weight
   ------------------------------ ------------- ------------
@@ -515,8 +513,8 @@ normal amount.
 Adventurers are always looking for equipment that gives them an
 advantage—their very survival depends on it.
 
-Adventuring Gear
-================
+
+## Adventuring Gear
 
 The following special gear supplements that listed in the *Pathfinder
 RPG Core Rulebook*.
@@ -577,7 +575,7 @@ inset lock.
 **Earplugs**: Made of waxed cotton or cork, earplugs give you a +2
 circumstance bonus on saves against effects that require hearing but
 also cause a –5 penalty on hearing-based
-[Perception](../skills/perception.html#_perception) checks.
+[Perception] checks.
 
 **Hourglass**: The standard hourglass takes 1 hour to empty the sand
 from the upper chamber; larger and smaller timers exist which mark off
@@ -585,7 +583,7 @@ time in increments as short as 6 seconds.
 
 **Iron Spike**: This foot-long iron spike is used to keep doors open or
 closed and to secure ropes for climbing. Hearing a spike being hammered
-in requires a DC 5 [Perception](../skills/perception.html#_perception)
+in requires a DC 5 [Perception]
 check.
 
 **Magnet**: Handheld magnets are relatively weak and are mainly used to
@@ -610,9 +608,9 @@ small spaces your head wouldn't fit. When using a periscope, the end of
 the tube counts as a Diminutive object, making it much less likely an
 observed creature notices you; if you have total concealment from the
 creature except for the end of the periscope, use the tube's Diminutive
-size modifier for your [Stealth](../skills/stealth.html#_stealth)
+size modifier for your [Stealth]
 instead of your own size modifier. Distortion from the mirrors gives you
-a –4 penalty on [Perception](../skills/perception.html#_perception)
+a –4 penalty on [Perception]
 checks while looking through the periscope. Though the tube is fairly
 sturdy (hardness 5, 2 hit points), the mirrors inside are fragile
 (hardness 1, 1 hit point), and any damage that gets through the tube's
@@ -621,7 +619,7 @@ hardness applies to the tube and the mirrors.
 **Poison Pill Ring**: This ring has a tiny compartment under the
 setting, typically used to hold poison. Opening and closing a ring is a
 move action; doing so unseen requires a DC 20 [Sleight of
-Hand](../skills/sleightOfHand.html#_sleight-of-hand) check.
+Hand] check.
 
 **Powder**: Powdered chalk, flour, and similar materials are popular
 with adventurers for their utility in pinpointing invisible creatures.
@@ -648,12 +646,12 @@ case to damage its contents (hardness 2 for leather or 5 for wood, 2 hit
 points, Break DC 15). A scroll case is not water-tight.
 
 **Signal Horn**: Sounding a horn requires a DC 10
-[Perform](../skills/perform.html#_perform) (wind instruments) check and
+[Perform] (wind instruments) check and
 can convey concepts such as “Attack!”, “Help!”, “Advance!”, “Retreat!”,
 “Fire!”, and, “Alarm!” The report of a signal horn can be clearly heard
-([Perception](../skills/perception.html#_perception) DC 0) up to a
+([Perception] DC 0) up to a
 half-mile distant. For each quarter-mile beyond,
-[Perception](../skills/perception.html#_perception) checks to hear the
+[Perception] checks to hear the
 horn suffer a –1 penalty.
 
 **Smoked Goggles**: These spectacles have lenses made of smoked glass
@@ -661,7 +659,7 @@ that help protect against creatures with gaze attacks. You are always
 treated as averting your gaze when dealing with gaze attacks, and you
 gain a +8 circumstance bonus on saving throws against visual-based
 attacks (any attack that a blind creature would be immune to). You have
-a –4 penalty on [Perception](../skills/perception.html#_perception)
+a –4 penalty on [Perception]
 checks while wearing the goggles, and all opponents are treated as
 having concealment (20% miss chance).
 
@@ -703,27 +701,27 @@ locked gauntlet, you can still use a hand with a weapon cord, though a
 dangling weapon may interfere with finer actions.
 
 **Whistle, Signal**: With a DC 5
-[Perform](../skills/perform.html#_perform) (wind instruments) check you
+[Perform] (wind instruments) check you
 can use a whistle to signal the same sorts of situations as signal
 horns. A whistle's piercing report can be clearly heard
-([Perception](../skills/perception.html#_perception) DC 0) up to a
+([Perception] DC 0) up to a
 quarter-mile away. For each quarter-mile beyond,
-[Perception](../skills/perception.html#_perception) checks to hear a
+[Perception] checks to hear a
 whistle suffer a –2 penalty.
 
 Silent whistles that only animals and other creatures with keen hearing
 can hear also exist.
 
-Special Substances and Items
-============================
+
+## Special Substances and Items
 
 Any of these substances can be made by a character with the
-[Craft](../skills/craft.html#_craft) (alchemy) skill.
+[Craft] (alchemy) skill.
 
 **Alchemical Grease**: Each pot of this slick black goo has sufficient
 contents to cover one Medium or two Small creatures. If you coat
 yourself in alchemical grease, you gain a +5 alchemical bonus on [Escape
-Artist](../skills/escapeArtist.html#_escape-artist) checks, on combat
+Artist] checks, on combat
 maneuver checks made to escape a grapple, and to your CMD to avoid being
 grappled; this lasts 4 hours or until you wash it off.
 
@@ -733,7 +731,7 @@ Each vial can cover a single 5-foot square. It destroys normal adhesives
 rounds to deal with more powerful adhesives (tanglefoot bags, spider
 webbing, and so on). It has no affect on fully magical adhesives,
 including *[sovereign
-glue](../magicItems/wondrousItems.html#_sovereign-glue)*.
+glue]*.
 
 **Alchemist's Kindness**: Favored by young rakes and others of means,
 this is a crystalline powder resembling salt. Mixed with water, it makes
@@ -760,10 +758,10 @@ similar liquid washes it off.
 
 **Bloodblock**: This gooey, pinkish substance helps treat wounds. Using
 a dose gives you a +5 alchemical bonus on
-[Heal](../skills/heal.html#_heal) checks for providing first aid,
+[Heal] checks for providing first aid,
 treating wounds made by caltrops or similar objects, or treating deadly
 wounds. A dose of bloodblock ends a bleed effect as if you had made a DC
-15 [Heal](../skills/heal.html#_heal) check. When treating deadly wounds,
+15 [Heal] check. When treating deadly wounds,
 using a dose of bloodblock counts as one use of a healer's kit (and
 grants the +5 bonus stated above).
 
@@ -852,8 +850,8 @@ weapon made of one special material (such as adamantine) can have a
 different material blanch (such as silver), and counts as both materials
 for the first successful hit.
 
-Tools and Skill Kits
-====================
+
+## Tools and Skill Kits
 
 These items are particularly useful to characters with certain skills
 and class abilities.
@@ -864,11 +862,11 @@ and class abilities.
 have all the material components needed for his extracts, mutagens, and
 bombs, except for those components that have a specific cost. An
 alchemist's kit provides no bonuses on
-[Craft](../skills/craft.html#_craft) (alchemy) checks.
+[Craft] (alchemy) checks.
 
 **Alchemist's Lab, Portable**: This compact version of a full-sized
 alchemist's lab provides a +1 circumstance bonus on
-[Craft](../skills/craft.html#_craft) (alchemy) checks.
+[Craft] (alchemy) checks.
 
 **Anvil**: While anvil sizes vary depending on the type of smithing for
 which they are used, all anvils have the same basic shape and
@@ -884,15 +882,15 @@ the latitude of the user; the upper disc represents the sky, and is
 filled with astronomical features. Anyone can be shown how to use an
 astrolabe at night to determine the date and time (which takes 1
 minute). An astrolabe grants a +2 circumstance on
-[Knowledge](../skills/knowledge.html#_knowledge) (geography) and
-[Survival](../skills/survival.html#_survival) checks to navigate in the
-wilderness (and on [Profession](../skills/profession.html#_profession)
+[Knowledge] (geography) and
+[Survival] checks to navigate in the
+wilderness (and on [Profession]
 [sailor] checks to navigate at sea).
 
 **Balancing Pole**: These flexible poles range from 15–30 feet in length
 and, when used properly, help you keep your balance when crossing narrow
 walkways. Using a balancing pole grants you a +1 circumstance bonus on
-[Acrobatics](../skills/acrobatics.html#_acrobatics) checks made to
+[Acrobatics] checks made to
 traverse a narrow surface.
 
 **Bear Trap**: Although intended for trapping large animals, bear traps
@@ -906,11 +904,8 @@ Prying open the jaws or pulling the spike from the ground requires a DC
 |**Bear Trap CR 1**                                               |
 +-----------------------------------------------------------------+
 |**Type** mechanical;                                             |
-|**[Perception](../skills/perception.html#_perception)** DC 15;   |
-|**[Disable                                                       |
-|Device](../skills/disableDevice.html#_disable-device)** DC 20    |
-|                                                                 |
-|                                                                 |
+|**[Perception]** DC 15;                                          |
+|**[Disable Device]** DC 20                                       |
 +-----------------------------------------------------------------+
 |**Effects**                                                      |
 +-----------------------------------------------------------------+
@@ -919,18 +914,13 @@ Prying open the jaws or pulling the spike from the ground requires a DC
 |**Effect** Atk +10 melee (2d6+3); sharp jaws spring shut around  |
 |the creature's ankle and halve the creature's base speed (or hold|
 |the creature immobile if the trap is attached to a solid object);|
-|the creature can escape with a DC 20 [Disable                    |
-|Device](../skills/disableDevice.html#_disable-device) check, DC  |
-|22 [Escape Artist](../skills/escapeArtist.html#_escape-artist)   |
-|check, or DC 26 Strength check                                   |
-|                                                                 |
-|                                                                 |
-|                                                                 |
+|the creature can escape with a DC 20 [Disable Device] check, DC  |
+|22 [Escape Artist] check, or DC 26 Strength check                |
 +-----------------------------------------------------------------+
 
 **Bellows**: Bellows are useful for starting fires, providing a +1
 circumstance bonus on appropriate
-[Survival](../skills/survival.html#_survival) checks.
+[Survival] checks.
 
 **Cauldron**: This iron pot may have a hook for hanging over a fire, but
 versions intended for traveling usually have three or four legs to let
@@ -939,15 +929,15 @@ for cooking, potion-making, and other similar activities.
 
 **Compass**: An ordinary compass that points to the magnetic north pole
 grants its user a +2 circumstance bonus on
-[Survival](../skills/survival.html#_survival) checks made to avoid
+[Survival] checks made to avoid
 becoming lost. It also can be used to grant the same bonus on
-[Knowledge](../skills/knowledge.html#_knowledge) (dungeoneering) checks
+[Knowledge] (dungeoneering) checks
 made to navigate underground.
 
 **Drill**: A drill can create a 1-inch-diameter hole in stone, wood, or
 metal as a standard action. Harder materials wear down or break the
 drill more quickly. Hearing the sound of drilling requires a DC 15
-[Perception](../skills/perception.html#_perception) check.
+[Perception] check.
 
 **Footprint Book:** This 50-page tome contains accurate drawings of
 various common animal, humanoid, and monster tracks, as well as notes on
@@ -966,11 +956,11 @@ charlatans to take money from gullible or desperate people. A common
 deck only has simple drawings on parchment scraps or simple wooden
 plaques. A quality fortune-teller's deck is usually of quality wooden
 plaques with painted color images; it is suitable as a focus for the
-*[augury](../spells/augury.html#_augury)* spell, and provides a +1
+*[augury]* spell, and provides a +1
 circumstance bonus on
-[Profession](../skills/profession.html#_profession) (fortune-teller),
-[Profession](../skills/profession.html#_profession) (medium), and
-similar [Profession](../skills/profession.html#_profession) checks. A
+[Profession] (fortune-teller),
+[Profession] (medium), and
+similar [Profession] checks. A
 masterwork fortune-teller's deck may be wood, ivory, or even metal, with
 painted or carved images and often highlighted with gold inlays or tiny
 gems; it has all the benefits of a quality deck, except it provides a +2
@@ -979,14 +969,14 @@ circumstance bonus on the listed skill checks.
 **Leeching Kit**: This sturdy ceramic jar has a heavy lid with a few
 tiny holes to let air in. It is normally half-filled with water and
 contains four adult leeches, each about 6 inches long. A leeching kit
-grants a +2 circumstance bonus on [Heal](../skills/heal.html#_heal)
+grants a +2 circumstance bonus on [Heal]
 checks to treat poison. Used for medicinal bloodletting, a leech can
 survive for 6 months between feedings.
 
 **Map Maker's Kit**: This small kit contains a simple slate with a grid
 carved into its surface and a number of different colored pieces of
 chalk. Anyone using this kit to draw a map as they travel receives a +2
-circumstance bonus on [Survival](../skills/survival.html#_survival)
+circumstance bonus on [Survival]
 skill checks to avoid becoming lost.
 
 **Portrait Book**: This 100-page book contains face drawings of male and
@@ -1004,13 +994,13 @@ Securing the pulley requires 1 minute.
 through wooden bolts or bars, dealing 5 hit points per round plus your
 Strength modifier to the sawed object as a full-round action. Hearing
 the sawing requires a DC 10
-[Perception](../skills/perception.html#_perception) check. Saws used to
+[Perception] check. Saws used to
 cut ice on rivers have a point on the end to break through the ice
 before cutting.
 
 **Sextant**: A sextant is used to determine your latitude. A sextant
 grants a +4 circumstance bonus on
-[Survival](../skills/survival.html#_survival) checks made to navigate
+[Survival] checks made to navigate
 while above ground.
 
 **Symptom Kit:** This small wooden box has many tiny compartments filled
@@ -1020,14 +1010,14 @@ virulent diseases. The kit includes such things as false pustules, pills
 that cause the person chewing them to foam at the mouth, and herbal
 concoctions designed to induce fevers or vomiting. Using a symptom kit
 grants you a +5 circumstances bonus on
-[Disguise](../skills/disguise.html#_disguise) checks made for the
+[Disguise] checks made for the
 purpose of simulating illness. A symptom kit is exhausted after 10 uses.
 
 **Traveling Spellbook**: A traveling spellbook is lighter and less
 cumbersome than its full-size counterpart. It has 50 pages.
 
-Clothing
-========
+
+## Clothing
 
 The following items may supplement other outfits.
 
@@ -1042,7 +1032,7 @@ Cleats cause damage to any type of finished flooring.
 their wearers warm. Wearing enough fur to cover the body provides a +2
 bonus on Fortitude saves to resist cold weather. This does not stack
 with any bonuses gained from the
-[Survival](../skills/survival.html#_survival) skill.
+[Survival] skill.
 
 **Hot Weather Outfit**: Covering your body from head to foot in light,
 airy cloth keeps you cooler than baring your skin to the sun. This
@@ -1050,7 +1040,7 @@ outfit typically consists of a loose linen robe and either a turban or
 loose head covering and veil. The outfit provides a +2 bonus on
 Fortitude saves to resist warm or hot weather. This does not stack with
 any bonuses gained from the
-[Survival](../skills/survival.html#_survival) skill.
+[Survival] skill.
 
 **Snowshoes**: These high-tension nets of rope or sinew in wooden frames
 which are lashed to the feet spread your weight across the snow, making
@@ -1060,8 +1050,8 @@ by 50%; for example, if moving through snow normally costs you 2 squares
 of movement per square traveled, snowshoes reduce this cost to 1.5
 squares per square traveled.
 
-Animal-Related Gear
-===================
+
+## Animal-Related Gear
 
 The following animal-related items can be found in most cities.
 
@@ -1081,8 +1071,8 @@ pulled over snow and ice by a team of trained riding dogs. Most sleds
 have runners at the back for a musher to stand on. A dog sled can carry
 up to the carrying capacity of all the dogs that pull it.
 
-Entertainment Items
-===================
+
+## Entertainment Items
 
 Means of cheating at games always seem to be of interest to some
 adventurers.
@@ -1090,13 +1080,13 @@ adventurers.
 **Loaded Dice**: Most loaded dice are weighted—a heavier substance is
 included opposite the desired number. You can spot marks from tampering
 with a die in this fashion with a DC 15
-[Appraise](../skills/appraise.html#_appraise) or
-[Perception](../skills/perception.html#_perception) check.
+[Appraise] or
+[Perception] check.
 Higher-quality dice (such as wooden dice carved around a naturally heavy
 inclusion) have DCs ranging from 20 to 30.
 
 **Marked Cards**: Whether bent, colored, or scratched, marked cards
 allow an informed user to know what's on the front of the card by
 viewing the mark on the back. Realizing that the cards are marked
-requires a DC 25 [Perception](../skills/perception.html#_perception)
+requires a DC 25 [Perception]
 check.
