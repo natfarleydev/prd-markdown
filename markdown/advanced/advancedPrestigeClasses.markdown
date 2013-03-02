@@ -33,7 +33,7 @@ the art of combat.
 **[Stalwart Defender](prestigeClasses/stalwartDefender.html)**: A master
 of defending territory and holding the line at all costs.
 
-# Definition of Terms
+## Definition of Terms
 
 Below are definitions of some common terms used here.
 
