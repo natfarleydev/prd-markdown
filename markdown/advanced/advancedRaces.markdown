@@ -36,7 +36,7 @@ charge of their own characters. These attitudes instead describe the
 common attitudes of typical NPC members of their race and the values and
 attitudes their characters may have been raised with. Characters can
 learn these typical attitudes about their class with a DC 10
-[Knowledge](../skills/knowledge.html#_knowledge) (local) check (DC 5 for
+[Knowledge] (local) check (DC 5 for
 attitudes of their own race).
 
 ## Racial Traits
@@ -48,7 +48,7 @@ originating in other Pathfinder products). Those traits are effectively
 half-feats, intended to tie characters to the specific nations,
 cultures, regions, and races of the Golarion campaign world. Racial
 traits, on the other hand, are those racial abilities described at the
-bottom of [each race's description](../races.html). Some races have few
+bottom of [each race's description](#races). Some races have few
 racial traits, like half-orcs and humans. Others, like dwarves and
 gnomes, have many. All of these racial traits represent typical members
 of the race and the kinds of special abilities they gain from their
@@ -256,8 +256,8 @@ This racial trait replaces the hatred racial trait.
 
 **Craftsman**: Dwarves are known for their superior craftsmanship when
 it comes to metal and stone works. Dwarves with this racial trait
-receive a +2 racial bonus on all [Craft](../skills/craft.html#_craft) or
-[Profession](../skills/profession.html#_profession) checks that create
+receive a +2 racial bonus on all [Craft] or
+[Profession] checks that create
 objects from metal or stone. This racial trait replaces the greed racial
 trait.
 
@@ -270,7 +270,7 @@ racial trait.
 
 **Lorekeeper**: Dwarves keep extensive records about their history and
 the world around them. Dwarves with this racial trait receive a +2
-racial bonus on [Knowledge](../skills/knowledge.html#_knowledge)
+racial bonus on [Knowledge]
 (history) skill checks that pertain to dwarves or their enemies. They
 can make such skill checks untrained. This racial trait replaces the
 greed racial trait.
@@ -332,7 +332,7 @@ trip.
 **Oracle**: Reduce the non-proficient penalty for one weapon by 1. When
 the non-proficient penalty for a weapon becomes 0 because of this
 ability, the oracle is treated as having the appropriate Martial or
-[Exotic Weapon Proficiency](../feats.html#_exotic-weapon-proficiency)
+[Exotic Weapon Proficiency]
 feat with that weapon.
 
 **Paladin**: Add a +1 bonus on concentration checks when casting paladin
@@ -342,7 +342,7 @@ spells.
 and magical beasts that live underground.
 
 **Rogue**: Add a +1/2 bonus on [Disable
-Device](../skills/disableDevice.html#_disable-device) checks regarding
+Device] checks regarding
 stone traps and a +1/2 bonus to trap sense regarding stone traps.
 
 ## Elves
@@ -463,7 +463,7 @@ replaces the elven magic racial trait.
 sleep, dreams, and prescient reverie. Elves with this racial trait add
 +1 to saving throw DCs for spells of the divination school and sleep
 effects they cast. In addition, elves with a Charisma of 15 or higher
-may use *[dream](../spells/dream.html#_dream)* once per day as a
+may use *[dream]* once per day as a
 spell-like ability (caster level is equal to the elf's character level).
 This racial trait replaces the elven immunities racial trait.
 
@@ -480,28 +480,28 @@ this racial trait are immune to light-based blindness and dazzle
 effects, and are treated as one level higher when determining the
 effects of any light-based spell or effect they cast (including
 spell-like and supernatural abilities). Elves with Intelligence 10 or
-higher may use *[light](../spells/light.html#_light)* at will as a
+higher may use *[light]* at will as a
 spell-like ability. This racial trait replaces the elven immunities and
 elven magic racial traits.
 
 **Silent Hunter**: Elves are renowned for their subtlety and skill.
 Elves with this racial trait reduce the penalty for using
-[Stealth](../skills/stealth.html#_stealth) while moving by 5 and can
-make [Stealth](../skills/stealth.html#_stealth) checks while running at
+[Stealth] while moving by 5 and can
+make [Stealth] checks while running at
 a –20 penalty (this number includes the penalty reduction from this
 racial trait). This racial trait replaces the elven magic racial trait.
 
 **Spirit of the Waters**: Some elves have adapted to life in tune with
 the sea or along the reedy depths of wild rivers and lakes. They gain a
-+4 racial bonus on [Swim](../skills/swim.html#_swim) checks, can always
++4 racial bonus on [Swim] checks, can always
 take 10 while swimming, and may choose Aquan as a bonus language. They
 are proficient with longspear, trident, and net. This racial trait
 replaces elven magic and weapon familiarity racial traits.
 
 **Woodcraft**: Elves know the deep secrets of the wild like no others,
 especially those of the forests. Elves with this racial trait gain a +1
-bonus on [Knowledge](../skills/knowledge.html#_knowledge) (nature) and
-[Survival](../skills/survival.html#_survival) checks. In forest terrain,
+bonus on [Knowledge] (nature) and
+[Survival] checks. In forest terrain,
 these bonuses improve to +2. This racial trait replaces the elven magic
 racial trait.
 
@@ -535,7 +535,7 @@ attempt.
 rapier, shortbow, short sword, or any weapon with “elven” in its name.
 Add a +1/2 circumstance bonus on critical hit confirmation rolls with
 that weapon (maximum bonus of +4). This bonus does not stack with
-[Critical Focus](../feats.html#_critical-focus).
+[Critical Focus].
 
 **Sorcerer**: Select one bloodline power at 1st level that is normally
 usable a number of times per day equal to 3 + the sorcerer's Charisma
@@ -651,7 +651,7 @@ Consult your GM before selecting any of these new options.
 
 **Academician**: Some gnomes are more academically inclined than their
 kin. Gnomes with this racial trait gain a +2 bonus on any one
-[Knowledge](../skills/knowledge.html#_knowledge) skill. This racial
+[Knowledge] skill. This racial
 trait replaces the obsessive racial trait.
 
 **Eternal Hope**: Gnomes rarely lose hope and are always confident that
@@ -663,10 +663,10 @@ training and hatred racial traits.
 
 **Gift of Tongues**: Gnomes love languages and learning about those they
 meet. Gnomes with this racial trait gain a +1 bonus on
-[Bluff](../skills/bluff.html#_bluff) and
-[Diplomacy](../skills/diplomacy.html#_diplomacy) checks, and they learn
+[Bluff] and
+[Diplomacy] checks, and they learn
 one additional language every time they put a rank in the
-[Linguistics](../skills/linguistics.html#_linguistics) skill. This
+[Linguistics] skill. This
 racial trait replaces the defensive training and hatred racial traits.
 
 **Magical Linguist**: Gnomes study languages in both their mundane and
@@ -675,18 +675,18 @@ DC of spells they cast with the language-dependent descriptor or those
 that create glyphs, symbols, or other magical writings. They gain a +2
 racial bonus on saving throws against such spells. Gnomes with a
 Charisma of 11 or higher also gain the following spell-like abilities:
-1/day—*[arcane mark](../spells/arcaneMark.html#_arcane-mark)*,
+1/day—*[arcane mark]*,
 *[comprehend
-languages](../spells/comprehendLanguages.html#_comprehend-languages)*,
-*[message](../spells/message.html#_message)*, *[read
-magic](../spells/readMagic.html#_read-magic)*. The caster level for
+languages]*,
+*[message]*, *[read
+magic]*. The caster level for
 these effects is equal to the gnome's level. This racial trait replaces
 the gnome magic and illusion resistance racial traits.
 
 **Master Tinker**: Gnomes experiment with all manner of mechanical
 devices. Gnomes with this racial trait gain a +1 bonus on [Disable
-Device](../skills/disableDevice.html#_disable-device) and
-[Knowledge](../skills/knowledge.html#_knowledge) (engineering) checks.
+Device] and
+[Knowledge] (engineering) checks.
 They are treated as proficient with any weapon they have personally
 crafted. This racial trait replaces the defensive training and hatred
 racial traits.
@@ -700,10 +700,10 @@ and when determining the damage of alchemist bombs that deal fire damage
 only affecting the powers they could use without this ability). Gnomes
 with Charisma of 11 or higher also gain the following spell-like
 abilities: 1/day—*[dancing
-lights](../spells/dancingLights.html#_dancing-lights)*,
-*[flare](../spells/flare.html#_flare)*,
-*[prestidigitation](../spells/prestidigitation.html#_prestidigitation)*,
-*[produce flame](../spells/produceFlame.html#_produce-flame)*. The
+lights]*,
+*[flare]*,
+*[prestidigitation]*,
+*[produce flame]*. The
 caster level for these effects is equal to the gnome's level; the DCs
 are Charisma-based. This racial trait replaces the gnome magic and
 illusion resistance racial traits.
@@ -743,8 +743,8 @@ DR 10/magic). If the gnome ever replaces his animal companion, the new
 companion gains this DR.
 
 **Rogue**: Gnome rogues gain a +1 bonus on [Disable
-Device](../skills/disableDevice.html#_disable-device) and [Use Magic
-Device](../skills/useMagicDevice.html#_use-magic-device) checks related
+Device] and [Use Magic
+Device] checks related
 to glyphs, symbols, scrolls, and other magical writings each time they
 gain a level of rogue.
 
@@ -881,8 +881,8 @@ Consult your GM before selecting any of these new options.
 
 **Ancestral Arms**: Some half-elves receive training in an unusual
 weapon. Half-elves with this racial trait receive [Exotic Weapon
-Proficiency](../feats.html#_exotic-weapon-proficiency) or [Martial
-Weapon Proficiency](../feats.html#_martial-weapon-proficiency) with one
+Proficiency] or [Martial
+Weapon Proficiency] with one
 weapon as a bonus feat at 1st level. This racial trait replaces the
 adaptability racial trait.
 
@@ -902,22 +902,22 @@ adaptability racial trait.
 **Integrated**: Many half-elves are skilled in the art of ingratiating
 themselves into a community as if they were natives. Half-elves with
 this racial trait gain a +1 bonus on
-[Bluff](../skills/bluff.html#_bluff),
-[Disguise](../skills/disguise.html#_disguise), and
-[Knowledge](../skills/knowledge.html#_knowledge) (local) checks. This
+[Bluff],
+[Disguise], and
+[Knowledge] (local) checks. This
 racial trait replaces the adaptability racial trait.
 
 **Sociable**: Half-elves are skilled at charming others and recovering
 from faux pas. If half-elves with this racial trait attempt to change a
 creature's attitude with a
-[Diplomacy](../skills/diplomacy.html#_diplomacy) check and fail by 5 or
+[Diplomacy] check and fail by 5 or
 more, they can try to influence the creature a second time even if 24
 hours have not passed. This racial trait replaces the adaptability
 racial trait.
 
 **Water Child**: Some half-elves are born of elves adapted to life on or
 near the water. These half-elves gain a +4 racial bonus on
-[Swim](../skills/swim.html#_swim) checks, can always take 10 while
+[Swim] checks, can always take 10 while
 swimming, and may choose Aquan as a bonus language. This racial trait
 replaces the half-elf's adaptability and multitalented racial traits.
 
@@ -948,8 +948,8 @@ overrun.
 half-elf ever replaces his companion, the new companion gains these
 bonus skill ranks.
 
-**Rogue**: Add a +1/2 bonus on [Bluff](../skills/bluff.html#_bluff)
-checks to feint and [Diplomacy](../skills/diplomacy.html#_diplomacy)
+**Rogue**: Add a +1/2 bonus on [Bluff]
+checks to feint and [Diplomacy]
 checks to gather information.
 
 **Summoner**: Add +1/4 to the eidolon's evolution pool.
@@ -1080,19 +1080,19 @@ Consult your GM before selecting any of these new options.
 fantastical beasts, capturing them for sport or living and hunting with
 them. A half-orc with this trait treats whip and net as martial weapons
 and gains a +2 bonus on [Handle
-Animal](../skills/handleAnimal.html#_handle-animal) checks. This racial
+Animal] checks. This racial
 trait replaces the orc ferocity racial trait.
 
 **Bestial**: The orc blood of some half-orcs manifests in the form of
 particularly prominent orc features, exacerbating their bestial
 appearances but improving their already keen senses. They gain a +2
-racial bonus on [Perception](../skills/perception.html#_perception)
+racial bonus on [Perception]
 checks. This racial trait replaces the orc ferocity racial trait.
 
 **Cavewight**: Some half-orcs live far from the surface, seeking solace
 in winding cave complexes. Half-orcs with this racial trait gain a +1
-bonus on [Knowledge](../skills/knowledge.html#_knowledge)
-(dungeoneering) and [Survival](../skills/survival.html#_survival) checks
+bonus on [Knowledge]
+(dungeoneering) and [Survival] checks
 made underground. This racial trait replaces the intimidating racial
 trait.
 
@@ -1117,8 +1117,8 @@ ferocity racial traits.
 **Rock Climber**: Half-orcs from mountainous regions are excellent
 climbers, and sometimes ambush prey by leaping down from above.
 Half-orcs with this racial trait gain a +1 bonus on
-[Acrobatics](../skills/acrobatics.html#_acrobatics) and
-[Climb](../skills/climb.html#_climb) checks. This racial trait replaces
+[Acrobatics] and
+[Climb] checks. This racial trait replaces
 the intimidating trait.
 
 **Sacred Tattoo**: Tattoos, piercings, and ritual scarification are
@@ -1129,8 +1129,8 @@ ferocity racial trait.
 **Scavenger**: Some half-orcs eke out a leaving picking over the garbage
 heaps of society, and must learn to separate rare finds from the
 inevitable dross. Half-orcs with this racial trait receive a +2 racial
-bonus on [Appraise](../skills/appraise.html#_appraise) checks and on
-[Perception](../skills/perception.html#_perception) checks to find
+bonus on [Appraise] checks and on
+[Perception] checks to find
 hidden objects (including traps and secret doors), determine if food is
 spoiled, or identify a potion by taste. This racial trait replaces the
 intimidating racial trait.
@@ -1157,8 +1157,8 @@ day.
 **Fighter**: Add +2 on rolls to stabilize when dying.
 
 **Inquisitor**: Add +1/2 on
-[Intimidate](../skills/intimidate.html#_intimidate) checks and
-[Knowledge](../skills/knowledge.html#_knowledge) checks to identify
+[Intimidate] checks and
+[Knowledge] checks to identify
 creatures.
 
 **Ranger**: Add +1 hit point to the ranger's animal companion. If the
@@ -1311,22 +1311,22 @@ trait replaces the keen senses racial trait.
 
 **Outrider**: Some halflings specialize in mounted combat. Halflings
 with this racial trait gain a +2 bonus on [Handle
-Animal](../skills/handleAnimal.html#_handle-animal) and
-[Ride](../skills/ride.html#_ride) checks. This racial trait replaces the
+Animal] and
+[Ride] checks. This racial trait replaces the
 sure-footed racial trait.
 
 **Practicality**: Halflings are grounded in hard work and common sense.
 Halflings with this racial trait gain a +2 bonus on any one
-[Craft](../skills/craft.html#_craft) or
-[Profession](../skills/profession.html#_profession) skill, as well as on
-[Sense Motive](../skills/senseMotive.html#_sense-motive) checks and
+[Craft] or
+[Profession] skill, as well as on
+[Sense Motive] checks and
 saves against illusions. This racial trait replaces the fearless and
 sure-footed racial traits.
 
 **Swift as Shadows**: Halflings possess incredible stealth even while
 moving through obstructed areas. Halflings with this racial trait reduce
-the penalty for using [Stealth](../skills/stealth.html#_stealth) while
-moving by 5, and reduce the [Stealth](../skills/stealth.html#_stealth)
+the penalty for using [Stealth] while
+moving by 5, and reduce the [Stealth]
 check penalty for sniping by 10. This racial trait replaces the
 sure-footed racial trait.
 
@@ -1338,8 +1338,8 @@ luck racial trait.
 
 **Wanderlust**: Halflings love travel and maps. Halflings with this
 racial trait receive a +2 bonus on
-[Knowledge](../skills/knowledge.html#_knowledge) (geography) and
-[Survival](../skills/survival.html#_survival) checks. When casting
+[Knowledge] (geography) and
+[Survival] checks. When casting
 spells or using abilities that provide or enhance movement, halflings
 treat their caster level as +1 higher than normal. This racial trait
 replaces the fearless and halfling luck racial traits.
@@ -1358,10 +1358,10 @@ from a number of other bonuses, depending upon their favored class.
 The following options are available to all halflings who have the listed
 favored class.
 
-**Bard**: Add +1/2 on [Bluff](../skills/bluff.html#_bluff) checks to
+**Bard**: Add +1/2 on [Bluff] checks to
 pass secret messages, +1/2 on
-[Diplomacy](../skills/diplomacy.html#_diplomacy) checks to gather
-information, and +1/2 on [Disguise](../skills/disguise.html#_disguise)
+[Diplomacy] checks to gather
+information, and +1/2 on [Disguise]
 checks to appear as an elven, half-elven, or human child.
 
 **Cleric**: Select one domain power granted at 1st level that is
@@ -1385,7 +1385,7 @@ favored enemies.
 any weapon with “halfling” in its name. Add a +1/2 circumstance bonus on
 critical hit confirmation rolls with that weapon (maximum bonus of +4).
 This bonus does not stack with [Critical
-Focus](../feats.html#_critical-focus).
+Focus].
 
 **Summoner**: Add +1 skill rank to the summoner's eidolon.
 
@@ -1505,7 +1505,7 @@ Consult your GM before selecting any of these new options.
 
 **Eye for Talent**: Humans have great intuition for hidden potential.
 They gain a +2 bonus on [Sense
-Motive](../skills/senseMotive.html#_sense-motive) checks. In addition,
+Motive] checks. In addition,
 when they acquire an animal companion, bonded mount, cohort, or
 familiar, that creature gains a +2 bonus to one ability score of the
 character's choice. This racial trait replaces the bonus feat racial
@@ -1513,8 +1513,8 @@ trait.
 
 **Heart of the Fields**: Humans born in rural areas are used to hard
 labor. They gain a bonus equal to half their character level to any one
-[Craft](../skills/craft.html#_craft) or
-[Profession](../skills/profession.html#_profession) skill, and once per
+[Craft] or
+[Profession] skill, and once per
 day they may ignore an effect that would cause them to become fatigued
 or exhausted. This racial trait replaces the skilled racial trait.
 
@@ -1526,7 +1526,7 @@ skilled racial trait.
 
 **Heart of the Wilderness**: Humans raised in the wild learn the hard
 way that only the strong survive. They gain a bonus equal to half their
-character level on [Survival](../skills/survival.html#_survival) checks.
+character level on [Survival] checks.
 They also gain a +5 bonus on Constitution checks to stabilize when dying
 and add half their character level to their Constitution score when
 determining the negative hit point total necessary to kill them. This
@@ -1557,8 +1557,8 @@ be at least one level below the highest spell level the bard can cast.
 resistance of outsiders.
 
 **Druid**: Add a +1/2 bonus on
-[Diplomacy](../skills/diplomacy.html#_diplomacy) and
-[Intimidate](../skills/intimidate.html#_intimidate) checks to change a
+[Diplomacy] and
+[Intimidate] checks to change a
 creature's attitude.
 
 **Fighter**: Add +1 to the fighter's CMD when resisting two combat
