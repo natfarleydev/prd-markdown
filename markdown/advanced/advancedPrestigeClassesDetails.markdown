@@ -1,4 +1,4 @@
-# Battle Herald
+## Battle Herald
 
 In every army there are leaders who surpass the average cold-hearted
 mercenary, battle-scarred veteran, or wizened drill instructor, not so
@@ -13,7 +13,7 @@ herald's glorious (if often tattered) banner.
 
 **Hit Die**: d10.
 
-# Requirements
+### Requirements
 
 To qualify to become a battle herald, a character must fulfill all the
 following criteria.
@@ -28,7 +28,7 @@ following criteria.
 [Profession] (soldier) 2
 ranks.
 
-# Class Skills
+### Class Skills
 
 The battle herald's class skills are
 [Bluff] (Cha),
@@ -63,7 +63,7 @@ Motive] (Wis).
 
   : Table: Battle Herald
 
-# Class Features
+### Class Features
 
 The following are class features of the battle herald prestige class.
 
@@ -242,9 +242,8 @@ The battle herald can also maintain one bardic performance in addition
 to her inspiring commands, though each must be begun separately and each
 requires its own maintenance cost.
 
-Holy Vindicator
 
-# Holy Vindicator
+## Holy Vindicator
 
 Many faiths have within their membership an order of the church
 militant, be they holy knights or dark warriors, who put their lives and
@@ -269,7 +268,7 @@ vindicators may be of any alignment.
 
 **Hit Die**: d10.
 
-# Requirements
+### Requirements
 
 To qualify to become a holy vindicator, a character must fulfill all the
 following criteria.
@@ -286,7 +285,7 @@ following criteria.
 
 **Spells**: Able to cast 1st-level divine spells.
 
-# Class Skills
+### Class Skills
 
 The vindicator's class skills are
 [Climb] (Str),
@@ -316,7 +315,7 @@ Motive] (Wis),
 
   : Table: Holy Vindicator
 
-# Class Features
+### Class Features
 
 The following are class features of the holy vindicator prestige class.
 
@@ -423,9 +422,8 @@ it is ×4. The vindicator can also use this ability in response to being
 critically hit, even if the attack incapacitates or kills the
 vindicator.
 
-Horizon Walker
 
-# Horizon Walker
+## Horizon Walker
 
 Those whose wanderlust drives them to push the boundary of safe
 environments sometimes seek the calling of the horizon walker. Horizon
@@ -455,7 +453,7 @@ a horizon walker can be of any alignment.
 
 **Hit Die**: d10.
 
-# Requirements
+### Requirements
 
 To qualify to become a horizon walker, a character must fulfill all the
 following criteria.
@@ -465,7 +463,7 @@ following criteria.
 
 **Feats**: [Endurance].
 
-# Class Skills
+### Class Skills
 
 The horizon walker's class skills are
 [Climb] (Str),
@@ -497,7 +495,7 @@ Animal] (Cha),
 
   : Table: Horizon Walker
 
-# Class Features
+### Class Features
 
 The following are class features of the horizon walker prestige class.
 
@@ -693,9 +691,8 @@ throw, he automatically succeeds. All allies within 60 feet of him gain
 a +2 bonus on these checks and saves; if the horizon walker is in a
 mastered terrain, this bonus increases to +4.
 
-Master Chymist
 
-# Master Chymist
+## Master Chymist
 
 When alchemists blithely use mutagens to turn themselves into hulking
 creatures of muscle and reflex, civilized folk often turn their heads
@@ -730,7 +727,7 @@ that they cannot be exactly the same.
 
 **Hit Die**: d10.
 
-# Requirements
+### Requirements
 
 To qualify to become a master chymist, a character must fulfill all the
 following criteria.
@@ -740,7 +737,7 @@ following criteria.
 **Special**: Mutagen class feature, feral mutagen or infuse mutagen
 discovery.
 
-# Class Skills
+### Class Skills
 
 The master chymist's class skills are
 [Acrobatics] (Dex),
@@ -769,7 +766,7 @@ Artist] (Dex),
 
   : Table: Master Chymist
 
-# Class Features
+### Class Features
 
 The following are class features of the master chymist prestige class.
 
@@ -961,9 +958,8 @@ her bestial mind. At 3rd level, a chymist in her mutagenic form deals +2
 damage when attacking with simple weapons and natural attacks. This
 bonus increases to +4 at 7th level and to +6 at 9th level.
 
-Master Spy
 
-# Master Spy
+## Master Spy
 
 Unparalleled practitioners of deception, master spies rely on deceit and
 trickery over brawn and spells. A master spy is an expert at both
@@ -995,7 +991,7 @@ neutral than lawful or chaotic.
 
 **Hit Die**: d8.
 
-# Requirements
+### Requirements
 
 To qualify to become a master spy, a character must fulfill all the
 following criteria.
@@ -1008,7 +1004,7 @@ Will].
 [Perception] 5 ranks, [Sense
 Motive] 5 ranks.
 
-# Class Skills
+### Class Skills
 
 The master spy's class skills are
 [Bluff] (Cha),
@@ -1041,7 +1037,7 @@ Device] (Cha).
 
   : Table: Master Spy
 
-# Class Features
+### Class Features
 
 The following are class features of the master spy prestige class.
 
@@ -1185,9 +1181,8 @@ powerful beings. The assumption of an identity lasts until the master
 spy ends it (a standard action) or she uses the ability on another
 creature.
 
-Nature Warden
 
-# Nature Warden
+## Nature Warden
 
 Nature wardens are guardians of the wild places of the world, hunters
 and explorers par excellence, highly skilled in negotiating their way
@@ -1219,7 +1214,7 @@ fey.
 
 **Hit Die**: d8.
 
-# Requirements
+### Requirements
 
 To qualify to become a nature warden, a character must fulfill all the
 following criteria.
@@ -1240,7 +1235,7 @@ Animal] 5 ranks,
 \* An oracle of nature's bonded mount ability counts as an animal
 companion class ability for the purpose of this prestige class.
 
-# Class Skills
+### Class Skills
 
 The nature warden's class skills are
 [Climb] (Str), [Handle
@@ -1271,7 +1266,7 @@ Motive] (Wis),
 
   : Table: Nature Warden
 
-# Class Features
+### Class Features
 
 The following are class features of the nature warden prestige class.
 
@@ -1419,9 +1414,8 @@ dead]*, except it doesn't
 require a material component and the companion does not gain any
 negative levels from the ordeal.
 
-Rage Prophet
 
-# Rage Prophet
+## Rage Prophet
 
 Throughout the wilderness, there are those warriors whose powers are
 infused by the spirits, who see and hear into the world beyond and draw
@@ -1458,7 +1452,7 @@ as they take up the adventuring life.
 
 **Hit Die**: d10.
 
-# Requirements
+### Requirements
 
 To qualify to become a rage prophet, a character must fulfill all the
 following criteria.
@@ -1472,7 +1466,7 @@ following criteria.
 
 **Spells**: Able to cast 1st-level divine spells.
 
-# Class Skills
+### Class Skills
 
 The rage prophet's class skills are
 [Climb] (Str),
@@ -1501,7 +1495,7 @@ The rage prophet's class skills are
 
   : Table: Rage Prophet
 
-# Class Features
+### Class Features
 
 The following are class features of the rage prophet prestige class.
 
@@ -1604,9 +1598,8 @@ property becomes an immediate action instead of a swift action.
 his morale bonus to Strength and Constitution increases to +6 and his
 morale bonus on Will saves increases to +3.
 
-Stalwart Defender
 
-# Stalwart Defender
+## Stalwart Defender
 
 Drawn from the ranks of guards, knights, mercenaries, and thugs alike,
 stalwart defenders are masters of claiming an area and refusing to
@@ -1642,7 +1635,7 @@ defenders are much more common than chaotic ones.
 
 **Hit Die**: d12.
 
-# Requirements
+### Requirements
 
 To qualify to become a stalwart defender, a character must fulfill all
 the following criteria.
@@ -1655,7 +1648,7 @@ the following criteria.
 
 **Special**: Proficiency with light and medium armor.
 
-# Class Skills
+### Class Skills
 
 The stalwart defender's class skills are
 [Acrobatics] (Dex),
@@ -1681,7 +1674,7 @@ Motive] (Wis).
 
   : Table: Stalwart Defender
 
-# Class Features
+### Class Features
 
 The following are class features of the stalwart defender prestige
 class.
