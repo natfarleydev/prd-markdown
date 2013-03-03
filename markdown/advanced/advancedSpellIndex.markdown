@@ -5,14 +5,14 @@ exception of those whose names begin with “greater,” “lesser,” or
 “mass.” These spells are alphabetized after the second word of their
 spell name instead.
 
-[A](#index-spells-A) [B](#index-spells-B) [C](#index-spells-C)
-[D](#index-spells-D) [E](#index-spells-E) [F](#index-spells-F)
-[G](#index-spells-G) [H](#index-spells-H) [I](#index-spells-I)
-[J](#index-spells-J) [K](#index-spells-K) [L](#index-spells-L)
-[M](#index-spells-M) [N](#index-spells-N) [O](#index-spells-O)
-[P](#index-spells-P) [R](#index-spells-R) [S](#index-spells-S)
-[T](#index-spells-T) [U](#index-spells-U) [V](#index-spells-V)
-[W](#index-spells-W)
+[A] [B] [C]
+[D] [E] [F]
+[G] [H] [I]
+[J] [K] [L]
+[M] [N] [O]
+[P] [R] [S]
+[T] [U] [V]
+[W]
 
 -   [Absorbing Touch]
 -   [Accelerate Poison]

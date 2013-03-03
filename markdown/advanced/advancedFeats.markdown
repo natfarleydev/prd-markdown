@@ -211,7 +211,7 @@ Table: Feats
 | [Fast Drinker]                    |Con 18, drunken *ki* class feature                                |Drink as a swift action                                                |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Fast Healer]                      |Con 13, [Diehard],                        |Regain additional hit points when healing                              |
-|                                                  |[Endurance](./feats.html#_endurance)                              |                                                                       |
+|                                                  |[Endurance]                              |                                                                       |
 +--------------------------------------------------+------------------------------------------------------------------+-----------------------------------------------------------------------+
 | [Favored Defense]              |Favored enemy class feature                                       |Bonus to CMD and AC when attacked by favored enemy                     |
 |                                                  |                                                                  |                                                                       |

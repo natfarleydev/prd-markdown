@@ -450,7 +450,7 @@ multiple mutagens-only the most recently imbibed mutagen has any effect.
 
 *Inferno bomb\**: The effects of the smoke created by an alchemist's
 bomb duplicate the effects of *[incendiary cloud]* instead of
-*[fog cloud](),*filling an area equal to twice
+*[fog cloud],*filling an area equal to twice
 the bomb's splash radius for 1 round per level. An alchemist must be at
 least 16th level and must possess the smoke bomb discovery before
 selecting this discovery.
@@ -473,7 +473,7 @@ selecting this discovery.
 
 *Poison bomb\**: The effects of the smoke created by an alchemist's bomb
 duplicates the effects of
-*[cloudkill]* instead of *[fog cloud]()*, filling an area equal to twice the
+*[cloudkill]* instead of *[fog cloud]*, filling an area equal to twice the
 bomb's splash radius for 1 round per level. An alchemist must be at
 least 12th level and must possess the smoke bomb discovery before
 selecting this discovery.
@@ -489,7 +489,7 @@ shock bomb are dazzled for 1d4 rounds.
 
 *Smoke bomb\**: When the alchemist creates a bomb, he can choose to have
 it create a cloud of thick smoke when it detonates. The cloud functions
-as *[fog cloud]()*, filling an area equal to
+as *[fog cloud]*, filling an area equal to
 twice the bomb's splash radius for 1 round per level.
 
 *Sticky bomb*: The effects of the alchemist's bombs are persistent and
@@ -506,7 +506,7 @@ alchemist must be at least 6th level before selecting this discovery.
 
 *Stink bomb\**: The effects of the smoke created by an alchemist's bomb
 can duplicate the effects of *[stinking cloud]* instead of
-*[fog cloud]()*, filling an area equal to
+*[fog cloud]*, filling an area equal to
 twice the bomb's splash radius for 1 round. An alchemist must possess
 the smoke bomb discovery before selecting this discovery.
 
@@ -587,7 +587,7 @@ Chapter 5 of this book.
 
 **2nd-Level Alchemist Formulae**-*[Aid], [Alchemical Allocation]\*, [Alter Self], [Barkskin], [Bear's Endurance], [Blur], [Bull's Strength], [Cat's Grace], [Cure Moderate Wounds], [Darkvision], [Delay Poison], [Detect Thoughts], [Eagle's Splendor], [Elemental Touch]\*, [False Life], [Fire Breath]\*, [Fox's Cunning], [Invisibility], [Levitate], [Owl's Wisdom], [Perceive Cues]\*, [Protection From Arrows], [Resist Energy], [Restoration (Lesser)], [See Invisibility], [Spider Climb], [Transmute Potion To]\*, [Undetectable Alignment], [Vomit Swarm]\*.*
 
-**3rd-Level Alchemist Formulae**-*[Absorbing Touch]\*, [Amplify Elixir]\*, [Arcane Sight], [Beast Shape I], [Bloodhound]\*, [Cure Serious Wounds], [Displacement], [Draconic Reservoir]\*, [Elemental Aura]\*, [Fly](), [Gaseous Form], [Haste], [Heroism], [Nondetection], [Protection From Energy], [Rage], [Remove Blindness/deafness], [Remove Curse], [Remove Disease], [Seek Thoughts]\*, [Thorn Body]\*, [Tongues], [Water Breathing].*
+**3rd-Level Alchemist Formulae**-*[Absorbing Touch]\*, [Amplify Elixir]\*, [Arcane Sight], [Beast Shape I], [Bloodhound]\*, [Cure Serious Wounds], [Displacement], [Draconic Reservoir]\*, [Elemental Aura]\*, [Fly], [Gaseous Form], [Haste], [Heroism], [Nondetection], [Protection From Energy], [Rage], [Remove Blindness/deafness], [Remove Curse], [Remove Disease], [Seek Thoughts]\*, [Thorn Body]\*, [Tongues], [Water Breathing].*
 
 **4th-Level Alchemist Formulae**-*[Air Walk], [Arcane Eye], [Beast Shape II], [Cure Critical Wounds], [Death Ward], [Detonate]\*, [Discern Lies], [Dragon's Breath]\*, [Elemental Body I], [Fire Shield], [Fluid Form]\*, [Freedom of Movement], [Invisibility (Greater)], [Neutralize Poison], [Restoration]*, *[Spell Immunity]*, *[Stoneskin], [Universal Formula]\*.*
 
@@ -1894,7 +1894,7 @@ with an asterisk (\*) appear in Chapter 5 of this book.
 [Perception], and
 [Ride] to her list of class skills.
 
-**Bonus Spells**: *[enlarge person]* (2nd), *[fog cloud]()*(4th), *[magic vestment]* (6th),
+**Bonus Spells**: *[enlarge person]* (2nd), *[fog cloud]*(4th), *[magic vestment]* (6th),
 *[wall of fire]* (8th),
 *[righteous might]*
 (10th), *[mass bull's strength]*
@@ -2227,7 +2227,7 @@ once per day plus one additional time per day at 10th level.
 strong that your feet barely touch the ground. At 1st level, you no
 longer leave tracks. At 5th level, you can hover up to 6 inches above
 the ground or even above liquid surfaces, as if levitating. At 10th
-level, you gain the ability to *[fly]()*, as per
+level, you gain the ability to *[fly]*, as per
 the spell, for a number of minutes per day equal to your oracle level.
 This duration does not need to be consecutive, but it must be spent in
 1-minute increments.
@@ -4423,7 +4423,7 @@ Rulebook*, witches might select any of the following animals as their
 familiar. Sorcerers and wizards might also adopt these new familiars,
 utilizing the same rules as for any other familiar.
 
-These familiars make use these statistics: the [house centipede](), [king crab], [greensting scorpion],
+These familiars make use these statistics: the [house centipede], [king crab], [greensting scorpion],
 fox ([dog] with the [young template]),
 octopus ([octopus] with the [young template]), and
 [scarlet spider].

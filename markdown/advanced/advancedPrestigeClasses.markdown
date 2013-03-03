@@ -7,30 +7,30 @@ Chapter 11 of the *Core Rulebook*. Always check with your GM to make
 sure a given prestige class is allowed before working toward it. The
 prestige classes presented in this chapter include the following.
 
-**[Battle Herald](prestigeClasses/battleHerald.html)**: A veteran whose
+**[Battle Herald]**: A veteran whose
 masterful tactics and air of command inspire allies to greater feats of
 heroism.
 
-**[Holy Vindicator](prestigeClasses/holyVindicator.html)**: A pious
+**[Holy Vindicator]**: A pious
 warrior who spreads religion at the edge of a sword.
 
-**[Horizon Walker](prestigeClasses/horizonWalker.html)**: A scout and
+**[Horizon Walker]**: A scout and
 wanderer comfortable in even the strangest terrain.
 
-**[Master Chymist](prestigeClasses/masterChymist.html)**: An alchemist
+**[Master Chymist]**: An alchemist
 whose mutagens create an alternate, brutish personality.
 
-**[Master Spy](prestigeClasses/masterSpy.html)**: An espionage expert
+**[Master Spy]**: An espionage expert
 specializing in disguises and striking swiftly from the shadows.
 
-**[Nature Warden](prestigeClasses/natureWarden.html)**: A master of the
+**[Nature Warden]**: A master of the
 wilderness bonded spiritually to a fearsome animal companion.
 
-**[Rage Prophet](prestigeClasses/rageProphet.html)**: A bold and
+**[Rage Prophet]**: A bold and
 barbaric champion who embraces otherworldly powers in order to perfect
 the art of combat.
 
-**[Stalwart Defender](prestigeClasses/stalwartDefender.html)**: A master
+**[Stalwart Defender]**: A master
 of defending territory and holding the line at all costs.
 
 ## Definition of Terms

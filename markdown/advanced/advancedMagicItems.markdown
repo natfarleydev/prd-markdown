@@ -11,8 +11,8 @@
 
 # Magic Items
 
-Beyond well-known magic items, from ubiquitous *potions of [cure light wounds]*to prized
-relics like *[holy] avengers*,
+Beyond well-known magic items, from ubiquitous *potions of
+[cure light wounds]* to prized relics like *[holy] avengers*,
 stretch troves of legendary treasures, rare masterworks discovered in
 the depths of the deadliest dungeons or groundbreaking discoveries
 crafted by geniuses and madmen. This chapter reaches past the familiar

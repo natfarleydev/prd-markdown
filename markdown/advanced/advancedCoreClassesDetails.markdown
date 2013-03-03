@@ -2084,16 +2084,16 @@ day at 14th level and 20th level.
 ### Memory Subdomain
 
 **Associated Domain**:
-[Knowledge](#knowledge-domain).
+[Knowledge].
 
 **Replacement Power**: The following granted power replaces the lore
 keeper power of the
-[Knowledge](#knowledge-domain)
+[Knowledge]
 domain.
 
 *Recall (Su)*: With a touch, you can cause a creature to recall some bit
 of forgotten lore or information. The creature can retry any
-[Knowledge](#knowledge-domain)
+[Knowledge]
 skill check it has made within the past minute, gaining a insight bonus
 on the check equal to your Wisdom modifier. You can use this ability a
 number times per day equal to 3 + your Wisdom modifier.
@@ -2436,11 +2436,11 @@ additional time per day for every 2 levels beyond 8th.
 ### Thought Subdomain
 
 **Associated Domain**:
-[Knowledge](#knowledge-domain).
+[Knowledge].
 
 **Replacement Power**: The following granted power replaces the remote
 viewing power of the
-[Knowledge](#knowledge-domain)
+[Knowledge]
 domain.
 
 *Read Minds (Su)*: At 8th level, you can broaden your mental spectrum to

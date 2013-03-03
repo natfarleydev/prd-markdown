@@ -89,7 +89,7 @@ to halve his speed, or hitting a foe in a sensitive spot to make him
 sickened for a round. The GM is the arbiter of what can be accomplished
 with this maneuver, but it cannot be used to impose a permanent penalty,
 and the results can be undone if the target spends a move action. If you
-do not have the [Improved Dirty Trick](advancedFeats.html#_improved-dirty-trick) feat or a similar
+do not have the [Improved Dirty Trick] feat or a similar
 ability, attempting a dirty trick provokes an attack of opportunity from
 the target of your maneuver.
 
@@ -98,7 +98,7 @@ limited to one of the following conditions: blinded, dazzled, deafened,
 entangled, shaken, or sickened. This condition lasts for 1 round. For
 every 5 by which your attack exceeds your opponent's CMD, the penalty
 lasts 1 additional round. This penalty can usually be removed if the
-target spends a move action. If you possess the [Greater Dirty Trick](advancedFeats.html#_greater-dirty-trick) feat, the penalty lasts
+target spends a move action. If you possess the [Greater Dirty Trick] feat, the penalty lasts
 for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds
 your opponent's CMD. In addition, removing the condition requires the
 target to spend a standard action.
@@ -109,7 +109,7 @@ target to spend a standard action.
 You can attempt to drag a foe as a standard action. You can only drag an
 opponent who is no more than one size category larger than you. The aim
 of this maneuver is to drag a foe in a straight line behind you without
-doing any harm. If you do not have the [Improved Drag](advancedFeats.html#_improved-drag) feat or a similar ability,
+doing any harm. If you do not have the [Improved Drag] feat or a similar ability,
 initiating a drag provokes an attack of opportunity from the target of
 your maneuver.
 
@@ -122,7 +122,7 @@ maneuver. If you do not have enough movement, the drag goes to the
 maximum amount of movement available to you and ends.
 
 An enemy being moved by a drag does not provoke an attack of opportunity
-because of the movement unless you possess the [Greater Drag](advancedFeats.html#_greater-drag) feat. You cannot move a creature
+because of the movement unless you possess the [Greater Drag] feat. You cannot move a creature
 into a square that is occupied by a solid object or obstacle. If there
 is another creature in the way of your movement, the drag ends adjacent
 to that creature.
@@ -139,7 +139,7 @@ You can attempt to reposition a foe to a different location as a
 standard action. You can only reposition an opponent that is no more
 than one size category larger than you. A reposition attempts to force a
 foe to move to a different position in relation to your location without
-doing any harm. If you do not have the [Improved Reposition](advancedFeats.html#_improved-reposition) feat or a similar
+doing any harm. If you do not have the [Improved Reposition] feat or a similar
 ability, attempting to reposition a foe provokes an attack of
 opportunity from the target of your maneuver. You cannot use this
 maneuver to move a foe into a space that is intrinsically dangerous,
@@ -173,7 +173,7 @@ backpacks, boots, clothing, or rings) cannot be taken with this
 maneuver. Items held in the hands (such as wielded weapons or wands)
 also cannot be taken with the steal maneuver—you must use the disarm
 combat maneuver instead. The GM is the final arbiter of what items can
-be taken. If you do not have the [Improved Steal](advancedFeats.html#_improved-steal) feat or a similar ability,
+be taken. If you do not have the [Improved Steal] feat or a similar ability,
 attempting to steal an object provokes an attack of opportunity from the
 target of your maneuver.
 
@@ -184,7 +184,7 @@ range with a -4 penalty on the attack roll.
 If your attack is successful, you may take one item from your opponent.
 You must be able to reach the item to be taken (subject to GM
 discretion). Your enemy is immediately aware of this theft unless you
-possess the [Greater Steal](advancedFeats.html#_greater-steal) feat.
+possess the [Greater Steal] feat.
 
 
 ## Hero Points
@@ -644,7 +644,7 @@ you're any more brave if you choose both versions than if you choose
 only one.
 
 Character traits are only for player characters. If you want an NPC to
-have traits, that NPC must “buy” them with the [Additional Traits feat](advancedFeats.html#_additional-traits). Player characters are
+have traits, that NPC must “buy” them with the [Additional Traits feat]. Player characters are
 special; they're the stars of the game, after all, and it makes sense
 that they have an advantage over the NPCs of the world in this way.
 
@@ -658,7 +658,7 @@ Some GMs may wish to adjust this number somewhat, depending upon their
 style of play; you may only be able to pick one trait, or your GM might
 allow three or more. Even if your GM normally doesn't allow bonus
 traits, you might still be able to pick up some with the [Additional
-Traits feat](advancedFeats.html#_additional-traits).
+Traits feat].
 
 
 ## Types of Traits

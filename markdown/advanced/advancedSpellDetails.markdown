@@ -71,7 +71,7 @@ summoner 4
 
 **Saving Throw** Reflex negates; see text; **Spell Resistance** no
 
-This spell functions as *[create pit](createPit.html#_create-pit-)*,
+This spell functions as *[create pit]*,
 except that it places a 5-foot-deep pool of acid at the bottom of the
 pit. The pit has a maximum depth of 100 feet. Creatures who fall into
 the pit take falling damage as normal (the acid counts as a yielding
@@ -2031,7 +2031,7 @@ targets, but all must be fired simultaneously.
 **Saving Throw** Will negates (harmless, object); **Spell Resistance**
 yes (harmless, object)
 
-As *[sanctify armor](sanctifyArmor.html#_sanctify-armor)*, except you
+As *[sanctify armor]*, except you
 gain DR 5/good when using your judgment or smite ability.
 
 
@@ -3967,7 +3967,7 @@ information, gaining a +5 competence bonus on the check.
 **Saving Throw** Reflex negates; Reflex half; see text; **Spell
 Resistance** no
 
-This spell functions as *[create pit](createPit.html#_create-pit-)*,
+This spell functions as *[create pit]*,
 except that the pit has the ability to squeeze and crush any creature
 trapped within it and has a maximum depth of 100 feet. Creatures who
 fall into the hole take falling damage as normal. In addition, anyone
@@ -4101,7 +4101,7 @@ Against immovable objects this stream instead allows you to make a
 Strength check to destroy the target. When attempting to break an
 object, the stream has an effective Strength equal to your caster level
 plus the ability score modifier as above. The Break DC depends on the
-object you're trying to break—see [Breaking Items](http://paizo.com/prd/additionalRules.html#_breaking-items).
+object you're trying to break—see [Breaking Items].
 
 *[Hydraulic torrent]* extinguishes any normal fires
 it encounters along its path. Magical fires are unaffected.
@@ -6095,7 +6095,7 @@ inquisitor 4
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 (harmless)
 
-This spell functions as *[wrath](wrath.html#_wrath)*, except that you
+This spell functions as *[wrath]*, except that you
 grant multiple creatures the bonuses against your designated foe. All
 subjects of *[shared wrath]* receive their bonuses
 against the same creature.
@@ -6459,7 +6459,7 @@ actually ignite an object.
 **School** conjuration (creation); **Level** sorcerer/wizard 3, summoner
 3
 
-This spell functions as *[create pit](createPit.html#_create-pit-)*,
+This spell functions as *[create pit]*,
 except that the pit is lined with wickedly sharp spikes along its bottom
 and walls and has a maximum depth of 50 feet. Creatures who fall into
 the pit take falling damage as normal, plus 2d6 points of piercing
@@ -7019,7 +7019,7 @@ the bonus is enough to make the failure a success, the roll succeeds.
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes
 (harmless)
 
-This spell functions as *[tireless pursuit](tirelessPursuit.html#_tireless-pursuit)*, except as noted
+This spell functions as *[tireless pursuit]*, except as noted
 above.
 
 
