@@ -31,8 +31,7 @@ quite well with most adventuring groups.
 
 The alchemist's class skills are
 [Appraise] (Int),
-[Craft] (any) (Int), [Disable
-Device] (Dex),
+[Craft] (any) (Int), [Disable Device] (Dex),
 [Fly] (Dex),
 [Heal] (Wis),
 [Knowledge] (arcana) (Int),
@@ -41,8 +40,7 @@ Device] (Dex),
 [Profession] (Wis), [Sleight
 of Hand] (Dex),
 [Spellcraft] (Int),
-[Survival] (Wis), [Use Magic
-Device] (Cha).
+[Survival] (Wis), [Use Magic Device] (Cha).
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
@@ -152,14 +150,13 @@ below.
 
 Extracts are the most varied of the three. In many ways, they behave
 like spells in potion form, and as such their effects can be dispelled
-by effects like *[dispel
-magic]*using the
+by effects like *[dispel magic]*using the
 alchemist's level as the caster level. Unlike potions, though, extracts
 can have powerful effects and duplicate spells that a potion normally
 could not.
 
 An alchemist can create only a certain number of extracts of each level
-per day. His base daily allotment of extracts is given on Table 2–1. In
+per day. His base daily allotment of extracts is given on Table 2-1. In
 addition, he receives bonus extracts per day if he has a high
 Intelligence score, in the same way a wizard receives bonus spells per
 day.
@@ -180,8 +177,7 @@ that he can prepare extracts in the field as needed.
 Although the alchemist doesn't actually cast spells, he does have a
 formulae list that determines what extracts he can create. An alchemist
 can utilize spell-trigger items if the spell appears on his formuale
-list, but not spell-completion items (unless he uses [Use Magic
-Device] to do so).
+list, but not spell-completion items (unless he uses [Use Magic Device] to do so).
 An extract is “cast” by drinking it, as if imbibing a potion-the effects
 of an extract exactly duplicate the spell upon which its formula is
 based, save that the spell always affects only the drinking alchemist.
@@ -234,11 +230,9 @@ vial remains usable by the alchemist for years.
 
 Drawing the components of, creating, and throwing a bomb requires a
 standard action that provokes an attack of opportunity. Thrown bombs
-have a range of 20 feet and use the [Throw Splash
-Weapon] special attack. Bombs
+have a range of 20 feet and use the [Throw Splash Weapon] special attack. Bombs
 are considered weapons and can be selected using feats such as
-[Point-Blank Shot] and [Weapon
-Focus]. On a direct hit, an alchemist's
+[Point-Blank Shot] and [Weapon Focus]. On a direct hit, an alchemist's
 bomb inflicts 1d6 points of fire damage + additional damage equal to the
 alchemist's Intelligence modifier. The damage of an alchemist's bomb
 increases by 1d6 points at every odd-numbered alchemist level (this
@@ -277,7 +271,7 @@ action to drink a mutagen. Upon being imbibed, the mutagen causes the
 alchemist to grow bulkier and more bestial, granting him a +2 natural
 armor bonus and a +4 alchemical bonus to the selected ability score for
 10 minutes per alchemist level. In addition, while the mutagen is in
-effect, the alchemist takes a –2 penalty to one of his mental ability
+effect, the alchemist takes a -2 penalty to one of his mental ability
 scores. If the mutagen enhances his Strength, it applies a penalty to
 his Intelligence. If it enhances his Dexterity, it applies a penalty to
 his Wisdom. If it enhances his Constitution, it applies a penalty to his
@@ -346,10 +340,8 @@ bomb deals damage as if it scored a direct hit to any creature in the
 square with the bomb when it detonates, and splash damage to all
 adjacent creatures as normal. An alchemist cannot have more than one
 delayed bomb at one time. If he creates another delayed bomb, the
-previous bomb becomes inert. *[Dispel
-magic]* can neutralize a
-delayed bomb, as can a successful [Disable
-Device] check (DC
+previous bomb becomes inert. *[Dispel magic]* can neutralize a
+delayed bomb, as can a successful [Disable Device] check (DC
 equals 10 + the alchemist's level + the alchemist's Intelligence
 modifier). An alchemist must be at least 8th level before selecting this
 discovery.
@@ -363,8 +355,7 @@ must be at least 12th level before selecting this discovery.
 
 *Dispelling Bomb*: When the alchemist creates a bomb, he can choose to
 have it dispel magic effects instead of deal damage. Creatures that take
-a direct hit from a dispelling bomb are subject to a targeted *[dispel
-magic]* spell, using the
+a direct hit from a dispelling bomb are subject to a targeted *[dispel magic]* spell, using the
 alchemist's level as the caster level. This cannot be used to target a
 specific spell effect. The alchemist must be at least 6th level before
 selecting this discovery.
@@ -372,8 +363,7 @@ selecting this discovery.
 *Elixir of life*: Once per day, the alchemist can brew an elixir of
 life. This special concoction costs 25,000 gp to create and takes 1 hour
 of work. An elixir of life, when administered by the alchemist who
-brewed it, restores life to a dead creature as per the spell *[true
-resurrection]*.
+brewed it, restores life to a dead creature as per the spell *[true resurrection]*.
 Alternatively, the alchemist himself may drink the elixir of life, after
 which point he is immediately targeted with a
 *[resurrection]* spell the
@@ -437,7 +427,7 @@ save.
 bonus, a +8 alchemical bonus to one ability score (Strength, Dexterity,
 or Constitution), a +6 alchemical bonus to a second physical ability
 score, and a +4 alchemical bonus to a third physical ability score. The
-alchemist takes a –2 penalty to his Intelligence, Wisdom, and Charisma
+alchemist takes a -2 penalty to his Intelligence, Wisdom, and Charisma
 as long as the mutagen persists (see Mutagen). An alchemist must be at
 least 16th level and must possess the greater mutagen discovery before
 selecting this discovery.
@@ -445,7 +435,7 @@ selecting this discovery.
 *Greater mutagen*: The alchemist's mutagen now grants a +4 natural armor
 bonus, a +6 alchemical bonus to one physical ability score (Strength,
 Dexterity, or Constitution), and a +4 alchemical bonus to a second
-physical ability score. The alchemist takes a –2 penalty on both
+physical ability score. The alchemist takes a -2 penalty on both
 associated mental ability scores as long as the mutagen persists. An
 alchemist must be at least 12th level before selecting this discovery.
 
@@ -459,8 +449,7 @@ emergencies. This does not allow an alchemist to gain the effects of
 multiple mutagens-only the most recently imbibed mutagen has any effect.
 
 *Inferno bomb\**: The effects of the smoke created by an alchemist's
-bomb duplicate the effects of *[incendiary
-cloud]* instead of
+bomb duplicate the effects of *[incendiary cloud]* instead of
 *[fog cloud](),*filling an area equal to twice
 the bomb's splash radius for 1 round per level. An alchemist must be at
 least 16th level and must possess the smoke bomb discovery before
@@ -484,8 +473,7 @@ selecting this discovery.
 
 *Poison bomb\**: The effects of the smoke created by an alchemist's bomb
 duplicates the effects of
-*[cloudkill]* instead of *[fog
-cloud]()*, filling an area equal to twice the
+*[cloudkill]* instead of *[fog cloud]()*, filling an area equal to twice the
 bomb's splash radius for 1 round per level. An alchemist must be at
 least 12th level and must possess the smoke bomb discovery before
 selecting this discovery.
@@ -517,8 +505,7 @@ number of strikes equal to the alchemist's Intelligence modifier. An
 alchemist must be at least 6th level before selecting this discovery.
 
 *Stink bomb\**: The effects of the smoke created by an alchemist's bomb
-can duplicate the effects of *[stinking
-cloud]* instead of
+can duplicate the effects of *[stinking cloud]* instead of
 *[fog cloud]()*, filling an area equal to
 twice the bomb's splash radius for 1 round. An alchemist must possess
 the smoke bomb discovery before selecting this discovery.
@@ -583,7 +570,7 @@ touch varies from alchemist to alchemist.
 
 *True Mutagen*: The alchemist's mutagen now grants a +8 natural armor
 bonus and a +8 alchemical bonus to Strength, Dexterity, and
-Constitution. The alchemist takes a –2 penalty to his Intelligence,
+Constitution. The alchemist takes a -2 penalty to his Intelligence,
 Wisdom, and Charisma as long as the mutagen persists (see Mutagen). An
 alchemist must possess the grand mutagen discovery before selecting this
 discovery.
@@ -639,12 +626,10 @@ social situations.
 The cavalier's class skills are [Bluff]
 (Cha), [Climb] (Str),
 [Craft] (Int),
-[Diplomacy] (Cha), [Handle
-Animal] (Cha),
+[Diplomacy] (Cha), [Handle Animal] (Cha),
 [Intimidate] (Cha),
 [Profession] (Wis),
-[Ride] (Dex), [Sense
-Motive] (Wis), and
+[Ride] (Dex), [Sense Motive] (Wis), and
 [Swim] (Str).
 
 **Skill Ranks per Level**: 4 + Int modifier.
@@ -693,7 +678,7 @@ every three levels beyond 1st, to a maximum of seven times per day at
 19th level.
 
 Challenging a foe requires much of the cavalier's concentration. The
-cavalier takes a –2 penalty to his Armor Class, except against attacks
+cavalier takes a -2 penalty to his Armor Class, except against attacks
 made by the target of his challenge.
 
 The challenge remains in effect until the target is dead or unconscious
@@ -756,8 +741,7 @@ after making a charge attack while mounted.
 
 **Expert Trainer (Ex)**: At 4th level, a cavalier learns to train mounts
 with speed and unsurpassed expertise. The cavalier receives a bonus
-equal to 1/2 his cavalier level whenever he uses [Handle
-Animal] on an animal that
+equal to 1/2 his cavalier level whenever he uses [Handle Animal] on an animal that
 serves as a mount. In addition, he can reduce the time needed to teach a
 mount a new trick or train a mount for a general purpose to 1 day per 1
 week required by increasing the DC by +5. He can also train more than
@@ -795,7 +779,7 @@ combat maneuver does not provoke an attack of opportunity.
 **Demanding Challenge (Ex)**: At 12th level, whenever a cavalier
 declares a challenge, his target must pay attention to the threat he
 poses. As long as the target is within the threatened area of the
-cavalier, it takes a –2 penalty to its AC from attacks made by anyone
+cavalier, it takes a -2 penalty to its AC from attacks made by anyone
 other than the cavalier.
 
 **Greater Banner (Ex)**: At 14th level, the cavalier's banner becomes a
@@ -1031,8 +1015,7 @@ used to convert ability damage, ability drain, or energy damage to
 nonlethal damage. At 6th level, and every four levels thereafter, the
 amount of damage the cavalier can convert increases by 1.
 
-*Stem the Tide (Ex)*: At 8th level, the cavalier receives [Stand
-Still] as a bonus feat, even if he does
+*Stem the Tide (Ex)*: At 8th level, the cavalier receives [Stand Still] as a bonus feat, even if he does
 not meet the prerequisites. Instead of making a combat maneuver check to
 stop the creature from moving, a cavalier with this ability can elect to
 make a normal attack instead. If the attack hits and deals damage, the
@@ -1128,8 +1111,7 @@ increases by +1 for every four levels the cavalier possesses.
 **Skills**: An order of the sword cavalier adds
 [Knowledge] (nobility) (Int) and
 [Knowledge] (religion) (Int) to
-his list of class skills. Whenever the cavalier uses [Sense
-Motive] to oppose a
+his list of class skills. Whenever the cavalier uses [Sense Motive] to oppose a
 [Bluff] check, he receives a competence
 bonus on the check equal to 1/2 his cavalier level (minimum +1).
 
@@ -1148,10 +1130,8 @@ bonus to his AC to avoid attacks set against his charge. When making
 such an attack, he can add his mount's Strength modifier to the damage
 roll, in addition to his own. He also receives a bonus feat, chosen from
 the following list: [Mounted Combat],
-[Ride-By Attack], [Skill
-Focus]
-([Ride]), [Spirited
-Charge],
+[Ride-By Attack], [Skill Focus]
+([Ride]), [Spirited Charge],
 [Trample], or
 [Unseat]. He must qualify for the feat
 selected.
@@ -1203,8 +1183,7 @@ The inquisitor's class skills are
 (Int), [Knowledge] (religion)
 (Int), [Perception] (Wis),
 [Profession] (Wis),
-[Ride] (Dex), [Sense
-Motive] (Wis),
+[Ride] (Dex), [Sense Motive] (Wis),
 [Spellcraft] (Int),
 [Stealth] (Dex),
 [Survival] (Wis), and
@@ -1341,16 +1320,16 @@ throw against an inquisitor's spell is 10 + the spell level + the
 inquisitor's Wisdom modifier.
 
 An inquisitor can cast only a certain number of spells of each spell
-level each day. Her base daily spell allotment is given on Table 2–3. In
+level each day. Her base daily spell allotment is given on Table 2-3. In
 addition, she receives bonus spells per day if she has a high Wisdom
-score (see Table 1–3 of the *Pathfinder RPG Core Rulebook*).
+score (see Table 1-3 of the *Pathfinder RPG Core Rulebook*).
 
 An inquisitor's selection of spells is extremely limited. An inquisitor
 begins play knowing four 0-level spells and two 1st-level spells of the
 inquisitor's choice. At each new inquisitor level, she gains one or more
-new spells as indicated on Table 2–4. (Unlike spells per day, the number
+new spells as indicated on Table 2-4. (Unlike spells per day, the number
 of spells an inquisitor knows is not affected by her Wisdom score. The
-numbers on Table 2–4 are fixed.)
+numbers on Table 2-4 are fixed.)
 
 Upon reaching 5th level, and at every third inquisitor level thereafter
 (8th, 11th, and so on), an inquisitor can choose to learn a new spell in
@@ -1463,25 +1442,20 @@ addition to her Intelligence modifier, when making skill checks to
 identify the abilities and weaknesses of creatures.
 
 **Orisons**: Inquisitors learn a number of orisons, or 0-level spells,
-as noted on Table 2–4 under “Spells Known.” These spells are cast like
+as noted on Table 2-4 under “Spells Known.” These spells are cast like
 any other spell, but they are not expended when cast and may be used
 again. Orisons prepared using other spell slots, such as those due to
 metamagic feats, are expended normally.
 
 **Stern Gaze (Ex)**: Inquisitors are skilled at sensing deception and
 intimidating their foes. An inquisitor receives a morale bonus on all
-[Intimidate] and [Sense
-Motive] checks equal to 1/2
+[Intimidate] and [Sense Motive] checks equal to 1/2
 her inquisitor level (minimum +1).
 
 **Cunning Initiative (Ex)**: At 2nd level, an inquisitor adds her Wisdom
 modifier on initiative checks, in addition to her Dexterity modifier.
 
-***Detect Alignment* (Sp)**: At will, an inquisitor can use *[detect
-chaos]*, *[detect
-evil]*, *[detect
-good]*, or *[detect
-law]*. She can only use one of
+***Detect Alignment* (Sp)**: At will, an inquisitor can use *[detect chaos]*, *[detect evil]*, *[detect good]*, or *[detect law]*. She can only use one of
 these at any given time.
 
 **Track (Ex)**: At 2nd level, an inquisitor adds half her level on
@@ -1522,8 +1496,7 @@ ability if it is returned to the inquisitor before the duration expires.
 This ability lasts for a number of rounds per day equal to the
 inquisitor's level. These rounds do not need to be consecutive.
 
-***Discern Lies* (Sp)**: At 5th level, an inquisitor can *[discern
-lies]*, as per the spell,
+***Discern Lies* (Sp)**: At 5th level, an inquisitor can *[discern lies]*, as per the spell,
 for a number of rounds per day equal to her inquisitor level. These
 rounds do not need to be consecutive. Activating this ability is an
 immediate action.
@@ -1648,8 +1621,7 @@ The oracle's class skills are [Craft]
 [Knowledge] (history) (Int),
 [Knowledge] (planes) (Int),
 [Knowledge] (religion) (Int),
-[Profession] (Wis), [Sense
-Motive] (Wis), and
+[Profession] (Wis), [Sense Motive] (Wis), and
 [Spellcraft] (Int). In
 addition, oracles receive additional class skills depending upon their
 oracle mystery.
@@ -1763,8 +1735,7 @@ The following are the class features of the oracle.
 weapons, light armor, medium armor, and shields (except tower shields).
 Some oracle revelations grant additional proficiencies.
 
-**Spells**: An oracle casts divine spells drawn from the [cleric spell
-lists]. She can cast any spell she
+**Spells**: An oracle casts divine spells drawn from the [cleric spell lists]. She can cast any spell she
 knows without preparing it ahead of time. To learn or cast a spell, an
 oracle must have a Charisma score equal to at least 10 + the spell
 level. The Difficulty Class for a saving throw against an oracle's spell
@@ -1772,16 +1743,16 @@ is 10 + the spell's level + the oracle's Charisma modifier.
 
 Like other spellcasters, an oracle can cast only a certain number of
 spells per day of each spell level. Her base daily spell allotment is
-given on Table 2–5. In addition, she receives bonus spells per day if
-she has a high Charisma score (see Table 1–3 of the *Pathfinder RPG Core
+given on Table 2-5. In addition, she receives bonus spells per day if
+she has a high Charisma score (see Table 1-3 of the *Pathfinder RPG Core
 Rulebook*).
 
 Unlike other divine spellcasters, an oracle's selection of spells is
 extremely limited. An oracle begins play knowing four 0-level spells and
 two 1st-level spells of her choice. At each new oracle level, she gains
-one or more new spells, as indicated on Table 2–6. Unlike spells per
+one or more new spells, as indicated on Table 2-6. Unlike spells per
 day, the number of spells an oracle knows is not affected by her
-Charisma score; the numbers on Table 2–6 are fixed.
+Charisma score; the numbers on Table 2-6 are fixed.
 
 In addition to the spells gained by oracles as they gain levels, each
 oracle also adds all of either the cure spells or the inflict spells to
@@ -1820,7 +1791,7 @@ level of oracle. Once made, this choice cannot be changed.
 
 At 2nd level, and every two levels thereafter, an oracle learns an
 additional spell derived from her mystery. These spells are in addition
-to the number of spells given on Table 2–6. They cannot be exchanged for
+to the number of spells given on Table 2-6. They cannot be exchanged for
 different spells at higher levels.
 
 **Oracle's Curse (Ex)**: Each oracle is cursed, but this curse comes
@@ -1843,7 +1814,7 @@ increase their level or casting time. At 5th level, you receive a +3
 competence bonus on
 [Perception] checks that do
 not rely upon hearing, and the initiative penalty for being deaf is
-reduced to –2. At 10th level, you gain scent and you do not suffer any
+reduced to -2. At 10th level, you gain scent and you do not suffer any
 penalty on initiative checks due to being deaf. At 15th level, you gain
 tremorsense out to a range of 30 feet.
 
@@ -1855,12 +1826,10 @@ take longer. Any item you drop lands 10 feet away from you in a random
 direction. Add *[mage hand]* and
 *[ghost sound]* to your list
 of spells known. At 5th level, add
-*[levitate]* and *[minor
-image]*to your list of spells
+*[levitate]* and *[minor image]*to your list of spells
 known. At 10th level, add
 *[telekinesis]*to your list
-of spells known. At 15th level, add *[reverse
-gravity]* to your
+of spells known. At 15th level, add *[reverse gravity]* to your
 list of spells known.
 
 *Lame*: One of your legs is permanently wounded, reducing your base land
@@ -1884,7 +1853,7 @@ as if under the effects of
 15th level, you can speak and understand any language, but your speech
 is still restricted during combat.
 
-*Wasting*: Your body is slowly rotting away. You take a –4 penalty on
+*Wasting*: Your body is slowly rotting away. You take a -4 penalty on
 Charisma-based skill checks, except for
 [Intimidate]. You gain a +4
 competence bonus on saves made against disease. At 5th level, you are
@@ -1893,7 +1862,7 @@ gain immunity to disease. At 15th level, you are immune to the nauseated
 condition.
 
 **Orisons**: Oracles learn a number of orisons, or 0-level spells, as
-noted on Table 2–6 under “Spells Known.” These spells are cast like any
+noted on Table 2-6 under “Spells Known.” These spells are cast like any
 other spell, but they do not consume any slots and may be used again.
 
 **Revelation**: At 1st level, 3rd level, and every four levels
@@ -1925,16 +1894,11 @@ with an asterisk (\*) appear in Chapter 5 of this book.
 [Perception], and
 [Ride] to her list of class skills.
 
-**Bonus Spells**: *[enlarge
-person]* (2nd), *[fog
-cloud]()*(4th), *[magic
-vestment]* (6th),
+**Bonus Spells**: *[enlarge person]* (2nd), *[fog cloud]()*(4th), *[magic vestment]* (6th),
 *[wall of fire]* (8th),
 *[righteous might]*
-(10th), *[mass bull's
-strength]*
-(12th), *[control
-weather]* (14th),
+(10th), *[mass bull's strength]*
+(12th), *[control weather]* (14th),
 *[earthquake]* (16th), *[storm
 of vengeance]*
 (18th).
@@ -1974,8 +1938,7 @@ per day. You must be at least 11th level to select this revelation.
 *Maneuver Mastery (Ex)*: Select one type of combat maneuver. When
 performing the selected maneuver, you treat your oracle level as your
 base attack bonus (plus the BAB from other classes) when determining
-your CMB. At 7th level, you gain the Improved feat (such as [Improved
-Trip]) that grants you a bonus when
+your CMB. At 7th level, you gain the Improved feat (such as [Improved Trip]) that grants you a bonus when
 performing that maneuver. At 11th level, you gain the Greater feat (such
 as [Greater Trip]) that grants you a
 bonus when performing that maneuver. You do not need to meet the
@@ -2004,10 +1967,8 @@ any one of the results.
 
 *Weapon Mastery (Ex)*: Select one weapon with which you are proficient.
 You gain [Weapon Focus] with that
-weapon. At 8th level, you gain [Improved
-Critical] with that weapon. At 12th
-level, you gain [Greater Weapon
-Focus] with that weapon. You do
+weapon. At 8th level, you gain [Improved Critical] with that weapon. At 12th
+level, you gain [Greater Weapon Focus] with that weapon. You do
 not need to meet the prerequisites to receive these feats.
 
 **Final Revelation**: Upon reaching 20th level, you become an avatar of
@@ -2043,8 +2004,7 @@ spent in 1-hour increments.
 
 *Bleeding Wounds (Su)*: Whenever a creature takes damage from one of
 your spells or effects that causes negative energy damage (such as
-*[inflict light
-wounds]* or
+*[inflict light wounds]* or
 the death's touch revelation), it begins to bleed, taking 1 point of
 damage each round. At 5th level, and every five levels thereafter, this
 damage increases by 1. The bleeding can be stopped by a DC 15
@@ -2072,9 +2032,7 @@ skeleton or zombie. You can use this ability once per day plus one
 additional time per day at 10th level.
 
 *Resist Life (Su)*: You are treated as an undead creature when you are
-targeted by positive or negative energy. You are not subject to [Turn
-Undead] or [Command
-Undead] (or any other effect that
+targeted by positive or negative energy. You are not subject to [Turn Undead] or [Command Undead] (or any other effect that
 specifically targets undead), unless you are actually an undead
 creature. At 7th level, you receive channel resistance +2. This bonus
 increases by +2 at 11th and 15th level.
@@ -2097,20 +2055,16 @@ prematurely with a standard action. You can use this ability once per
 day at 11th level, and twice per day at 15th level. You must be at least
 11th level to select this revelation.
 
-*Undead Servitude (Su)*: You gain [Command
-Undead] as a bonus feat. You can
+*Undead Servitude (Su)*: You gain [Command Undead] as a bonus feat. You can
 channel negative energy a number of times per day equal to 3 + your
-Charisma modifier, but only to use [Command
-Undead]. You can take other feats to
+Charisma modifier, but only to use [Command Undead]. You can take other feats to
 add to this ability, such as Improved Channeling, but not feats that
-alter this ability, such as [Alignment
-Channel].
+alter this ability, such as [Alignment Channel].
 
-*Voice of the Grave (Su)*: You can *[speak with
-dead]*, as per the
+*Voice of the Grave (Su)*: You can *[speak with dead]*, as per the
 spell, for a number of rounds per day equal to your oracle level. These
 rounds do not need to be consecutive. At 5th level, and every five
-levels thereafter, the dead creature takes a cumulative –2 penalty on
+levels thereafter, the dead creature takes a cumulative -2 penalty on
 its Will save to resist this effect.
 
 **Final Revelation**: Upon reaching 20th level, you become a master of
@@ -2118,11 +2072,9 @@ death. Once per round, you can cast
 *[bleed]* or
 *[stabilize]*as a free action.
 If you are brought to below 0 hit points, you automatically stabilize.
-You can cast *[animate
-dead]* at will without
+You can cast *[animate dead]* at will without
 paying a material component cost (although you are still subject to the
-usual Hit Die control limit). Once per day, you can cast *[power word
-kill]*, but the spell
+usual Hit Die control limit). Once per day, you can cast *[power word kill]*, but the spell
 can target a creature with 150 hit points or less.
 
 Flame
@@ -2152,8 +2104,7 @@ save do not cause a creature to catch on fire.
 
 *Cinder Dance (Ex)*: Your base speed increases by 10 feet. At 5th level,
 you receive [Nimble Moves] as a bonus
-feat. At 10th level, you receive [Acrobatic
-Steps] as a bonus feat. You do not
+feat. At 10th level, you receive [Acrobatic Steps] as a bonus feat. You do not
 need to meet the prerequisites to receive these feats. Oracles with the
 lame oracle curse cannot select this revelation.
 
@@ -2174,12 +2125,9 @@ use this ability once per day. You must be at least 11th level to select
 this revelation.
 
 *Form of Flame (Su)*: As a standard action, you can assume the form of a
-Small fire elemental, as *[elemental body
-I]*. At 9th level,
-you can assume the form of a Medium fire elemental, as *[elemental body
-II]*. At 11th level,
-you can assume the form of a Large fire elemental, as *[elemental body
-III]*. At 13th
+Small fire elemental, as *[elemental body I]*. At 9th level,
+you can assume the form of a Medium fire elemental, as *[elemental body II]*. At 11th level,
+you can assume the form of a Large fire elemental, as *[elemental body III]*. At 13th
 level, you can assume the form of a Huge fire elemental, as *[elemental
 body IV]*. You can
 use this ability once per day, but the duration is 1 hour/level. You
@@ -2220,11 +2168,7 @@ selecting this revelation.
 
 **Final Revelation**: Upon reaching 20th level, you become a master of
 fire. You can apply any one of the following feats to any fire spell you
-cast without increasing the level or casting time: [Enlarge
-Spell], [Extend
-Spell], [Silent
-Spell], or [Still
-Spell]. You do not need to possess these
+cast without increasing the level or casting time: [Enlarge Spell], [Extend Spell], [Silent Spell], or [Still Spell]. You do not need to possess these
 feats to use this ability.
 
 
@@ -2258,8 +2202,7 @@ spent in 1-hour increments.
 *Dweller in [Darkness] (Sp)*: Once
 per day, you cast your psyche into the void of space to attract the
 attention of a terrible otherworldly being. The dweller in darkness
-behaves in all ways as if you had cast *[phantasmal
-killer]*. At 17th
+behaves in all ways as if you had cast *[phantasmal killer]*. At 17th
 level, the dweller in darkness can be perceived by more than one
 creature, as if you had cast *[weird]*.
 You must be at least 11th level to choose this revelation.
@@ -2268,10 +2211,7 @@ You must be at least 11th level to choose this revelation.
 determine your precise location. When the night sky is visible to you,
 you may also add your Charisma modifier to your Wisdom modifier on all
 Wisdom-based checks. In addition, once per night while outdoors, you can
-cast one spell as if it were modified by the [Empower
-Spell], [Extend
-Spell], [Silent
-Spell], or Still spell feat without
+cast one spell as if it were modified by the [Empower Spell], [Extend Spell], [Silent Spell], or Still spell feat without
 increasing the spell's casting time or level.
 
 *Interstellar Void (Su)*: You call upon the frigid depths of outer space
@@ -2309,8 +2249,7 @@ position. From this point it can extend in any direction for 10 feet per
 oracle level. The path persists until you have crossed over the bridge
 or for 24 hours, whichever is shorter. You may summon a moonlight bridge
 a number of times per day equal to your Charisma bonus. Should the
-bridge be attacked, treat it as a *[wall of
-force]*.
+bridge be attacked, treat it as a *[wall of force]*.
 
 *Spray of Shooting Stars (Su):* As a standard action, you can unleash a
 ball of energy that explodes in a 5-foot-radius burst dealing 1d4 points
@@ -2340,8 +2279,7 @@ matures over the course of 7 days (treat as the
 
 #### Life
 
-**Class Skills**: An oracle with the life mystery adds [Handle
-Animal],
+**Class Skills**: An oracle with the life mystery adds [Handle Animal],
 [Knowledge] (nature), and
 [Survival] to her list of class
 skills.
@@ -2385,8 +2323,7 @@ for a number of rounds per day equal to your oracle level.
 *Enhanced Cures (Su)*: Whenever you cast a cure spell, the maximum
 number of hit points healed is based on your oracle level, not the limit
 based on the spell. For example, an 11th-level oracle of life with this
-revelation may cast *[cure light
-wounds]* to heal
+revelation may cast *[cure light wounds]* to heal
 1d8+11 hit points instead of the normal 1d8+5 maximum.
 
 *Healing Hands (Ex)*: You gain a +4 bonus on
@@ -2473,8 +2410,7 @@ action to sort through the jumble of stolen thoughts and memories to
 make a single [Knowledge] check
 using the victim's skill bonus. The randomly stolen thoughts remain in
 your mind for a number of rounds equal to your Charisma modifier. Treat
-the knowledge gained as if you used *[detect
-thoughts]*. This is a
+the knowledge gained as if you used *[detect thoughts]*. This is a
 mind-affecting effect. You can use this ability once per day at 1st
 level, plus one additional time per day at 5th level and for every 5
 levels beyond 5th.
@@ -2625,8 +2561,7 @@ fast healing 3 for 1d4 rounds when reduced to negative hit points.
 *Transcendental Bond (Su)*: You become so attuned to the common spirit
 shared by all living things that you can use it to communicate with
 allies. You may communicate with your allies for a number of rounds per
-day equal to your oracle level as if using *[telepathic
-bond]*. You may
+day equal to your oracle level as if using *[telepathic bond]*. You may
 designate a number of creatures as your ally equal to your Charisma
 modifier. Designating a creature is a standard action that requires a
 touch. At 10th level, you may use this bond to cast a touch spell on a
@@ -2635,11 +2570,9 @@ designated ally once per day.
 *Undo Artifice (Sp)*: At 11th-level, you gain the ability to reduce a
 nonliving item to its component parts, essentially erasing the hand of
 artifice and rendering the item into a pile of raw natural materials.
-This effect acts as the spell *[polymorph any
-object]*,
+This effect acts as the spell *[polymorph any object]*,
 working on both magical and nonmagical nonliving objects. The duration
-is always permanent. Unlike *[polymorph any
-object]*, it
+is always permanent. Unlike *[polymorph any object]*, it
 cannot be used to mimic the effects of other spells. Items subject to
 this effect receive a Fortitude saving throw to negate the effect. Magic
 items receive a circumstance bonus on this save equal to +1 for every
@@ -2696,8 +2629,7 @@ metal as easily as a fish swims through water. If protected against fire
 damage, you can even glide through lava. You glide at your base land
 speed. While gliding, you breathe stone as if it were air (you do not
 need to hold your breath). Your burrowing leaves behind no tunnel or
-hole, nor does it create any ripple or sign of your presence. A *[move
-earth]* spell cast on an area
+hole, nor does it create any ripple or sign of your presence. A *[move earth]* spell cast on an area
 where you are flings you back 30 feet, stunning you for 1 round unless
 you succeed on a DC 15 Fortitude save. Activating this ability is a free
 action. You can glide for 1 minute per day per oracle level. This
@@ -2746,8 +2678,7 @@ hardness.
 
 *Stone Stability (Ex)*: You receive a +4 bonus to your Combat Maneuver
 Defense when resisting a bull rush or trip attempt while standing on the
-ground. At 5th level, you gain [Improved
-Trip] as a bonus feat. At 10th level,
+ground. At 5th level, you gain [Improved Trip] as a bonus feat. At 10th level,
 you gain [Greater Trip] as a bonus feat.
 You do not need to meet the prerequisites to gain these feats.
 
@@ -2761,18 +2692,13 @@ operates.
 
 **Final Revelation**: Upon reaching 20th level, you become a master of
 acid and earth. You can apply any one of the following feats to any acid
-or earth spell without increasing the level or casting time: [Enlarge
-Spell], [Extend
-Spell], [Silent
-Spell], or [Still
-Spell].
+or earth spell without increasing the level or casting time: [Enlarge Spell], [Extend Spell], [Silent Spell], or [Still Spell].
 
 
 #### Waves
 
 **Class Skills**: An oracle with the waves mystery adds
-[Acrobatics], [Escape
-Artist],
+[Acrobatics], [Escape Artist],
 [Knowledge] (nature), and
 [Swim] to her list of class skills.
 
@@ -2797,7 +2723,7 @@ this revelation.
 
 *Fluid Nature (Ex)*: You receive a +4 bonus to your Combat Maneuver
 Defense against bull rush, drag, grapple, reposition, and trip attempts.
-A creature trying to confirm a critical hit against you has a –4 penalty
+A creature trying to confirm a critical hit against you has a -4 penalty
 on its confirmation roll. At 5th level, you gain
 [Dodge] as a bonus feat. You do not need to
 meet the prerequisite to gain this feat.
@@ -2833,20 +2759,16 @@ cold.
 *Punitive
 [Transformation]
 (Su)*: You can transform an opponent into a harmless animal as if using
-*[baleful
-polymorph]*. This
+*[baleful polymorph]*. This
 transformation lasts 1 round per oracle level. Transforming another
 creature causes the first to immediately revert to normal. You may use
 this ability a number of times per day equal to your Charisma modifier.
 You must be at least 7th level before selecting this revelation.
 
 *Water Form (Su)*: As a standard action, you can assume the form of a
-Small water elemental, as *[elemental body
-I]*. At 9th level,
-you can assume the form of a Medium water elemental, as *[elemental body
-II]*. At 11th level,
-you can assume the form of a Large water elemental, as *[elemental body
-III]*. At 13th
+Small water elemental, as *[elemental body I]*. At 9th level,
+you can assume the form of a Medium water elemental, as *[elemental body II]*. At 11th level,
+you can assume the form of a Large water elemental, as *[elemental body III]*. At 13th
 level, you can assume the form of a Huge water elemental, as *[elemental
 body IV]*. You can
 use this ability once per day, but the duration is 1 hour/level. You
@@ -2856,8 +2778,7 @@ must be at least 7th level to select this revelation.
 long as there is enough light to allow you to see normal. At 7th level,
 you can use any calm pool of water at least 1 foot in diameter as a
 scrying device, as if using the *scry* spell. At 15th level, this
-functions like *[greater
-scrying]*.You can use the
+functions like *[greater scrying]*.You can use the
 scrying abilities for a number of rounds per day equal to your oracle
 level, but these rounds do not need to be consecutive.
 
@@ -2870,18 +2791,13 @@ weapon that you wield is treated as a
 
 **Final Revelation**: Upon reaching 20th level, you become a master of
 cold and water. You can apply any one of the following feats to any cold
-or water spell without increasing the level or casting time: [Enlarge
-Spell], [Extend
-Spell], [Silent
-Spell], or [Still
-Spell].
+or water spell without increasing the level or casting time: [Enlarge Spell], [Extend Spell], [Silent Spell], or [Still Spell].
 
 
 #### Wind
 
 **Class Skills**: An oracle with the wind mystery adds
-[Acrobatics], [Escape
-Artist],
+[Acrobatics], [Escape Artist],
 [Fly], and
 [Stealth] to her list of class
 skills.
@@ -2899,8 +2815,7 @@ you to have a 50% miss chance. You can use this barrier for 1 hour per
 day per oracle level. This duration does not need to be consecutive, but
 it must be spent in 1-hour increments.
 
-*Gaseous Form (Su)*: As a standard action, you can assume *[gaseous
-form]* (as the spell). You
+*Gaseous Form (Su)*: As a standard action, you can assume *[gaseous form]* (as the spell). You
 can remain gaseous for 1 minute per day per oracle level. This duration
 does not need to be consecutive, but it must be spent in 1-minute
 increments. You must be at least 7th level to select this revelation.
@@ -2913,8 +2828,7 @@ a standard action, you can become invisible (as per the
 You can remain invisible for 1 minute per day per oracle level. This
 duration does not need to be consecutive, but it must be spent in
 1-minute increments. Starting at 9th level, each time you activate this
-ability you can treat it as *[greater
-invisibility]*,
+ability you can treat it as *[greater invisibility]*,
 though each round spent this way counts as 1 minute of your
 normal*[invisibility]*
 duration. You must be at least 3rd level to select this revelation.
@@ -2973,10 +2887,7 @@ least 7th level to select this revelation.
 **Final Revelation**: Upon reaching 20th level, you become a master of
 air and electricity. You can apply any one of the following feats to any
 air or electricity spell without increasing the level or casting time:
-[Enlarge Spell], [Extend
-Spell], [Silent
-Spell], or [Still
-Spell].
+[Enlarge Spell], [Extend Spell], [Silent Spell], or [Still Spell].
 
 
 ## Summoner
@@ -3005,8 +2916,7 @@ in what they can accomplish together.
 ### Class Skills
 
 The summoner's class skills are [Craft]
-(Int), [Fly] (Dex), [Handle
-Animal] (Cha),
+(Int), [Fly] (Dex), [Handle Animal] (Cha),
 [Knowledge] (all) (Int),
 [Linguistics] (Int),
 [Profession] (Wis),
@@ -3153,16 +3063,16 @@ against a summoner's spell is 10 + the spell level + the summoner's
 Charisma modifier.
 
 A summoner can cast only a certain number of spells of each spell level
-each day. His base daily spell allotment is given on Table 2–7. In
+each day. His base daily spell allotment is given on Table 2-7. In
 addition, he receives bonus spells per day if he has a high Charisma
-score (see Table 1–3 of the *Pathfinder RPG Core Rulebook*).
+score (see Table 1-3 of the *Pathfinder RPG Core Rulebook*).
 
 A summoner's selection of spells is extremely limited. A summoner begins
 play knowing four 0-level spells and two 1st-level spells of the
 summoner's choice. At each new summoner level, he gains one or more new
-spells as indicated on Table 2–8. (Unlike spells per day, the number of
+spells as indicated on Table 2-8. (Unlike spells per day, the number of
 spells a summoner knows is not affected by his Charisma score. The
-numbers on Table 2–8 are fixed.)
+numbers on Table 2-8 are fixed.)
 
 Upon reaching 5th level, and at every third summoner level thereafter
 (8th, 11th, and so on), a summoner can choose to learn a new spell in
@@ -3175,7 +3085,7 @@ choose whether or not to swap the spell at the same time that he gains
 new spells known for the level.
 
 **Cantrips**: A summoner learns a number of cantrips, or 0-level spells,
-as noted on Table 2–8 under “Spells Known.” These spells are cast like
+as noted on Table 2-8 under “Spells Known.” These spells are cast like
 any other spell, but they may be cast any number of times per day.
 Cantrips prepared using other spell slots, due to metamagic feats, for
 example, consume spell slots as normally.
@@ -3188,8 +3098,7 @@ it and can speak all of his languages. Eidolons are treated as summoned
 creatures, except that they are not sent back to their home plane until
 reduced to a number of negative hit points equal to or greater than
 their Constitution score. In addition, due to its tie to its summoner,
-an eidolon can touch and attack creatures warded by *[protection from
-evil]* and
+an eidolon can touch and attack creatures warded by *[protection from evil]* and
 similar effects that prevent contact with summoned creatures.
 
 A summoner can summon his eidolon in a ritual that takes 1 minute to
@@ -3222,8 +3131,7 @@ enough to make the eidolon appear like a specific creature. The eidolon
 also bears a glowing rune that is identical to a rune that appears on
 the summoner's forehead as long as the eidolon is summoned. While this
 rune can be hidden through mundane means, it cannot be concealed through
-magic that changes appearance, such as *[alter
-self]* or
+magic that changes appearance, such as *[alter self]* or
 *[polymorph]* (although
 *[invisibility]*does
 conceal it as long as the spell lasts).
@@ -3254,11 +3162,9 @@ ability when his eidolon is not summoned. He can cast this spell as a
 standard action and the creatures remain for 1 minute per level (instead
 of 1 round per level). At 3rd level, and every 2 levels thereafter, the
 power of this ability increases by one spell level, allowing him to
-summon more powerful creatures (to a maximum of *[summon monster
-IX]* at 17th level).
+summon more powerful creatures (to a maximum of *[summon monster IX]* at 17th level).
 At 19th level, this ability can be used as
-*[gate]* or *[summon monster
-IX]*. If used as
+*[gate]* or *[summon monster IX]*. If used as
 *[gate]*, the summoner must pay any
 required material components. A summoner cannot have more than one
 *summon monster* or *[gate]*spell active
@@ -3284,8 +3190,7 @@ not apply if the eidolon is grappled, helpless, paralyzed, stunned, or
 unconscious.
 
 **Maker's Call (Su)**: At 6th level, as a standard action, a summoner
-can call his eidolon to his side. This functions as *[dimension
-door]*, using the
+can call his eidolon to his side. This functions as *[dimension door]*, using the
 summoner's caster level. When used, the eidolon appears adjacent to the
 summoner (or as close as possible if all adjacent spaces are occupied).
 If the eidolon is out of range, the ability is wasted. The summoner can
@@ -3322,8 +3227,7 @@ the eidolon. This damage is transferred 1 point at a time, meaning that
 as soon as the eidolon is reduced to a number of negative his points
 equal to its Constitution score, all excess damage remains with the
 summoner. Effects that cause death but not damage are unaffected by this
-ability. This ability does not affect spells like *[baleful
-polymorph]*,*[flesh
+ability. This ability does not affect spells like *[baleful polymorph]*,*[flesh
 to stone]*, or
 *[imprisonment]*, or other
 spells that do not cause actual damage.
@@ -3375,7 +3279,7 @@ summoner can end this effect as a free action.
 ### Eidolons
 
 An eidolon's abilities are determined by the summoner's level and by the
-choices made using its evolution pool. Table 2–9: Eidolon Base
+choices made using its evolution pool. Table 2-9: Eidolon Base
 Statistics determines many of the base statistics of the eidolon. Each
 eidolon possesses a base form that modifies these base statistics.
 Eidolons are outsiders for the purpose of determining which spells
@@ -3479,7 +3383,7 @@ eidolon gains
 feat if it has 3 or more natural attacks and does not already have that
 feat. If it does not have the requisite 3 or more natural attacks (or it
 is reduced to less than 3 attacks), the eidolon instead gains a second
-attack with one of its natural weapons, albeit at a –5 penalty. If the
+attack with one of its natural weapons, albeit at a -5 penalty. If the
 eidolon later gains 3 or more natural attacks, it loses this additional
 attack and instead gains
 [Multiattack].
@@ -3521,8 +3425,7 @@ The following skills are class skills for eidolons:
 [Bluff] (Cha),
 [Craft] (Int),
 [Knowledge] (planes) (Int),
-[Perception] (Wis), [Sense
-Motive] (Wis), and
+[Perception] (Wis), [Sense Motive] (Wis), and
 [Stealth] (Dex). In addition, at 1st
 level, the summoner can choose 4 additional skills to be class skills
 for his eidolon. Note that eidolons with a fly speed receive
@@ -3544,9 +3447,9 @@ starting statistics.
 
 Alternatively, any one of these base forms can be used to make a Small
 eidolon. If the eidolon is Small, it gains a +2 bonus to its Dexterity
-score. It also takes a –4 penalty to its Strength and a –2 penalty to
+score. It also takes a -4 penalty to its Strength and a -2 penalty to
 its Constitution. It also gains a +1 size bonus to its AC and attack
-rolls, a –1 penalty to its CMB and CMD scores, a +2 bonus on its
+rolls, a -1 penalty to its CMB and CMD scores, a +2 bonus on its
 [Fly] skill checks, and a +4 bonus on its
 [Stealth] skill checks. Reduce the
 damage of all of its attacks by one step (1d6 becomes 1d4, 1d4 becomes
@@ -3589,7 +3492,7 @@ level before they can be chosen. A number of evolutions grant the
 eidolon additional natural attacks. Natural attacks listed as primary
 are made using the eidolon's full base attack bonus and add the
 eidolon's Strength modifier on damage rolls. Natural attacks listed as
-secondary are made using the eidolon's base attack bonus – 5 and add 1/2
+secondary are made using the eidolon's base attack bonus - 5 and add 1/2
 the eidolon's Strength modifier on damage rolls (if positive). If the
 eidolon only has a single natural attack, the attack is made using its
 full base attack bonus and it adds 1-1/2 times its Strength modifier on
@@ -3633,8 +3536,7 @@ damage die type by one step. This evolution can be selected more than
 once. Its effects do not stack. Each time an eidolon selects this
 evolution, it applies to a different natural attack.
 
-*[Improved Natural
-Armor] (Ex)*:
+*[Improved Natural Armor] (Ex)*:
 An eidolon's hide grows thick fur, rigid scales, or bony plates, giving
 it a +2 bonus to its natural armor. This evolution can be taken once for
 every five levels the summoner possesses.
@@ -3865,7 +3767,7 @@ maneuver, but the eidolon does not need to make a check, it merely has
 to move over opponents in its path. The creatures take 1d6 points of
 damage (1d8 if Large, 2d6 if Huge), plus 1-1/2 times the eidolon's
 Strength modifier. Targets of the trample can make attacks of
-opportunity at a –4 penalty. If a target forgoes the attack of
+opportunity at a -4 penalty. If a target forgoes the attack of
 opportunity, it can make a Reflex save for half damage. The DC of this
 save is 10 + 1/2 the eidolon's HD + the eidolon's Strength modifier. A
 trampling eidolon can only deal trampling damage to a creature once per
@@ -3958,9 +3860,8 @@ these webs to support itself plus up to one creature of the same size.
 It can throw webbing as a ranged touch attack up to 8 times per day,
 entangling a creature up to one size larger than the eidolon. The
 webbing has a range of 50 feet and a 10-foot range increment. Creatures
-entangled by the web can escape with an [Escape
-Artist] check or a
-Strength check (at a –4 penalty). The DC of these checks is equal to 10
+entangled by the web can escape with an [Escape Artist] check or a
+Strength check (at a -4 penalty). The DC of these checks is equal to 10
 + 1/2 the eidolon's HD + the eidolon's Con modifier. The webs have a
 Hardness of 0 and a number of hits points equal to the eidolon's total
 Hit Dice. The eidolon can climb its own webs at its climb speed and can
@@ -4005,10 +3906,10 @@ be at least 11th level before selecting this evolution.
 
 *Large (Ex)*: An eidolon grows in size, becoming Large. The eidolon
 gains a +8 bonus to Strength, a +4 bonus to Constitution, and a +2 bonus
-to its natural armor. It takes a –2 penalty to its Dexterity. This size
-change also gives the creature a –1 size penalty to its AC and on attack
-rolls, a +1 bonus to its CMB and CMD, a –2 penalty on
-[Fly] skill checks, and a –4 penalty on
+to its natural armor. It takes a -2 penalty to its Dexterity. This size
+change also gives the creature a -1 size penalty to its AC and on attack
+rolls, a +1 bonus to its CMB and CMD, a -2 penalty on
+[Fly] skill checks, and a -4 penalty on
 [Stealth] skill checks. If the
 eidolon has the biped base form, it also gains 10-foot reach. Any reach
 evolutions the eidolon possesses are added to this total. The eidolon
@@ -4017,11 +3918,11 @@ level before selecting this evolution.
 
 If 6 additional evolution points are spent, the eidolon instead becomes
 Huge. The eidolon gains a +16 bonus to Strength, a +8 bonus to
-Constitution, and a +5 bonus to its natural armor. It takes a –4 penalty
-to its Dexterity. This size change also give the creature a –2 size
+Constitution, and a +5 bonus to its natural armor. It takes a -4 penalty
+to its Dexterity. This size change also give the creature a -2 size
 penalty to its AC and attack rolls, a +2 bonus to its CMB and CMD,
-10-foot reach, a –4 penalty on [Fly] skill
-checks, and a –8 penalty on
+10-foot reach, a -4 penalty on [Fly] skill
+checks, and a -8 penalty on
 [Stealth] skill checks. If the
 eidolon has the biped base form, its reach increases to 15 feet (10 feet
 for all other base forms). Any reach evolutions the eidolon possesses
@@ -4173,9 +4074,9 @@ throw against a witch's spell is 10 + the spell level + the witch's
 Intelligence modifier.
 
 A witch can cast only a certain number of spells of each spell level per
-day. Her base daily spell allotment is given on Table 2–10. In addition,
+day. Her base daily spell allotment is given on Table 2-10. In addition,
 she receives bonus spells per day if she has a high Intelligence score
-(see Table 1–3 of the *Pathfinder RPG Core Rulebook*).
+(see Table 1-3 of the *Pathfinder RPG Core Rulebook*).
 
 A witch may know any number of spells. She must choose and prepare her
 spells ahead of time by getting 8 hours of sleep and spending 1 hour
@@ -4183,7 +4084,7 @@ communing with her familiar. While communing, the witch decides which
 spells to prepare.
 
 **Cantrips**: Witches can prepare a number of cantrips, or 0-level
-spells, each day, as noted on Table 2–10 under “Spells per Day.” These
+spells, each day, as noted on Table 2-10 under “Spells per Day.” These
 spells are cast like any other spell, but they are not expended when
 cast and may be used again. Cantrips prepared using other spell slots,
 due to metamagic feats for example, are expended normally.
@@ -4191,7 +4092,7 @@ due to metamagic feats for example, are expended normally.
 **Hex**: Witches learn a number of magic tricks, called hexes, that
 grant them powers or weaken foes. At 1st level, a witch gains one hex of
 her choice. She gains an additional hex at 2nd level and for every 2
-levels attained after 2nd level, as noted on Table 2–10. A witch cannot
+levels attained after 2nd level, as noted on Table 2-10. A witch cannot
 select an individual hex more than once.
 
 Unless otherwise noted, using a hex is a standard action that does not
@@ -4209,8 +4110,7 @@ Blighting a creature is a standard action that requires a melee touch
 attack. If used on a creature of the animal or plant type, the creature
 gains the following curse: Blight Hex-*type* curse; *save*Will negates;
 *frequency* 1/day; *effect* 1 Con damage. Both types of curse can be
-removed with a *[remove
-curse]* or similar magic,
+removed with a *[remove curse]* or similar magic,
 using the save DC as the DC to remove the curse. A witch can only have
 one blight in effect at a time. If another blight hex is made, the first
 immediately ends.
@@ -4220,8 +4120,7 @@ that is within 30 feet that is under the effects of an agony hex, charm
 hex, evil eye hex, fortune hex, or misfortune hex caused by the witch
 has the duration of that hex extended by 1 round.
 
-*Cauldron (Ex)*: The witch receives [Brew
-Potion] as a bonus feat and a +4 insight
+*Cauldron (Ex)*: The witch receives [Brew Potion] as a bonus feat and a +4 insight
 bonus on [Craft] (alchemy) skill checks.
 
 *Charm (Su)*: A witch can charm an animal or humanoid creature within 30
@@ -4243,21 +4142,19 @@ other witch's caster level for 1 round. This bonus applies to the
 witch's spells and all of her hexes.
 
 *Disguise (Su)*: A witch can change her appearance for a number of hours
-equal to her class level, as if using *[disguise
-self]*. These hours do
+equal to her class level, as if using *[disguise self]*. These hours do
 not need to be consecutive, but they must be spent in 1-hour increments.
 
 *Evil Eye (Su)*: The witch can cause doubt to creep into the mind of a
-foe within 30 feet that she can see. The target takes a –2 penalty on
+foe within 30 feet that she can see. The target takes a -2 penalty on
 one of the following (witch's choice): AC, ability checks, attack rolls,
 saving throws, or skill checks. This hex lasts for a number of rounds
 equal to 3 + the witch's Intelligence modifier. A Will save reduces this
 to just 1 round. This is a mind-affecting effect. At 8th level the
-penalty increases to –4.
+penalty increases to -4.
 
 *Flight (Su)*: The witch grows lighter as she gains power, eventually
-gaining the ability to fly. At 1st level, the witch can use *[feather
-fall]* at will and gains a
+gaining the ability to fly. At 1st level, the witch can use *[feather fall]* at will and gains a
 +4 racial bonus on [Swim] checks. At 3rd
 level, she can cast *[levitate]*
 once per day. At 5th level, she can fly, as per the spell, for a number
@@ -4275,12 +4172,10 @@ benefited from the fortune hex, it cannot benefit from it again for 24
 hours.
 
 *Healing (Su)*: A witch can soothe the wounds of those she touches. This
-acts as a *[cure light
-wounds]* spell,
+acts as a *[cure light wounds]* spell,
 using the witch's caster level. Once a creature has benefited from the
 healing hex, it cannot benefit from it again for 24 hours. At 5th level,
-this hex acts like *[cure moderate
-wounds]*.
+this hex acts like *[cure moderate wounds]*.
 
 *Misfortune (Su)*: The witch can cause a creature within 30 feet to
 suffer grave misfortune for 1 round. Anytime the creature makes an
@@ -4302,8 +4197,7 @@ immediately if the creature takes damage. Whether or not the save is
 successful, a creature cannot be the target of this hex again for 1 day.
 
 *Tongues (Su)*: A witch with this hex can understand any spoken language
-for a number of minutes per day equal to her level, as *[comprehend
-languages].*This
+for a number of minutes per day equal to her level, as *[comprehend languages].*This
 duration does not need to be consecutive, but it must be spent in
 1-minute increments. At 5th level, a witch can use this ability to speak
 any language, as per *[tongues]*.
@@ -4349,8 +4243,7 @@ not the save is successful, a creature cannot be the target of this hex
 again for 1 day.
 
 *Hag's Eye (Su)*: A witch with this hex can create a magic sensor that
-she can see through. This functions as per the spell *[arcane
-eye]*. If the witch has the
+she can see through. This functions as per the spell *[arcane eye]*. If the witch has the
 coven hex, all other witches within 10 feet who also have the coven hex
 can see through this sensor as well, although the witch that created it
 still controls it. The witch can use this eye for a number of minutes
@@ -4359,12 +4252,10 @@ but they must be spent in 1-minute increments.
 
 *Major Healing (Su)*: By calling upon eerie powers, the witch's touch
 can mend even the most terrible wounds of those she touches. This acts
-as *[cure serious
-wounds]*,
+as *[cure serious wounds]*,
 using the witch's caster level. Once a creature has benefited from the
 major healing hex, it cannot benefit from it again for 24 hours. At 15th
-level, this hex acts like *[cure critical
-wounds]*.
+level, this hex acts like *[cure critical wounds]*.
 
 *Nightmares (Su)*: Calling upon fell powers, a witch can place a hex on
 a creature within 60 feet that causes its sleep to be tormented by
@@ -4416,8 +4307,7 @@ turn. As soon as the creature has succeeded on a saving throw against
 this effect, it is immune to it for 24 hours. The is an enchantment
 (compulsion) effect.
 
-*Weather Control (Su)*: A witch with this hex can use *[control
-weather]* once per
+*Weather Control (Su)*: A witch with this hex can use *[control weather]* once per
 day, but creating the weather takes 1 full hour of chanting, dancing,
 and communing with her familiar.
 
@@ -4463,8 +4353,7 @@ touch a dead creature and bring it back to life. This functions as
 does not require a material component.
 
 *Natural Disaster (Su)*: A witch using this hex calls down the forces of
-nature to wreak havoc on an area. This functions as a *[storm of
-vengeance]*combined
+nature to wreak havoc on an area. This functions as a *[storm of vengeance]*combined
 with an *[earthquake]* that
 occurs on the second round of the effect (while acid is raining from the
 sky). A witch must concentrate for the duration of this effect. If
@@ -4488,8 +4377,7 @@ By forging strange bonds with unnameable beings, witches gain the
 service of a mystical advisor, a familiar to both serve her and reveal
 to her secrets unknown to most mortals. A familiar is an animal chosen
 by a witch to aid her in her spellcasting and grant her special powers.
-This uses the same rules as the wizard's [arcane
-bond] class feature, except as
+This uses the same rules as the wizard's [arcane bond] class feature, except as
 noted below. A witch uses her level as her effective wizard level when
 determining the abilities of her familiar. A witch can choose any of the
 familiars available to a wizard in addition to the new familiars
@@ -4535,14 +4423,9 @@ Rulebook*, witches might select any of the following animals as their
 familiar. Sorcerers and wizards might also adopt these new familiars,
 utilizing the same rules as for any other familiar.
 
-These familiars make use these statistics: the [house
-centipede](), [king
-crab], [greensting
-scorpion],
-fox ([dog] with the [young
-template]),
-octopus ([octopus] with the [young
-template]), and
+These familiars make use these statistics: the [house centipede](), [king crab], [greensting scorpion],
+fox ([dog] with the [young template]),
+octopus ([octopus] with the [young template]), and
 [scarlet spider].
 
   Familiar    Special Ability

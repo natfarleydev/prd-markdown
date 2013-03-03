@@ -11,9 +11,8 @@
 
 # Magic Items
 
-Beyond well-known magic items, from ubiquitous *potions of [cure light
-wounds](../spells/cureLightWounds.html#_cure-light-wounds)*to prized
-relics like *[holy](../magicItems/weapons.html#_weapons-holy) avengers*,
+Beyond well-known magic items, from ubiquitous *potions of [cure light wounds]*to prized
+relics like *[holy] avengers*,
 stretch troves of legendary treasures, rare masterworks discovered in
 the depths of the deadliest dungeons or groundbreaking discoveries
 crafted by geniuses and madmen. This chapter reaches past the familiar
@@ -36,26 +35,23 @@ Chapter 15 of that book.
 The following descriptions include notes on activation, random
 generation, and other material. The AC, hardness, hit points, and break
 DC are given for typical examples of some magic items. The AC assumes
-that the item is unattended and includes a –5 penalty for the item's
+that the item is unattended and includes a -5 penalty for the item's
 effective Dexterity of 0. If a creature holds the item, use the
-creature's Dexterity modifier in place of the –5 penalty.
+creature's Dexterity modifier in place of the -5 penalty.
 
 Each of the following topics is covered in notational form as part of an
 item's description.
 
-**Aura**: Most of the time, a *[detect
-magic](../spells/detectMagic.html#_detect-magic)* spell reveals the
+**Aura**: Most of the time, a *[detect magic]* spell reveals the
 school of magic associated with the magic item and the strength of the
-aura that the item emits. See the *[detect
-magic](../spells/detectMagic.html#_detect-magic)* spell description for
+aura that the item emits. See the *[detect magic]* spell description for
 details.
 
 **Caster Level (CL)**: An item's caster level indicates its relative
 power. It also determines the item's saving throw bonus, as well as
 range or other level-dependent aspects of the item's powers (if
 variable). It also determines the level that must be contended with
-should the item come under the effect of a *[dispel
-magic](../spells/dispelMagic.html#_dispel-magic)* spell or similar
+should the item come under the effect of a *[dispel magic]* spell or similar
 situation.
 
 The creator's caster level must be as high as the item's caster level

@@ -278,7 +278,7 @@ greed racial trait.
 **Magic Resistant**: Some of the older dwarven clans are particularly
 resistant to magic. Dwarves with this racial trait gain spell resistance
 equal to 5 + their character level. This resistance can be lowered for 1
-round as a standard action. Dwarves with this racial trait take a –2
+round as a standard action. Dwarves with this racial trait take a -2
 penalty on all concentration checks made in relation to arcane spells.
 This racial trait replaces the hardy racial trait.
 
@@ -341,8 +341,7 @@ spells.
 **Ranger**: Add a +1/2 bonus on wild empathy checks to influence animals
 and magical beasts that live underground.
 
-**Rogue**: Add a +1/2 bonus on [Disable
-Device] checks regarding
+**Rogue**: Add a +1/2 bonus on [Disable Device] checks regarding
 stone traps and a +1/2 bonus to trap sense regarding stone traps.
 
 ## Elves
@@ -488,7 +487,7 @@ elven magic racial traits.
 Elves with this racial trait reduce the penalty for using
 [Stealth] while moving by 5 and can
 make [Stealth] checks while running at
-a –20 penalty (this number includes the penalty reduction from this
+a -20 penalty (this number includes the penalty reduction from this
 racial trait). This racial trait replaces the elven magic racial trait.
 
 **Spirit of the Waters**: Some elves have adapted to life in tune with
@@ -676,16 +675,13 @@ that create glyphs, symbols, or other magical writings. They gain a +2
 racial bonus on saving throws against such spells. Gnomes with a
 Charisma of 11 or higher also gain the following spell-like abilities:
 1/day—*[arcane mark]*,
-*[comprehend
-languages]*,
-*[message]*, *[read
-magic]*. The caster level for
+*[comprehend languages]*,
+*[message]*, *[read magic]*. The caster level for
 these effects is equal to the gnome's level. This racial trait replaces
 the gnome magic and illusion resistance racial traits.
 
 **Master Tinker**: Gnomes experiment with all manner of mechanical
-devices. Gnomes with this racial trait gain a +1 bonus on [Disable
-Device] and
+devices. Gnomes with this racial trait gain a +1 bonus on [Disable Device] and
 [Knowledge] (engineering) checks.
 They are treated as proficient with any weapon they have personally
 crafted. This racial trait replaces the defensive training and hatred
@@ -699,8 +695,7 @@ and when determining the damage of alchemist bombs that deal fire damage
 (this ability does not give gnomes early access to level-based powers,
 only affecting the powers they could use without this ability). Gnomes
 with Charisma of 11 or higher also gain the following spell-like
-abilities: 1/day—*[dancing
-lights]*,
+abilities: 1/day—*[dancing lights]*,
 *[flare]*,
 *[prestidigitation]*,
 *[produce flame]*. The
@@ -742,9 +737,7 @@ the ranger selects this benefit, the DR/magic increases by +1/2 (maximum
 DR 10/magic). If the gnome ever replaces his animal companion, the new
 companion gains this DR.
 
-**Rogue**: Gnome rogues gain a +1 bonus on [Disable
-Device] and [Use Magic
-Device] checks related
+**Rogue**: Gnome rogues gain a +1 bonus on [Disable Device] and [Use Magic Device] checks related
 to glyphs, symbols, scrolls, and other magical writings each time they
 gain a level of rogue.
 
@@ -880,8 +873,7 @@ The following racial traits replace existing half-elf racial traits.
 Consult your GM before selecting any of these new options.
 
 **Ancestral Arms**: Some half-elves receive training in an unusual
-weapon. Half-elves with this racial trait receive [Exotic Weapon
-Proficiency] or [Martial
+weapon. Half-elves with this racial trait receive [Exotic Weapon Proficiency] or [Martial
 Weapon Proficiency] with one
 weapon as a bonus feat at 1st level. This racial trait replaces the
 adaptability racial trait.
@@ -1079,8 +1071,7 @@ Consult your GM before selecting any of these new options.
 **Beastmaster**: Some half-orcs have a spiritual kinship with
 fantastical beasts, capturing them for sport or living and hunting with
 them. A half-orc with this trait treats whip and net as martial weapons
-and gains a +2 bonus on [Handle
-Animal] checks. This racial
+and gains a +2 bonus on [Handle Animal] checks. This racial
 trait replaces the orc ferocity racial trait.
 
 **Bestial**: The orc blood of some half-orcs manifests in the form of
@@ -1299,7 +1290,7 @@ Consult your GM before selecting any of these new options.
 **Craven**: While most halflings are fearless, some are skittish, making
 them particularly alert. Halflings with this racial trait gain a +1
 bonus on initiative checks and a +1 bonus on attack rolls when flanking.
-They suffer a –2 penalty on fear saves and gain no benefit from morale
+They suffer a -2 penalty on fear saves and gain no benefit from morale
 bonuses on fear saves. When affected by a fear effect, their base speed
 increases by 10 feet and they gain a +1 dodge bonus to Armor Class. This
 racial trait replaces the fearless and halfling luck racial traits.
@@ -1310,8 +1301,7 @@ confirmation rolls against opponents larger than themselves. This racial
 trait replaces the keen senses racial trait.
 
 **Outrider**: Some halflings specialize in mounted combat. Halflings
-with this racial trait gain a +2 bonus on [Handle
-Animal] and
+with this racial trait gain a +2 bonus on [Handle Animal] and
 [Ride] checks. This racial trait replaces the
 sure-footed racial trait.
 
@@ -1384,8 +1374,7 @@ favored enemies.
 **Rogue**: Choose a weapon from the following list: sling, dagger, or
 any weapon with “halfling” in its name. Add a +1/2 circumstance bonus on
 critical hit confirmation rolls with that weapon (maximum bonus of +4).
-This bonus does not stack with [Critical
-Focus].
+This bonus does not stack with [Critical Focus].
 
 **Summoner**: Add +1 skill rank to the summoner's eidolon.
 
@@ -1504,8 +1493,7 @@ The following racial traits replace existing human racial traits.
 Consult your GM before selecting any of these new options.
 
 **Eye for Talent**: Humans have great intuition for hidden potential.
-They gain a +2 bonus on [Sense
-Motive] checks. In addition,
+They gain a +2 bonus on [Sense Motive] checks. In addition,
 when they acquire an animal companion, bonded mount, cohort, or
 familiar, that creature gains a +2 bonus to one ability score of the
 character's choice. This racial trait replaces the bonus feat racial

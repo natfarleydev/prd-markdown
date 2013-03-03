@@ -61,8 +61,7 @@ unarmed strike attacks. A barbarian must have the brawler rage power to
 select this rage power.
 
 *Chaos Totem (Su)*: While raging, the barbarian's form becomes infused
-with chaos. She gains a +4 bonus on [Escape
-Artist] checks and has a
+with chaos. She gains a +4 bonus on [Escape Artist] checks and has a
 25% chance to ignore extra damage from critical hits and sneak attacks.
 A barbarian must have the lesser chaos totem rage power to select this
 rage power. A barbarian must be at least 6th level to select this rage
@@ -174,7 +173,7 @@ be at least 8th level to select this rage power.
 mounted, the barbarian's mount gains the trample special attack
 (*Pathfinder RPG Bestiary* 305). This attack inflicts 1d8 points of
 damage for a Medium mount, 2d6 for a Large mount, or 2d8 for a Huge
-mount, plus 1–1/2 times the mount's Strength modifier. A successful
+mount, plus 1-1/2 times the mount's Strength modifier. A successful
 Reflex save (DC 10 + 1/2 the barbarian's level + the mount's Strength
 modifier) halves this damage. Creatures in the mount's path or that
 threaten squares it passes through may make attacks of opportunity
@@ -211,7 +210,7 @@ must be at least 10th level to select this rage power.
 large horns, gaining a gore attack. This attack is a primary attack
 (unless she is also attacking with weapons, in which case it is a
 secondary attack) and is made at the barbarian's full base attack bonus
-(–5 if it is a secondary attack). The gore attack deals 1d8 points of
+(-5 if it is a secondary attack). The gore attack deals 1d8 points of
 piercing damage (1d6 if Small) plus the barbarian's Strength modifier
 (1/2 if it is a secondary attack).
 
@@ -302,14 +301,14 @@ equal to her Strength bonus whenever she succeeds at an overrun combat
 maneuver.
 
 *Overbearing Onslaught (Ex)*: While raging, the barbarian may overrun
-more than one target per round, with a –2 penalty on her CMB for each
+more than one target per round, with a -2 penalty on her CMB for each
 overrun check after the first. A barbarian must have the overbearing
 advance rage power to select this rage power. A barbarian must be at
 least 6th level to select this rage power.
 
-*Reckless Abandon (Ex)*: While raging, the barbarian can take a –1
+*Reckless Abandon (Ex)*: While raging, the barbarian can take a -1
 penalty to AC to gain a +1 bonus on attack rolls. The AC penalty
-increases by –1 and the attack roll bonus increases by +1 at 4th level
+increases by -1 and the attack roll bonus increases by +1 at 4th level
 and every four levels thereafter.
 
 *Roaring Drunk (Ex)*: While raging, the barbarian gains a +1 morale
@@ -522,7 +521,7 @@ increased by 10 feet. This ability replaces fast movement.
 
 **Bestial Mount (Ex)**: At 5th level, the mounted fury gains the service
 of a feral mount. This ability functions as a druid's animal companion,
-using the barbarian's level –4 as her effective druid level. This
+using the barbarian's level -4 as her effective druid level. This
 companion must be one that she is capable of riding and is suitable as a
 mount. A Medium barbarian can select a camel or a horse. A Small
 barbarian can select a pony or a wolf, but can also select a boar or a
@@ -634,13 +633,10 @@ three levels after 6th (maximum +5 at 18th level). These bonuses stack
 with existing bonuses and may be used to increase the item's enhancement
 bonus up to +5 or to add any of the following weapon properties:
 *[defending]*,
-*[distance]*, *[ghost
-touch]*,
-*[keen]*, *[mighty
-cleaving]*,
+*[distance]*, *[ghost touch]*,
+*[keen]*, *[mighty cleaving]*,
 *[returning]*,
-*[shock]*, *[shocking
-burst]*,
+*[shock]*, *[shocking burst]*,
 *[seeking]*,
 *[speed]*, or
 *[wounding]*. If the weapon is
@@ -656,8 +652,7 @@ identical. This ability replaces mass suggestion.
 
 **Bonus Feats**: An arcane duelist weaves might and magic in his combat
 style, gaining the following bonus feats at 2nd level and every four
-levels thereafter: 2nd level—[Combat
-Casting], 6th
+levels thereafter: 2nd level—[Combat Casting], 6th
 level—[Disruptive], 10th
 level—[Spellbreaker], 14th
 level—[Penetrating Strike], 18th
@@ -721,8 +716,7 @@ performance.
 **Magic Lore (Ex)**: At 2nd level, an archivist gains a bonus on
 [Spellcraft] checks to
 identify magic items or decipher scrolls equal to half his bard level
-and may take 10 on such checks. An archivist can use [Disable
-Device] to disarm
+and may take 10 on such checks. An archivist can use [Disable Device] to disarm
 magical traps as per a rogue's trapfinding ability and gains a +4 bonus
 on saves against magical traps, language-dependent effects, and symbols,
 glyphs, and magical writings of any kind. This ability replaces
@@ -751,18 +745,18 @@ well-moneyed elite who aspire to join their ranks.
 performance.
 
 *Satire (Su)*: A court bard can use performance to undermine the
-confidence of enemies who hear it, causing them to take a –1 penalty on
-attack and damage rolls (minimum 1) and a –1 penalty on saves against
+confidence of enemies who hear it, causing them to take a -1 penalty on
+attack and damage rolls (minimum 1) and a -1 penalty on saves against
 fear and charm effects as long as the bard continues performing. This
-penalty increases by –1 at 5th level and every six levels thereafter.
+penalty increases by -1 at 5th level and every six levels thereafter.
 Satire is a language-dependent, mind-affecting ability that uses audible
 components. This performance replaces inspire courage.
 
 *Mockery (Su)*: A court bard of 3rd level or higher can subtly ridicule
 and defame a specific individual. The bard selects one target who can
-hear his performance. That individual takes a –2 penalty on Charisma
+hear his performance. That individual takes a -2 penalty on Charisma
 checks and Charisma-related skill checks as long as the bard continues
-performing. This penalty increases by –1 every four levels after 3rd.
+performing. This penalty increases by -1 every four levels after 3rd.
 Mockery is a language-dependent, mind-affecting ability that relies on
 audible components. This performance replaces inspire competence.
 
@@ -776,8 +770,7 @@ replaces dirge of doom.
 
 *Scandal (Su)*: A court bard of 14th level or higher can combine
 salacious gossip and biting calumny to incite a riot. Each enemy within
-30 feet is affected as if by a *[song of
-discord]* for as long
+30 feet is affected as if by a *[song of discord]* for as long
 as it can hear the performance. A successful Will save (DC 10 + 1/2 the
 bard's level + the bard's Cha modifier) negates the effect, and that
 creature is immune to this ability for 24 hours. Scandal is a
@@ -815,8 +808,7 @@ performance.
 *Careful Teamwork (Su)*: A detective uses performance to keep allies
 coordinated, alert, and ready for action. All allies within 30 feet gain
 a +1 bonus on Initiative checks,
-[Perception], and [Disable
-Device] checks for 1
+[Perception], and [Disable Device] checks for 1
 hour. They also gain a +1 insight bonus on Reflex saves and to AC
 against traps and when they are flat-footed. These bonuses increase by
 +1 at 5th level and every six levels thereafter. Using this ability
@@ -857,8 +849,7 @@ replaces inspire heroics.
 
 **Eye for Detail (Ex)**: A detective gains a bonus equal to half his
 level on [Knowledge] (local),
-[Perception], and [Sense
-Motive] checks, as well as
+[Perception], and [Sense Motive] checks, as well as
 [Diplomacy] checks to gather
 information (minimum +1). This ability replaces bardic knowledge.
 
@@ -866,8 +857,7 @@ information (minimum +1). This ability replaces bardic knowledge.
 magical traps, like a rogue's trapfinding ability. In addition, he gains
 a +4 bonus on saving throws made against illusions and a +4 bonus on
 caster level checks and saving throws to see through disguises and
-protections against divination (such as *[magic
-aura]*,
+protections against divination (such as *[magic aura]*,
 *[misdirection]*, and
 *[nondetection]*). This
 ability replaces well-versed.
@@ -919,13 +909,11 @@ frightening tune.
 
 **Magical Talent (Ex)**: A magician gains a bonus equal to half his
 level on [Knowledge] (arcana),
-[Spellcraft], and [Use Magic
-Device] checks. This
+[Spellcraft], and [Use Magic Device] checks. This
 ability replaces bardic knowledge.
 
 **[Improved Counterspell]**: A
-magician gains [Improved
-Counterspell] as a bonus feat.
+magician gains [Improved Counterspell] as a bonus feat.
 This ability replaces countersong.
 
 **Extended Performance (Su)**: At 2nd level, a magician can extend the
@@ -978,8 +966,7 @@ This ability requires visual components. This performance replaces
 inspire courage.
 
 *Slumber Song (Sp)*: At 6th level, a sandman can use his performance to
-cause a creature he has already fascinated to fall asleep (as *[Deep
-Slumber]*, but with no HD
+cause a creature he has already fascinated to fall asleep (as *[Deep Slumber]*, but with no HD
 limit). Otherwise, this ability functions like suggestion. This
 performance replaces suggestion.
 
@@ -987,8 +974,7 @@ performance replaces suggestion.
 performance to cast spells without obvious visual or audible components
 while retaining the spell's normal effects. Observers must succeed at a
 [Perception] check opposed by
-a sandman's [Sleight of
-Hand] check to notice
+a sandman's [Sleight of Hand] check to notice
 that the sandman is the source of the spellcasting (though spellcasting
 still provokes attacks of opportunity). The bard must use this
 performance for at least 2 rounds before casting a spell; otherwise he
@@ -1009,8 +995,7 @@ reverts back to its owner. This performance replaces inspire heroics.
 *Mass Slumber Song (Sp)*: At 18th level, a sandman can use slumber song
 to affect any number of fascinated creatures within 30 feet. Otherwise,
 this ability functions like *[Mass Suggestion]*. This
-performance replaces *[Mass
-Suggestion]*.
+performance replaces *[Mass Suggestion]*.
 
 *Spell Catching (Su)*: At 20th level, a sandman who saves against a
 spell or spell-like ability that targets only him (not including area
@@ -1024,11 +1009,9 @@ the spell's level, even if the check fails. This performance replaces
 deadly performance.
 
 **Master of Deception (Ex)**: A sandman gains a bonus equal to half his
-level on [Bluff], [Sleight of
-Hand], and
+level on [Bluff], [Sleight of Hand], and
 [Stealth] checks. He may also disarm
-magical traps with [Disable
-Device] as a rogue's
+magical traps with [Disable Device] as a rogue's
 trapfinding ability. This ability replaces bardic knowledge.
 
 **Sneakspell (Ex)**: At 2nd level, a sandman adds +1 to the save DC of
@@ -1133,18 +1116,13 @@ for 10 consecutive rounds. This ability requires audible components.
 This performance replaces inspire competence.
 
 *Whistle the Wind (Su)*: A sea singer of 6th level or higher can use
-performance to create a *[Gust of
-Wind]*. This wind lasts for
+performance to create a *[Gust of Wind]*. This wind lasts for
 as long as he continues his performance. He can extend this duration to
 1 minute by playing for 5 consecutive rounds. This performance replaces
 suggestion.
 
 *Call the Storm (Su)*: At 18th level, a sea singer can use performance
-to duplicate *[Control
-Water], [Control
-Weather], [Control
-Winds],* or *[Storm of
-Vengeance]*,
+to duplicate *[Control Water], [Control Weather], [Control Winds],* or *[Storm of Vengeance]*,
 using his bard level as the caster level. Using this ability requires 1
 round of continuous performance per level of the spell (as if he were a
 druid). These effects continue for as long as the bard continues
@@ -1218,8 +1196,7 @@ effect lasts 1 round. This performance replaces inspire greatness.
 *Slip through the Crowd (Su)*: At 15th level, a street performer's
 disappearing act enables affected creatures to move through crowd
 squares and enemy-occupied squares without impediment. Affected
-creatures are treated as if having *[Greater
-Invisibility]*,
+creatures are treated as if having *[Greater Invisibility]*,
 but enemies gain a new saving throw to notice them each time they are
 attacked. This performance replaces inspire heroics.
 
@@ -1243,7 +1220,7 @@ influence crowds, and
 information (minimum +1). This replaces bardic knowledge.
 
 **Quick Change (Ex)**: At 5th level, a street performer can don a
-disguise as a standard action by taking a –5 penalty on his check. He
+disguise as a standard action by taking a -5 penalty on his check. He
 can take 10 on [Bluff] and
 [Disguise] checks and use
 [Bluff] to create a diversion to hide as
@@ -1271,8 +1248,7 @@ is to invite destruction, both in this world and the next.
 Presented in the section below are new rules for subdomains—more
 specific focuses for clerical worship and power that allow players
 greater flexibility in customizing their characters. Every domain has a
-number of subdomains associated with it (see [Table:
-Subdomains] for a complete list). Each
+number of subdomains associated with it (see [Table: Subdomains] for a complete list). Each
 subdomain replaces a granted power and a number of spells in the
 domain's granted spell list. Spells marked with an asterisk (\*) are
 detailed in Chapter 5 of this book. A cleric who chooses a subdomain
@@ -1337,17 +1313,14 @@ outsiders.
 *Protective Aura (Su)*: At 8th level, you can emit a 30-foot protective
 aura as a standard action. Allies in this aura receive a +2 deflection
 bonus to AC and a +2 resistance bonus on all saving throws. In addition,
-allies in the area gain the benefits of *[Protection from
-Evil]*
+allies in the area gain the benefits of *[Protection from Evil]*
 (although the AC bonus and saving throw bonus do not stack with those
 granted by this effect). You can use this ability for a number of rounds
 per day equal to your cleric level. These rounds do not have to be
 consecutive.
 
-**Replacement Domain Spells**: 1st—*[Shield of
-Faith]*,
-3rd—*[Tongues]*, 6th—*[Planar
-Ally]*(agathions only).
+**Replacement Domain Spells**: 1st—*[Shield of Faith]*,
+3rd—*[Tongues]*, 6th—*[Planar Ally]*(agathions only).
 
 ### Ancestors Subdomain
 
@@ -1357,14 +1330,12 @@ Ally]*(agathions only).
 against death power of the Repose domain.
 
 *Speak With Dead (Su)*: At 8th level, as a standard action, you can ask
-one question of a dead creature as if using *[Speak with
-Dead]*. The dead
+one question of a dead creature as if using *[Speak with Dead]*. The dead
 creature you are questioning does not gain a Will saving throw if your
 alignments are different. You can use this ability a number of times per
 day equal to your cleric level.
 
-**Replacement Domain Spells**: 4th—*[Rest
-Eternal]*\*,
+**Replacement Domain Spells**: 4th—*[Rest Eternal]*\*,
 6th—*[Geas/quest]*.
 
 ### Arcane Subdomain
@@ -1381,10 +1352,7 @@ to their caster level or increase their saving throw DC by +1. The
 caster chooses the benefit when she casts the spell. You can use this
 ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st level—*[Magic
-Aura]*, 4th—*[Arcane
-Eye]*, 6th—*[Analyze
-Dweomer]*.
+**Replacement Domain Spells**: 1st level—*[Magic Aura]*, 4th—*[Arcane Eye]*, 6th—*[Analyze Dweomer]*.
 
 ### Archon Subdomain
 
@@ -1395,15 +1363,13 @@ lance power of the Good domain or the staff of order power of the Law
 domain. [Archons] are a race of lawful good outsiders.
 
 *Aura of Menace (Su)*: At 8th level, you can emit a 30-foot aura of
-menace as a standard action. Enemies in this aura take a –2 penalty to
+menace as a standard action. Enemies in this aura take a -2 penalty to
 AC and on attacks and saves as long as they remain inside the aura. You
 can use this ability for a number of rounds per day equal to your cleric
 level. These rounds do not need to be consecutive.
 
-**Replacement Domain Spells**: 1st—*[Divine
-Favor]*,
-3rd—*[Prayer]*, 6th—*[Planar
-Ally]*(archon only).
+**Replacement Domain Spells**: 1st—*[Divine Favor]*,
+3rd—*[Prayer]*, 6th—*[Planar Ally]*(archon only).
 
 ### Ash Subdomain
 
@@ -1442,17 +1408,14 @@ against spells and spell-like abilities of the enchantment (charm) and
 enchantment (compulsion) subschools. In addition, targets receive a +2
 sacred bonus on such saving throws and a +2 sacred bonus on CMB checks
 to escape a grapple. Finally, targets can ignore up to 5 feet of
-difficult terrain each round, as if they had the [Nimble
-Moves] feat. These bonuses last for a
+difficult terrain each round, as if they had the [Nimble Moves] feat. These bonuses last for a
 number of rounds equal to 1/2 your cleric level (minimum 1), although
 the saving throw reroll only applies when the creature is touched. You
 can use this ability for a number of rounds per day equal to 3 + your
 Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*[Expeditious
-Retreat]*,
-3rd—*[Fly]*, 6th—*[Planar
-Ally]*(azata only).
+**Replacement Domain Spells**: 1st—*[Expeditious Retreat]*,
+3rd—*[Fly]*, 6th—*[Planar Ally]*(azata only).
 
 ### Blood Subdomain
 
@@ -1468,9 +1431,7 @@ quality for a number of rounds equal to 1/2 your cleric level. You can
 use this ability once per day at 8th level, and an additional time per
 day for every four levels beyond 8th.
 
-**Replacement Domain Spells**: 3rd—*[Vampiric
-Touch]*, 5th—*[Wall of
-Thorns]*, 7th—*[Inflict
+**Replacement Domain Spells**: 3rd—*[Vampiric Touch]*, 5th—*[Wall of Thorns]*, 7th—*[Inflict
 Serious Wounds
 (Mass)]*.
 
@@ -1485,22 +1446,18 @@ destructive aura power of the Destruction domain.
 the heavens, summoning forth an ever-changing storm of destruction for a
 number of rounds per day equal to your cleric level. This storm has a
 radius of 5 feet per cleric level. Each round, the storm has one of the
-following effects: driving rain (–4 on all
+following effects: driving rain (-4 on all
 [Perception] checks and ranged
-attack rolls), howling winds (–8 on [Fly]
+attack rolls), howling winds (-8 on [Fly]
 skill checks and ranged attack rolls), heavy snow (all terrain is
-considered difficult), or lightning bolt (as *[Call
-Lightning]*). Other
+considered difficult), or lightning bolt (as *[Call Lightning]*). Other
 effects depending on the weather might also apply (at the GM's
 discretion). You choose which effect takes place each round, but no
 effect may be repeated on the following round. These rounds do not need
 to be consecutive.
 
-**Replacement Domain Spells**: 2nd—*[Gust of
-Wind]*, 3rd—*[Call
-Lightning]*,
-7th—*[Control
-Weather].*
+**Replacement Domain Spells**: 2nd—*[Gust of Wind]*, 3rd—*[Call Lightning]*,
+7th—*[Control Weather].*
 
 ### Caves Subdomain
 
@@ -1511,8 +1468,7 @@ resistance power of the Earth domain.
 
 *Tunnel Runner (Su)*: At 8th level, you can move through tunnels and
 caves with ease. Activating this ability is a standard action. You can
-move across any stone surface as if under the effects of *[Spider
-Climb]*. You can also see
+move across any stone surface as if under the effects of *[Spider Climb]*. You can also see
 very well in darkness, gaining darkvision out to a range of 60 feet. If
 you already possess darkvision, extend the range by 60 feet. While
 underground, you also gain an insight bonus equal to your cleric level
@@ -1522,10 +1478,7 @@ can use this ability for 1 minute per day per cleric level you possess.
 These minutes do not need to be consecutive, but they must be spent in
 1-minute increments.
 
-**Replacement Domain Spells**: 2nd—*[Create
-Pit]\**, 3rd—*[Spiked
-Pit]*\*, 6th—*[Hungry
-Pit]\**.
+**Replacement Domain Spells**: 2nd—*[Create Pit]\**, 3rd—*[Spiked Pit]*\*, 6th—*[Hungry Pit]\**.
 
 ### Cloud Subdomain
 
@@ -1535,17 +1488,14 @@ Pit]\**.
 electricity resistance power of the Air domain.
 
 *Thundercloud (Su)*: At 8th level, you can, as a standard action, summon
-a storm cloud. This power functions as *[Fog
-Cloud]* except that creatures inside the
+a storm cloud. This power functions as *[Fog Cloud]* except that creatures inside the
 cloud are deafened and take 2d6 points of electricity damage each round
 from the flashes of thunder and lightning. Once created, you can
 concentrate on the cloud to move it up to 30 feet each round. You can
 use this ability for a number of rounds per day equal to your cleric
 level. These rounds do not need to be consecutive.
 
-**Replacement Domain Spells**: 4th—*[Solid
-Fog]*, 9th—*[Storm of
-Vengeance]*.
+**Replacement Domain Spells**: 4th—*[Solid Fog]*, 9th—*[Storm of Vengeance]*.
 
 ### Construct Subdomain
 
@@ -1555,15 +1505,12 @@ Vengeance]*.
 weapon power of the Artifice domain.
 
 *Animate Servant (Su)*: At 8th level, as a standard action, you can give
-life to inanimate objects. This ability functions as *[Animate
-Objects]* using your
+life to inanimate objects. This ability functions as *[Animate Objects]* using your
 cleric level as the caster level. You can use this ability once per day
 at 8th level, and one additional time per day for every four levels
 beyond 8th.
 
-**Replacement Domain Spells**: 7th—*[Limited
-Wish]*, 8th—*[Polymorph Any
-Object]*.
+**Replacement Domain Spells**: 7th—*[Limited Wish]*, 8th—*[Polymorph Any Object]*.
 
 ### Curse Subdomain
 
@@ -1573,7 +1520,7 @@ Object]*.
 luck power of the Luck domain.
 
 *Malign Eye (Su)*: As a standard action, you can afflict one target
-within 30 feet with your malign eye, causing it to take a –2 penalty on
+within 30 feet with your malign eye, causing it to take a -2 penalty on
 all saving throws against your spells. The effect lasts for 1 minute or
 until the target hits you with an attack. You can use this ability for a
 number of times per day equal to 3 + your Wisdom modifier.
@@ -1599,10 +1546,7 @@ this power a number of rounds per day equal to your cleric level, but
 these rounds do not need to be consecutive. This is a mind-affecting
 effect.
 
-**Replacement Domain Spells**: 1st—*[Cause
-Fear]*, 3rd—*[Vampiric
-Touch]*, 6th—*[Planar
-Binding]*(daemons
+**Replacement Domain Spells**: 1st—*[Cause Fear]*, 3rd—*[Vampiric Touch]*, 6th—*[Planar Binding]*(daemons
 only).
 
 ### Day Subdomain
@@ -1625,8 +1569,7 @@ target to prepare spells an additional time per day. You can use this
 ability once per day at 8th level, plus one additional time per day for
 every 2 levels beyond 8th.
 
-**Replacement Domain Spells**: 2nd level—*[Continual
-Flame]*,
+**Replacement Domain Spells**: 2nd level—*[Continual Flame]*,
 3rd—*[Daylight].*
 
 ### Decay Subdomain
@@ -1639,8 +1582,8 @@ armor power of the Plant domain.
 *Aura of Decay (Su)*: At 8th level, you can emit a 30-foot aura of decay
 as a standard action. Living creatures in this aura (except you) take
 1d6 points of damage per round as their flesh rots. They also take a
-cumulative –1 penalty to Strength each round they remain in the aura.
-Once outside the aura, the penalty fades at the rate of –1 per round,
+cumulative -1 penalty to Strength each round they remain in the aura.
+Once outside the aura, the penalty fades at the rate of -1 per round,
 but it begins building again if they reenter the aura. Plant creatures
 take 2d6 points of damage per round. You can use this ability for a
 number of rounds per day equal to your cleric level. These rounds do not
@@ -1664,9 +1607,7 @@ you can teleport up to 10 feet to a space that you can see. This space
 must be inside the reach of the creature that attacked you. You can use
 this power a number of times each day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 2nd—*[Mirror
-Image]*, 7th—*[Project
-Image]*.
+**Replacement Domain Spells**: 2nd—*[Mirror Image]*, 7th—*[Project Image]*.
 
 ### Defense Subdomain
 
@@ -1697,14 +1638,13 @@ outsiders.
 *Fury of the Abyss (Su)*: As a swift action, you can give yourself an
 enhancement bonus equal to 1/2 your cleric level (minimum +1) on melee
 attacks, melee damage rolls, and combat maneuver checks. This bonus
-lasts for 1 round. During this round, you take a –2 penalty to AC. You
+lasts for 1 round. During this round, you take a -2 penalty to AC. You
 can use this ability for a number of times per day equal to 3 + your
 Wisdom modifier.
 
 **Replacement Domain Spells**:
 1st—*[Doom]*,
-3rd—*[Rage]*, 6th—*[Planar
-Binding]*(demons only).
+3rd—*[Rage]*, 6th—*[Planar Binding]*(demons only).
 
 ### Devil Subdomain
 
@@ -1717,7 +1657,7 @@ outsiders.
 
 *Hell's Corruption (Su)*: You can cause a creature to become more
 susceptible to corruption as a melee touch attack. Creatures touched
-take a –2 penalty on all saving throws and must roll all opposed skill
+take a -2 penalty on all saving throws and must roll all opposed skill
 checks twice, taking the worse result. This effect lasts for a number of
 rounds equal to 1/2 your cleric level (minimum 1). You can use this
 ability for a number of times per day equal to 3 + your Wisdom modifier.
@@ -1725,8 +1665,7 @@ ability for a number of times per day equal to 3 + your Wisdom modifier.
 **Replacement Domain Spells**:
 1st—*[Command]*,
 3rd—*[Suggestion]*,
-6th—*[Planar
-Binding]*(devils only).
+6th—*[Planar Binding]*(devils only).
 
 ### Divine Subdomain
 
@@ -1742,8 +1681,7 @@ or ability check made before the end of their next turn. You can use
 this ability a number of times per day equal to 3 + your Wisdom
 modifier.
 
-**Replacement Domain Spells**: 2nd level—*[Bless
-Water]*,
+**Replacement Domain Spells**: 2nd level—*[Bless Water]*,
 5th—*[Cleanse]\**,
 7th—*[Resurrection]*,
 9th*—[Miracle].*
@@ -1764,10 +1702,8 @@ the entire time. The surface cannot be thicker than 6 inches plus 1 inch
 per cleric level you possess. You can use this power a number of times
 per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*[Expeditious
-Retreat]*,
-4th—*[Locate
-Creature]*,
+**Replacement Domain Spells**: 1st—*[Expeditious Retreat]*,
+4th—*[Locate Creature]*,
 9th—*[World Wave]\*.*
 
 ### Family Subdomain
@@ -1787,10 +1723,8 @@ While this power is in use, the target is immune to the transferred
 condition. You can use this ability a number of times per day equal to 3
 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 2nd—*[Calm
-Emotions]*, 3rd—*[Create
-Food and
-Water]*.
+**Replacement Domain Spells**: 2nd—*[Calm Emotions]*, 3rd—*[Create
+Food and Water]*.
 
 ### Fate Subdomain
 
@@ -1807,8 +1741,7 @@ once per day at 8th level, and one additional time per day for every 6
 levels beyond 8th.
 
 **Replacement Domain Spells**:
-2nd—*[Augury]*, 3rd—*[Borrow
-Fortune]*\*.
+2nd—*[Augury]*, 3rd—*[Borrow Fortune]*\*.
 
 ### Feather Subdomain
 
@@ -1826,8 +1759,7 @@ with animals power of the Animal domain.
 1/2 your cleric level (minimum +1). In addition, if you can act during a
 surprise round, you receive a +2 racial bonus on your Initiative check.
 
-**Replacement Domain Spells**: 2nd—*[feather
-fall]*,
+**Replacement Domain Spells**: 2nd—*[feather fall]*,
 3rd—*[Fly]*, 6th—*[Fly
 (Mass)]\**.
 
@@ -1866,8 +1798,7 @@ shorter. You can use this ability for a number of times equal to 3 +
 your Wisdom modifier.
 
 **Replacement Domain Spells**:
-1st—*[Sanctuary]*, 5th—*[Plane
-Shift]*.
+1st—*[Sanctuary]*, 5th—*[Plane Shift]*.
 
 ### Fur Subdomain
 
@@ -1884,9 +1815,7 @@ already possess low-light vision, the range of your sight becomes three
 times that of a human in dim light for 1 round. You can use this ability
 a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*[Magic
-Fang]*, 3rd—*[Beast Shape
-I]*(animals only).
+**Replacement Domain Spells**: 1st—*[Magic Fang]*, 3rd—*[Beast Shape I]*(animals only).
 
 ### Growth Subdomain
 
@@ -1896,15 +1825,12 @@ I]*(animals only).
 fist power of the Plant domain.
 
 *Enlarge (Su)*: As a swift action you can enlarge yourself for 1 round,
-as if you were the target of the *[Enlarge
-Person]* spell. You can
+as if you were the target of the *[Enlarge Person]* spell. You can
 use this ability a number of times per day equal to 3 + your Wisdom
 modifier.
 
-**Replacement Domain Spells**: 1st—*[Enlarge
-Person]*,
-5th—*[Righteous
-Might].*
+**Replacement Domain Spells**: 1st—*[Enlarge Person]*,
+5th—*[Righteous Might].*
 
 ### Heroism Subdomain
 
@@ -1944,10 +1870,8 @@ leave the area. The ward lasts for 1 hour per cleric level. You can use
 this ability once per day.
 
 **Replacement Domain Spells**:
-1st—*[Alarm]*, 3rd—*[Glyph of
-Warding]*,
-7th—*[Guards and
-Wards]*.
+1st—*[Alarm]*, 3rd—*[Glyph of Warding]*,
+7th—*[Guards and Wards]*.
 
 ### Honor Subdomain
 
@@ -1968,8 +1892,7 @@ ability has no further effect on that particular enchantment effect. You
 can use this ability a number of times per day equal to 3 + your Wisdom
 modifier.
 
-**Replacement Domain Spells**: 2nd—*[Zone of
-Truth]*,
+**Replacement Domain Spells**: 2nd—*[Zone of Truth]*,
 6th—*[Geas/quest].*
 
 ### Ice Subdomain
@@ -1987,9 +1910,7 @@ cold and have DR 5/—, but you take twice the normal amount of damage
 from fire. You can take on the form of ice for a number of rounds per
 day equal to your cleric level. The rounds need not be consecutive.
 
-**Replacement Domain Spells**: 7th—*[Freezing
-Sphere]*, 9th—*[Polar
-Ray]*.
+**Replacement Domain Spells**: 7th—*[Freezing Sphere]*, 9th—*[Polar Ray]*.
 
 ### Inevitable Subdomain
 
@@ -2006,10 +1927,8 @@ save negates this effect. You cannot target a creature more than once
 per day with this ability. You can use this ability a number of times
 per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 3rd—*[Command
-Undead]*, 5th—*[Command
-(Greater)]*, 6th—*[Planar
-Binding]* (inevitables
+**Replacement Domain Spells**: 3rd—*[Command Undead]*, 5th—*[Command
+(Greater)]*, 6th—*[Planar Binding]* (inevitables
 only).
 
 ### Insanity Subdomain
@@ -2029,8 +1948,7 @@ times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**:
 4th—*[Moonstruck]*\*,
-6th—*[Phantasmal
-Web]*\**.*
+6th—*[Phantasmal Web]*\**.*
 
 ### Language Subdomain
 
@@ -2044,11 +1962,9 @@ location of one of your blast runes. The rune must be within 30 feet.
 You can place the blast rune in any square adjacent to you, including
 one occupied by another creature.
 
-**Replacement Domain Spells**: 1st—*[Comprehend
-Languages]*,
+**Replacement Domain Spells**: 1st—*[Comprehend Languages]*,
 2nd—*[Share Language]*\*,
-3rd—*[Tongues]*, 5th*—[Telepathic
-Bond].*
+3rd—*[Tongues]*, 5th*—[Telepathic Bond].*
 
 ### Leadership Subdomain
 
@@ -2067,8 +1983,7 @@ language-dependant mind-affecting effect.
 
 **Replacement Domain Spells**: 1st
 level—*[Bless]*,
-3rd—*[Prayer]*, 6th—*[Brilliant
-Inspiration]*\**.*
+3rd—*[Prayer]*, 6th—*[Brilliant Inspiration]*\**.*
 
 ### Light Subdomain
 
@@ -2086,8 +2001,7 @@ creatures in this area are dazzled for a number of rounds equal to 1/2
 your cleric level (minimum 1). You can use this ability a number of
 times per day equal to 3 + your Wisdom modifier
 
-**Replacement Domain Spells**: 1st—*[Faerie
-Fire]*,
+**Replacement Domain Spells**: 1st—*[Faerie Fire]*,
 3rd—*[Daylight].*
 
 ### Loss Subdomain
@@ -2130,8 +2044,7 @@ the ability a number of times per day equal to 3 + your Wisdom modifier.
 This is a mind-affecting effect.
 
 **Replacement Domain Spells**:
-2nd—*[Enthrall]*, 8th—*[Euphoric
-Tranquility]*\*.
+2nd—*[Enthrall]*, 8th—*[Euphoric Tranquility]*\*.
 
 ### Lust Subdomain
 
@@ -2149,8 +2062,7 @@ valuable item, or drops prone at your feet and grovels for 1d4 rounds
 one additional time per day for every four levels beyond 8th. This is a
 mind-affecting effect.
 
-**Replacement Domain Spells**: 2nd—*[Touch of
-Idiocy]*,
+**Replacement Domain Spells**: 2nd—*[Touch of Idiocy]*,
 4th—*[Confusion]*.
 
 ### Martyr Subdomain
@@ -2167,9 +2079,7 @@ the damage. The damage done to you cannot be reduced in any way. You can
 use this ability once per day at 8th level, plus on additional time per
 day at 14th level and 20th level.
 
-**Replacement Domain Spells**: 2nd—*[Shield
-Other]*, 6th—*[Sacrificial
-Oath]\*.*
+**Replacement Domain Spells**: 2nd—*[Shield Other]*, 6th—*[Sacrificial Oath]\*.*
 
 ### Memory Subdomain
 
@@ -2188,10 +2098,7 @@ skill check it has made within the past minute, gaining a insight bonus
 on the check equal to your Wisdom modifier. You can use this ability a
 number times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 2nd—*[memory
-lapse]\**, 6th—*[modify
-memory]*, 8th—*[moment of
-prescience]*.
+**Replacement Domain Spells**: 2nd—*[memory lapse]\**, 6th—*[modify memory]*, 8th—*[moment of prescience]*.
 
 ### Metal Subdomain
 
@@ -2209,10 +2116,7 @@ ignore the hardness of items with a hardness of 10 or less. You can use
 this ability a number of times per day equal to 3 + your Wisdom
 modifier.
 
-**Replacement Domain Spells**: 2nd—*[heat
-metal]*, 6th—*[wall of
-iron]*, 8th—*[iron
-body].*
+**Replacement Domain Spells**: 2nd—*[heat metal]*, 6th—*[wall of iron]*, 8th—*[iron body].*
 
 ### Murder Subdomain
 
@@ -2228,8 +2132,7 @@ equal to half your cleric level. You can use this ability once per day
 at 8th level, plus one additional time per day for every four levels
 beyond 8th.
 
-**Replacement Domain Spells**: 3rd—*[keen
-edge]*,
+**Replacement Domain Spells**: 3rd—*[keen edge]*,
 5th—*[suffocation]*\*,
 9th—*[suffocation
 (mass)]\**.
@@ -2263,14 +2166,13 @@ of madness power of the Madness domain.
 *Fearful Touch (Su)*: As a standard action, you can make a melee touch
 attack against a creature, causing it to experience terrible
 hallucinations for 1 round. During this time, the creature loses any
-immunity to fear effects it might possess and takes a –2 penalty on
+immunity to fear effects it might possess and takes a -2 penalty on
 attack rolls made against you. In addition, the creature takes a penalty
 on Will saves made against fear effects equal to 1/2 your cleric level
-(minimum –1). This power is a mind-affecting effect. You can use this
+(minimum -1). This power is a mind-affecting effect. You can use this
 ability for a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 4th—*[phantasmal
-killer]*,
+**Replacement Domain Spells**: 4th—*[phantasmal killer]*,
 6th—*[cloak of dreams]\**,
 9th—*[weird].*
 
@@ -2289,8 +2191,7 @@ using the bull rush or drag combat maneuver. You can use this ability a
 number of times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**:
-2nd—*[slipstream]\**, 3rd—*[water
-walk].*
+2nd—*[slipstream]\**, 3rd—*[water walk].*
 
 ### Protean Subdomain
 
@@ -2313,8 +2214,7 @@ cannot perform.
 **Replacement Domain Spells**: 1st—*[confusion
 (lesser)]*,
 3rd—*[displacement]*,
-6th—*[planar
-binding]*(proteans
+6th—*[planar binding]*(proteans
 only).
 
 ### Purity Subdomain
@@ -2332,8 +2232,7 @@ creature can choose not to make a save against an effect. You can use
 this ability once per day at 8th level, plus one additional time per day
 at 14th and 20th level.
 
-**Replacement Domain Spells**: 1st—*[protection from
-chaos]/evil/good/law*,
+**Replacement Domain Spells**: 1st—*[protection from chaos]/evil/good/law*,
 3rd—*[remove
 blindness/deafness]*,
 5th—*[atonement]*.
@@ -2353,8 +2252,7 @@ requirement, but otherwise your barbarian level is equal to 1/2 your
 cleric level. These rounds of rage stack with any rounds of rage you
 might have from levels of barbarian.
 
-**Replacement Domain Spells**: 2nd—*[bull's
-strength]*,
+**Replacement Domain Spells**: 2nd—*[bull's strength]*,
 6th—*[moonstruck]\**.
 
 ### Resolve Subdomain
@@ -2372,8 +2270,7 @@ once per day at 8th level, plus one additional time per day for every 4
 levels you possess beyond 8th.
 
 **Replacement Domain Spells**:
-1st—*[bless]*, 6th—*[heroes'
-feast].*
+1st—*[bless]*, 6th—*[heroes' feast].*
 
 ### Restoration Subdomain
 
@@ -2389,12 +2286,9 @@ or staggered condition. You choose which condition is removed. You can
 use this ability a number of times per day equal to 3 + your Wisdom
 modifier.
 
-**Replacement Domain Spells**: 2nd—*[remove
-disease]*,
-4th—*[neutralize
-poison]*,
-5th—*[break
-enchantment]*.
+**Replacement Domain Spells**: 2nd—*[remove disease]*,
+4th—*[neutralize poison]*,
+5th—*[break enchantment]*.
 
 ### Resurrection Subdomain
 
@@ -2414,11 +2308,9 @@ creature is free to act as it sees fit during this time. You are granted
 no control over it. You can use this power once per day at 8th level,
 plus one additional time per day for every four levels beyond 8th.
 
-**ReplacemEnt Domain Spells**: 5th—*[Raise
-Dead]*,
+**ReplacemEnt Domain Spells**: 5th—*[Raise Dead]*,
 7th—*[Resurrection]*,
-9th—*[True
-Resurrection]*.
+9th—*[True Resurrection]*.
 
 ### Revolution Subdomain
 
@@ -2435,8 +2327,7 @@ action. You can use this ability once per day at 8th level, plus one
 additional time per day for every 2 levels beyond 8th.
 
 **Replacement Domain Spells**:
-2nd—*[Enthrall]*, 6th—*[Symbol of
-Persuasion].*
+2nd—*[Enthrall]*, 6th—*[Symbol of Persuasion].*
 
 ### Seasons Subdomain
 
@@ -2446,8 +2337,7 @@ Persuasion].*
 burst power of the Weather domain.
 
 *Untouched by the Seasons (Su)*: By touching a creature, you can grant
-it the benefits of *[Endure
-Elements]*, which
+it the benefits of *[Endure Elements]*, which
 last for 1 hour per cleric level. You can use this ability a number of
 times per day equal to 3 + your Wisdom modifier.
 
@@ -2465,7 +2355,7 @@ bolt power of the Fire domain.
 
 *Cloud of Smoke (Su)*: As a standard action, you can create a
 5-foot-radius cloud of smoke. This power has a range of 30 feet.
-Creatures inside the cloud take a –2 penalty on attack rolls and
+Creatures inside the cloud take a -2 penalty on attack rolls and
 [Perception] skill checks for
 as long as they remain inside and for 1 round after exiting the cloud.
 Creatures inside the cloud gain concealment from attacks made by
@@ -2490,10 +2380,8 @@ benefit lasts for a number of rounds equal to your cleric level. You can
 use this ability a number of times per day equal to 3 + your Wisdom
 modifier.
 
-**Replacement Domain Spells**: 3rd—*[Animate
-Dead]*, 6th—*antilife
-[Shield],*9th—*[Trap the
-Soul].*
+**Replacement Domain Spells**: 3rd—*[Animate Dead]*, 6th—*antilife
+[Shield],*9th—*[Trap the Soul].*
 
 ### Storms Subdomain
 
@@ -2510,8 +2398,7 @@ They can move normally in any other direction. You can use this ability
 for a number of rounds per day equal to your cleric level. The rounds do
 not need to be consecutive.
 
-**Replacement Domain Spells**: 5th—*[Call Lightning
-Storm]*,
+**Replacement Domain Spells**: 5th—*[Call Lightning Storm]*,
 6th—*[Sirocco]\*.*
 
 ### Tactics Subdomain
@@ -2539,16 +2426,12 @@ revealed. You can use this ability a number of times per day equal to 3
 **Replacement Power**: The following granted power replaces the master's
 illusions power of the Trickery domain.
 
-*Thief of the Gods (Su)*: At 8th level, when you make a [Disable
-Device] or [Sleight of
-Hand] check, you can
+*Thief of the Gods (Su)*: At 8th level, when you make a [Disable Device] or [Sleight of Hand] check, you can
 roll twice and take the higher result. Using this ability is a free
 action. You can use this ability once per day at 8th level, plus one
 additional time per day for every 2 levels beyond 8th.
 
-**Replacement Domain Spells**: 3rd—*[Locate
-Object]*, 7th—*[Ethereal
-Jaunt]*.
+**Replacement Domain Spells**: 3rd—*[Locate Object]*, 7th—*[Ethereal Jaunt]*.
 
 ### Thought Subdomain
 
@@ -2562,8 +2445,7 @@ domain.
 
 *Read Minds (Su)*: At 8th level, you can broaden your mental spectrum to
 encompass those around you. Doing so allows you to read the mind of
-every creature within 30 feet as if you had cast *[Detect
-Thoughts]*. This
+every creature within 30 feet as if you had cast *[Detect Thoughts]*. This
 ability allows you to read the surface thoughts of any creature that you
 are aware of after only 1 round of concentration. Creatures in this area
 are allowed a Will save to negate the effect. The DC of this Will save
@@ -2571,11 +2453,8 @@ is 10 + 1/2 your cleric level + your Wisdom modifier. You can use this
 ability for a number of rounds per day equal to your cleric level. These
 rounds do not need to be consecutive.
 
-**Replacement Domain Spells**: 3rd—*[Seek
-Thoughts]\**,
-5th—*[Telepathic
-Bond]*, 8th—*[Mind
-Blank]*.
+**Replacement Domain Spells**: 3rd—*[Seek Thoughts]\**,
+5th—*[Telepathic Bond]*, 8th—*[Mind Blank]*.
 
 ### Toil Subdomain
 
@@ -2596,10 +2475,8 @@ can only drink from an empty bottle. Actions that cannot be repeated are
 wasted. These rounds do not need to be consecutive.
 
 **Replacement Domain Spells**:
-1st—*[Command]*, 5th—*[Waves of
-Fatigue]*,
-7th—*[Waves of
-Exhaustion]*.
+1st—*[Command]*, 5th—*[Waves of Fatigue]*,
+7th—*[Waves of Exhaustion]*.
 
 ### Trade Subdomain
 
@@ -2610,15 +2487,12 @@ feet power of the Travel domain.
 
 *Silver-Tongued Haggler (Su)*: Whenever you make a
 [Bluff],
-[Diplomacy], or [Sense
-Motive] check, you can, as
+[Diplomacy], or [Sense Motive] check, you can, as
 a free action, grant yourself a bonus on the roll equal to 1/2 your
 cleric level (minimum +1). You can use this ability a number of times
 per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*[Floating
-Disk]*, 5th—*[Overland
-Flight]*,
+**Replacement Domain Spells**: 1st—*[Floating Disk]*, 5th—*[Overland Flight]*,
 9th—*[Gate].*
 
 ### Undead Subdomain
@@ -2633,12 +2507,10 @@ traits of the undead with a melee touch attack. Touched creatures are
 treated as undead for the purposes of effects that heal or cause damage
 based on positive and negative energy. This effect lasts for a number of
 rounds equal to 1/2 your cleric level (minimum 1). It does not apply to
-the [Turn Undead] or [Command
-Undead] feats. You can use this
+the [Turn Undead] or [Command Undead] feats. You can use this
 ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**RepLacement Domain Spells**: 2nd—*[Ghoul
-Touch]*,
+**RepLacement Domain Spells**: 2nd—*[Ghoul Touch]*,
 4th—*[Enervation]*,
 9th—*[Energy Drain]*.
 
@@ -2659,9 +2531,7 @@ affected by area of effect spells or abilities. You can use this ability
 once per day at 8th level, plus one additional time per day at 14th
 level and 20th level.
 
-**Replacement Domain Spells**: 1st level—*[Arcane
-Lock]*, 4th—*[Dimensional
-Anchor]*, 6th—*[Guards
+**Replacement Domain Spells**: 1st level—*[Arcane Lock]*, 4th—*[Dimensional Anchor]*, 6th—*[Guards
 and Wards].*
 
 ### Wind Subdomain
@@ -2678,10 +2548,7 @@ Wisdom modifier in place of your Strength modifier. Treat the results as
 a bull rush attempt. You can use this ability a number of times per day
 equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*[Whispering
-Wind]*, 6th—*[Wind
-Walk],*9th—*[Winds of
-Vengeance]\**.
+**Replacement Domain Spells**: 1st—*[Whispering Wind]*, 6th—*[Wind Walk],*9th—*[Winds of Vengeance]\**.
 
 
 ## Druid
@@ -2730,19 +2597,17 @@ water subtype. This ability replaces resist nature's lure.
 
 **Wild Shape (Su)**: An aquatic druid gains this ability at 6th level,
 except that her effective druid level for the ability is equal to her
-druid level – 2.
+druid level - 2.
 
 **Seaborn (Ex)**: At 9th level, an aquatic druid gains the aquatic
 subtype, the amphibious trait, and a swim speed equal to her land speed.
-She also can endure cold climate effects as if using *[Endure
-Elements]*. This
+She also can endure cold climate effects as if using *[Endure Elements]*. This
 ability replaces venom immunity.
 
 **Deep Diver (Ex)**: At 13th level, an aquatic druid gains DR/slashing
 or piercing equal to 1/2 her level. This damage reduction also applies
 against spells and spell-like abilities that inflict damage by grappling
-or crushing (e.g., *[Black
-Tentacles]*,
+or crushing (e.g., *[Black Tentacles]*,
 *[Crushing Hand]*). She
 never takes pressure damage from deep water. This ability replaces a
 thousand faces.
@@ -2770,25 +2635,22 @@ terrain or weather conditions and can walk across snow crusts or thin
 ice without breaking through. This ability replaces trackless step.
 
 **Arctic Endurance (Ex)**: At 4th level, an arctic druid ignores the
-effects of a cold climate as if using *[Endure
-Elements]*. She is
+effects of a cold climate as if using *[Endure Elements]*. She is
 also immune to being dazzled. This ability replaces resist nature's
 lure.
 
 **Wild Shape (Su)**: An arctic druid gains this ability at 6th level,
 except that her effective druid level for this ability is equal to her
-druid level – 2.
+druid level - 2.
 
 **Snowcaster (Su)**: At 9th level, an arctic druid can see normally in
-*[Ice Storm]*, *[Sleet
-Storm]*, or similar natural
+*[Ice Storm]*, *[Sleet Storm]*, or similar natural
 snowstorms. In addition, she can prepare any druid spell with the fire
 subtype as a cold spell, with an identical effect but inflicting cold
 damage instead of fire damage. This ability replaces venom immunity.
 
 **Flurry Form (Ex)**: At 13th level, an arctic druid can assume the form
-of a swirling column of snow equivalent to *[Gaseous
-Form]* at will. While in
+of a swirling column of snow equivalent to *[Gaseous Form]* at will. While in
 this form, she gains a circumstance bonus on
 [Stealth] checks made in cold
 terrain equal to her druid level. This ability replaces a thousand
@@ -2812,7 +2674,7 @@ to those normally available.
 vermin as a normal druid can with animals. Vermin have a starting
 attitude of unfriendly. The blight druid can also improve the attitude
 of animals and mindless undead creatures that were formerly animals, but
-she takes a –4 penalty on the check unless the animal or undead has a
+she takes a -4 penalty on the check unless the animal or undead has a
 disease special attack. This ability replaces wild empathy.
 
 **Miasma (Ex)**: Starting at 5th level, if a blight druid is adjacent to
@@ -2857,7 +2719,7 @@ to the choices normally allowed, but may not select the Air or Weather
 domains.
 
 **Wild Empathy (Ex)**: A cave druid can influence oozes, rather than
-magical beasts, with a –4 penalty on her wild empathy check.
+magical beasts, with a -4 penalty on her wild empathy check.
 
 **Tunnelrunner (Ex)**: At 2nd level, a cave druid can move through areas
 of rubble or narrow passages that require squeezing at her normal
@@ -2874,12 +2736,10 @@ resist nature's lure.
 
 **Wild Shape (Su)**: A cave druid gains this ability at 6th level,
 except that her effective druid level for this ability is equal to her
-druid level – 2. She cannot use wild shape to adopt a plant form. At
+druid level - 2. She cannot use wild shape to adopt a plant form. At
 10th level, the cave druid can assume the form of a Small or Medium ooze
-as if using *[Beast Shape
-III]*, and at 12th level
-that of a Tiny or Large ooze as if using *[Beast Shape
-IV]*(treating the ooze as
+as if using *[Beast Shape III]*, and at 12th level
+that of a Tiny or Large ooze as if using *[Beast Shape IV]*(treating the ooze as
 if it were a magical beast without a natural armor bonus). When in ooze
 form, the cave druid has no discernible anatomy and is immune to poison,
 sneak attacks, and critical hits.
@@ -2907,20 +2767,17 @@ speed or on [Acrobatics] or
 sandy or desert terrain. This ability replaces trackless step.
 
 **Desert Endurance (Ex)**: At 4th level, a desert druid ignores the
-effects of a hot climate as if using *[Endure
-Elements]*. She also
-has a reduced need to eat and drink, as if wearing a *[Ring of
-Sustenance]* (though
+effects of a hot climate as if using *[Endure Elements]*. She also
+has a reduced need to eat and drink, as if wearing a *[Ring of Sustenance]* (though
 normal sleep is still required). This ability replaces resist nature's
 lure.
 
 **Wild Shape (Su)**: A desert druid gains this ability at 6th level,
 except that her effective druid level for the ability is equal to her
-druid level – 2. A desert druid cannot use wild shape to adopt a plant
+druid level - 2. A desert druid cannot use wild shape to adopt a plant
 form. At 10th level she can assume the form of a Small or Medium vermin,
 at 12th level a Tiny or Large vermin, and at 14th level a Diminutive or
-Huge vermin. This effect functions as *[Beast Shape
-IV]* (treating the vermin
+Huge vermin. This effect functions as *[Beast Shape IV]* (treating the vermin
 as an animal to determine its ability and natural armor modifiers).
 
 **Shaded Vision (Ex)**: At 9th level, a desert druid becomes immune to
@@ -2929,8 +2786,7 @@ against gaze attacks and illusions of the figment and pattern
 subschools. This ability replaces venom immunity.
 
 **Dunemeld (Ex)**: At 13th level, a desert druid can assume the form of
-a swirling mass of sand at will. This is equivalent to *[Gaseous
-Form]*, but the druid gains
+a swirling mass of sand at will. This is equivalent to *[Gaseous Form]*, but the druid gains
 a land and burrow speed of 10 feet rather than a fly speed. While in
 this form, the druid gains a circumstance bonus on
 [Stealth] checks made in desert
@@ -2958,18 +2814,16 @@ environments. This ability replaces woodland stride.
 level. This ability replaces trackless step.
 
 **Torrid Endurance (Ex)**: At 4th level, a jungle druid ignores the
-effects of a hot climate as if under the effects of *[Endure
-Elements]*. She also
+effects of a hot climate as if under the effects of *[Endure Elements]*. She also
 gains a +4 bonus on saves against disease and the exceptional abilities
 of animals and magical beasts. This ability replaces resist nature's
 lure.
 
 **Wild Shape (Su)**: A jungle druid gains this ability at 6th level,
 except that her effective druid level for the ability is equal to her
-druid level – 2.
+druid level - 2.
 
-**Verdant Sentinel (Ex)**: At 13th level, a jungle druid can cast*[Tree
-Shape]* at will. This ability
+**Verdant Sentinel (Ex)**: At 13th level, a jungle druid can cast*[Tree Shape]* at will. This ability
 replaces a thousand faces.
 
 ### Mountain Druid
@@ -2995,13 +2849,12 @@ steep slopes, rubble, or scree. This ability replaces trackless step.
 **Spire Walker (Ex)**: At 4th level, a mountain druid does not lose her
 Dexterity bonus when climbing. A mountain druid is immune to altitude
 sickness and ignores the effects of a cold climate as if under the
-effects of *[Endure
-Elements]*. This
+effects of *[Endure Elements]*. This
 ability replaces resist nature's lure.
 
 **Wild Shape (Su)**: A mountain druid gains this ability at 6th level,
 except that her effective druid level for the ability is equal to her
-druid level – 2. A mountain druid cannot use wild shape to adopt a plant
+druid level - 2. A mountain druid cannot use wild shape to adopt a plant
 form. However, at 12th level she can assume the form of a Large giant as
 if using *[Giant Form I]*. At
 16th level, she may assume the form of a Huge giant as if using *[Giant
@@ -3011,8 +2864,7 @@ Form II]*.
 to petrification and receives a +4 bonus on saving throws or to CMD to
 resist any attempt to push, pull, bull rush, or drag her, or to resist
 any other effect that would physically move her from her position (e.g.,
-*[Repel Wood], [Reverse
-Gravity],* or being
+*[Repel Wood], [Reverse Gravity],* or being
 blown away by high winds). This does not protect her against being
 tripped, grappled, or overrun. This ability replaces venom immunity.
 
@@ -3046,13 +2898,13 @@ instead. This ability replaces trackless step.
 **Savanna Ambush (Ex)**: At 4th level, a plains druid gains concealment
 whenever she is prone in natural surroundings, and can make
 [Stealth] checks at no penalty when
-prone and not moving or at –5 when crawling. A plains druid can stand up
+prone and not moving or at -5 when crawling. A plains druid can stand up
 from prone as an immediate action during a surprise round. This ability
 replaces resist nature's lure.
 
 **Wild Shape (Su)**: A plains druid gains this ability at 6th level,
 except that her effective druid level for the ability is equal to her
-druid level – 2.
+druid level - 2.
 
 **Canny Charger (Ex)**: At 9th level, a plains druid can charge through
 allies' squares without difficulty (whether mounted or afoot) and can
@@ -3099,11 +2951,10 @@ nature's lure.
 
 **Wild Shape (Su)**: A swamp druid gains this ability at 6th level,
 except that her effective druid level for the ability is equal to her
-druid level – 2.
+druid level - 2.
 
 **Slippery (Ex)**: At 13th level, a swamp druid gains continuous
-*[Freedom of
-Movement]*.
+*[Freedom of Movement]*.
 This ability replaces a thousand faces.
 
 ### Urban Druid
@@ -3141,7 +2992,7 @@ level.
 
 **Wild Shape (Su)**: An urban druid gains this ability at 8th level,
 except that her effective druid level for the ability is equal to her
-druid level – 4.
+druid level - 4.
 
 **Mental Strength (Ex)**: At 9th level, an urban druid gains immunity to
 charm and compulsion effects. This ability replaces venom immunity.
@@ -3175,8 +3026,7 @@ racial bonus on [Swim] checks), senses
 [Endurance] feat), or natural weapons (bite
 [1d6] and 2 claws [1d4] for a Medium shaman, +2 to CMB on grapple
 checks). While using totem transformation, the bear shaman may speak
-normally and can cast *[Speak with
-Animals]*
+normally and can cast *[Speak with Animals]*
 (mammals only) at will. Using this ability is a standard action at 2nd
 level, a move action at 7th level, and a swift action at 12th level. The
 bear shaman can use this ability for a number of minutes per day equal
@@ -3195,15 +3045,13 @@ template, or increase it by two to apply both the advanced and giant
 templates. This ability replaces a thousand faces.
 
 **Wild Shape (Su)**: At 6th level, a bear shaman's wild shape ability
-functions at her druid level – 2. If she takes on the form of a bear,
+functions at her druid level - 2. If she takes on the form of a bear,
 she instead uses her druid level + 2.
 
 **Bonus Feat**: At 9th level and every 4 levels thereafter, a bear
 shaman gains one of the following bonus feats:
 [Diehard],
-[Endurance], [Great
-Fortitude], [Improved Great
-Fortitude],
+[Endurance], [Great Fortitude], [Improved Great Fortitude],
 [Toughness]. She must meet the
 prerequisites for these bonus feats. This ability replaces venom
 immunity.
@@ -3229,8 +3077,7 @@ be 5th level to select this bonus), senses (low-light vision, +4 racial
 bonus to [Perception]), or
 natural weapons (bite [1d4], 2 talons [1d4] for a Medium shaman). While
 using totem transformation, the eagle shaman may speak normally and can
-cast *[speak with
-animals]* (birds
+cast *[speak with animals]* (birds
 only) at will.
 
 **Totemic Summons (Su)**: At 5th level, an eagle shaman may cast *summon
@@ -3240,17 +3087,14 @@ gain temporary hit points equal to her druid level. This ability
 otherwise functions as the bear shaman ability.
 
 **Wild Shape (Su)**: At 6th level, an eagle shaman's wild shape ability
-functions at her druid level – 2. If she takes on the form of an eagle
+functions at her druid level - 2. If she takes on the form of an eagle
 or roc, she instead uses her druid level + 2.
 
 **Bonus Feat**: At 9th level and every 4 levels thereafter, an eagle
-shaman gains one of the following bonus feats: [Flyby
-Attack], [Improved
+shaman gains one of the following bonus feats: [Flyby Attack], [Improved
 Lightning Reflexes],
-[Lightning Reflexes], [Skill
-Focus]
-([Perception]), or [Wind
-Stance]. She must meet the prerequisites
+[Lightning Reflexes], [Skill Focus]
+([Perception]), or [Wind Stance]. She must meet the prerequisites
 for these bonus feats. This ability replaces venom immunity.
 
 #### Lion Shaman
@@ -3272,8 +3116,7 @@ following bonuses: movement (+20 enhancement bonus to land speed),
 senses (low-light vision, scent), or natural weapons (bite [1d4], 2
 claws [1d4] for a Medium druid, rake, +2 CMB to grapple). While using
 totem transformation, the lion shaman may speak normally and can cast
-*[speak with
-animals]*
+*[speak with animals]*
 (felines only) at will.
 
 **Totemic Summons (Su)**: At 5th level, a lion shaman may cast *summon
@@ -3282,15 +3125,13 @@ summoned creatures gain temporary hit points equal to her druid level.
 This ability otherwise functions as the bear shaman ability.
 
 **Wild Shape (Su)**: At 6th level, a lion shaman's wild shape ability
-functions at her druid level – 2. If she takes on the form of a feline,
+functions at her druid level - 2. If she takes on the form of a feline,
 she instead uses her druid level + 2.
 
 **Bonus Feat**: At 9th level and every 4 levels thereafter, a lion
 shaman gains one of the following bonus feats:
 [Dodge],
-[Improved Iron Will], [Iron
-Will], or [Skill
-Focus]
+[Improved Iron Will], [Iron Will], or [Skill Focus]
 ([Acrobatics]). She must meet
 the prerequisites for these bonus feats. This ability replaces venom
 immunity.
@@ -3317,8 +3158,7 @@ scales (+2 natural armor bonus to AC), senses (low-light vision, scent),
 or natural weapons (bite [1d4], poison [*frequency*1 round (6), *effect*
 1 Con damage, *Cure*1 save, Con-based DC] for a Medium druid, +2 CMB to
 grapple). While using totem transformation, the serpent shaman may speak
-normally and can cast *[Speak with
-Animals]*
+normally and can cast *[Speak with Animals]*
 (reptiles only) at will.
 
 **Totemic Summons (Su)**: At 5th level, a serpent shaman may cast
@@ -3327,17 +3167,13 @@ these summoned creatures gain temporary hit points equal to her druid
 level. This ability otherwise functions as the bear shaman ability.
 
 **Wild Shape (Su)**: At 6th level, a serpent shaman's wild shape ability
-functions at her druid level – 2. If she takes on the form of a snake,
+functions at her druid level - 2. If she takes on the form of a snake,
 she instead uses her druid level + 2.
 
 **Bonus Feat**: At 9th level and every 4 levels thereafter, a serpent
-shaman gains one of the following bonus feats: [Combat
-Expertise], [Improved
-Feint], [Skill
-Focus]
+shaman gains one of the following bonus feats: [Combat Expertise], [Improved Feint], [Skill Focus]
 ([Bluff]),
-[Stealthy], or [Strike
-Back]. She must meet the prerequisites
+[Stealthy], or [Strike Back]. She must meet the prerequisites
 for these bonus feats. This ability replaces venom immunity.
 
 #### Wolf Shaman
@@ -3361,8 +3197,7 @@ senses (low-light vision, scent, +4 racial bonus to
 [Survival] when tracking by
 scent), or natural weapons (bite [1d4 plus trip] for a Medium druid, +2
 CMB to trip). While using totem transformation, the wolf shaman may
-speak normally and can cast *[Speak with
-Animals]*
+speak normally and can cast *[Speak with Animals]*
 (canines only) at will.
 
 **Totemic Summons (Su)**: At 5th level, a wolf shaman may cast *summon
@@ -3371,17 +3206,13 @@ summoned creatures gain temporary hit points equal to her druid level.
 This ability otherwise functions as the bear shaman ability.
 
 **Wild Shape (Su)**: At 6th level, a wolf shaman's wild shape ability
-functions at her druid level – 2. If she takes on the form of a canine,
+functions at her druid level - 2. If she takes on the form of a canine,
 she instead uses her druid level + 2.
 
 **Bonus Feat**: At 9th level and every 4 levels thereafter, a wolf
-shaman gains one of the following bonus feats: [Greater
-Trip], [Improved
-Trip],
-[Mobility], [Skill
-Focus]
-([Stealth]), or [Spring
-Attack]. She must meet the
+shaman gains one of the following bonus feats: [Greater Trip], [Improved Trip],
+[Mobility], [Skill Focus]
+([Stealth]), or [Spring Attack]. She must meet the
 prerequisites for these bonus feats. This ability replaces venom
 immunity.
 
@@ -3416,15 +3247,14 @@ ability replaces bravery.
 **Trick Shot (Ex)**: At 3rd level, an archer can choose one of the
 following combat maneuvers or actions: disarm, feint, or sunder. He can
 perform this action with a bow against any target within 30 feet, with a
-–4 penalty to his CMB. Every four levels beyond 3rd, he may choose an
+-4 penalty to his CMB. Every four levels beyond 3rd, he may choose an
 additional trick shot to learn. These maneuvers use up arrows as normal.
 
 At 11th level, he may also choose from the following combat maneuvers:
 bull rush, grapple, trip. A target grappled by an arrow can break free
 by destroying the archer's arrow (hardness 5, hit points 1, break DC 13)
-or with an [Escape
-Artist] or CMB check
-(against the archer's CMD –4). This ability replaces armor training 1,
+or with an [Escape Artist] or CMB check
+(against the archer's CMD -4). This ability replaces armor training 1,
 2, 3, and 4.
 
 **Expert Archer (Ex)**: At 5th level, an archer gains a +1 bonus on
@@ -3485,12 +3315,11 @@ with a crossbow as a readied action, he may add his Dexterity bonus
 attacks of opportunity when making ranged attacks with a crossbow. This
 ability replaces weapon training 3.
 
-**Pinpoint Targeting**: At 15th level, a crossbowman gains[Pinpoint
-Targeting] as a bonus feat. This
+**Pinpoint Targeting**: At 15th level, a crossbowman gains[Pinpoint Targeting] as a bonus feat. This
 ability replaces armor training 4.
 
 **Meteor Shot (Ex)**: At 17th level, as a standard action, a crossbowman
-can make one attack with a crossbow at a –4 penalty. If the attack hits,
+can make one attack with a crossbow at a -4 penalty. If the attack hits,
 it inflicts damage normally and the target is subject to a bull rush or
 a trip maneuver using the attack roll as the combat maneuver check. The
 crossbowman must decide which maneuver to attempt before making his
@@ -3500,7 +3329,7 @@ attack roll. This ability replaces weapon training 4.
 critical hit with a crossbow, the bolt pierces the target and can strike
 another creature in line behind it. The crossbowman must be able to
 trace a line starting at his space and passing through both targets to
-make this additional attack. The secondary attack is made at a –4
+make this additional attack. The secondary attack is made at a -4
 penalty, in addition to any modifiers for added range. If this attack is
 also a critical hit, the bolt can continue to hit another target, but
 the penalties stack. This ability replaces armor mastery.
@@ -3585,8 +3414,7 @@ day for every five fighter levels he possesses. This ability replaces
 armor training 4.
 
 **Whirlwind Blitz (Ex)**: At 20th level, a mobile fighter can make a
-full-attack action as a standard action. He may also use the [Whirlwind
-Attack] feat as a standard action.
+full-attack action as a standard action. He may also use the [Whirlwind Attack] feat as a standard action.
 This ability replaces weapon mastery.
 
 ### Phalanx Soldier
@@ -3612,9 +3440,9 @@ time per day. He cannot use this ability when flat-footed. This ability
 replaces weapon training 1.
 
 **Deft Shield (Ex)**: At 7th level, the armor check penalty from a
-shield and the attack roll penalty are reduced by –1 for a phalanx
+shield and the attack roll penalty are reduced by -1 for a phalanx
 soldier using a tower shield. At 11th level, these penalties are reduced
-by –2. This ability replaces armor training 2 and 3.
+by -2. This ability replaces armor training 2 and 3.
 
 **Shield Ally (Ex)**: At 9th level, when a phalanx fighter is using a
 heavy or tower shield, he can, as a move action, provide partial cover
@@ -3653,9 +3481,9 @@ before clumsy swords and axes can even be brought to bear.
 
 **Pole Fighting (Ex)**: At 2nd level, as an immediate action, a polearm
 master can shorten the grip on his spear or polearm with reach and use
-it against adjacent targets. This action results in a –4 penalty on
+it against adjacent targets. This action results in a -4 penalty on
 attack rolls with that weapon until he spends another immediate action
-to return to the normal grip. The penalty is reduced by –1 for every
+to return to the normal grip. The penalty is reduced by -1 for every
 four levels beyond 2nd. This ability replaces bravery.
 
 **Steadfast Pike (Ex)**: At 3rd level, a polearm master gains a +1 bonus
@@ -3676,7 +3504,7 @@ training 2.
 
 **Sweeping Fend (Ex)**: At 13th level, a polearm master can use any
 spear or pole arm to make a bull rush or trip maneuver, though he takes
-a –4 penalty to his CMB when making such attempts. Weapons with the trip
+a -4 penalty to his CMB when making such attempts. Weapons with the trip
 property do not incur this penalty on trip maneuvers. This ability
 replaces weapon training 3.
 
@@ -3773,8 +3601,7 @@ applies to his CMB for a bull rush or overrun combat maneuvers made when
 charging. This ability replaces weapon training 2.
 
 **Careful Claw (Ex)**: At 13th level, when using a natural weapon to
-attack a creature using *[Fire
-Shield]* or a similar effect
+attack a creature using *[Fire Shield]* or a similar effect
 that damages creatures attacking it (such as a barbed devil's barbed
 defense), a savage warrior reduces the damage from such effects by an
 amount equal to 1/2 his fighter level. This ability replaces weapon
@@ -3815,8 +3642,8 @@ weapon training 1.
 
 **Shield Buffet (Ex)**: At 9th level, as a move action, a shielded
 fighter may make a combat maneuver check to use his shield to impede an
-adjacent enemy. If successful, the target suffers a –2 penalty on its
-attack rolls against the shielded fighter and a –2 penalty to AC on
+adjacent enemy. If successful, the target suffers a -2 penalty on its
+attack rolls against the shielded fighter and a -2 penalty to AC on
 attacks made by the shielded fighter until the beginning of his next
 turn.
 
@@ -3874,13 +3701,12 @@ opportunity. This ability replaces armor training 3.
 
 **Greater [Power Attack] (Ex)**: At 15th
 level, when using [Power Attack] with a
-two-handed melee weapon, the bonus damage from [Power
-Attack] is doubled (+100%) instead of
+two-handed melee weapon, the bonus damage from [Power Attack] is doubled (+100%) instead of
 increased by half (+50%). This ability replaces armor training 4.
 
 **Devastating Blow (Ex)**: At 19th level, as a standard action, a
 two-handed fighter may make a single melee attack with a two-handed
-weapon at a –5 penalty. If the attack hits, it is treated as a critical
+weapon at a -5 penalty. If the attack hits, it is treated as a critical
 threat. Special weapon abilities that activate only on a critical hit do
 not activate if this critical hit is confirmed. This ability replaces
 armor mastery.
@@ -3909,7 +3735,7 @@ weapons. The penalties for attacking with two weapons apply normally.
 This ability replaces weapon training 2.
 
 **Improved Balance (Ex)**: At 11th level, the attack penalties for
-fighting with two weapons are reduced by –1 for a two-weapon warrior.
+fighting with two weapons are reduced by -1 for a two-weapon warrior.
 Alternatively, he may use a one-handed weapon in his off-hand, treating
 it as if it were a light weapon with the normal light weapon penalties.
 This ability replaces armor training 3.
@@ -3920,7 +3746,7 @@ and secondary weapons. The penalties for attacking with two weapons
 apply normally. This ability replaces weapon training 3.
 
 **Perfect Balance (Ex)**: At 15th level, the penalties for fighting with
-two weapons are reduced by an additional –1 for a two-weapon warrior.
+two weapons are reduced by an additional -1 for a two-weapon warrior.
 This benefit stacks with improved balance. If he is using a one-handed
 weapon in his off hand, treating it as a light weapon, he uses the
 normal light weapon penalties. This ability replaces armor training 4.
@@ -3949,8 +3775,7 @@ CMD against disarm and sunder attempts while wielding his chosen weapon.
 This bonus also applies on saves against any effect that targets his
 chosen weapon (for example, *[Grease],
 [Heat Metal],
-[Shatter], [Warp
-Wood]*). The bonus increases by
+[Shatter], [Warp Wood]*). The bonus increases by
 +1 for every four levels beyond 2nd. This ability replaces bravery.
 
 **Weapon Training (Ex)**: At 3rd level, a weapon master gains a +1 bonus
@@ -4062,11 +3887,9 @@ reaches his ultimate goal: power—personal, pure, and simple. A hungry
 ghost monk has the following class features.
 
 **[Punishing Kick])
-(Ex)**: At 1st level, a hungry ghost monk gains [Punishing
-Kick]) as a bonus feat,
+(Ex)**: At 1st level, a hungry ghost monk gains [Punishing Kick]) as a bonus feat,
 even if he does not meet the prerequisites. At 10th level, and every
-five levels thereafter, the monk can push the target of his [Punishing
-Kick]) an additional 5
+five levels thereafter, the monk can push the target of his [Punishing Kick]) an additional 5
 feet (10 feet at 10th level, 15 feet at 15th level, and 20 feet at 20th
 level). At 15th level, he can instead choose to push the target 5 feet
 and knock the target prone with the same attack. The target still gets a
@@ -4186,11 +4009,9 @@ empty hand's flurry of blows otherwise functions as normal for a monk of
 his level.
 
 **Bonus Feat**: A monk of the empty hand adds the following feats to his
-list of bonus feats at 6th level: [Improved Dirty
-Trick]\*),
+list of bonus feats at 6th level: [Improved Dirty Trick]\*),
 [Improved Steal]\*), and
-[Improvised Weapon
-Mastery].
+[Improvised Weapon Mastery].
 
 **Versatile Improvisation (Ex)**: At 3rd level, as a swift action, a
 monk of the empty hand may use an improvised weapon to deal damage as if
@@ -4211,10 +4032,8 @@ weapon abilities to an improvised weapon for 1 round, at the rate of 1
 point of *ki* per +1 bonus or its equivalent. The monk may not spend
 more than 3 points of *ki* at one time for this purpose. For example, a
 monk can spend 2 points of *ki* to give his improvised weapon a +1
-enhancement bonus and the *[Ki
-Focus]* quality, or
-just the *[Flaming
-Burst]* quality.
+enhancement bonus and the *[Ki Focus]* quality, or
+just the *[Flaming Burst]* quality.
 At 15th level, the limit increases to 5 *ki* per round. The monk may use
 this ability to add magical weapon qualities to improvised weapons that
 could not normally have such a quality, such as adding the
@@ -4234,13 +4053,10 @@ even defeat death itself. A monk of the four winds has the following
 class features.
 
 **[Elemental Fist])
-(Su)**: At 1st level, a monk of the four winds gains [Elemental
-Fist]) as a bonus feat,
+(Su)**: At 1st level, a monk of the four winds gains [Elemental Fist]) as a bonus feat,
 even if he does not meet the prerequisites. At 5th level, and every five
-levels thereafter, the monk increases the damage of his [Elemental
-Fist]) by 1d6 (2d6 at 5th
-level, 3d6 at 10th level, and so on). This ability replaces [Stunning
-Fist].
+levels thereafter, the monk increases the damage of his [Elemental Fist]) by 1d6 (2d6 at 5th
+level, 3d6 at 10th level, and so on). This ability replaces [Stunning Fist].
 
 **Slow Time (Su)**: At 12th level, a monk of the four winds can use his
 *ki* to slow time or quicken his movements, depending on the observer.
@@ -4286,8 +4102,7 @@ equal to his land speed. The monkey is a creature of whimsy and a lover
 of pranks—a monk of any alignment can take on the aspect of the monkey.
 
 *Aspect of the Oni*: The monk's skin becomes pitch black, and his hair
-turns white, black, red, or violet. He can assume *[Gaseous
-Form]* (as the spell) as a
+turns white, black, red, or violet. He can assume *[Gaseous Form]* (as the spell) as a
 standard action for 1 minute per day per monk level. This duration does
 not need to be consecutive, but it must be spent in 1-minute increments.
 The oni is treacherous and deceitful, and it hungers for the pain and
@@ -4334,8 +4149,7 @@ wholeness of body.
 ***Ki* Sacrifice (Su)**: At 11th level, a monk of the healing hand can
 use his entire *ki* pool to bring a person back to life. It takes 1 hour
 to perform this ritual. At the end of the ritual, the monk sacrifices
-all of his*ki*in order to cast *[Raise
-Dead]* (as the spell) with a
+all of his*ki*in order to cast *[Raise Dead]* (as the spell) with a
 caster level equal to his monk level. The ritual uses all of the *ki* in
 the monk's *ki* pool; the monk must have at least 6 points of *ki* in
 his *ki* pool to use this ability. At 15th level, the monk may sacrifice
@@ -4350,8 +4164,7 @@ have passed. This ability replaces both diamond body and quivering palm.
 of the healing hand can draw in his entire *ki*, which then explodes
 outward in a 50-foot-radius emanation. All dead allies within the
 emanation are brought back to life, as if they were the subject of a
-*[True
-Resurrection]*
+*[True Resurrection]*
 spell with a caster level equal to the monk's level. When the monk does
 this, he is truly and utterly destroyed. A monk destroyed in this way
 can never come back to life, not even by way of a
@@ -4373,15 +4186,12 @@ achieve inner peace. A monk of the lotus has the following class
 features.
 
 **[Touch of Serenity])
-(Su)**: At 1st level, a monk of the lotus gains [Touch of
-Serenity]) as a bonus
+(Su)**: At 1st level, a monk of the lotus gains [Touch of Serenity]) as a bonus
 feat, even if he does not meet the prerequisites. At 6th level, and
-every six levels thereafter, the duration of [Touch of
-Serenity]) increases
+every six levels thereafter, the duration of [Touch of Serenity]) increases
 by 1 round. Each round on its turn, the target may attempt a new Will
 save to end the effect. This duration does not stack; only the longest
-remaining duration applies. This ability replaces [Stunning
-Fist].
+remaining duration applies. This ability replaces [Stunning Fist].
 
 **Touch of Surrender (Su)**: At 12th level, a monk of the lotus makes a
 foe into a friend with a single show of mercy. As an immediate action,
@@ -4469,8 +4279,7 @@ adept seeks to attain perfection by becoming a living weapon himself. A
 weapon adept has the following class features.
 
 **[Perfect Strike])
-(Ex)**: At 1st level, a weapon adept gains [Perfect
-Strike]) as a bonus feat,
+(Ex)**: At 1st level, a weapon adept gains [Perfect Strike]) as a bonus feat,
 even if he does not meet the prerequisites. At 10th level, the monk can
 roll his attack roll three times and take the higher result. If one of
 these rolls is a critical threat, he can choose which one of his other
@@ -4479,8 +4288,7 @@ two rolls to use as his confirmation roll. This ability replaces
 
 **Way of the Weapon Master (Ex)**: At 2nd level, a weapon adept gains
 [Weapon Focus] as a bonus feat with one
-of his monk weapons. At 6th level, the monk gains [Weapon
-Specialization] with the same
+of his monk weapons. At 6th level, the monk gains [Weapon Specialization] with the same
 weapon as a bonus feat, even if he does not meet the prerequisites. This
 ability replaces evasion.
 
@@ -4523,39 +4331,26 @@ with his bow.
 **Bonus Feats**: A zen archer's bonus feats must be taken from the
 following list: [Combat Reflexes],
 [Deflect Arrows],
-[Dodge], [Far
-Shot], [Point-Blank
-Shot], [Precise
-Shot], and [Rapid
-Shot]. At 6th level, the following feats
-are added to the list: [Focused
-Shot]\*), [Improved Precise
-Shot],
+[Dodge], [Far Shot], [Point-Blank Shot], [Precise Shot], and [Rapid Shot]. At 6th level, the following feats
+are added to the list: [Focused Shot]\*), [Improved Precise Shot],
 [Manyshot],
-[Mobility], and [Parting
-Shot]\*). At 10th level,
-the following feats are added to the list: [Improved
-Critical], Pinpoint Targeting,
-[Shot on the Run], and [Snatch
-Arrows]. A monk need not have any of
+[Mobility], and [Parting Shot]\*). At 10th level,
+the following feats are added to the list: [Improved Critical], Pinpoint Targeting,
+[Shot on the Run], and [Snatch Arrows]. A monk need not have any of
 the prerequisites normally required for these feats to select them.
 These feats replace the monk's normal bonus feats.
 
 **[Perfect Strike])
-(Ex)**: At 1st level, a zen archer gains [Perfect
-Strike]) as a bonus feat,
+(Ex)**: At 1st level, a zen archer gains [Perfect Strike]) as a bonus feat,
 even if he does not meet the prerequisites. A zen archer can use
 [Perfect Strike]) with
 any bow. At 10th level, the monk can roll his attack roll three times
 and take the highest result. If one of these rolls is a critical threat,
 the monk must choose one of his other two rolls to use as his
-confirmation roll. This ability replaces [Stunning
-Fist].
+confirmation roll. This ability replaces [Stunning Fist].
 
-**Way of the Bow (Ex)**: At 2nd level, a zen archer gains [Weapon
-Focus] as a bonus feat with one type of
-bow. At 6th level, the monk gains [Weapon
-Specialization] with the same
+**Way of the Bow (Ex)**: At 2nd level, a zen archer gains [Weapon Focus] as a bonus feat with one type of
+bow. At 6th level, the monk gains [Weapon Specialization] with the same
 weapon as a bonus feat, even if he does not meet the prerequisites. This
 ability replaces evasion.
 
@@ -4563,10 +4358,8 @@ ability replaces evasion.
 modifier instead of his Dexterity modifier on ranged attack rolls when
 using a bow. This ability replaces maneuver training.
 
-**[Point Blank
-Master]) (Ex)**: At
-3rd level, a zen archer gains [Point Blank
-Master]\*) as a bonus
+**[Point Blank Master]) (Ex)**: At
+3rd level, a zen archer gains [Point Blank Master]\*) as a bonus
 feat, even if he does not meet the prerequisites. This ability replaces
 still mind.
 
@@ -4584,8 +4377,7 @@ start of his next turn. This ability replaces purity of body.
 **Reflexive Shot (Ex)**: At 9th level, a zen archer can make attacks of
 opportunity with arrows from his bow. The monk still threatens squares
 he could reach with unarmed strikes, and can still only make one attack
-of opportunity per round (unless he has [Combat
-Reflexes]). This ability replaces
+of opportunity per round (unless he has [Combat Reflexes]). This ability replaces
 improved evasion.
 
 **Trick Shot (Su)**: At 11th level, a zen archer may hit targets that he
@@ -4599,8 +4391,7 @@ with no open doors or windows cannot be attacked. These effects last for
 
 ***Ki Focus* Bow (Su)**: At 17th level, as long as he has at least 1
 point of *ki* in his *ki* pool, a zen archer may treat arrows fired from
-his bow as if they were *[ki
-focus]* weapons,
+his bow as if they were *[ki focus]* weapons,
 allowing him to use his special *ki* attacks as if his arrows were
 unarmed attacks. This ability replaces tongue of the sun and moon.
 
@@ -4661,23 +4452,19 @@ another +1 enhancement bonus, to a maximum of +6 at 20th level. These
 bonuses can be added to the armor, stacking with existing armor bonuses
 to a maximum of +3, or they can be used to add any of the following
 armor properties (asterisks note new armor properties found in Chapter
-7): *[Champion]*\*, *[Ghost
-Touch], Heavy
+7): *[Champion]*\*, *[Ghost Touch], Heavy
 [Fortification],
 [Invulnerability],
 [Light]
 [Fortification],
 Moderate
 [Fortification],
-[Spell
-Resistance]*(13,
+[Spell Resistance]*(13,
 15, 17, or 19). Adding these properties consumes an amount of bonus
-equal to the property's cost (see Table 15–4 of the *Core Rulebook*). In
+equal to the property's cost (see Table 15-4 of the *Core Rulebook*). In
 addition, the bonuses can be consumed at the listed amount to add any of
-the following armor properties: *[Energy
-Resistance]*for +3
-bonus, *improved [Energy
-Resistance]* for
+the following armor properties: *[Energy Resistance]*for +3
+bonus, *improved [Energy Resistance]* for
 +5 bonus, or *[Righteous]*\* for +4
 bonus. These bonuses are added to any properties the armor already has,
 but duplicate abilities do not stack. If the armor is not magical, at
@@ -4694,7 +4481,7 @@ four times per day at 17th level.
 If a suit of armor with a celestial spirit is destroyed, the divine
 defender loses the use of this ability for 30 days, or until she gains a
 level, whichever comes first. During this 30-day period, the divine
-defender takes a –1 penalty on attack and weapon damage rolls.
+defender takes a -1 penalty on attack and weapon damage rolls.
 
 ### Hospitaler
 
@@ -4710,7 +4497,7 @@ thereafter).
 
 **Channel Positive Energy (Su)**: When a hospitaler reaches 4th level,
 she gains the ability to channel positive energy as a cleric equal to
-her paladin level –3. She can use this ability a number of times per day
+her paladin level -3. She can use this ability a number of times per day
 equal to 3 + her Charisma modifier. Using this ability does not expend
 uses of lay on hands, as it does with other paladins. This replaces the
 standard paladin's channel positive energy ability.
@@ -4746,7 +4533,7 @@ levels thereafter). This replaces smite evil.
 
 **Spells**: At 4th level, when a sacred servant gains the ability to
 cast spells, she also chooses one domain associated with her deity. Her
-effective cleric level for this domain is equal to her paladin level –3.
+effective cleric level for this domain is equal to her paladin level -3.
 In addition, she also gains one domain spell slot for each level of
 paladin spells she can cast. Every day she must prepare the domain spell
 from her chosen domain in that spell slot.
@@ -4779,17 +4566,15 @@ four times per day at 17th level.
 If a holy symbol with a celestial spirit is destroyed, the sacred
 servant loses the use of this ability for 30 days, or until she gains a
 level, whichever comes first. During this 30-day period, the sacred
-servant takes a –1 penalty on attack and weapon damage rolls.
+servant takes a -1 penalty on attack and weapon damage rolls.
 
 **Call Celestial Ally (Sp)**: At 8th level, a sacred servant can call
 upon her deity for aid, in the form of a powerful servant. This allows
-the sacred servant to cast *[Lesser Planar
-Ally]* once per week
+the sacred servant to cast *[Lesser Planar Ally]* once per week
 as a spell-like ability without having to pay the material component
 cost or the servant (for reasonable tasks). At 12th level, this improves
 to *[Planar Ally]* and at
-16th level, this improves to *[Greater Planar
-Ally]*. The sacred
+16th level, this improves to *[Greater Planar Ally]*. The sacred
 servant's caster level for this effect is equal to her paladin level.
 This ability replaces aura of resolve.
 
@@ -4834,7 +4619,7 @@ against evil undead creatures.
 
 **Aura of Life (Su)**: At 8th level, an undead scourge emits a 10-foot
 aura of life around her that weakens undead creatures. Undead in this
-aura take a –4 penalty on Will saves made to resist positive energy. In
+aura take a -4 penalty on Will saves made to resist positive energy. In
 addition, undead in this aura do not regain hit points from channeled
 negative energy. This ability replaces aura of resolve.
 
@@ -4875,8 +4660,7 @@ they remain in the area of light. This power lasts for 1 minute.
 
 At 8th level, the nimbus of light heals the paladin and her allies,
 curing of them of 1d4 points of ability damage, as per the spell
-*[Lesser
-Restoration]*. A
+*[Lesser Restoration]*. A
 creature can only be healed in this way once per day.
 
 At 12th level, the nimbus of light is treated as
@@ -4956,10 +4740,9 @@ nothing for the lives of others and actively seek to bring death and
 destruction to ordered society. They rarely travel with those that they
 do not subjugate, unless as part of a ruse to bring ruin from within.
 
-As an alternate paladin class, the antipaladin uses [Table:
-Antipaladin] to determine its base attack
+As an alternate paladin class, the antipaladin uses [Table: Antipaladin] to determine its base attack
 bonus, saving throw bonuses, and spells per day. These details, along
-with the class's new special abilities, can be found on Table 2–13.
+with the class's new special abilities, can be found on Table 2-13.
 
 **Alignment**: Chaotic evil.
 
@@ -4970,13 +4753,11 @@ with the class's new special abilities, can be found on Table 2–13.
 The antipaladin's class skills are
 [Bluff] (Cha),
 [Craft] (Int),
-[Disguise] (Cha), [Handle
-Animal] (Cha),
+[Disguise] (Cha), [Handle Animal] (Cha),
 [Intimidate] (Cha),
 [Knowledge] (religion) (Int),
 [Profession] (Wis),
-[Ride] (Dex), [Sense
-Motive] (Wis),
+[Ride] (Dex), [Sense Motive] (Wis),
 [Spellcraft] (Int), and
 [Stealth] (Dex).
 
@@ -5059,8 +4840,7 @@ equal to his antipaladin level. A paladin who uses smite evil on an
 antipaladin deals 2 points of damage per paladin level on his first
 successful attack.
 
-**Detect Good (Sp)**: At will, an antipaladin can use *[detect
-good],*as the spell. An
+**Detect Good (Sp)**: At will, an antipaladin can use *[detect good],*as the spell. An
 antipaladin can, as a move action, concentrate on a single item or
 individual within 60 feet and determine if it is good, learning the
 strength of its aura as if having studied it for 3 rounds. While
@@ -5088,7 +4868,7 @@ The smite good effect remains until the target of the smite is dead or
 the next time the antipaladin rests and regains his uses of this
 ability. At 4th level, and at every three levels thereafter, the
 antipaladin may smite good one additional time per day, as indicated on
-Table 2–13, to a maximum of seven times per day at 19th level.
+Table 2-13, to a maximum of seven times per day at 19th level.
 
 **Unholy Resilience (Su)**: At 2nd level, an antipaladin gains a bonus
 equal to his Charisma bonus (if any) on all saving throws.
@@ -5111,7 +4891,7 @@ class feature.
 
 **Aura of Cowardice (Su)**: At 3rd level, an antipaladin radiates a
 palpably daunting aura that causes all enemies within 10 feet to take a
-–4 penalty on saving throws against fear effects. Creatures that are
+-4 penalty on saving throws against fear effects. Creatures that are
 normally immune to fear lose that immunity while within 10 feet of an
 antipaladin with this ability. This ability functions only while the
 antipaladin remains conscious, not if he is unconscious or dead.
@@ -5210,9 +4990,9 @@ level. The Difficulty Class for a saving throw against an antipaladin's
 spell is 10 + the spell level + the antipaladin's Charisma modifier.
 Like other spellcasters, an antipaladin can cast only a certain number
 of spells of each spell level per day. His base daily spell allotment is
-the same as that of a paladin and is given on Table 2–13. In addition,
+the same as that of a paladin and is given on Table 2-13. In addition,
 he receives bonus spells per day if he has a high Charisma score (see
-Table 1–3 in the *Core Rulebook*). When Table 2–13 indicates that the
+Table 1-3 in the *Core Rulebook*). When Table 2-13 indicates that the
 antipaladin gets 0 spells per day of a given spell level, he gains only
 the bonus spells he would be entitled to based on his Charisma score for
 that spell level.
@@ -5224,7 +5004,7 @@ spells of that level, but he must choose which spells to prepare during
 his daily meditation.
 
 Through 3rd level, an antipaladin has no caster level. At 4th level and
-higher, his caster level is equal to his antipaladin level –3.
+higher, his caster level is equal to his antipaladin level -3.
 
 **Fiendish Boon (Sp)**: Upon reaching 5th level, an antipaladin receives
 a boon from his dark patrons. This boon can take one of two forms. Once
@@ -5240,8 +5020,7 @@ level. These bonuses can be added to the weapon, stacking with existing
 weapon bonuses to a maximum of +5, or they can be used to add any of the
 following weapon properties:
 *[Anarchic]*,
-*[Flaming], [Flaming
-Burst],
+*[Flaming], [Flaming Burst],
 [Keen],
 [Speed],
 [Unholy],
@@ -5249,7 +5028,7 @@ Burst],
 [Vorpal]*,
 and *[Wounding]*. Adding these
 properties consumes an amount of bonus equal to the property's cost (see
-Table 15–9 in the *Core Rulebook*). These bonuses are added to any
+Table 15-9 in the *Core Rulebook*). These bonuses are added to any
 properties the weapon already has, but duplicate abilities do not stack.
 If the weapon is not magical, at least a +1 enhancement bonus must be
 added before any other properties can be added. The bonus and properties
@@ -5265,7 +5044,7 @@ day at 17th level.
 If a weapon bonded with a fiendish spirit is destroyed, the antipaladin
 loses the use of this ability for 30 days, or until he gains a level,
 whichever comes first. During this 30-day period, the antipaladin takes
-a –1 penalty on attack and weapon damage rolls.
+a -1 penalty on attack and weapon damage rolls.
 
 The second type of bond allows an antipaladin to gain the service of a
 fiendish servant. This functions as *[Summon Monster III]*, except the
@@ -5292,10 +5071,10 @@ gains spell resistance equal to the antipaladin's level + 11.
 Should the antipaladin's fiendish servant die or be banished, the
 antipaladin may not summon another servant for 30 days or until he gains
 an antipaladin level, whichever comes first. During this 30-day period,
-the antipaladin takes a –1 penalty on attack and weapon damage rolls.
+the antipaladin takes a -1 penalty on attack and weapon damage rolls.
 
 **Aura of Despair (Su)**: At 8th level, enemies within 10 feet of an
-antipaladin take a –2 penalty on all saving throws. This penalty does
+antipaladin take a -2 penalty on all saving throws. This penalty does
 not stack with the penalty from aura of cowardice.
 
 This ability functions only while the antipaladin is conscious, not if
@@ -5316,7 +5095,7 @@ ability functions only while the antipaladin is conscious, not if he is
 unconscious or dead.
 
 **Aura of Depravity (Su)**: At 17th level, an antipaladin gains DR
-5/good. Each enemy within 10 feet takes a –4 penalty on saving throws
+5/good. Each enemy within 10 feet takes a -4 penalty on saving throws
 against compulsion effects. This ability functions only while the
 antipaladin is conscious, not if he is unconscious or dead.
 
@@ -5386,73 +5165,48 @@ unwary.
 
 ### New Combat Styles
 
-At 2nd level, a ranger must select one of the two core [Combat
-Styles] or one of the
+At 2nd level, a ranger must select one of the two core [Combat Styles] or one of the
 following new combat styles: crossbow, mounted combat, natural weapon,
 two-handed weapon, or weapon and shield style. The ranger can choose
 feats from his selected combat style even if he does not have the normal
 prerequisites.
 
 **Crossbow**: If the ranger selects crossbow style, he can choose from
-the following list whenever he gains a combat style feat: [Deadly
-Aim], [Focused
-Shot]), [Precise
-Shot], and [Rapid
-Reload]. At 6th level, he adds [Crossbow
-Mastery]) and [Improved
+the following list whenever he gains a combat style feat: [Deadly Aim], [Focused Shot]), [Precise Shot], and [Rapid Reload]. At 6th level, he adds [Crossbow Mastery]) and [Improved
 Precise Shot] to the list. At
-10th level, he adds[Pinpoint
-Targeting] and [Shot on the
-Run] to the list.
+10th level, he adds[Pinpoint Targeting] and [Shot on the Run] to the list.
 
 **[Mounted Combat]**: If the ranger
 selects mounted combat, he can choose from the following list whenever
-he gains a combat style feat: [Mounted
-Combat], [Mounted
-Archery], [Ride-By
-Attack], and [Trick
-Riding]). At 6th level, he
+he gains a combat style feat: [Mounted Combat], [Mounted Archery], [Ride-By Attack], and [Trick Riding]). At 6th level, he
 adds [Mounted Shield])
 and [Spirited Charge] to the list. At
-10th level, he adds [Mounted
-Skirmisher]) and
+10th level, he adds [Mounted Skirmisher]) and
 [Unseat] to the list.
 
 **Natural Weapon**: If the ranger selects natural weapon style, he can
 choose from the following list whenever he gains a combat style feat:
 [Aspect of the Beast],
-[Improved Natural
-Weapon],
+[Improved Natural Weapon],
 [Rending Claws]), and
 [Weapon Focus]. At 6th level, he adds
 Eldritch Fangs and [Vital Strike] to the
-list. At 10th level, he adds [Multiattack
-and][Improved Vital
-Strike] to the list.
+list. At 10th level, he adds [Multiattack and][Improved Vital Strike] to the list.
 
 **Two-Handed Weapon**: If the ranger selects two-handed weapon style, he
 can choose from the following list whenever he gains a combat style
-feat: [Cleave], [Power
-Attack], [Pushing
-Assault]), and [Shield
+feat: [Cleave], [Power Attack], [Pushing Assault]), and [Shield
 of Swings]). At 6th
-level, he adds [Furious
-Focus]) and [Great
-Cleave] to the list. At 10th level, he
-adds [Dreadful
-Carnage]) and [Improved
-Sunder] to the list.
+level, he adds [Furious Focus]) and [Great Cleave] to the list. At 10th level, he
+adds [Dreadful Carnage]) and [Improved Sunder] to the list.
 
 **Weapon and Shield**: If the ranger selects weapon and shield style, he
 can choose from the following list whenever he gains a combat style
 feat: [Improved Shield Bash],
-[Shield Focus], [Shield
-Slam], and [Two-Weapon
-Fighting]. At 6th level, he adds
+[Shield Focus], [Shield Slam], and [Two-Weapon Fighting]. At 6th level, he adds
 [Saving Shield]) and
 [Shield Master] to the list. At 10th
-level, he adds [Bashing
-Finish]) and [Greater
+level, he adds [Bashing Finish]) and [Greater
 Shield Focus] to the list.
 
 ### Beast Master
@@ -5466,9 +5220,7 @@ master has the following class features.
 **Class Skills**: A beast master's class skills are
 [Acrobatics] (Dex),
 [Climb] (Str),
-[Craft] (Int), [Escape
-Artist] (Dex), [Handle
-Animal] (Cha),
+[Craft] (Int), [Escape Artist] (Dex), [Handle Animal] (Cha),
 [Heal] (Wis),
 [Intimidate] (Cha),
 [Knowledge] (nature) (Int),
@@ -5482,7 +5234,7 @@ ranger class skills.
 **Animal Companion (Ex)**: A beast master forms a close bond with an
 animal companion. This ability functions like the druid animal companion
 ability except that the ranger's effective druid level is equal to his
-ranger level – 3. The ranger gains a +2 bonus on wild empathy and
+ranger level - 3. The ranger gains a +2 bonus on wild empathy and
 [Handle Animal] checks
 made regarding his animal companion. Unlike a normal ranger, a beast
 master's choice of animal companion is not limited to a subset of all
@@ -5570,7 +5322,7 @@ replaces quarry and improved quarry.
 **Improved Ranger's Luck (Ex)**: Upon reaching 16th level, the ranger's
 luck increases. He gains a +4 bonus on his rerolls made with the
 ranger's luck ability, or if he forces an enemy to reroll an attack,
-that enemy takes a –4 penalty on the roll. This bonus or penalty is also
+that enemy takes a -4 penalty on the roll. This bonus or penalty is also
 applied on any roll to confirm critical hits. This ability replaces
 improved evasion.
 
@@ -5593,8 +5345,7 @@ Medium ranger can select a camel or a horse. A small ranger can select a
 pony or wolf, but can also select a boar or dog if he is at least 7th
 level. This ability functions like the druid animal companion ability
 except that the ranger's effective druid level is equal to his ranger
-level – 3. The ranger gains a +2 bonus on [Handle
-Animal] and
+level - 3. The ranger gains a +2 bonus on [Handle Animal] and
 [Ride] checks with his animal companion
 mount. This ability replaces hunter's bond.
 
@@ -5624,8 +5375,7 @@ one ability or feat from the adaptation list for that type (see below).
 A ranger can use adaptations for 10 minutes per day per ranger level he
 possesses. This duration does not need to be consecutive, but it must be
 used in 10-minute increments. If the adaptation requires the ranger to
-make a more specific choice (such as what skill to use with [Skill
-Focus]), this choice is permanent and
+make a more specific choice (such as what skill to use with [Skill Focus]), this choice is permanent and
 cannot be changed.
 
 At 8th, 13th, and 15th-level, the ranger chooses another one of his
@@ -5635,26 +5385,17 @@ he's selected (including the one just chosen, if so desired). The
 infiltrator can only use one adaptation at a time. This class ability
 replaces favored terrain.
 
-*Aberration*: amphibious, darkvision 60 ft., [Iron
-Will], natural armor +2.
+*Aberration*: amphibious, darkvision 60 ft., [Iron Will], natural armor +2.
 
-*Animal*: climb 15 ft., darkvision 60 ft., [Great
-Fortitude], [Lightning
-Reflexes], low-light vision,
+*Animal*: climb 15 ft., darkvision 60 ft., [Great Fortitude], [Lightning Reflexes], low-light vision,
 natural armor (+2), swim 15 ft.
 
-*Construct*: darkvision 60 ft., [Great
-Fortitude], [Lightning
-Reflexes], low-light vision.
+*Construct*: darkvision 60 ft., [Great Fortitude], [Lightning Reflexes], low-light vision.
 
-*Dragon*: darkvision 60 ft., [Great
-Fortitude], [Iron
-Will], [Lightning
-Reflexes], low-light vision,
+*Dragon*: darkvision 60 ft., [Great Fortitude], [Iron Will], [Lightning Reflexes], low-light vision,
 [Lunge].
 
-*Fey*: [Iron Will], [Lightning
-Reflexes], low-light vision.
+*Fey*: [Iron Will], [Lightning Reflexes], low-light vision.
 
 *Humanoid (aquatic)*: low-light vision, natural armor +2, darkvision,
 swim 15 ft.
@@ -5671,72 +5412,49 @@ one skill), weapon familiarity.
 natural armor +2, resist energy 10 (choose cold, electricity, or fire),
 [Throw Anything].
 
-*Humanoid (gnoll)*: darkvision 60 ft., [Exotic Weapon
-Proficiency] (dire flail),
+*Humanoid (gnoll)*: darkvision 60 ft., [Exotic Weapon Proficiency] (dire flail),
 natural armor +2.
 
 *Humanoid (gnome)*: defensive training, gnome magic, hatred, illusion
 resistance, keen senses, low-light vision, obsessive, weapon
 familiarity.
 
-*Humanoid (goblinoid)*: darkvision 60 ft., goblin fast, [Skill
-Focus]
+*Humanoid (goblinoid)*: darkvision 60 ft., goblin fast, [Skill Focus]
 ([Stealth]), natural armor (+2).
 
 *Humanoid (halfling)*: fearless, halfling luck, keen senses,
 sure-footed, weapon familiarity.
 
-*Humanoid (human)*: [Great
-Fortitude], [Iron
-Will], [Lightning
-Reflexes], [Skill
-Focus] (choose one skill).
+*Humanoid (human)*: [Great Fortitude], [Iron Will], [Lightning Reflexes], [Skill Focus] (choose one skill).
 
 *Humanoid (orc)*: darkvision 60 ft., ferocity, intimidating, orc blood,
 weapon familiarity.
 
 *Humanoid (reptilian)*: darkvision 60 ft., kobold fast (as goblin fast),
-lizardfolk hold breath, natural armor +2, [Skill
-Focus] (choose
+lizardfolk hold breath, natural armor +2, [Skill Focus] (choose
 [Acrobatics],
 [Perception], or
 [Stealth]).
 
-*Magical Beast*: darkvision 60 ft., [Great
-Fortitude], low-light vision, natural
+*Magical Beast*: darkvision 60 ft., [Great Fortitude], low-light vision, natural
 armor +2.
 
-*Monstrous Humanoid*: darkvision 60 ft., [Lightning
-Reflexes], low-light vision,
+*Monstrous Humanoid*: darkvision 60 ft., [Lightning Reflexes], low-light vision,
 natural armor +2.
 
-*Ooze*: acid resistance 10, [Great
-Fortitude], [Iron
-Will], [Skill
-Focus] (choose
-[Climb], [Escape
-Artist], or
+*Ooze*: acid resistance 10, [Great Fortitude], [Iron Will], [Skill Focus] (choose
+[Climb], [Escape Artist], or
 [Perception]).
 
 *Outsider*: darkvision 60 ft., energy resistance 5 (choose one type of
-energy from acid, cold, electricity, or fire), [Great
-Fortitude], [Iron
-Will], [Lightning
-Reflexes].
+energy from acid, cold, electricity, or fire), [Great Fortitude], [Iron Will], [Lightning Reflexes].
 
-*Plant*: low-light vision, [Great
-Fortitude], [Iron
-Will].
+*Plant*: low-light vision, [Great Fortitude], [Iron Will].
 
-*Undead*: darkvision 60 ft., [Great
-Fortitude], [Iron
-Will], natural armor (+2). [Skill
-Focus]
+*Undead*: darkvision 60 ft., [Great Fortitude], [Iron Will], natural armor (+2). [Skill Focus]
 ([Stealth]).
 
-*Vermin*: climb 15 ft., darkvision 60 ft., [Great
-Fortitude], [Iron
-Will], swim 15 ft.
+*Vermin*: climb 15 ft., darkvision 60 ft., [Great Fortitude], [Iron Will], swim 15 ft.
 
 ### Shapeshifter
 
@@ -5810,8 +5528,7 @@ following:
 facial features become more ursine. While in this form, the ranger gains
 a +8 enhancement bonus to Strength and he does not suffer any reduction
 of speed. Alternatively, the ranger can polymorph into the form of a
-bear as if the caster of *[Beast Shape
-IV]*.
+bear as if the caster of *[Beast Shape IV]*.
 
 *Form of the Cat*: The ranger's muscles become lean and defined, and his
 gait more deliberate and graceful. While in this form, the ranger
@@ -5832,15 +5549,13 @@ hooked, and his eyes enlarge. While in this form, the ranger gains a +10
 bonus on [Perception] checks
 and a fly speed of 40 feet with good maneuverability. Alternatively, the
 ranger can polymorph into the form of an eagle or similar raptor as if
-the caster of *[Beast Shape
-IV]*.
+the caster of *[Beast Shape IV]*.
 
 *Form of the Jackal*: The ranger becomes thin and hyperactive, his
 movements taking on a nervous spryness. While in this form, the ranger
 does not provoke attacks of opportunity due to movement. Alternatively,
 the ranger can polymorph into the form of a jackal or other canine
-creature as if the caster of *[Beast Shape
-IV]*.
+creature as if the caster of *[Beast Shape IV]*.
 
 *Form of the Otter*: The ranger's hands and feet grow webs, and his body
 grows an oily fur that is water resistant. While in this form, the
@@ -5898,7 +5613,7 @@ this move. This move provokes attacks of opportunity as normal.
 communicate with a single creature as if using the
 *[tongues]* spell for 10 minutes.
 Because the communication is slow and lacks subtlety, the ranger suffers
-a –4 penalty on all [Bluff] and
+a -4 penalty on all [Bluff] and
 [Diplomacy] checks relating to
 the creature he is communicating with when using this trick.
 
@@ -5911,7 +5626,7 @@ without provoking attacks of opportunity.
 
 *Distracting Attack (Ex)*: The ranger can use this trick as a free
 action before he makes an attack. If the attack hits, the target takes a
-–2 penalty on all attack rolls for 1 round.
+-2 penalty on all attack rolls for 1 round.
 
 *Hateful Attack (Ex)*: The ranger can use this trick as a free action
 when he makes an attack against one of his favored enemies. The ranger
@@ -5953,7 +5668,7 @@ for 1d4 rounds.
 
 *[Second Chance]) Strike
 (Ex)*: When he misses with a melee attack, the ranger may reroll his
-attack at a –5 penalty. Using this ability is an immediate action.
+attack at a -5 penalty. Using this ability is an immediate action.
 
 *Sic 'Em (Ex)*: The ranger can use this trick as a swift action. His
 animal companion makes one melee attack against an adjacent creature.
@@ -6025,11 +5740,9 @@ For the urban ranger, the streets and sewers of the city are just as
 dangerous as the barren wastelands or the deep forests. An urban ranger
 has the following class features.
 
-**Urban Ranger**: At 1st level, an urban ranger adds [Disable
-Device] and
+**Urban Ranger**: At 1st level, an urban ranger adds [Disable Device] and
 [Knowledge] (local) to his list
-of class skills and removes [Handle
-Animal] and
+of class skills and removes [Handle Animal] and
 [Knowledge] (nature) from his
 list of class skills.
 
@@ -6114,7 +5827,7 @@ also flanking the target that her attack missed. That ally can make a
 single melee attack against the opponent as an immediate action.
 
 *Befuddling Strike\*\* (Ex)*: When the rogue deals sneak attack damage
-against an opponent, that opponent takes a –2 penalty on attack rolls
+against an opponent, that opponent takes a -2 penalty on attack rolls
 against the rogue for 1d4 rounds.
 
 *Camouflage (Ex)*: Once per day, a rogue with this talent can craft
@@ -6145,8 +5858,7 @@ she possesses.
 [Intimidate] to force an
 opponent to act friendly toward her.
 
-*Combat Swipe*: A rogue who selects this talent gains [Improved
-Steal]) as a bonus feat.
+*Combat Swipe*: A rogue who selects this talent gains [Improved Steal]) as a bonus feat.
 
 *Cunning Trigger (Ex)*: A rogue with this talent can use a swift action
 to set off any trap within 30 feet that she constructed.
@@ -6179,8 +5891,7 @@ check, a rogue with this talent can spend a move action to take the
 withdraw action. She can move no more than her speed during this
 movement.
 
-*Fast Picks (Ex)*: A rogue with this talent can use the [Disable
-Device] skill to
+*Fast Picks (Ex)*: A rogue with this talent can use the [Disable Device] skill to
 attempt to open a lock as a standard action instead of a full-round
 action.
 
@@ -6199,8 +5910,7 @@ those granted by the
 [Linguistics] skill itself.
 
 *Hard to Fool (Ex)*: Once per day, a rogue with this talent can roll two
-dice while making a [Sense
-Motive] check, and take the
+dice while making a [Sense Motive] check, and take the
 better result. She must choose to use this talent before making the
 [Sense Motive] check. A
 rogue can use this ability one additional time per day for every 5 rogue
@@ -6245,7 +5955,7 @@ provoking attacks of opportunity. The movement must end in a space
 adjacent to the creature hit with the melee attack.
 
 *Powerful Sneak\*\* (Ex)*: Whenever a rogue with this talent takes a
-full attack action, she can elect to take a –2 penalty on all attack
+full attack action, she can elect to take a -2 penalty on all attack
 rolls until the start of her next turn. If an attack during this time is
 a sneak attack, she treats all 1s on the sneak attack damage dice as 2s.
 
@@ -6287,8 +5997,7 @@ from acting in the surprise round, this talent has no effect.
 damage on ranged attacks targeting foes within 30 feet that benefit from
 concealment. Foes with total concealment are still immune.
 
-*Strong Impression*: A rogue who selects this talent gains [Intimidating
-Prowess] as a bonus feat.
+*Strong Impression*: A rogue who selects this talent gains [Intimidating Prowess] as a bonus feat.
 
 *Survivalist*: A rogue with this talent adds
 [Heal] and
@@ -6363,12 +6072,11 @@ against the new target.
 
 *Stealthy Sniper (Ex)*: When a rogue with this talent uses the
 [Stealth] skill to snipe, she only
-suffers a –10 penalty on the
-[Stealth] check, instead of –20.
+suffers a -10 penalty on the
+[Stealth] check, instead of -20.
 
 *Thoughtful Reexamining (Ex)*: Once per day, a rogue with this talent
-can reroll a [Knowledge], [Sense
-Motive], or
+can reroll a [Knowledge], [Sense Motive], or
 [Perception] skill check to
 try to gain new or better information from the roll. This reroll can be
 made any time during the same day as the original check.
@@ -6384,8 +6092,7 @@ acrobatics is a valuable boon for rogues.
 armor check penalties on
 [Acrobatics],
 [Climb],
-[Fly], [Sleight of
-Hand], or
+[Fly], [Sleight of Hand], or
 [Stealth] skill checks while wearing
 light armor. When she is not wearing armor, she gains a +2 competency
 bonus on [Acrobatics] and
@@ -6396,7 +6103,7 @@ trapfinding.
 [Acrobatics],
 [Climb], or
 [Fly] skill check she has just made. This
-reroll is made at a –5 penalty. She must take the second result, even if
+reroll is made at a -5 penalty. She must take the second result, even if
 it is worse. An acrobat can use this ability only once on any given
 skill check. She can use this ability once per day at 3rd level, plus
 one additional time per day for every 3 levels beyond 3rd. This ability
@@ -6418,8 +6125,7 @@ guarded with vicious traps and hazards, but the devious mind of the
 burglar allows her to find such dangers and avoid them.
 
 **Careful Disarm (Ex)**: At 4th level, whenever a burglar attempts to
-disarm a trap using [Disable
-Device], she does not
+disarm a trap using [Disable Device], she does not
 spring the trap unless she fails by 10 or more. If she does set off a
 trap she was attempting to disarm, she adds double her trap sense bonus
 to avoid the trap. This ability replaces uncanny dodge.
@@ -6455,12 +6161,10 @@ and their talents are generally appreciated in this role, but the
 cutpurse is still the first person her companions look to when an item
 goes missing.
 
-**Measure the Mark (Ex)**: When a cutpurse makes a [Sleight of
-Hand] check to take
+**Measure the Mark (Ex)**: When a cutpurse makes a [Sleight of Hand] check to take
 something from a creature, the target makes its
 [Perception] check before the
-rogue makes her [Sleight of
-Hand] check, and the
+rogue makes her [Sleight of Hand] check, and the
 rogue knows the [Perception]
 check result. She can decide whether or not to make the check based on
 the results of the target's
@@ -6476,7 +6180,7 @@ something from the target of the attack. If the attack deals sneak
 attack damage, the rogue can use [Sleight of Hand] to take an item
 from the creature during combat; otherwise this ability can only be used
 in a surprise round before the target has acted. If the attack is
-successful, the target takes a –5 penalty on the
+successful, the target takes a -5 penalty on the
 [Perception] check to notice
 the theft. This ability replaces trap sense.
 
@@ -6765,21 +6469,14 @@ your command.
 **Class Skill**: [Swim].
 
 **Bonus Spells**: *[Hydraulic Push]\**(3rd),
-*[Slipstream]\**(5th), *[Aqueous
-Orb]\**(7th),
-*[Geyser]\**(9th), *[Control
-Water]*(11th), *[Beast
+*[Slipstream]\**(5th), *[Aqueous Orb]\**(7th),
+*[Geyser]\**(9th), *[Control Water]*(11th), *[Beast
 Shape IV]*(13th), *[Summon Monster VII]*(15th),
-*[Seamantle]\**(17th), *[World
-Wave]\**(19th).
+*[Seamantle]\**(17th), *[World Wave]\**(19th).
 
-**Bonus Feats**: [Athletic], [Brew
-Potion], [Defensive Combat
-Training],
+**Bonus Feats**: [Athletic], [Brew Potion], [Defensive Combat Training],
 [Dodge],
-[Mobility], [Silent
-Spell], [Skill
-Focus]
+[Mobility], [Silent Spell], [Skill Focus]
 ([Swim]),
 [Toughness].
 
@@ -6812,11 +6509,9 @@ creatures a number of times per day equal to your Charisma modifier.
 This ability is telepathic and does not require audible or visual
 components. At 15th level, once per day you can telepathically call and
 request a service from an aquatic, water, or swimming creature as if
-using *[Demand]*or *[Greater Planar
-Ally]*.
+using *[Demand]*or *[Greater Planar Ally]*.
 
-*Raise the Deep (Sp)*: At 15th level, you raise water as per *[Control
-Water]*, but no water
+*Raise the Deep (Sp)*: At 15th level, you raise water as per *[Control Water]*, but no water
 need be present. This created water is stationary and does not flow out
 of the area where you create it; it lasts 1 round per sorcerer level and
 then disappears. At 20th level, the dimensions of the effect are
@@ -6824,8 +6519,7 @@ doubled. You may use this ability once per day.
 
 *Deep One (Ex)*: At 20th level, you gain blindsense 60 feet and your
 body is covered with fine, slippery scales granting DR 10/piercing,
-resist cold 20, and continuous *[Freedom of
-Movement]*.
+resist cold 20, and continuous *[Freedom of Movement]*.
 Underwater, you gain evasion and blindsight 120 feet, and you are immune
 to pressure damage from deep water.
 
@@ -6840,23 +6534,17 @@ long winter's night.
 **Class Skill**: [Survival].
 
 **Bonus Spells**: *[Enlarge person]*(3rd),
-*[Rage]*(5th), *[Elemental
-Aura]\**(Cold Only) (7th),
+*[Rage]*(5th), *[Elemental Aura]\**(Cold Only) (7th),
 *[Wall of Ice]*(9th), *[Cone
 of Cold]*(11th),
 *[Transformation]*(13th),
 *[Giant Form I]*(15th),
-*[Polar Ray]*(17th), *[Meteor
-Swarm]*(Dealing Cold
+*[Polar Ray]*(17th), *[Meteor Swarm]*(Dealing Cold
 Damage) (19th).
 
 **Bonus Feats**: [Arcane Strike],
-[Diehard], [Empower
-Spell],
-[Endurance], [Exotic Weapon
-Proficiency], [Power
-Attack], [Skill
-Focus]
+[Diehard], [Empower Spell],
+[Endurance], [Exotic Weapon Proficiency], [Power Attack], [Skill Focus]
 ([Intimidate]),
 [Toughness].
 
@@ -6914,26 +6602,18 @@ wandering and preferring to instead find depth in contemplation.
 **Class Skill**: [Knowledge]
 (dungeoneering).
 
-**Bonus Spells**: *[Expeditious
-Excavation]\**(3rd),
+**Bonus Spells**: *[Expeditious Excavation]\**(3rd),
 *[Darkvision]*(5th),
 *[Shifting Sand]\**(7th),
-*[Stoneskin]*(9th), *[Spike
-Stones]*(11th), *[Stone
-Tell]*(13th), *[Repel Metal or
-Stone]*(15th),
+*[Stoneskin]*(9th), *[Spike Stones]*(11th), *[Stone Tell]*(13th), *[Repel Metal or Stone]*(15th),
 *[Earthquake]*(17th),
 *[Clashing Rocks]\**(19th).
 
 **Bonus Feats**: [Acrobatic Steps],
 [Alertness],
-[Blind-Fight], [Forge
-Ring], [Nimble
-Moves], [Skill
-Focus]
+[Blind-Fight], [Forge Ring], [Nimble Moves], [Skill Focus]
 ([Perception]),
-[Stealthy], [Still
-Spell].
+[Stealthy], [Still Spell].
 
 **Bloodline Arcana**: Whenever you and the target of your spell are both
 underground, increase the spell's save DC by +1.
@@ -6951,8 +6631,7 @@ equal to 3 + your Charisma modifier.
 *Rockseer (Su)*: At 3rd level, you gain the stonecunning trait as a
 dwarf; if already a dwarf, your bonus improves to +4. At 9th level, you
 gain tremorsense 30 feet. At 15th level, you can see through solid
-objects as if using a *[Ring of X-ray
-Vision]* for a number
+objects as if using a *[Ring of X-ray Vision]* for a number
 of rounds per day equal to your sorcerer level. These rounds do not need
 to be consecutive.
 
@@ -6985,28 +6664,19 @@ realm of dreams and the farthest shores of night. Whether it is a gift
 or curse is not always clear, but your visions of the past and future
 call you ineluctably to a life of adventure.
 
-**Class Skill**: [Sense
-Motive].
+**Class Skill**: [Sense Motive].
 
 **Bonus Spells**: *[Sleep]*(3rd),
-*[Augury]*(5th), *[Deep
-Slumber]*(7th),
+*[Augury]*(5th), *[Deep Slumber]*(7th),
 *[Divination]*(9th),
-*[Dream]*(11th), *[Shadow
-Walk]*(13th),
-*[Vision]*(15th), *[Moment of
-Prescience]*(17th),
+*[Dream]*(11th), *[Shadow Walk]*(13th),
+*[Vision]*(15th), *[Moment of Prescience]*(17th),
 *[Astral Projection]*(19th).
 
 **Bonus Feats**: [Alertness],
-[Blind-Fight], [Combat
-Expertise],
-[Deceitful], [Heighten
-Spell], [Improved
-Feint],
-[Persuasive], [Skill
-Focus] ([Sense
-Motive]).
+[Blind-Fight], [Combat Expertise],
+[Deceitful], [Heighten Spell], [Improved Feint],
+[Persuasive], [Skill Focus] ([Sense Motive]).
 
 **Bloodline Arcana**: Whenever you target a single creature with a
 spell, you gain an insight bonus equal to half the spell's level
@@ -7020,7 +6690,7 @@ to touch the minds and destinies of those around you.
 can use *[Lullaby]*as a spell-like
 ability a number of times per day equal to 3 + your Charisma modifier.
 This effect lasts for 1 minute and does not require concentration. The
-penalty on saves versus sleep effects increases to –4.
+penalty on saves versus sleep effects increases to -4.
 
 *Combat Precognition (Su)*: Your insight into the future grants you an
 advantage in combat. At 3rd level and every 4 levels thereafter, you
@@ -7030,8 +6700,7 @@ gain a +1 insight bonus on initiative checks.
 others, drawing forth or tampering with their subconscious minds. This
 power allows you to tamper with the target's memories as if using
 *[Modify Memory],*or you
-may ask questions as if using *[Speak with
-Dead]*upon a corpse. A
+may ask questions as if using *[Speak with Dead]*upon a corpse. A
 successful Will save negates the effect. The DC of this save is equal to
 10 + 1/2 your sorcerer level + your Charisma modifier, with further
 modifiers as the
@@ -7041,10 +6710,8 @@ ability twice per day, and at 20th, three times per day.
 
 *Eye of Somnus (Sp)*: At 15th level, you can project your consciousness
 as if using *[Arcane Eye]*. In
-addition, at any point you can cause the *[Arcane
-Eye]*to become visible. The eye
-can no longer be moved, but it acts as a *[Symbol of
-Sleep]*to all who see
+addition, at any point you can cause the *[Arcane Eye]*to become visible. The eye
+can no longer be moved, but it acts as a *[Symbol of Sleep]*to all who see
 it. You may use this power once per day.
 
 *Solipsism (Ex)*: At 20th level, you can drift into the dream world,
@@ -7067,28 +6734,17 @@ interest.
 **Class Skill**: [Knowledge]
 (planes).
 
-**Bonus Spells**: *[Entropic
-Shield]*(3rd),
-*[Blur]*(5th), *[Gaseous
-Form]*(7th),
-*[Confusion]*(9th), *[Major
-Creation]*(11th),
+**Bonus Spells**: *[Entropic Shield]*(3rd),
+*[Blur]*(5th), *[Gaseous Form]*(7th),
+*[Confusion]*(9th), *[Major Creation]*(11th),
 *[Disintegrate]*(13th),
-*[Greater
-Polymorph]*(15th),
-*[Polymorph Any
-Object]*(17th),
+*[Greater Polymorph]*(15th),
+*[Polymorph Any Object]*(17th),
 *[Shapechange]*(19th).
 
 **Bonus Feats**: [Agile Maneuvers],
-[Defensive Combat
-Training], [Enlarge
-Spell], [Great
-Fortitude], [Improved Great
-Fortitude], [Skill
-Focus]
-([Craft] [any]), [Spell
-Focus],
+[Defensive Combat Training], [Enlarge Spell], [Great Fortitude], [Improved Great Fortitude], [Skill Focus]
+([Craft] [any]), [Spell Focus],
 [Toughness].
 
 **Bloodline Arcana**: Your magic of creation and changing is hard to
@@ -7121,8 +6777,7 @@ continuous.
 
 *Spatial Tear (Sp)*: At 15th level, once per day, you can unravel the
 fibers of reality and ride along them as they snap back into place. This
-power functions as *[Dimension Door],*while also creating a mass of *[Black
-Tentacles]*centered
+power functions as *[Dimension Door],*while also creating a mass of *[Black Tentacles]*centered
 on your former location. Both of these effects use your sorcerer level
 as the caster level. At 20th level, you can use this ability twice per
 day.
@@ -7145,26 +6800,17 @@ heritage.
 **Class Skill**: [Diplomacy].
 
 **Bonus Spells**:
-*[Hypnotism]*(3rd), *[Delay
-Poison]*(5th), *[Summon
-Monster
-Iii]*(Reptiles
-Only) (7th), *[Poison]*(9th), *[Hold
-Monster]*(11th), *[Mass
-Suggestion]*(13th),
-*[Summon Monster
-VII]*(Reptiles
-Only) (15th), *[Irresistible
-Dance]*(17th),
+*[Hypnotism]*(3rd), *[Delay Poison]*(5th), *[Summon
+Monster Iii]*(Reptiles
+Only) (7th), *[Poison]*(9th), *[Hold Monster]*(11th), *[Mass Suggestion]*(13th),
+*[Summon Monster VII]*(Reptiles
+Only) (15th), *[Irresistible Dance]*(17th),
 *[Dominate Monster]*(19th).
 
 **Bonus Feats**: [Combat Casting],
 [Combat Reflexes],
-[Deceitful], [Deft
-Hands],
-[Persuasive], [Silent
-Spell], [Skill
-Focus]
+[Deceitful], [Deft Hands],
+[Persuasive], [Silent Spell], [Skill Focus]
 ([Bluff]),
 [Stealthy].
 
@@ -7189,15 +6835,13 @@ Con. At 7th level, your poison requires 2 successful saves to cure. At
 fangs for a number of rounds per day equal to 3 + your Charisma
 modifier.
 
-*Serpentfriend (Ex)*: At 3rd level, you can use *[Speak with
-Animals]*at will
+*Serpentfriend (Ex)*: At 3rd level, you can use *[Speak with Animals]*at will
 with reptilian animals (including various forms of dinosaurs, lizards,
 and other cold-blooded creatures), and you gain a viper familiar using
-your sorcerer level –2 as your effective wizard level.
+your sorcerer level -2 as your effective wizard level.
 
 *Snakeskin (Ex)*: At 9th level, you gain a +1 bonus to natural armor, a
-+2 racial bonus on saves against poison, and a +2 bonus on [Escape
-Artist] checks. At 13th
++2 racial bonus on saves against poison, and a +2 bonus on [Escape Artist] checks. At 13th
 level and 17th level, these bonuses increase by +1.
 
 *Den of Vipers (Sp)*: At 15th level, you may summon a host of writhing
@@ -7206,9 +6850,7 @@ poison inflicts Con damage and any creature other than you sharing a
 space with a swarm is entangled.
 
 *Scaled Soul (Su)*: At 20th level, you gain the shapechanger subtype,
-and you can assume the form of a reptilian humanoid (as *[Alter
-Self]*) or snake of Diminutive to Huge size (as *[Beast Shape
-III]*) at will. You
+and you can assume the form of a reptilian humanoid (as *[Alter Self]*) or snake of Diminutive to Huge size (as *[Beast Shape III]*) at will. You
 retain the power of speech and the ability to use somatic spell
 components when transformed. You also become immune to poison and
 paralysis. You may use serpent's fang as often as desired, and you may
@@ -7225,21 +6867,17 @@ own.
 
 **Class Skill**: [Stealth].
 
-**Bonus Spells**: *[Ray of
-Enfeeblement]*(3rd),
-*[Darkvision]*(5th), *[Deeper
-Darkness]*(7th),
+**Bonus Spells**: *[Ray of Enfeeblement]*(3rd),
+*[Darkvision]*(5th), *[Deeper Darkness]*(7th),
 *[Shadow Conjuration]*(9th),
 *[Shadow Evocation]*(11th),
 *[Shadow Walk]*(13th),
-*[Power Word
-Blind]*(15th),
+*[Power Word Blind]*(15th),
 *[Greater Evocation]*(17th), *[Shades]*(19th).
 
 **Bonus Feats**: [Acrobatic],
 [Blind-Fight],
-[Dodge], [Quick Draw], [Silent
-Spell], [Skill Focus]
+[Dodge], [Quick Draw], [Silent Spell], [Skill Focus]
 ([Stealth]),
 [Stealthy], [Weapon Finesse].
 
@@ -7278,8 +6916,7 @@ one additional time per day at 17th level and 20th level.
 *Enveloping Darkness (Sp)*: At 15th level, you may create an area of
 *[Deeper Darkness]*
 that you can see through without penalty. All creatures except you are
-entangled within this darkness unless using *[Freedom of
-Movement]*or a
+entangled within this darkness unless using *[Freedom of Movement]*or a
 similar effect. You may use this ability once per day.
 
 *[Shadow] Master (Su)*: At
@@ -7299,21 +6936,15 @@ worlds.
 **Class Skill**: [Knowledge]
 (nature).
 
-**Bonus Spells**: *[Unseen
-Servant]*(3rd),
+**Bonus Spells**: *[Unseen Servant]*(3rd),
 *[Glitterdust]*(5th),
-*[Blink]*(7th), *[Call Lightning
-Storm]*(9th;
-dealing fire damage, damage increased outdoors at night), *[Overland
-Flight]*(11th),
-*[Repulsion]*(13th), *[Reverse
-Gravity]*(15th),
-*[Greater Prying
-Eyes]*(17th),
+*[Blink]*(7th), *[Call Lightning Storm]*(9th;
+dealing fire damage, damage increased outdoors at night), *[Overland Flight]*(11th),
+*[Repulsion]*(13th), *[Reverse Gravity]*(15th),
+*[Greater Prying Eyes]*(17th),
 *[Meteor Swarm]*(19th).
 
-**Bonus Feats**: [Blind-Fight], [Craft
-Rod],
+**Bonus Feats**: [Blind-Fight], [Craft Rod],
 [Endurance], [Improved Counterspell], [Improved Iron Will], [Iron Will],
 [Quicken Spell], [Skill Focus] ([Perception]), [Toughness].
 
@@ -7334,12 +6965,10 @@ modifier. You may use this ability a number of times per day equal to 3
 
 *Voidwalker (Ex)*: At 3rd level, you gain low-light vision and resist
 cold and fire 5. At 9th level, you no longer need to breathe, as if
-wearing a *[Necklace of
-Adaptation]*.
+wearing a *[Necklace of Adaptation]*.
 
 *Aurora Borealis (Sp)*: At 9th level, you can create a sheet of
-cascading colors. This power acts as a *[Wall of
-Fire]*, but it inflicts cold
+cascading colors. This power acts as a *[Wall of Fire]*, but it inflicts cold
 damage and does not radiate heat. However, one side of the aurora
 designated by you fascinates creatures within 10 feet, up to a maximum
 of 2 HD of creatures per sorcerer level. A Will save negates this
@@ -7369,27 +6998,15 @@ and living lightning sings in your veins.
 **Class Skill**: [Knowledge]
 (nature).
 
-**Bonus Spells**: *[Shocking
-Grasp]*(3rd), *[Gust of
-Wind]*(5th), *[Lightning
-Bolt]*(7th),
-*[Shout]*(9th), *[Overland
-Flight]*(11th),
-*[Chain
-Lightning]*(13th),
-*[Control
-Weather]*(15th),
-*[Whirlwind]*(17th), *[Storm of
-Vengeance]*(19th).
+**Bonus Spells**: *[Shocking Grasp]*(3rd), *[Gust of Wind]*(5th), *[Lightning Bolt]*(7th),
+*[Shout]*(9th), *[Overland Flight]*(11th),
+*[Chain Lightning]*(13th),
+*[Control Weather]*(15th),
+*[Whirlwind]*(17th), *[Storm of Vengeance]*(19th).
 
 **Bonus Feats**: [Deadly Aim],
-[Dodge], [Enlarge
-Spell], [Far
-Shot], [Great
-Fortitude], Point Blank Shot, [Skill
-Focus]
-([Fly]), [Wind
-Stance].
+[Dodge], [Enlarge Spell], [Far Shot], [Great Fortitude], Point Blank Shot, [Skill Focus]
+([Fly]), [Wind Stance].
 
 **Bloodline Arcana**: Whenever you cast a spell with the electricity or
 sonic descriptor, increase the save DC by 1.
@@ -7448,8 +7065,7 @@ innate communion with nature.
 
 **Bonus Spells**:
 *[Entangle]*(3rd),
-*[Barkskin]*(5th), *[Speak with
-Plants]*(7th),
+*[Barkskin]*(5th), *[Speak with Plants]*(7th),
 *[Command Plants]*(9th), *[Wall of Thorns]*(11th),
 *[Transport via Plants]*(13th),
 *[Plant Shape III]*(15th), *[Animate Plants]*(17th),
@@ -7457,11 +7073,8 @@ Plants]*(7th),
 
 **Bonus Feats**: [Acrobatic Steps],
 [Craft Staff],
-[Endurance], [Extend
-Spell],
-[Fleet], [Nimble
-Moves], [Skill
-Focus]
+[Endurance], [Extend Spell],
+[Fleet], [Nimble Moves], [Skill Focus]
 ([Knowledge] [nature]),
 [Toughness].
 
@@ -7482,14 +7095,12 @@ in place of your normal CMB. You can use this power a number of times
 per day equal to 3 + your Charisma modifier.
 
 *Photosynthesis (Ex)*: At 3rd level, you feed upon nature's raw essence.
-Your need to eat and sleep is reduced as if wearing a *[Ring of
-Sustenance]*, and you
+Your need to eat and sleep is reduced as if wearing a *[Ring of Sustenance]*, and you
 gain a +2 racial bonus on saving throws made against poison and sleep
 effects. At 9th level, these bonuses increase to +4.
 
 *Massmorph (Sp)*: At 9th level, as a full-round action, you can alter
-the size and health of plant life, as if using *[Plant
-Growth]*or *[Diminish Plants]*.
+the size and health of plant life, as if using *[Plant Growth]*or *[Diminish Plants]*.
 Alternatively, you can transform one willing non-plant creature per
 sorcerer level (no two of which can be more than 30 feet apart) as
 *[Tree Shape]*. You may
@@ -7803,8 +7414,7 @@ for a number of rounds equal to 1/2 your wizard level (minimum 1). You
 can use this ability a number of times per day equal to 3 + your
 Intelligence modifier.
 
-**Counterspell Mastery (Su)**: At 6th level, you gain [Improved
-Counterspell] as a bonus feat.
+**Counterspell Mastery (Su)**: At 6th level, you gain [Improved Counterspell] as a bonus feat.
 You may attempt to counterspell an opponent's spell once per day as an
 immediate action (instead of a readied action). You must use a spell at
 least one level higher than the spell being countered to use this
@@ -7833,8 +7443,7 @@ your Intelligence modifier.
 **Creator's Will (Sp)**: At 8th level, you can cast *[Minor Creation]* as a
 spell-like ability. You can have no more than one *[Minor Creation]* active at a
 time. If you cast the spell again, the previous casting immediately
-ends. At 12th level, this ability improves to *[Major
-Creation]*. You can use
+ends. At 12th level, this ability improves to *[Major Creation]*. You can use
 this ability a number of times per day equal to 1/2 your wizard level.
 
 #### Enhancement School
@@ -7879,7 +7488,7 @@ immediate future. While your foretelling is in effect, you emit a
 as chosen by you at the time of prediction. If you choose to aid, you
 and your allies gain a +2 luck bonus on ability checks, attack rolls,
 caster level checks, saving throws, and skill checks. If you choose to
-hinder, your enemies take a –2 penalty on those rolls instead. You can
+hinder, your enemies take a -2 penalty on those rolls instead. You can
 use this ability for a number of rounds per day equal to your wizard
 level. These rounds do not need to be consecutive.
 
@@ -7950,8 +7559,7 @@ it. Creatures with more Hit Dice than your wizard level are unaffected,
 as are creatures in combat and those with an attitude of hostile toward
 you. Creatures receive a Will saving throw to negate the effect. The DC
 of this save is equal to 10 + 1/2 your wizard level + your Intelligence
-modifier. Creatures that fail their save are affected by *[Charm
-Monster]* for a number of
+modifier. Creatures that fail their save are affected by *[Charm Monster]* for a number of
 rounds equal to 1/2 your wizard level (minimum 1). This is a
 mind-affecting effect. You can use this ability a number of times per
 day equal to 3 + your Intelligence modifier.
@@ -7963,7 +7571,7 @@ allies within this aura receive a +4 morale bonus on saves against
 mind-affecting spells and effects, and any fear effects targeting you or
 your allies are reduced by one step (shaken has no effect, frightened
 becomes shaken, and panicked becomes frightened). If you chose to
-enhance emotional influence, enemies within the aura receive a –2
+enhance emotional influence, enemies within the aura receive a -2
 penalty on saves against mind-affecting spells and effects. These rounds
 do not need to be consecutive.
 

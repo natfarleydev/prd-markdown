@@ -84,7 +84,7 @@ rounds in the acid or gain the broken condition. Objects with the broken
 condition (regardless of how they became broken) must make a Fortitude
 saving throw each round spent within the acid or be destroyed. The walls
 of the pit are quite slippery and have a
-[Climb](../../skills/climb.html#_climb) DC of 30.
+[Climb] DC of 30.
 
 
 
@@ -231,8 +231,7 @@ ranger 1, sorcerer/wizard 1, summoner 1
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes
 (harmless)
 
-The target's [carrying
-capacity](../../additionalRules.html#_carrying-capacity) triples. This
+The target's [carrying capacity] triples. This
 does not affect the creature's actual Strength in any way, merely the
 amount of material it can carry while benefiting from this spell. It
 also has no effect on encumbrance due to armor. If the creature wears
@@ -262,8 +261,7 @@ sorcerer/wizard 3, summoner 3
 You create a rolling sphere of churning water that can engulf those it
 strikes. The *[aqueous orb]* can move up to 30 feet per
 round, rolling over barriers less than 10 feet tall. It automatically
-quenches any nonmagical fires and functions as *[dispel
-magic](../../spells/dispelMagic.html#_dispel-magic)* against magical
+quenches any nonmagical fires and functions as *[dispel magic]* against magical
 fires as long as those fires are size Large or less.
 
 Any creature in the path of the *[aqueous orb]* takes 2d6
@@ -276,8 +274,7 @@ against attacks from outside the *[aqueous orb]* but are
 considered entangled by its churning currents, takes 2d6 points of
 nonlethal damage at the beginning of their turn each round they remain
 trapped. Creatures within the orb may attempt a new Reflex save each
-round to escape into a random square adjacent to the *[aqueous
-orb]*. The orb may hold one Large creature, 4 Medium, or
+round to escape into a random square adjacent to the *[aqueous orb]*. The orb may hold one Large creature, 4 Medium, or
 16 Small or smaller creatures within it.
 
 The sphere moves as long as you actively direct it (a move action for
@@ -311,11 +308,7 @@ spells cast by your allies within its area. Any arcane spell cast by a
 creature within the area gains a +1 enhancement bonus to the DC of any
 saving throws against the spell, and can be cast as if one of the
 following metamagic feats was applied to it (without increasing the
-spell level or casting time): [Enlarge
-Spell](../../feats.html#_enlarge-spell), [Extend
-Spell](../../feats.html#_extend-spell), [Silent
-Spell](../../feats.html#_silent-spell), or [Still
-Spell](../../feats.html#_still-spell) (you choose the metamagic feat
+spell level or casting time): [Enlarge Spell], [Extend Spell], [Silent Spell], or [Still Spell] (you choose the metamagic feat
 when you cast *[arcane concordance].
 
 
@@ -348,8 +341,7 @@ also enjoy the full benefit of any bonuses or modifiers you applied to
 the attack from other magical items, feats, and class or racial
 features. However, this spell cannot reproduce any spells or other
 limited-use magical effects that you used to enhance that particular
-attack. This includes such effects as the *[true
-strike](../../spells/trueStrike.html#_true-strike)* spell, as well as
+attack. This includes such effects as the *[true strike]* spell, as well as
 any area spell you might have placed on the arrow by means of the arcane
 archer's imbue arrow class feature.
 
@@ -395,12 +387,12 @@ provoking attacks of opportunity.
 You take on an aspect of a falcon. Your eyes become wide and
 raptor-like, and you grow feathers on the sides of your head. You gain a
 +3 competence bonus on
-[Perception](../../skills/perception.html#_perception) checks, a +1
+[Perception] checks, a +1
 competence bonus on ranged attacks, and the critical multiplier for your
 bows and crossbows becomes 19-20/x3. This effect does not stack with any
 other effect that expands the threat range of a weapon, such as the
-[Improved Critical](../../feats.html#_improved-critical) feat or a
-*[keen](../../magicItems/weapons.html#_weapons-keen)* weapon.
+[Improved Critical] feat or a
+*[keen]* weapon.
 
 
 
@@ -520,8 +512,7 @@ take a -4 penalty on this saving throw.
 Each globe moves as long as you actively direct it (it's a move action
 for you to direct all the spheres created by a single casting of this
 spell); otherwise they stay at rest. These globes have no mass and
-cannot push aside unwilling creatures or move solid objects. A *[ball
-lightning]* globe winks out if it exceeds the spell's
+cannot push aside unwilling creatures or move solid objects. A *[ball lightning]* globe winks out if it exceeds the spell's
 range.
 
 
@@ -544,8 +535,7 @@ range.
 **Saving Throw** none; **Spell Resistance** no
 
 With a melee touch attack you can dispel an illusion or return a
-creature to its natural form. This functions as *[dispel
-magic](../../spells/dispelMagic.html#_dispel-magic)* directed at the
+creature to its natural form. This functions as *[dispel magic]* directed at the
 effect in question, except you receive a +2 enhancement bonus on your
 dispel check and you can only dispel illusions or changes in form
 created by supernatural effects or spells. If multiple effects are
@@ -587,8 +577,7 @@ positioning. You can move any allies within range to any other space of
 your choosing within range. Those spaces need not be in line of sight or
 line of effect from your original position, but must be open locations
 on surfaces able to support the creatures teleported. Except as noted
-above, this spell otherwise functions as *[dimension
-door](../../spells/dimensionDoor.html#_dimension-door)*.
+above, this spell otherwise functions as *[dimension door]*.
 
 
 
@@ -675,7 +664,7 @@ When you cast this spell, any good creature within range is healed for
 1d6 points of damage per two caster levels. All evil creatures within
 range take the same amount as damage instead (a successful Will save
 halves this damage). In addition, all allies and enemies within range
-are affected as if by the *[prayer](../../spells/prayer.html#_prayer)*
+are affected as if by the *[prayer]*
 spell for 1 round per caster level.
 
 
@@ -743,12 +732,12 @@ that round at the beginning of its turn (their choice).
     extended, silent, or still spell.
 
 These effects are not cumulative with similar effects, such as those
-provided by *[haste](../../spells/haste.html#_haste)* or a
-*[speed](../../magicItems/weapons.html#_weapons-speed)* weapon, nor do
+provided by *[haste]* or a
+*[speed]* weapon, nor do
 they actually grant an extra action, so you can't use it to cast a
 second spell or otherwise take an extra action in the round. *[Blessing
 of fervor]* does not stack with
-*[haste](../../spells/haste.html#_haste)*.
+*[haste]*.
 
 
 
@@ -831,15 +820,14 @@ creature cannot speak that or any language.
 
 You gain the scent special quality, including the ability to track by
 scent. You receive a +8 competence bonus on
-[Perception](../../skills/perception.html#_perception) checks involving
+[Perception] checks involving
 smell and a +4 competence bonus on
-[Survival](../../skills/survival.html#_survival) checks to track using
+[Survival] checks to track using
 scent. You take a -4 penalty on saving throws against odor-related
-effects such as the stench ability and *[stinking
-cloud](../../spells/stinkingCloud.html#_stinking-cloud)*. A creature
+effects such as the stench ability and *[stinking cloud]*. A creature
 under the effects of *[bloodhound]* can detect poison by
 scent with a DC 20
-[Perception](../../skills/perception.html#_perception) check.
+[Perception] check.
 
 
 
@@ -972,11 +960,9 @@ for the *[bow spirit]* to use, and it expends ammunition as
 if used by you.
 
 A *[bow spirit]* occupies your space, and moves with you.
-It cannot be attacked or harmed by physical attacks, but *[dispel
-magic](../../spells/dispelMagic.html#_dispel-magic)*,
-*[disintegrate](../../spells/disintegrate.html#_disintegrate)*, a
-*sphere of annihilation*, or a *[rod of
-cancellation](../../magicItems/rods.html#_rod-of-cancellation)* affects
+It cannot be attacked or harmed by physical attacks, but *[dispel magic]*,
+*[disintegrate]*, a
+*sphere of annihilation*, or a *[rod of cancellation]* affects
 it. A *[bow spirit]*'s AC against touch attacks is 10 +
 your Dexterity modifier.
 
@@ -1028,10 +1014,9 @@ points of damage when applied and cannot be removed, even temporarily.
 In addition, a *[greater brand]* blazes as bright as a
 torch when brought within 30 feet of a visible symbol of your faith.
 While the symbol is blazing, the recipient is sickened. Like the effects
-of *[bestow curse](../../spells/bestowCurse.html#_bestow-curse)*, a
+of *[bestow curse]*, a
 *[greater brand]* cannot be dispelled, but it can be
-removed by any means that removes a *[mark of
-justice](../../spells/markOfJustice.html#_mark-of-justice)*.
+removed by any means that removes a *[mark of justice]*.
 
 
 
@@ -1152,8 +1137,7 @@ Reflex save or catch fire. Each round, burning creatures may attempt a
 Reflex save to quench the flames; failure results in another 1d6 points
 of fire damage. Flammable items worn by a creature must also save or
 take the same damage as the creature. If a creature or object is already
-on fire, it suffers no additional effects from *[burning
-gaze]*.
+on fire, it suffers no additional effects from *[burning gaze]*.
 
 Note that this spell does not grant an actual gaze attack—foes and
 allies are not in danger of catching on fire simply by meeting your
@@ -1185,8 +1169,7 @@ only magical restraints receive a saving throw.
 
 You can also target a creature that is grappling or otherwise
 restraining you (such as by adhesive or the swallow whole ability) with
-the spell. You don't need to make a touch attack to use *[burst
-bonds]* against a creature, and you can cast this spell
+the spell. You don't need to make a touch attack to use *[burst bonds]* against a creature, and you can cast this spell
 without making a concentration check while grappled or pinned. The
 creature does not take damage as above. If you are grappled and your
 target fails its save, you may make an immediate attempt to break the
@@ -1254,10 +1237,9 @@ into stone. Once per round, you may deliver a touch attack that inflicts
 1d4 points of Dexterity damage and slows the target (as the spell) for 1
 round. A successful Fortitude save negates the slow effect but not the
 ability damage. A target reduced to 0 Dexterity is petrified
-permanently. *[Break
-enchantment](../../spells/breakEnchantment.html#_break-enchantment)*,
-*[restoration](../../spells/restoration.html#_restoration)*, or *[stone
-to flesh](../../spells/stoneToFlesh.html#_stone-to-flesh)* can reverse
+permanently. *[Break enchantment]*,
+*[restoration]*, or *[stone
+to flesh]* can reverse
 the effects of *[calcific touch]*.
 
 
@@ -1287,9 +1269,9 @@ so the time it takes to arrive depends on how close an animal of the
 desired type is when you cast the spell. If there is no animal of that
 type capable of reaching you within the spell's duration, you are aware
 of this fact, but the spell is wasted.
-[Knowledge](../../skills/knowledge.html#_knowledge) of the local fauna
+[Knowledge] of the local fauna
 makes this spell more effective, and the GM may permit a
-[Knowledge](../../skills/knowledge.html#_knowledge) (nature) skill check
+[Knowledge] (nature) skill check
 (DC 15) to know what animals can be found in an area.
 
 When the called animal arrives, it approaches to within 5 feet of you
@@ -1405,11 +1387,10 @@ many creatures.
 With a melee touch attack you blast a single creature and disrupt any
 magic controlling it. The target takes 2d8 points of damage + 1 point
 per caster level (maximum +15). In addition, you make a dispel check
-against any *[magic jar](../../spells/magicJar.html#_magic-jar)* effect
+against any *[magic jar]* effect
 (including a ghost's malevolence ability) or enchantment (compulsion)
 spells on the target creature, starting with the highest level spells
-and proceeding to lower level spells. Treat this as a targeted *[dispel
-magic](../../spells/dispelMagic.html#_dispel-magic)* spell, except
+and proceeding to lower level spells. Treat this as a targeted *[dispel magic]* spell, except
 *[cast out]* can dispel one such spell for every four caster
 levels you possess. A successful Will save halves the damage and limits
 the dispelling to a single spell or effect.
@@ -1460,7 +1441,7 @@ from the target, the spell ends.
 You fade into the background, and while you are not truly invisible, you
 are hard to pinpoint due to your translucent state. While under the
 effects of this spell, you gain a +4 bonus on
-[Stealth](../../skills/stealth.html#_stealth) checks and have
+[Stealth] checks and have
 concealment from creatures more than 5 feet away (attacks have a 20%
 miss chance).
 
@@ -1485,13 +1466,11 @@ sorcerer/wizard 9
 **Saving Throw** Reflex partial, see text; **Spell Resistance** no
 
 You create two Colossal-sized masses of rock, dirt, and stone and slam
-them together against a single creature between them. The *[clashing
-rocks]* appear up to 30 feet away from the target on
+them together against a single creature between them. The *[clashing rocks]* appear up to 30 feet away from the target on
 opposite sides and rush toward it with a mighty grinding crash. You must
 make a ranged touch attack to hit the target with the rocks. The
 *[clashing rocks]* ignore concealment and cover, and if
-there is a solid barrier between the target and either of the *[clashing
-rocks]*, the spell has a +28 bonus on the Strength
+there is a solid barrier between the target and either of the *[clashing rocks]*, the spell has a +28 bonus on the Strength
 check to burst through the barrier and continue unimpeded to the target.
 A creature struck by the *[clashing rocks]* takes 20d6
 points of bludgeoning damage and is knocked prone. If the target fails a
@@ -1532,8 +1511,7 @@ points of damage + 1 point per caster level (maximum +25) and ends any
 and all of the following adverse conditions affecting you: ability
 damage, blinded, confused, dazzled, deafened, diseased, exhausted,
 fatigued, nauseated, poisoned, and sickened. In addition,
-*[cleanse]* functions as *[break
-enchantment](../../spells/breakEnchantment.html#_break-enchantment)*
+*[cleanse]* functions as *[break enchantment]*
 upon a single additional effect of your choice that is affecting you and
 that can be legally affected by this effect.
 
@@ -1593,7 +1571,7 @@ This spell provides the subject with some degree of protection from the
 harmful effects of the sun. The cloaked subject treats environmental
 heat due to sun exposure as one level less: severe heat is considered
 very hot conditions, while very hot is considered average temperature
-(see [heat dangers](../../environment.html#_heat-dangers)). The *[cloak
+(see [heat dangers]). The *[cloak
 of shade]* also reduces any penalties from sunlight by
 1. The spell does not, however, eliminate the effects of direct sunlight
 on creatures vulnerable to sunlight. *[Cloak of shade]*
@@ -1747,9 +1725,8 @@ antipaladin 2, inquisitor 2, paladin 2
 
 You grant the touched creature limited protection from magical effects
 that inflict damage based on the target creature's alignment, such as
-*[holy smite](../../spells/holySmite.html#_holy-smite)*, *[order's
-wrath](../../spells/orderSWrath.html#_order-s-wrath)*, a paladin's smite
-evil attack, or an *[unholy](../../magicItems/weapons.html#_unholy)*
+*[holy smite]*, *[order's wrath]*, a paladin's smite
+evil attack, or an *[unholy]*
 weapon. Choose one alignment type: chaos, evil, good, or law. The
 subject takes 5 less points of damage from effects that specifically
 harm creatures of that alignment. The value of the protection increases
@@ -1814,7 +1791,7 @@ the target, the spell ends.
 **Saving Throw**Will negates; **Spell Resistance**yes
 
 The target of *[crafter's curse]* takes a -5 penalty
-on all [Craft](../../skills/craft.html#_craft) skill checks while the
+on all [Craft] skill checks while the
 spell lasts.
 
 
@@ -1838,7 +1815,7 @@ spell lasts.
 (harmless)
 
 The target is struck by inspiration and gains a +5 luck bonus on its
-next [Craft](../../skills/craft.html#_craft) skill check.
+next [Craft] skill check.
 
 
 
@@ -1876,7 +1853,7 @@ a saving throw to avoid falling in if they are affected by the pushing
 effect.
 
 Creatures who fall into the pit take falling damage as normal. The pit's
-coarse stone walls have a [Climb](../../skills/climb.html#_climb) DC of
+coarse stone walls have a [Climb] DC of
 25. When the duration of the spell ends, creatures within the hole rise
 up with the bottom of the pit until they are standing on the surface
 over the course of a single round.
@@ -1941,17 +1918,15 @@ or even your own treasure vault.
 
 You curse the target with a thirst no drink can quench. On a failed
 saving throw, the target begins to
-[dehydrate](../../environment.html#_starvation-and-thirst). The effects
+[dehydrate]. The effects
 of this spell cannot inflict more nonlethal damage than the target has
 hit points. No amount of drinking can counter this effect, although the
 target still experiences the other normal effects of any liquid imbibed
 (such as poisons or potions). *[Cup of dust]*can be
-removed with a *[break
-enchantment](../../spells/breakEnchantment.html#_break-enchantment),
-[limited wish](../../spells/limitedWish.html#_limited-wish),
-[miracle](../../spells/miracle.html#_miracle), [remove
-curse](../../spells/removeCurse.html#_remove-curse),*or
-*[wish](../../spells/wish.html#_wish)* spell, but effects suffered as a
+removed with a *[break enchantment],
+[limited wish],
+[miracle], [remove curse],*or
+*[wish]* spell, but effects suffered as a
 result of dehydration must be healed by normal means.
 
 
@@ -1981,7 +1956,7 @@ illuminates its normal area, even if it does not have any oil in it. For
 the purposes of spells or effects targeting it the lantern always acts
 as if in your possession even when not directly on your person.
 A*[dancing lantern]* can be made permanent with a
-*[permanency](../../spells/permanency.html#_permanency)* spell (CL 9th,
+*[permanency]* spell (CL 9th,
 2,500 gp).
 
 
@@ -2142,11 +2117,10 @@ mind-affecting]; **Level** bard 4, inquisitor 4
 You speak out against a single creature within line of sight and turn
 possible allies against it by drawing upon the power of your voice and
 conviction. Creatures in the area who can see the denounced creature
-must make a Will saving throw or have their [starting
-attitude](../../skills/diplomacy.html) toward the denounced creature
+must make a Will saving throw or have their [starting attitude] toward the denounced creature
 worsened by two levels. For example, creatures previously indifferent to
 the subject turn unfriendly.
-[Diplomacy](../../skills/diplomacy.html#_diplomacy) checks made to
+[Diplomacy] checks made to
 reverse the effects of *[denounce]* are made at a -10
 penalty.
 
@@ -2169,8 +2143,7 @@ penalty.
 
 **Saving Throw**none; **Spell Resistance**no
 
-This spell functions like *[detect animals or
-plants](../../spells/detectAnimalsOrPlants.html#_detect-animals-or-plants),*
+This spell functions like *[detect animals or plants],*
 except it detects creatures of the aberration type.
 
 
@@ -2260,7 +2233,7 @@ Make a combat maneuver check and apply its results to each creature in
 the area. Your CMB for this bull rush is equal to your caster level plus
 your Charisma modifier. This bull rush does not provoke an attack of
 opportunity. A *[discordant blast]* cannot penetrate
-a *[silence](../../spells/silence.html#_silence)* spell (or any similar
+a *[silence]* spell (or any similar
 magical silence effect).
 
 
@@ -2393,15 +2366,14 @@ seek to absorb)
 (harmless)
 
 *[Draconic reservoir]* functions as *[protection
-from
-energy](../../spells/protectionFromEnergy.html#_protection-from-energy)*,
+from energy]*,
 absorbing 6 points of one type of energy damage per caster level (acid,
 cold, electricity, or fire, maximum 60 points). Each round, as a swift
 action, the subject can release 1d6 points of the absorbed energy and
 apply it to any melee attack, as if using an *acidic*,
-*[flaming](../../magicItems/weapons.html#_weapons-flaming)*,
-*[frost](../../magicItems/weapons.html#_weapons-frost)*, or
-*[shock](../../magicItems/weapons.html#_weapons-shock)* weapon. The
+*[flaming]*,
+*[frost]*, or
+*[shock]* weapon. The
 first creature the subject strikes with this attack takes the energy
 damage in addition to any other consequences of the attack. Releasing
 energy in this way does not “free up” space to absorb still more energy;
@@ -2412,14 +2384,10 @@ damage as normal from that energy type. Once the energy has been
 released, the spell is discharged.
 
 *[Draconic reservoir]* does not stack with
-*[protection from
-energy](../../spells/protectionFromEnergy.html#_protection-from-energy)*.
+*[protection from energy]*.
 *[Draconic reservoir]* overlaps (and does not
-stack with) *[resist
-energy](../../spells/resistEnergy.html#_resist-energy)*. If a character
-is warded by *[draconic reservoir]* and *[resist
-energy](../../spells/resistEnergy.html#_resist-energy)*, *[draconic
-reservoir]* absorbs damage until it reaches its
+stack with) *[resist energy]*. If a character
+is warded by *[draconic reservoir]* and *[resist energy]*, *[draconic reservoir]* absorbs damage until it reaches its
 maximum limit.
 
 
@@ -2484,7 +2452,7 @@ no
 A shower of iridescent black particles clings to and extinguishes
 torches, lanterns, sunrods, and similar mundane light sources and
 dispels any spell of 2nd level or lower with the light descriptor (as
-*[dispel magic](../../spells/dispelMagic.html#_dispel-magic)*).
+*[dispel magic]*).
 Creatures in the area must make a Fortitude save or become fatigued.
 
 
@@ -2665,12 +2633,12 @@ dust worth 500 gp)
 **Duration** up to 1 minute/level; see text
 
 You place yourself in a state of suspended animation, similar to
-*[temporal stasis](../../spells/temporalStasis.html#_temporal-stasis)*.
+*[temporal stasis]*.
 At the time of casting, you choose when the stasis will expire, up to
 the maximum duration of the spell. Until the duration ends, time ceases
 to flow for you, and all bodily functions cease. No force or effect can
 harm you until the spell expires or is removed, such as by a successful
-*[dispel magic](../../spells/dispelMagic.html#_dispel-magic)* spell.
+*[dispel magic]* spell.
 
 
 
@@ -2751,12 +2719,12 @@ creatures. This spell allows you to leave your body and subconsciously
 monitor the immediate area around any depiction of your image whether
 one, hundreds, or even thousands. Each such image has the full range of
 your normal senses (sight, hearing, smell, etc.) and you can make a
-[Perception](../../skills/perception.html#_perception) check to notice
+[Perception] check to notice
 anything occurring nearby. The DC of this check is always 10 greater
 than what it would be if you were actually present at that location, so
 even if you would normally notice something automatically (such as
 talking, normally a DC of 0), you would need to make a DC 10
-[Perception](../../skills/perception.html#_perception) check to notice
+[Perception] check to notice
 it.
 
 You may, at any time, choose to fill one specific image within range
@@ -2780,8 +2748,7 @@ your consciousness departs from an object bearing your likeness, it
 immediately reverts to the appearance it had before you entered it. If
 someone destroys or damages the image you return to your body unharmed.
 The spell lasts until you cease concentrating, or until it is terminated
-by some outside means, such as a *[dispel
-magic](../../spells/dispelMagic.html#_dispel-magic)* cast upon either
+by some outside means, such as a *[dispel magic]* cast upon either
 the image or your body, or if your body is killed.
 
 
@@ -2817,7 +2784,7 @@ action.
 
 Furthermore, if the creature is interacted with, or questioned while
 under the effects of this spell, it is considered to have an attitude of
-Helpful (see the [Diplomacy](../../skills/diplomacy.html#_diplomacy)
+Helpful (see the [Diplomacy]
 skill, *Core Rulebook* 94), though any advice or answers it gives may be
 disjointed or stream of consciousness due to its euphoric state.
 
@@ -2828,8 +2795,7 @@ disjointed or stream of consciousness due to its euphoric state.
 
 **School** transmutation; **Level** summoner 3
 
-This spell functions as *[lesser evolution
-surge]*, except that you can grant any
+This spell functions as *[lesser evolution surge]*, except that you can grant any
 
 
 ## evolution whose total cost does not exceed 4 evolution points.
@@ -2837,8 +2803,7 @@ surge]*, except that you can grant any
 
 **School** transmutation; **Level** summoner 4
 
-This spell functions as *[lesser evolution
-surge]*, except that you can grant any two
+This spell functions as *[lesser evolution surge]*, except that you can grant any two
 
 
 ## evolutions whose total cost does not exceed 6 evolution points.
@@ -2895,7 +2860,7 @@ feet. A Medium or smaller creature falls prone in the pit unless it
 succeeds on a Reflex save. With a successful save, it can choose to land
 harmlessly on its feet in the pit or hop to an adjacent square; this
 movement does not provoke attacks of opportunity. A creature can escape
-a 5-foot-deep pit with a DC 5 [Climb](../../skills/climb.html#_climb)
+a 5-foot-deep pit with a DC 5 [Climb]
 check. Larger creatures may ignore pits smaller than their size.
 
 The earth excavated by this spell is ordinarily distributed harmlessly
@@ -2960,19 +2925,17 @@ the spell has no further effect.
 
 You curse the target with a hunger no food can assuage. On a failed
 saving throw, the target begins to
-[starve](../../environment.html#_starvation-and-thirst). The effects of
+[starve]. The effects of
 this spell cannot inflict more nonlethal damage than the target has hit
 points. No amount of eating can counter the effect and, further, even
 attempting to eat causes the target to become nauseated for 1 round
 unless they make a DC 12 Fortitude save. The target still experiences
 the other normal effects of anything consumed (such as poisons or
 potions). *[Feast of ashes]* can be removed with a
-*[break
-enchantment](../../spells/breakEnchantment.html#_break-enchantment),
-[limited wish](../../spells/limitedWish.html#_limited-wish),
-[miracle](../../spells/miracle.html#_miracle), [remove
-curse](../../spells/removeCurse.html#_remove-curse),*or
-*[wish](../../spells/wish.html#_wish)* spell, but effects suffered as a
+*[break enchantment],
+[limited wish],
+[miracle], [remove curse],*or
+*[wish]* spell, but effects suffered as a
 result of starvation must be healed by normal means.
 
 
@@ -3308,16 +3271,14 @@ Resistance** yes (object, harmless)
 
 With a touch, you cause a glowing rune to appear on a single weapon,
 granting that weapon the
-*[flaming](../../magicItems/weapons.html#_weapons-flaming)* property
+*[flaming]* property
 (and allowing it to cause an extra 1d6 points of fire damage on a
 successful hit). If you are using the judgment class feature, your
-weapon gains the *[flaming
-burst](../../magicItems/weapons.html#_weapons-flaming-burst)* property
+weapon gains the *[flaming burst]* property
 instead. The spell functions only for weapons that you wield. If the
 weapon leaves your hand for any reason, the spell effect ends. The
 effects of this spell do not stack with any existing
-*[flaming](../../magicItems/weapons.html#_weapons-flaming)* or *[flaming
-burst](../../magicItems/weapons.html#_weapons-flaming-burst)* weapon
+*[flaming]* or *[flaming burst]* weapon
 property that the target weapon may already possess.
 
 
@@ -3339,7 +3300,7 @@ property that the target weapon may already possess.
 
 **Saving Throw**Fortitude negates; **Spell Resistance**yes
 
-This spell functions as *[flare](../../spells/flare.html#_flare),*
+This spell functions as *[flare],*
 except it affects all creatures in a 10-foot-radius burst from the
 target point.
 
@@ -3394,7 +3355,7 @@ apart
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 (harmless)
 
-This spell functions as *[fly](../../spells/fly.html)* (*Core Rulebook*
+This spell functions as *[fly]* (*Core Rulebook*
 284), save that it can target numerous creatures and lasts longer.
 
 
@@ -3441,18 +3402,16 @@ inquisitor 2
 
 Choose one alignment type: chaotic, evil, good, or lawful. You gain the
 ability to follow the trail of a strong or overwhelming aura of that
-alignment (see *[detect
-evil](../../spells/detectEvil.html#_detect-evil)*, *Core Rulebook* 266).
+alignment (see *[detect evil]*, *Core Rulebook* 266).
 This is treated as tracking using the scent special quality, except you
 are following the traces of their aura upon the ground rather than their
 scent, and you receive no bonus on
-[Perception](../../skills/perception.html#_perception) checks. At 10th
+[Perception] checks. At 10th
 level, you can track the trail of creatures with a moderate alignment
 aura as well.
 
 When you use this spell to track a given alignment, it gains the
-descriptor of the opposite alignment. For example, when *[follow
-aura]* is used to track evil, it gains the good
+descriptor of the opposite alignment. For example, when *[follow aura]* is used to track evil, it gains the good
 descriptor.
 
 
@@ -3716,8 +3675,7 @@ that it affects multiple targets.
 
 **Duration** until landing or 1 minute/level (D)
 
-You take no damage from falls (as if from *[feather
-fall](../../spells/featherFall.html#_feather-fall)*). In addition, you
+You take no damage from falls (as if from *[feather fall]*). In addition, you
 can move up to 5 feet in any horizontal direction for every 1 foot you
 fall, at a speed of 60 feet per round. You cannot use this spell to
 actually gain height, merely coast in other directions as you fall. If
@@ -3799,13 +3757,13 @@ grove appears from nowhere even in the most barren, rocky soil
 regardless of season, but the spell must be cast outside on open ground.
 
 The area within the grove is temperate and comfortable, like that of a
-*[tiny hut](../../spells/tinyHut.html#_tiny-hut),* although the grove
+*[tiny hut],* although the grove
 provides no illumination and provides no protection from the elements.
 The water in the grove's spring is clean and drinkable. Additionally,
 the trees provide a variety of ripe fruit, regardless of season, which
-acts as a *[goodberry](../../spells/goodberry.html#_goodberry)*spell for
+acts as a *[goodberry]*spell for
 up to eight people. The grove is warded with an
-*[alarm](../../spells/alarm.html#_alarm)* spell that alerts you whenever
+*[alarm]* spell that alerts you whenever
 any creature enters the area. Once the spell expires, the grove
 vanishes, including all fruit, water, and other materials from it,
 although any nourishment or healing gained from its effects remains.
@@ -3833,7 +3791,7 @@ determine your approximate distance from that area as well as the
 direction you must travel in order to reach it. You cannot determine the
 location of the area if you are on a different plane. The area counts as
 ”very familiar” for the purposes of
-*[teleport](../../spells/teleport.html#_teleport)* or similar spells.
+*[teleport]* or similar spells.
 You can only attune yourself to one location at a time. If you cast the
 spell at another spot you lose the ability to locate your original area.
 
@@ -3909,9 +3867,8 @@ inquisitor 3, witch 2
 
 You greatly enhance the ability of the subjects to communicate hidden
 messages to each other. Each target gains a +10 competence bonus on
-[Bluff](../../skills/bluff.html#_bluff) checks to send secret message to
-other recipients. Others using opposed [Sense
-Motive](../../skills/senseMotive.html#_sense-motive) checks to decipher
+[Bluff] checks to send secret message to
+other recipients. Others using opposed [Sense Motive] checks to decipher
 these messages receive a -5 penalty. All subjects affected by the spell
 must share a language to be able to pass messages.
 
@@ -3991,12 +3948,12 @@ burst gain a +2 sacred bonus on attack and damage rolls for 1 round.
 
 This spell augments your diplomacies. While under the effects of spell,
 you roll two dice each time you make a
-[Diplomacy](../../skills/diplomacy.html#_diplomacy) check to change a
+[Diplomacy] check to change a
 creature's attitude, taking the highest roll. If this results in a roll
 low enough to reduce the creature's attitude by a step, that creature
 gets some clue that you are manipulating it with a spell. Alternatively
 you can cast this spell before making a
-[Diplomacy](../../skills/diplomacy.html#_diplomacy) check to gather
+[Diplomacy] check to gather
 information, gaining a +5 competence bonus on the check.
 
 
@@ -4018,7 +3975,7 @@ within the pit, not just those on the bottom, takes 4d6 points of
 bludgeoning damage each round as the pit contracts and then returns to
 its normal size (a successful Reflex save halves this damage). The
 ever-shifting walls of the pit are quite difficult to scale and have a
-[Climb](../../skills/climb.html#_climb) DC of 35.
+[Climb] DC of 35.
 
 
 
@@ -4042,14 +3999,13 @@ ever-shifting walls of the pit are quite difficult to scale and have a
 Sharpening your perceptive abilities and tuning them against obfuscating
 effects, *[hunter's eye]* greatly enhances your senses
 against the target creature. You gain the ability to perceive the target
-when it is invisible or ethereal as though using the *[see
-invisibility](../../spells/seeInvisibility.html#_see-invisibility)*
+when it is invisible or ethereal as though using the *[see invisibility]*
 spell, and receive a +20 competence bonus on
-[Perception](../../skills/perception.html#_perception) checks to locate
+[Perception] checks to locate
 the target. You ignore concealment provided by fog or mist,
-*[blur](../../spells/blur.html#_blur)*,
-*[displacement](../../spells/displacement.html#_displacement)*,
-*[invisibility](../../spells/invisibility.html#_invisibility)*, and
+*[blur]*,
+*[displacement]*,
+*[invisibility]*, and
 similar effects affecting the target, but not concealment provided by
 darkness. This spell provides no benefits to your allies, and no
 benefits against creatures other than the target.
@@ -4077,11 +4033,10 @@ With a single primal howl, you strike fear in your opponents. Until the
 end of the spell's duration, you treat those affected by it as if they
 were your favored enemy, gaining a +2 bonus on weapon attack and damage
 rolls against them, and a +2 bonus on
-[Bluff](../../skills/bluff.html#_bluff),
-[Knowledge](../../skills/knowledge.html#_knowledge),
-[Perception](../../skills/perception.html#_perception), [Sense
-Motive](../../skills/senseMotive.html#_sense-motive), and
-[Survival](../../skills/survival.html#_survival) checks against them. If
+[Bluff],
+[Knowledge],
+[Perception], [Sense Motive], and
+[Survival] checks against them. If
 an affected creature is already one of your favored enemies, it is
 shaken instead. This is a mind-affecting fear effect.
 
@@ -4146,8 +4101,7 @@ Against immovable objects this stream instead allows you to make a
 Strength check to destroy the target. When attempting to break an
 object, the stream has an effective Strength equal to your caster level
 plus the ability score modifier as above. The Break DC depends on the
-object you're trying to break—see [Breaking
-Items](http://paizo.com/prd/additionalRules.html#_breaking-items).
+object you're trying to break—see [Breaking Items](http://paizo.com/prd/additionalRules.html#_breaking-items).
 
 *[Hydraulic torrent]* extinguishes any normal fires
 it encounters along its path. Magical fires are unaffected.
@@ -4178,7 +4132,7 @@ d20 roll (to a maximum of five rolls at 20th level).
 
 A target who can speak and has at least one free hand and who is aware
 of the spell and its effects (such as from a
-[Spellcraft](../../skills/spellcraft.html#_spellcraft) check to identify
+[Spellcraft] check to identify
 the spell as it is cast) can negate one reroll by spending a move action
 to utter a brief prayer or good luck charm to appease the spirits of ill
 fortune.
@@ -4201,10 +4155,10 @@ fortune.
 **Duration**1 minute/level (D)
 
 You surround yourself with an aura of innocence and trustworthiness. You
-gain a +10 competence bonus on [Bluff](../../skills/bluff.html#_bluff)
+gain a +10 competence bonus on [Bluff]
 skill checks to convince others of your innocence. They find it
 difficult to believe you capable of any wrongdoing. This bonus does not
-apply to other uses of the [Bluff](../../skills/bluff.html#_bluff)
+apply to other uses of the [Bluff]
 skill, such as feinting in combat, creating a diversion to hide, or
 communicating secret messages via innuendo, nor does it apply to any use
 of the skill to convince anyone of anything other than your complete
@@ -4361,7 +4315,7 @@ are teleporting.
 (harmless)
 
 The subject gains a +2 competence bonus on
-[Perception](../../skills/perception.html#_perception) checks and gains
+[Perception] checks and gains
 low-light vision. Subjects that have low-light vision double the
 distance they can see under the effects of this spell.
 
@@ -4468,10 +4422,8 @@ shell of tolerable living conditions. This shell enables the subjects to
 breathe freely, even underwater or in a vacuum, as well as making them
 immune to harmful gases and vapors, including inhaled diseases and
 poisons and spells like
-*[cloudkill](../../spells/cloudkill.html#_cloudkill)* and *[stinking
-cloud](../../spells/stinkingCloud.html#_stinking-cloud)*. In addition,
-the shell protects subjects from extremes of temperature (per *[endure
-elements](../../spells/endureElements.html#_endure-elements)*) as well
+*[cloudkill]* and *[stinking cloud]*. In addition,
+the shell protects subjects from extremes of temperature (per *[endure elements]*) as well
 as extremes of pressure.
 
 *[Life bubble]* does not provide protection from negative
@@ -4502,7 +4454,7 @@ necessarily equally, between up to 1 creature per caster level.
 **Duration** 1 round + 1 round/level (D)
 
 You create a glorious beam of brilliant radiance that acts as a *+1
-[holy](../../magicItems/weapons.html#_weapons-holy) lance* suitable for
+[holy] lance* suitable for
 your size. You must have a free hand when casting the spell and, once
 you call the lance into being, you cannot switch it to another hand or
 put it down without prematurely ending the spell. As a standard action
@@ -4544,15 +4496,15 @@ these liquid surfaces without any fear of stumbling (though if knocked
 prone, dragged under, or otherwise pulled off your feet you still sink
 in the liquid). For the duration of the spell, any creature of your size
 or smaller can attempt to follow you by making a DC 10
-[Acrobatics](../../skills/acrobatics.html#_acrobatics) check every
+[Acrobatics] check every
 round. Each such check allows it to move at half its normal land speed.
 If the creature takes a -5 penalty on its check it can move at its
 normal speed. If a creature fails an
-[Acrobatics](../../skills/acrobatics.html#_acrobatics) check, or if a
+[Acrobatics] check, or if a
 creature that's larger than you attempts to follow, it falls through,
 damaging the plants. Each time a creature falls through, all subsequent
 creatures take a cumulative -5 penalty on their
-[Acrobatics](../../skills/acrobatics.html#_acrobatics) checks when
+[Acrobatics] checks when
 traveling across that particular stretch of plants. As you move, the
 lily pads disappear behind you once you pass beyond the spell's range.
 Otherwise, they remain until the spell's duration expires.
@@ -4605,7 +4557,7 @@ natural attacks, but cannot attack any other creature.
 **Saving Throw**Will negates; see text; **Spell Resistance** yes
 
 *Marks of
-[Forbiddance](../../spells/forbiddance.html#_forbiddance)*magically
+[Forbiddance]*magically
 brand two creatures, preventing them from committing violence against
 one another. When you cast this spell choose one enemy and one ally
 within range. Both targets become branded with the sigil of forbiddance.
@@ -4639,14 +4591,12 @@ abilities.
 You mask and manipulate a spell's magic aura to make it harder to
 detect. Select one spell effect on the target creature or object. You
 must have either cast this spell yourself or have perceived it by means
-such as *[detect magic](../../spells/detectMagic.html#_detect-magic)* or
-*[arcane sight](../../spells/arcaneSight.html#_arcane-sight)*. Both the
+such as *[detect magic]* or
+*[arcane sight]*. Both the
 desired spell effect and *[mask dweomer]* are hidden from
-*[detect magic](../../spells/detectMagic.html#_detect-magic)*, although
-more powerful spells (such as *[arcane
-sight](../../spells/arcaneSight.html#_arcane-sight)*) pierce the
-deception if the caster succeeds on a Will save. *[Analyze
-dweomer](../../spells/analyzeDweomer.html#_analyze-dweomer)*
+*[detect magic]*, although
+more powerful spells (such as *[arcane sight]*) pierce the
+deception if the caster succeeds on a Will save. *[Analyze dweomer]*
 automatically detects both *[mask dweomer]* and any
 masked spell effects.
 
@@ -4672,8 +4622,8 @@ sorcerer/wizard 1
 
 You cause the target to forget what happened from the casting of the
 spell back to the beginning of its last turn. This may allow a retry on
-a [Diplomacy](../../skills/diplomacy.html#_diplomacy),
-[Intimidate](../../skills/intimidate.html#_intimidate), or opposed skill
+a [Diplomacy],
+[Intimidate], or opposed skill
 check, though only with respect to the target, not other creatures that
 may be present.
 
@@ -4703,8 +4653,8 @@ round, dropping held items as its nails and teeth elongate and sharpen.
 The target gains a bite attack and two claw attacks that deal damage
 appropriate for the creature's size, and for the remainder of the
 spell's duration the target behaves as if under simultaneous
-*[rage](../../spells/rage.html#_rage)* and
-*[confusion](../../spells/confusion.html#_confusion)* spells, attacking
+*[rage]* and
+*[confusion]* spells, attacking
 with its natural weapons in preference to other actions. During the
 final round of the spell's duration, the target is again dazed as it
 returns to its normal state.
@@ -4800,15 +4750,13 @@ spell, but animal companions are. If you have an animal companion, it
 does not become hostile, but as long as you remain cursed, your animal
 companion takes a -2 penalty on all attack rolls, skill checks, and
 saving throws. The target also takes a -10 penalty on
-[Survival](../../skills/survival.html#_survival) skill checks as the
+[Survival] skill checks as the
 weather and environment themselves seem to conspire to cause trouble.
 
-*[Nature's exile]* can be removed with *[break
-enchantment](../../spells/breakEnchantment.html#_break-enchantment)*,
-*[limited wish](../../spells/limitedWish.html#_limited-wish)*,
-*[miracle](../../spells/miracle.html#_miracle)*, *[remove
-curse](../../spells/removeCurse.html#_remove-curse)*, or
-*[wish](../../spells/wish.html#_wish)*.
+*[Nature's exile]* can be removed with *[break enchantment]*,
+*[limited wish]*,
+*[miracle]*, *[remove curse]*, or
+*[wish]*.
 
 
 
@@ -4915,7 +4863,7 @@ inflicting 1d6 points of nonlethal damage per round for 1 round per
 level (maximum 10 rounds). Additionally, the affected creature is
 sickened for the spell's duration, and the caster gains a +4
 circumstance bonus on
-[Intimidate](../../skills/intimidate.html#_intimidate) checks against the target.
+[Intimidate] checks against the target.
 
 
 **School**evocation [evil]; **Level**sorcerer/wizard 5, witch 5
@@ -4982,8 +4930,7 @@ witch 2
 Your senses become preternaturally keen, and you gain insight into
 subtle behavioral cues. For the duration of the spell, you receive a +5
 competence bonus on
-[Perception](../../skills/perception.html#_perception) and [Sense
-Motive](../../skills/senseMotive.html#_sense-motive) checks.
+[Perception] and [Sense Motive] checks.
 
 
 
@@ -5030,8 +4977,7 @@ provided the corpse was not, in fact, killed by another, or if the
 killer is dead or no longer on the same plane, the spell fails.
 *[Phantasmal revenge]* makes no moral judgments; it
 targets winners of fair fights just as easily as murderers. Any given
-body can only be targeted by a *[phantasmal
-revenge]* spell once.
+body can only be targeted by a *[phantasmal revenge]* spell once.
 
 
 
@@ -5058,7 +5004,7 @@ apart
 You implant within the minds of your targets the illusion that they are
 engulfed in tangled webs teeming with swarms of tiny spiders. Those who
 fail to disbelieve the *[phantasmal web]* are treated
-as if in a *[web](../../spells/web.html#_web)* spell, but must also make
+as if in a *[web]* spell, but must also make
 a Fortitude save at the beginning of each turn or become nauseated for
 that round by the phantasmal spiders.
 
@@ -5066,8 +5012,7 @@ As the *[phantasmal web]* exists only in the minds of
 the targets, it cannot be burned or destroyed, and it provides no cover
 (though it does provide concealment) against attacks made by the
 targets. Targets cannot escape the *[phantasmal web]*
-by moving, even by *teleportation*. *[Freedom of
-movement](../../spells/freedomOfMovement.html#_freedom-of-movement)*
+by moving, even by *teleportation*. *[Freedom of movement]*
 allows unobstructed movement but does not negate the concealment or
 nausea effects.
 
@@ -5255,16 +5200,14 @@ attacks. When a creature makes an attack of opportunity against you, the
 *[protective spirit]* makes an immediate attack
 using your base attack bonus plus your Dexterity modifier. On a
 successful hit, the spirit does no damage, but it causes the attack of
-opportunity to automatically miss. A *[protective
-spirit]* can defend against a number of attacks of
+opportunity to automatically miss. A *[protective spirit]* can defend against a number of attacks of
 opportunity equal to your Dexterity bonus (minimum 1) per round.
 
 A *[protective spirit]* occupies your space, and
 moves with you. It cannot be attacked or harmed by physical attacks, but
-*[dispel magic](../../spells/dispelMagic.html#_dispel-magic)*,
-*[disintegrate](../../spells/disintegrate.html#_disintegrate)*, a
-*sphere of annihilation*, or a *[rod of
-cancellation](../../magicItems/rods.html#_rod-of-cancellation)* affects
+*[dispel magic]*,
+*[disintegrate]*, a
+*sphere of annihilation*, or a *[rod of cancellation]* affects
 it. A *[protective spirit]*'s AC against touch
 attacks is 10 + your Dexterity modifier.
 
@@ -5409,7 +5352,7 @@ section of the *[rampart]* whose hit points drop to 0 is
 breached. If a creature tries to break through the *[rampart]*
 with a single attack, the DC for the Strength check is 60. A creature
 can climb over the *[rampart]* with a DC 20
-[Climb](../../skills/climb.html#_climb) check.
+[Climb] check.
 
 
 
@@ -5450,8 +5393,7 @@ but it is negated by magical silence.
 
 **School** conjuration (healing); **Level** summoner 3
 
-This spell functions as *[lesser rejuvenate
-eidolon]*, except that it cures 3d10 points
+This spell functions as *[lesser rejuvenate eidolon]*, except that it cures 3d10 points
 
 
 ## of damage +1 point per caster level (maximum +10).
@@ -5459,8 +5401,7 @@ eidolon]*, except that it cures 3d10 points
 
 **School** conjuration (healing); **Level** summoner 5
 
-This spell functions as *[lesser rejuvenate
-eidolon]*, except that it cures 5d10 points
+This spell functions as *[lesser rejuvenate eidolon]*, except that it cures 5d10 points
 
 
 ## of damage +1 point per caster level (maximum +20).
@@ -5547,7 +5488,7 @@ your foe makes only a single save against all effects.
 
 This spell immediately ends if your weapon leaves your hand.
 *[Resounding blow]* stacks with the
-*[thundering](../../magicItems/weapons.html#_thundering)* weapon
+*[thundering]* weapon
 property.
 
 
@@ -5574,9 +5515,7 @@ returning. Anyone casting a spell that would communicate with the dead
 creature, return it to life, or turn it into an undead creature must
 succeed on a caster level check with a DC of 11 plus your caster level.
 *[Rest eternal]* cannot be dispelled, but it can be
-negated with *[remove
-curse](../../spells/removeCurse.html#_remove-curse)* or *[break
-enchantment](../../spells/breakEnchantment.html#_break-enchantment)*.
+negated with *[remove curse]* or *[break enchantment]*.
 
 
 
@@ -5607,8 +5546,7 @@ character level in hit points). If a subject completes a full day's
 rest, it regains three times its character level in hit points. Any
 significant interruption during the rest (such as being awoken) prevents
 any healing that night and ends the effect of this spell on the awakened
-subject. Any healing acquired while under the effects of *[restful
-sleep]* is considered natural healing, and has no affect
+subject. Any healing acquired while under the effects of *[restful sleep]* is considered natural healing, and has no affect
 on effects requiring magical healing to cure.
 
 
@@ -5630,12 +5568,11 @@ on effects requiring magical healing to cure.
 
 *[Resurgent transformation]* grants you the
 ability to recover from deadly wounds with restored vitality and a will
-to fight, but at a price. Once cast, *[resurgent
-transformation]* lies dormant for up to 1
+to fight, but at a price. Once cast, *[resurgent transformation]* lies dormant for up to 1
 hour per level until you are reduced to one-quarter hit points or less.
 Once triggered, you immediately gain a +4 enhancement bonus to
 Constitution and Strength, damage reduction 5/—, and the benefits of a
-*[haste](../../spells/haste.html#_haste)* spell. In addition, you heal
+*[haste]* spell. In addition, you heal
 4d8 points of damage + 1 point per caster level (maximum +25).
 *[Resurgent transformation]* can even save
 you from death by healing the damage from an otherwise mortal wound,
@@ -5647,10 +5584,8 @@ Wisdom damage.
 The advantages from your transformation persist for 1 round per caster
 level after the spell is triggered. Once the spell ends, it takes a
 heavy toll, leaving you exhausted and inflicting 1d4 points of
-Constitution damage. Utilizing more than one *[resurgent
-transformation]* in a day is particularly
-risky. The expiration of a second *[resurgent
-transformation]* in a 24-hour period inflicts
+Constitution damage. Utilizing more than one *[resurgent transformation]* in a day is particularly
+risky. The expiration of a second *[resurgent transformation]* in a 24-hour period inflicts
 an additional 1d4 points of Constitution damage and results in death
 from system shock unless you succeed at a DC 15 Fortitude save, made
 after the Constitution damage has been applied.
@@ -5769,14 +5704,11 @@ duration. Creatures caught in a *[river of wind]* take
 4d6 nonlethal damage and are knocked prone. A successful Fortitude save
 halves the damage and prevents being knocked prone.
 
-A creature that begins its turn wholly or partially within a *[river of
-wind]* must make a Fortitude save or be pushed 20 feet
+A creature that begins its turn wholly or partially within a *[river of wind]* must make a Fortitude save or be pushed 20 feet
 in the wind's direction of flow, take 2d6 nonlethal damage, and be
 knocked prone—a successful Fortitude save means the creature merely
-takes 1d6 nonlethal damage. Creatures under the effect of *[freedom of
-movement](../../spells/freedomOfMovement.html#_freedom-of-movement)* and
-creatures with the air subtype are unaffected by a *[river of
-wind]*.
+takes 1d6 nonlethal damage. Creatures under the effect of *[freedom of movement]* and
+creatures with the air subtype are unaffected by a *[river of wind]*.
 
 
 
@@ -5858,10 +5790,10 @@ the spell ends.
 You and your mount form a perfect synergy that endows both of you with
 advantages based upon how far you travel each round. For every 5 feet
 your mount moves in a given round, you gain a +1 competence bonus on
-[Ride](../../skills/ride.html#_ride) checks and both you and your mount
+[Ride] checks and both you and your mount
 gain a +1 morale bonus on damage rolls made with weapons or natural
 attacks for 1 round. For instance, if your mount traveled 40 feet in a
-round, you would gain a +8 bonus on [Ride](../../skills/ride.html#_ride)
+round, you would gain a +8 bonus on [Ride]
 checks and you and your mount would both gain a +8 bonus on damage rolls
 for 1 round, to a maximum bonus equal to your caster level. You must be
 mounted to enjoy the benefits of this spell. If you dismount, get
@@ -5945,16 +5877,16 @@ apart
 You, or a willing creature you touch, lay down a trail of scents that
 only the creatures you designate at the time of casting can detect.
 These creatures find it very easy to follow this trail. They gain a +20
-competence bonus on any [Survival](../../skills/survival.html#_survival)
+competence bonus on any [Survival]
 checks made for the purpose of tracking the creature laying this trail.
 Subject creatures with the scent special ability gain a +10 competence
-bonus on Wisdom or [Survival](../../skills/survival.html#_survival)
+bonus on Wisdom or [Survival]
 checks to follow the trail.
 
 In addition, you can leave scent messages along the trail. Each word or
 emotion in this message requires spending a move action in the same
 spot. Subject creatures seeking to understand this message must make
-another DC 20 [Survival](../../skills/survival.html#_survival) check,
+another DC 20 [Survival] check,
 with a -1 penalty for every word or emotion in the message, in order to
 understand it. Creatures cannot benefit from this smell if they cannot
 use, or do not have, a sense of smell. Creatures can use this spell to
@@ -6018,9 +5950,7 @@ actually that person. However, if a creature fails its Will save by 5 or
 less they believe the corpse is that of someone who closely resembled
 the person they knew rather than a deliberate fake. This spell merely
 changes the appearance of the corpse. Any spell or effect that targets
-the corpse (such as *[speak with
-dead](../../spells/speakWithDead.html#_speak-with-dead)* or *[raise
-dead](../../spells/raiseDead.html#_raise-dead)*) treats it as if it
+the corpse (such as *[speak with dead]* or *[raise dead]*) treats it as if it
 still had its original appearance.
 
 
@@ -6047,14 +5977,13 @@ your land speed and can see, hear, and breathe normally within the
 *[seamantle]*, but attacks against you are treated as if you
 were under the surface of the water. You gain improved cover (+8 cover
 bonus to AC, +4 bonus on Reflex saves) against foes that do not have
-*[freedom of
-movement](../../spells/freedomOfMovement.html#_freedom-of-movement)*
+*[freedom of movement]*
 effects. The cover granted by the *[seamantle]* does not
-enable you to make [Stealth](../../skills/stealth.html#_stealth) checks
+enable you to make [Stealth] checks
 or prevent attacks of opportunity. Magical attacks against you are
 unaffected unless they require attack rolls or state that they do not
 function underwater (such as
-*[cloudkill](../../spells/cloudkill.html#_cloudkill)*).
+*[cloudkill]*).
 
 The *[seamantle]* blocks line of effect for any fire spell
 or supernatural fire effect, but enemies can attempt to use fire spells
@@ -6068,16 +5997,13 @@ forming a pseudopod of water, inflicting damage appropriate for your
 size. This slam attack has a reach of 30 feet. In addition, as a
 standard action, you can attempt to extinguish fires by touch. You
 automatically extinguish up to a 10-foot cube of normal fire. Against
-magical fire effects, your touch acts as *[dispel
-magic](../../spells/dispelMagic.html#_dispel-magic)*; this also applies
+magical fire effects, your touch acts as *[dispel magic]*; this also applies
 to any non-instantaneous fire affect that comes into contact with you
-(such as *[flame blade](../../spells/flameBlade.html#_flame-blade)*,
-*[flaming sphere](../../spells/flamingSphere.html#_flaming-sphere)*, or
-*[incendiary
-cloud](../../spells/incendiaryCloud.html#_incendiary-cloud)*). Even if
+(such as *[flame blade]*,
+*[flaming sphere]*, or
+*[incendiary cloud]*). Even if
 you fail to extinguish a fire, you are not harmed by it. A
-*[flaming](../../magicItems/weapons.html#_weapons-flaming)* or *[flaming
-burst](../../magicItems/weapons.html#_weapons-flaming-burst)* weapon
+*[flaming]* or *[flaming burst]* weapon
 that strikes you has its power suppressed for 1d4 rounds if the wielder
 fails a Fortitude save.
 
@@ -6101,9 +6027,7 @@ inquisitor 3, sorcerer/wizard 3, summoner 3, witch 3
 
 **Saving Throw** Will negates; **Spell Resistance** no
 
-Similar to *[detect
-thoughts](../../spells/detectThoughts.html#_detect-thoughts)*, *[seek
-thoughts]* allows you to sift through the surface
+Similar to *[detect thoughts]*, *[seek thoughts]* allows you to sift through the surface
 thoughts of those around you. You may scan for either the answer to a
 simple question (such as “Where is the hidden lair of the wererats?”) or
 for information on a general topic (such as the beliefs of an evil
@@ -6118,7 +6042,7 @@ You can maintain concentration on *[seek thoughts]*while
 you engage in normal conversation, allowing you to ask leading questions
 about topics of interest. A creature conversing with you while you
 concentrate can notice that you are distracted with a successful DC 25
-[Sense Motive](../../skills/senseMotive.html#_sense-motive) check.
+[Sense Motive] check.
 
 
 
@@ -6244,7 +6168,7 @@ functions like a scrying sensor. Upon casting this spell you can hear,
 see, or smell (any one, your choice) what your familiar is experiencing.
 You gain the benefits of any nonmagical special abilities your familiar
 has tied to the chosen sense (such as low-light vision or scent), but
-use your own [Perception](../../skills/perception.html#_perception)
+use your own [Perception]
 skill. You don't need line of sight or line of effect to your familiar,
 but you must have an active empathic link. You may change the sense you
 are sharing as a standard action. Unlike other scrying spells, share
@@ -6278,10 +6202,9 @@ scrying sensor.
 You cause an earthen or sandy surface to shift and churn within the
 area. The *[shifting sand]* obliterates tracks and is
 considered difficult terrain.
-[Acrobatics](../../skills/acrobatics.html#_acrobatics) checks in the
+[Acrobatics] checks in the
 area take a penalty equal to your caster level (maximum +10). Creatures
-entering or beginning their turn in the *[shifting
-sand]* must make a Reflex save each round or become
+entering or beginning their turn in the *[shifting sand]* must make a Reflex save each round or become
 entangled until the beginning of their next turn. If they attempt to
 move while entangled, they must make a second Reflex save or fall prone.
 Creatures with the stability racial trait (like dwarves) may apply it as
@@ -6314,8 +6237,8 @@ along or shallowly buried by the *[shifting sand]*.
 **Saving Throw** none; **Spell Resistance** no
 
 You examine an area at range as if you were searching for fine details
-with the [Perception](../../skills/perception.html#_perception) skill.
-Make a [Perception](../../skills/perception.html#_perception) check with
+with the [Perception] skill.
+Make a [Perception] check with
 a -5 penalty, modified as normal for conditions. No penalty is applied
 for distance. Apply the result against the DC for any hidden features,
 such as secret doors, traps, or hidden treasure. You must be able to see
@@ -6347,7 +6270,7 @@ A blast of furnace-hot wind blasts downward, inflicting 4d6 fire damage
 prone. A successful Fortitude save halves the fire damage and negates
 being knocked prone. Flying creatures forced into the ground by the
 powerful downdraft take damage as if they fell unless they make a DC 15
-[Fly](../../skills/fly.html#_fly) check, in which case they remain at
+[Fly] check, in which case they remain at
 their original altitude. Any creature that takes damage from a sirocco
 becomes fatigued (or exhausted, if already fatigued, such as from a
 previous round of exposure to a *[sirocco]. Creatures
@@ -6446,9 +6369,7 @@ telepathically as a free action. You can only apply this spell to wooden
 objects not in a creature's possession or not part of a larger structure
 or plant. Each time you cast this spell you can create a number of
 snakes equal to your caster level. More powerful snakes take up more
-than one of your available total, as noted below. See [Snake
-statistics](../../monsters/snake.html) and advanced and giant [simple
-templates](../../monsters/monsterAdvancement.html).
+than one of your available total, as noted below. See [Snake statistics] and advanced and giant [simple templates].
 
 *Venomous Snake*: A stick or piece of firewood. Counts as 1 snake.
 
@@ -6491,8 +6412,7 @@ hook, pulley, door blocker, or anything else your imagination desires.
 The exact appearance of the *[solid note]* depends on your
 melody. You can make it spiked or smooth, simple or convoluted, and with
 any color pattern you wish, however, it always has a size approximately
-equal to that of your outstretched hand. Once created, the *[solid
-note]* resists all attempts to move it but instantly
+equal to that of your outstretched hand. Once created, the *[solid note]* resists all attempts to move it but instantly
 disappears if enough force or weight is brought to bear against it. The
 note has an effective Strength equal to 10 + your caster level. It
 cannot hold more weight than the equivalent of a heavy load for its
@@ -6502,8 +6422,7 @@ is holding shut for example) also causes it to disappear. The note can
 never deal actual harm to a creature and disappears if successfully
 attacked (AC 10 + your Charisma modifier) or overcome with a combat
 maneuver such as bull rush (CMD 2 + your base attack bonus + your
-Charisma modifier). Any creature obstructed by the *[solid
-note]* simply fails to budge it and loses that action for
+Charisma modifier). Any creature obstructed by the *[solid note]* simply fails to budge it and loses that action for
 the round.
 
 
@@ -6549,7 +6468,7 @@ the spikes along the walls, such as a creature trying to climb out, or
 rope or other typical aids to climbing, takes 1d6 points of piercing
 damage each round they are in contact with the walls. For those willing
 to accept the damage incurred while climbing, the pit's walls have a
-[Climb](../../skills/climb.html#_climb) DC of 20.
+[Climb] DC of 20.
 
 
 
@@ -6571,35 +6490,27 @@ to accept the damage incurred while climbing, the pit's walls have a
 **Saving Throw** none; **Spell Resistance** yes
 
 An ally made of pure force appears in a single 5-foot square within
-range. The ally takes the form of a servant of your god. The *[spiritual
-ally]* occupies its space, though you and your allies
-can move through it, since it is your ally. The *[spiritual
-ally]* carries a single weapon, one favored by your
-deity (as for *[spiritual
-weapon](../../spells/spiritualWeapon.html#_spiritual-weapon)*), which
+range. The ally takes the form of a servant of your god. The *[spiritual ally]* occupies its space, though you and your allies
+can move through it, since it is your ally. The *[spiritual ally]* carries a single weapon, one favored by your
+deity (as for *[spiritual weapon]*), which
 has the same threat range and critical modifiers as a real weapon of its
 form. Each round on your turn, starting with the turn that you cast this
 spell, your *[spiritual ally]* can make an attack
-against a foe within its reach that you designate. The *[spiritual
-ally]* threatens adjacent squares and can flank and
+against a foe within its reach that you designate. The *[spiritual ally]* threatens adjacent squares and can flank and
 make attacks of opportunity as if it were a normal creature. The
 *[spiritual ally]* uses your base attack bonus (gaining
 extra attacks if your base attack bonus is high enough) plus your Wisdom
-bonus when it makes a melee attack. When the *[spiritual
-ally]* hits, it deals 1d10 points of force damage + 1
+bonus when it makes a melee attack. When the *[spiritual ally]* hits, it deals 1d10 points of force damage + 1
 point of damage per 3 caster levels (maximum +5 at 15th level). It
 strikes as a spell, not a weapon, so it bypasses DR and can affect
 incorporeal creatures.
 
-Each round after the first, you can move the *[spiritual
-ally]* as a swift action. It has a speed of 30 feet,
+Each round after the first, you can move the *[spiritual ally]* as a swift action. It has a speed of 30 feet,
 and a fly speed of 30 feet (perfect maneuverability). Being a construct
 of force, the *[spiritual ally]* cannot be harmed by
-any physical attacks, but *[dispel
-magic](../../spells/dispelMagic.html#_dispel-magic)*,
-*[disintegrate](../../spells/disintegrate.html#_disintegrate)*, a
-*sphere of annihilation*, or a *[rod of
-cancellation](../../magicItems/rods.html#_rod-of-cancellation)* affects
+any physical attacks, but *[dispel magic]*,
+*[disintegrate]*, a
+*sphere of annihilation*, or a *[rod of cancellation]* affects
 it. A *[spiritual ally]*'s AC against touch attacks is
 10.
 
@@ -6722,10 +6633,9 @@ and deal 1d6 points of lethal bludgeoning damage (1d4 if you are Small).
 In addition, your unarmed strikes ignore the hardness of any object with
 a hardness less than 8.
 
-*[Stone to flesh](../../spells/stoneToFlesh.html#_stone-to-flesh)*
+*[Stone to flesh]*
 immediately dispels *[stone fist]*. Should you be the
-target of *[transmute rock to
-mud](../../spells/transmuteRockToMud.html#_transmute-rock-to-mud)*, this
+target of *[transmute rock to mud]*, this
 spell immediately ends and you take 4d6 points of damage.
 
 
@@ -6909,10 +6819,9 @@ suffocation.
 You open a rift between dimensions that summons your eidolon. Treat this
 as if you had summoned your eidolon normally, except that it only
 remains with you for the duration of this spell. While summoned in this
-way, your eidolon cannot touch any creature warded by *[protection from
-evil](../../spells/protectionFromEvil.html#_protection-from-evil)* or a
+way, your eidolon cannot touch any creature warded by *[protection from evil]* or a
 similar effect and your eidolon can be sent back to its home plane by
-*[dispel magic](../../spells/dispelMagic.html#_dispel-magic)*.
+*[dispel magic]*.
 
 If you cast this spell while your eidolon is already on your plane, this
 spell has no effect. This spell allows you to summon your eidolon even
@@ -6951,11 +6860,11 @@ caster level.
 
   Number of Levels   Swarm Type(s)
   ------------------ --------------------------------------------------------------------------------------------------------------------------
-  2 caster levels    [Spider swarm](../../monsters/spider.html#_spider-swarm)
-  4 caster levels    [Rat swarm](../../monsters/rat.html#_rat-swarm)
-  6 caster levels    [Crab swarm](../../monsters/crab.html#_crab-swarm), [wasp swarm](../../monsters/wasp.html#_wasp-swarm)
-  8 caster levels    [Centipede swarm](../../monsters/centipede.html#_centipede-swarm), [leech swarm](../../monsters/leech.html#_leech-swarm)
-  10 caster levels   [Army ant swarm](../../monsters/ant.html#_army-ant-swarm)
+  2 caster levels    [Spider swarm]
+  4 caster levels    [Rat swarm]
+  6 caster levels    [Crab swarm], [wasp swarm]
+  8 caster levels    [Centipede swarm], [leech swarm]
+  10 caster levels   [Army ant swarm]
 
 Once you create these swarms they remain in existence until destroyed or
 you order them to return to your body. When all swarms have returned to
@@ -7033,12 +6942,12 @@ stack with any bonuses or penalties you may have from your actual age
 your idealized form in this threefold aspect rather than simply
 duplicating your ability scores at any one particular age.
 
-*[True seeing](../../spells/trueSeeing.html#_true-seeing)* reveals your
+*[True seeing]* reveals your
 natural appearance overlaid with that your aspect, recognizing both as
 part of your true self. Individuals who study you closely and have
 interacted with you at another apparent age recognize a resemblance (as
 though family) with a successful DC 20
-[Perception](../../skills/perception.html#_perception) check.
+[Perception] check.
 
 *[Threefold aspect]*does not alter your clothing or
 equipment, and does not heal any deformity or injury unrelated to age.
@@ -7110,8 +7019,7 @@ the bonus is enough to make the failure a success, the roll succeeds.
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes
 (harmless)
 
-This spell functions as *[tireless
-pursuit](tirelessPursuit.html#_tireless-pursuit)*, except as noted
+This spell functions as *[tireless pursuit](tirelessPursuit.html#_tireless-pursuit)*, except as noted
 above.
 
 
@@ -7193,7 +7101,7 @@ sorcerer/wizard 1
 
 You cause webs to grow between the target's fingers and its feet to
 transform into flippers, granting a swim speed of 30 feet along with the
-standard +8 bonus on [Swim](../../skills/swim.html#_swim) checks and the
+standard +8 bonus on [Swim] checks and the
 ability to take 10 even if distracted or endangered. You can also use
 the run action while swimming, provided you swim in a straight line.
 This transformation causes any boots or gloves the target is wearing to
@@ -7259,8 +7167,7 @@ one dose of poison in this way per casting of this spell.
 Transmuted Poisons
 ------------------
 
-The following poisons are created through the *[transmute potion to
-poison]* spell. The power of the poison
+The following poisons are created through the *[transmute potion to poison]* spell. The power of the poison
 depends on the level of the spell contained in the transmuted potion.
 
 **0-Level Potion Poison**
@@ -7353,8 +7260,7 @@ objects.
 
 *[True form]* removes any polymorph effect from a target
 creature, returning it to its true form, even against its will. Against
-creatures affected by polymorph spell effects (such as *[baleful
-polymorph](../../spells/balefulPolymorph.html#_baleful-polymorph)* or
+creatures affected by polymorph spell effects (such as *[baleful polymorph]* or
 *giant form*), you must make a caster level check (1d20 + caster level,
 maximum +15) against a DC of 11 + caster level of the effect. Success
 means that the polymorph effect immediately ends.
@@ -7404,7 +7310,7 @@ modifier (whichever is highest) + 8 (for the wave's size). If this CMB
 check defeats a creature's CMD, the creature is knocked prone and
 carried along by the wave. A creature carried along by a tsunami can
 attempt to escape the wave on its turn as a standard action by making a
-CMB or [Swim](../../skills/swim.html#_swim) check opposed by the wave's
+CMB or [Swim] check opposed by the wave's
 CMB check—if a creature fails to escape, it takes another 6d6 points of
 bludgeoning damage (Fortitude save for half) and continues being carried
 along by the wave.
@@ -7416,8 +7322,7 @@ objects firmly attached to the ground, take 8d6 points of bludgeoning
 damage when a tsunami passes through its space—if this is enough to
 destroy the object or structure, the remains are carried along by the
 wave. Hardness does not reduce this damage, nor is it halved as damage
-dealt to objects normally is. *[Freedom of
-movement](../../spells/freedomOfMovement.html#_freedom-of-movement)*
+dealt to objects normally is. *[Freedom of movement]*
 prevents a creature from being carried along by a tsunami but does not
 prevent damage caused by it hitting a creature.
 
@@ -7459,11 +7364,9 @@ knife can make sneak attacks as a rogue, inflicting an extra 1d6 points
 of force damage per four caster levels on a successful attack.
 
 A *[twilight knife]* cannot be attacked or harmed by
-physical attacks, but *[dispel
-magic](../../spells/dispelMagic.html#_dispel-magic)*,
-*[disintegrate](../../spells/disintegrate.html#_disintegrate)*, a
-*sphere of annihilation*, or a *[rod of
-cancellation](../../magicItems/rods.html#_rod-of-cancellation)* affects
+physical attacks, but *[dispel magic]*,
+*[disintegrate]*, a
+*sphere of annihilation*, or a *[rod of cancellation]* affects
 it. A *[twilight knife]*'s AC against touch attacks is
 12 (10 + size bonus for Tiny object) plus your Dexterity modifier.
 
@@ -7523,8 +7426,8 @@ You have no special ability to sense what your second body is
 experiencing, though you immediately know if it has been destroyed. You
 may switch between bodies at any distance on the same plane. If your
 bodies cross into separate planes (including through the use of
-*[teleport](../../spells/teleport.html#_teleport)* or
-*[blink](../../spells/blink.html#_blink)*), the body you inhabit
+*[teleport]* or
+*[blink]*), the body you inhabit
 survives, while your other body is destroyed.
 
 
@@ -7556,7 +7459,7 @@ is in effect, you cannot sacrifice hit points to prevent damage to your
 eidolon. Damage that would be transferred due to the life bond ability
 is not transferred. If you attempt to use the transposition ability
 while this spell is in effect, you must roll on the
-*[teleport](../../spells/teleport.html#_teleport)* mishap table, using
+*[teleport]* mishap table, using
 the “studied carefully” row.
 
 
@@ -7602,10 +7505,9 @@ not create an infused extract with this formula.
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-Like *[shield other](../../spells/shieldOther.html#_shield-other)*,
+Like *[shield other]*,
 *[unwilling shield]* creates a mystic connection
-between you and the target, but unlike *[shield
-other](../../spells/shieldOther.html#_shield-other)*, the target shares
+between you and the target, but unlike *[shield other]*, the target shares
 the wounds that you receive. In addition, the link draws upon the
 target's life force to supplement your own defenses. You gain a +1 luck
 bonus to AC and on saving throws. You take only half damage from all
@@ -7668,10 +7570,10 @@ no other hostile action against your enemies due to this spell's effect.
 (harmless)
 
 This spell functions like
-*[invisibility](../../spells/invisibility.html#_invisibility),* except
+*[invisibility],* except
 the effect only lasts for 1 round per caster level (maximum of 5
 rounds). Like
-*[invisibility](../../spells/invisibility.html#_invisibility)*, the
+*[invisibility]*, the
 spell immediately ends if the subject attacks any creature.
 
 
@@ -7721,7 +7623,7 @@ damage equal to your level to all undead creatures within 5 feet of you.
 You infuse a single arrow or crossbow bolt with natural venom as you
 fire it. In addition to its normal damage, anyone struck by this arrow
 or bolt is affected as if by the
-*[poison](../../spells/poison.html#_poison)* spell. If the arrow is not
+*[poison]* spell. If the arrow is not
 fired immediately, the spell ends with no effect.
 
 
@@ -7746,8 +7648,7 @@ at the time of casting
 yes (harmless, object)
 
 You transform the physical makeup of a weapon as you desire. This spell
-functions like *[greater magic
-weapon](../../spells/magicWeapon.html#_magic-weapon-greater)*, except
+functions like *[greater magic weapon]*, except
 that it subtly alters the physical properties of a weapon, enabling it
 to bypass damage reduction of one the following types: bludgeoning, cold
 iron, piercing, silver, or slashing. The affected weapon still inflicts
@@ -7771,8 +7672,7 @@ This spell can be cast on a natural weapon or unarmed strike.
 
 **Duration** 1 round/level
 
-You vomit forth a [swarm of
-spiders](../../monsters/spider.html#_spider-swarm) that attacks all
+You vomit forth a [swarm of spiders] that attacks all
 other creatures within its area. The swarm begins adjacent to you, but
 if no living creatures are within its area, it moves in one direction of
 your choosing at its normal speed. You can move the swarm or change the
@@ -7813,7 +7713,7 @@ the whirlpool to eject any carried creatures whenever you wish. A boat
 that is equal in length or shorter than the vortex's width that passes
 through a vortex takes 6d6 points of damage and is caught up by the
 current. If the boat's captain makes a DC 25
-[Profession](../../skills/profession.html#_profession) (sailor) check
+[Profession] (sailor) check
 (or if the boat is longer than the vortex's width), the boat takes only
 half damage and is not caught up by the vortex.
 
@@ -7893,8 +7793,7 @@ or object. A section of a *[wall of lava]* can be
 destroyed by damage (hardness 4, hp 90), but if a section is destroyed,
 the remaining lava in the wall immediately fills in any such hole
 created, reducing the wall's overall size by one 5-foot square but
-remaining a contiguous barrier. Each time a weapon strikes a *[wall of
-lava]*, it takes 2d6 points of fire damage (or the
+remaining a contiguous barrier. Each time a weapon strikes a *[wall of lava]*, it takes 2d6 points of fire damage (or the
 creature who strikes the wall takes 2d6 fire damage if the attack was
 via an unarmed strike or natural attack).
 
@@ -7902,22 +7801,17 @@ A creature can move through a *[wall of lava]* as a
 full-round action by making a DC 25 Strength check—failure indicates
 that the creature is pushed back out of the wall to the point he just
 attempted to leave. A creature with a burrow speed can move through the
-wall using its burrow speed. An attempt to move through a *[wall of
-lava]* inflicts 20d6 fire damage. A *[wall of
-lava]* also radiates heat as if it were a *[wall of
-fire](../../spells/wallOfFire.html#_wall-of-fire)*, although the heat
+wall using its burrow speed. An attempt to move through a *[wall of lava]* inflicts 20d6 fire damage. A *[wall of lava]* also radiates heat as if it were a *[wall of fire]*, although the heat
 from a *[wall of lava]* radiates from both sides.
 
-Once per round as a move action, you can direct the *[wall of
-lava]* to erupt. This causes a plume of lava to fire at
+Once per round as a move action, you can direct the *[wall of lava]* to erupt. This causes a plume of lava to fire at
 any target within 60 feet of either side of the wall, but reduces the
 wall's overall size by 1d4 5-foot square sections. You must make a
 ranged touch attack to hit the target, which takes 10d6 points of fire
 damage on a hit. Holes created in a *[wall of lava]* from
 this effect instantly reseal, reducing the overall size of the wall.
 
-All damage inflicted by physical contact with a *[wall of
-lava]* continues for 1d3 rounds after exposure ceases,
+All damage inflicted by physical contact with a *[wall of lava]* continues for 1d3 rounds after exposure ceases,
 but this additional damage is only half that dealt during actual contact
 (that is, 1d6 or 5d6 or 10d6 points per round).
 
@@ -7995,10 +7889,8 @@ another save on its next turn or be dazed again for 1 round. The target
 must continue making Will saves each round. If a target makes its Will
 save, the *[wandering star motes]* jump to the
 nearest enemy within 30 feet, who must now make Will saves every round
-or be dazed. Any time a target makes its Will save, the *[wandering star
-motes]* jump to the next nearest enemy within 30
-feet. A given creature can only be affected by the *[wandering star
-motes]* once; once a target has successfully
+or be dazed. Any time a target makes its Will save, the *[wandering star motes]* jump to the next nearest enemy within 30
+feet. A given creature can only be affected by the *[wandering star motes]* once; once a target has successfully
 saved against the spell, it cannot be affected again. If there are no
 new targets within 30 feet of a target that has successfully made its
 save, the spell immediately ends. The spell only affects enemy
@@ -8226,7 +8118,6 @@ you can see. You gain a +1 morale bonus on attack rolls and weapon
 damage rolls against that designated creature for every three caster
 levels you have (at least +1, maximum +3). You also receive this bonus
 on caster level checks made to overcome the creature's spell resistance,
-if any. At 12th level, you gain the benefits of the [Improved
-Critical](../../feats.html#_improved-critical) feat on attack rolls made
+if any. At 12th level, you gain the benefits of the [Improved Critical] feat on attack rolls made
 against the designated creature. This effect doesn't stack with any
 other effect that expands the threat range of a weapon.

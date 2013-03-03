@@ -16,7 +16,7 @@ give them an advantage in combat.
 
 **Arrow, Blunt**: These arrows have rounded wooden tips. They deal
 bludgeoning damage rather than piercing damage. An archer can use a
-blunt arrow to deal nonlethal damage (at the normal –4 attack penalty
+blunt arrow to deal nonlethal damage (at the normal -4 attack penalty
 for using a lethal weapon to deal nonlethal damage).
 
 **Arrow, Flight**: These arrows have light shafts and special fletchings
@@ -65,7 +65,7 @@ bec de corbin.
 with a spiked projection on the back of the blade. The spike is commonly
 used to block and parry. When fighting defensively or with full defense,
 this weapon gives you a +1 shield bonus to AC. A mounted opponent hit by
-a bill takes a –1 penalty on his [Ride] check
+a bill takes a -1 penalty on his [Ride] check
 to stay mounted.
 
 **Boar Spear**: This spear with a spiraling blade has a metal crossbar
@@ -99,7 +99,7 @@ damage. If you are proficient with a cestus, your unarmed strikes may
 deal bludgeoning or piercing damage. Monks are proficient with the
 cestus. When using a cestus, your fingers are mostly exposed, allowing
 you to wield or carry items in that hand, but the constriction of the
-weapon at your knuckles gives you a –2 penalty on all precision-based
+weapon at your knuckles gives you a -2 penalty on all precision-based
 tasks involving that hand (such as opening locks).
 
 **Chain Spear**: This vicious weapon often finds its way into
@@ -113,15 +113,15 @@ knocked prone.
 **Chakram**: The chakram is a simple, elegant, and highly portable
 thrown weapon. It is a flat, open-centered metal discus with a sharpened
 edge. You can wield the chakram as a melee weapon, but it is not
-designed for such use; you take a –1 penalty on your attack roll with
+designed for such use; you take a -1 penalty on your attack roll with
 the weapon and must make a DC 15 Reflex save or cut yourself on the
 blade (half damage, no Strength modifier). You do not need to make this
 save if wearing heavy armor.
 
 **Double Crossbow**: This heavy weapon fires a pair of iron-tipped bolts
 with a single squeeze of the trigger. Due to its size and weight, you
-take a –4 penalty on your attack roll if you're proficient with it, or
-–8 if you're not. If the attack hits, the target takes damage from both
+take a -4 penalty on your attack roll if you're proficient with it, or
+-8 if you're not. If the attack hits, the target takes damage from both
 bolts. Critical hits, sneak attack damage, and other precision-based
 damage only apply to the first bolt. Reloading one bolt is a standard
 action; the [Rapid Reload] feat reduces
@@ -133,7 +133,7 @@ hook-shaped hilt. Its shape distributes the weight to give it the
 momentum of an axe with the cutting edge of a sword.
 
 **Glaive-Guisarme**: This polearm combines the blade of a glaive with a
-wicked hook. A mounted opponent hit by a glaive-guisarme takes a –2
+wicked hook. A mounted opponent hit by a glaive-guisarme takes a -2
 penalty on his [Ride] check to stay mounted.
 
 **Khopesh**: This heavy blade has a convex curve near the end, making
@@ -160,7 +160,7 @@ close around a target when you attack, allowing you to bind an opponent.
 A mancatcher is built to capture a creature of a particular size
 category (such as Small or Medium) and doesn't work on creatures of the
 wrong size. Make a touch attack to hit an opponent and a combat maneuver
-check to grapple him (without the –4 penalty for not having two hands
+check to grapple him (without the -4 penalty for not having two hands
 free); success means you and the target are grappled. Once the target is
 grappled, you can perform a move or damage grapple action against him.
 The mancatcher has hardness 10 and 5 hit points; it requires a DC 26
@@ -208,7 +208,7 @@ Table: Weapons
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
 |Battle aspergillum           |5 gp      |1d4       |1d6        |×2       |N/A      |4 lbs.    |B         |see text                      |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
-|Cestus                       |5 gp      |1d3       |1d4        |19–20/×2 |N/A      |1 lb.     |B or P    |monk, see text                |
+|Cestus                       |5 gp      |1d3       |1d4        |19-20/×2 |N/A      |1 lb.     |B or P    |monk, see text                |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
 |Wooden stake                 |N/A       |1d3       |1d4        |×2       |10 ft.   |1 lb.     |P         |N/A                           |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
@@ -228,7 +228,7 @@ Table: Weapons
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
 |*Two-Handed Melee Weapons*   |          |          |           |         |         |          |          |                              |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
-|Bardiche                     |13 gp     |1d8       |1d10       |19–20/×2 |N/A      |14 lbs.   |S         |brace, reach, see text        |
+|Bardiche                     |13 gp     |1d8       |1d10       |19-20/×2 |N/A      |14 lbs.   |S         |brace, reach, see text        |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
 |Bec de corbin                |15 gp     |1d8       |1d10       |×3       |N/A      |12 lbs.   |B or P    |brace, reach, see text        |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
@@ -260,11 +260,11 @@ Table: Weapons
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
 |*One-Handed Melee Weapons*   |          |          |           |         |         |          |          |                              |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
-|Falcata                      |18 gp     |1d6       |1d8        |19–20/×3 |N/A      |4 lbs.    |S         |N/A                           |
+|Falcata                      |18 gp     |1d6       |1d8        |19-20/×3 |N/A      |4 lbs.    |S         |N/A                           |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
-|Khopesh                      |20 gp     |1d6       |1d8        |19–20/×2 |N/A      |8 lbs.    |S         |trip                          |
+|Khopesh                      |20 gp     |1d6       |1d8        |19-20/×2 |N/A      |8 lbs.    |S         |trip                          |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
-|Temple sword                 |30 gp     |1d6       |1d8        |19–20/×2 |N/A      |3 lbs.    |S         |monk, trip                    |
+|Temple sword                 |30 gp     |1d6       |1d8        |19-20/×2 |N/A      |3 lbs.    |S         |monk, trip                    |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
 |*Two-Handed Melee Weapons*   |          |          |           |         |         |          |          |                              |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
@@ -276,7 +276,7 @@ Table: Weapons
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
 |Boomerang                    |3 gp      |1d4       |1d6        |×2       |30 ft.   |3 lbs.    |B         |see text                      |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
-|Double crossbow              |300 gp    |1d6       |1d8        |19–20/×2 |80 ft.   |18 lbs.   |P         |N/A                           |
+|Double crossbow              |300 gp    |1d6       |1d8        |19-20/×2 |80 ft.   |18 lbs.   |P         |N/A                           |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
 |Lasso                        |1 sp      |N/A       |N/A        |N/A      |N/A      |5 lbs.    |N/A       |see text                      |
 +-----------------------------+----------+----------+-----------+---------+---------+----------+----------+------------------------------+
@@ -296,13 +296,13 @@ These armors follow the same rules as the armors presented in the
 **Agile Breastplate**: This breastplate is specially crafted in a manner
 that allows extra maneuverability for some physical activities. The
 armor check penalty for [Climb] checks and
-jump checks is only –1 (masterwork and mithral versions of this armor
+jump checks is only -1 (masterwork and mithral versions of this armor
 reduce this penalty as well as the normal penalty).
 
 **Agile Half-Plate**: This style of half-plate is specially crafted in a
 manner that allows extra maneuverability for some physical activities.
 The armor check penalty for [Climb] checks
-and jump checks is only –4 (masterwork and mithral versions of this
+and jump checks is only -4 (masterwork and mithral versions of this
 armor reduce this penalty as well as the normal penalty). In addition,
 unlike most heavy armors, the wearer can still run at quadruple speed
 instead of triple speed.
@@ -321,8 +321,7 @@ specially crafted with a series of straps to allow a character
 proficient in shields to ready or stow it on his or her back quickly and
 easily. If you have a base attack bonus of +1 or higher, you may don or
 put away a quickdraw shield as a swift action combined with a regular
-move. If you have the [Two-Weapon
-Fighting] feat, you can draw a light
+move. If you have the [Two-Weapon Fighting] feat, you can draw a light
 or one-handed weapon with one hand and a quickdraw shield with the other
 in the time it would normally take you to draw one weapon. If you have
 the [Quick Draw] feat, you may don or put
@@ -355,31 +354,31 @@ Table: Armor and Shields
 |Quilted cloth        |100 gp    |+1          |+8        |0         |10%       |30 ft.    |20 ft.    |15 lbs.   |
 |                     |          |            |          |          |          |          |          |          |
 +---------------------+----------+------------+----------+----------+----------+----------+----------+----------+
-|Wooden               |20 gp     |+3          |+3        |–1        |15%       |30 ft.    |20 ft.    |25 lbs.   |
+|Wooden               |20 gp     |+3          |+3        |-1        |15%       |30 ft.    |20 ft.    |25 lbs.   |
 +---------------------+----------+------------+----------+----------+----------+----------+----------+----------+
 |*Medium Armor*       |          |            |          |          |          |          |          |          |
 |                     |          |            |          |          |          |          |          |          |
 +---------------------+----------+------------+----------+----------+----------+----------+----------+----------+
-|Armored coat         |50 gp     |+4          |+3        |–2        |20%       |20 ft.    |15 ft.    |20 lbs.   |
+|Armored coat         |50 gp     |+4          |+3        |-2        |20%       |20 ft.    |15 ft.    |20 lbs.   |
 |                     |          |            |          |          |          |          |          |          |
 +---------------------+----------+------------+----------+----------+----------+----------+----------+----------+
-|Agile breastplate    |400 gp    |+6          |+3        |–4        |25%       |20 ft.    |15 ft.    |25 lbs.   |
+|Agile breastplate    |400 gp    |+6          |+3        |-4        |25%       |20 ft.    |15 ft.    |25 lbs.   |
 |                     |          |            |          |          |          |          |          |          |
 +---------------------+----------+------------+----------+----------+----------+----------+----------+----------+
 |*Heavy Armor*        |          |            |          |          |          |          |          |          |
 |                     |          |            |          |          |          |          |          |          |
 +---------------------+----------+------------+----------+----------+----------+----------+----------+----------+
-|Agile half-plate     |850 gp    |+8          |+0        |–7        |40%       |20 ft.^2^ |15 ft.^2^ |55 lbs.   |
+|Agile half-plate     |850 gp    |+8          |+0        |-7        |40%       |20 ft.^2^ |15 ft.^2^ |55 lbs.   |
 |                     |          |            |          |          |          |          |          |          |
 +---------------------+----------+------------+----------+----------+----------+----------+----------+----------+
 |*Shields*            |          |            |          |          |          |          |          |          |
 +---------------------+----------+------------+----------+----------+----------+----------+----------+----------+
-|Quickdraw shield,    |53 gp     |+1          |N/A       |–2        |5%        |N/A       |N/A       |6 lbs.    |
+|Quickdraw shield,    |53 gp     |+1          |N/A       |-2        |5%        |N/A       |N/A       |6 lbs.    |
 |light wooden         |          |            |          |          |          |          |          |          |
 |                     |          |            |          |          |          |          |          |          |
 |                     |          |            |          |          |          |          |          |          |
 +---------------------+----------+------------+----------+----------+----------+----------+----------+----------+
-|Quickdraw shield,    |59 gp     |+1          |N/A       |–2        |5%        |N/A       |N/A       |7 lbs.    |
+|Quickdraw shield,    |59 gp     |+1          |N/A       |-2        |5%        |N/A       |N/A       |7 lbs.    |
 |light steel          |          |            |          |          |          |          |          |          |
 |                     |          |            |          |          |          |          |          |          |
 +---------------------+----------+------------+----------+----------+----------+----------+----------+----------+
@@ -425,7 +424,7 @@ speed, instead of the normal triple speed for heavy armor.
   Smoked goggles                 10 gp         N/A
   String or twine (50 ft.)       1 cp          1/2 lb.
   Swarmsuit                      20 gp         10 lbs.^1^
-  Tattoo                         1 cp–20 gp    N/A
+  Tattoo                         1 cp-20 gp    N/A
   Tent, small                    10 gp         20 lbs.^1^
   Tent, medium                   15 gp         30 lbs.^1^
   Tent, large                    30 gp         40 lbs.^1^
@@ -462,7 +461,7 @@ speed, instead of the normal triple speed for heavy armor.
   Abacus                              2 gp     2 lbs.
   Alchemist's kit                     25 gp    5 lbs.
   Alchemist's lab, portable           75 gp    20 lbs.
-  Anvil                               5 gp     10–100 lbs.
+  Anvil                               5 gp     10-100 lbs.
   Astrolabe                           100 gp   6 lbs.
   Balancing pole                      8 sp     12 lbs.
   Bear trap                           2 gp     10 lbs.
@@ -574,7 +573,7 @@ inset lock.
 
 **Earplugs**: Made of waxed cotton or cork, earplugs give you a +2
 circumstance bonus on saves against effects that require hearing but
-also cause a –5 penalty on hearing-based
+also cause a -5 penalty on hearing-based
 [Perception] checks.
 
 **Hourglass**: The standard hourglass takes 1 hour to empty the sand
@@ -610,7 +609,7 @@ observed creature notices you; if you have total concealment from the
 creature except for the end of the periscope, use the tube's Diminutive
 size modifier for your [Stealth]
 instead of your own size modifier. Distortion from the mirrors gives you
-a –4 penalty on [Perception]
+a -4 penalty on [Perception]
 checks while looking through the periscope. Though the tube is fairly
 sturdy (hardness 5, 2 hit points), the mirrors inside are fragile
 (hardness 1, 1 hit point), and any damage that gets through the tube's
@@ -618,8 +617,7 @@ hardness applies to the tube and the mirrors.
 
 **Poison Pill Ring**: This ring has a tiny compartment under the
 setting, typically used to hold poison. Opening and closing a ring is a
-move action; doing so unseen requires a DC 20 [Sleight of
-Hand] check.
+move action; doing so unseen requires a DC 20 [Sleight of Hand] check.
 
 **Powder**: Powdered chalk, flour, and similar materials are popular
 with adventurers for their utility in pinpointing invisible creatures.
@@ -652,14 +650,14 @@ can convey concepts such as “Attack!”, “Help!”, “Advance!”, “Retre
 ([Perception] DC 0) up to a
 half-mile distant. For each quarter-mile beyond,
 [Perception] checks to hear the
-horn suffer a –1 penalty.
+horn suffer a -1 penalty.
 
 **Smoked Goggles**: These spectacles have lenses made of smoked glass
 that help protect against creatures with gaze attacks. You are always
 treated as averting your gaze when dealing with gaze attacks, and you
 gain a +8 circumstance bonus on saving throws against visual-based
 attacks (any attack that a blind creature would be immune to). You have
-a –4 penalty on [Perception]
+a -4 penalty on [Perception]
 checks while wearing the goggles, and all opponents are treated as
 having concealment (20% miss chance).
 
@@ -707,7 +705,7 @@ horns. A whistle's piercing report can be clearly heard
 ([Perception] DC 0) up to a
 quarter-mile away. For each quarter-mile beyond,
 [Perception] checks to hear a
-whistle suffer a –2 penalty.
+whistle suffer a -2 penalty.
 
 Silent whistles that only animals and other creatures with keen hearing
 can hear also exist.
@@ -720,8 +718,7 @@ Any of these substances can be made by a character with the
 
 **Alchemical Grease**: Each pot of this slick black goo has sufficient
 contents to cover one Medium or two Small creatures. If you coat
-yourself in alchemical grease, you gain a +5 alchemical bonus on [Escape
-Artist] checks, on combat
+yourself in alchemical grease, you gain a +5 alchemical bonus on [Escape Artist] checks, on combat
 maneuver checks made to escape a grapple, and to your CMD to avoid being
 grappled; this lasts 4 hours or until you wash it off.
 
@@ -730,8 +727,7 @@ Each vial can cover a single 5-foot square. It destroys normal adhesives
 (such as tar, tree sap, or glue) in a single round but takes 1d4+1
 rounds to deal with more powerful adhesives (tanglefoot bags, spider
 webbing, and so on). It has no affect on fully magical adhesives,
-including *[sovereign
-glue]*.
+including *[sovereign glue]*.
 
 **Alchemist's Kindness**: Favored by young rakes and others of means,
 this is a crystalline powder resembling salt. Mixed with water, it makes
@@ -887,7 +883,7 @@ minute). An astrolabe grants a +2 circumstance on
 wilderness (and on [Profession]
 [sailor] checks to navigate at sea).
 
-**Balancing Pole**: These flexible poles range from 15–30 feet in length
+**Balancing Pole**: These flexible poles range from 15-30 feet in length
 and, when used properly, help you keep your balance when crossing narrow
 walkways. Using a balancing pole grants you a +1 circumstance bonus on
 [Acrobatics] checks made to

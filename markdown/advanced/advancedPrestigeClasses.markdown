@@ -40,7 +40,7 @@ Below are definitions of some common terms used here.
 **Core Class**: One of the standard eleven classes found in the
 *Pathfinder RPG Core Rulebook*.
 
-**Base Class**: A class that progresses from level 1–20.
+**Base Class**: A class that progresses from level 1-20.
 
 **Caster Level**: Generally equal to the number of class levels (see
 below) in a spellcasting class. Some prestige classes add caster levels

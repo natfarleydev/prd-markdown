@@ -33,8 +33,7 @@ ranks.
 The battle herald's class skills are
 [Bluff] (Cha),
 [Craft] (Int),
-[Diplomacy] (Cha), [Handle
-Animal] (Cha),
+[Diplomacy] (Cha), [Handle Animal] (Cha),
 [Heal] (Wis),
 [Intimidate] (Cha),
 [Knowledge] (engineering) (Int),
@@ -43,8 +42,7 @@ Animal] (Cha),
 [Knowledge] (nobility) (Int),
 [Perception] (Wis),
 [Profession] (Wis),
-[Ride] (Dex), and [Sense
-Motive] (Wis).
+[Ride] (Dex), and [Sense Motive] (Wis).
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
@@ -139,8 +137,7 @@ bonus equal to the battle herald's inspiring command bonus. Allies who
 are sleeping normally automatically awaken when this ability is used.
 
 *Scatter\**: A number of allies equal to the battle herald's inspiring
-command bonus gain the benefits of the [Wind
-Stance] feat.
+command bonus gain the benefits of the [Wind Stance] feat.
 
 *Shake It Off\**: One ally subject to an ongoing condition may attempt a
 new saving throw to negate the effects with a bonus equal to the battle
@@ -153,8 +150,7 @@ that do not allow a saving throw.
 bonus to attack and damage rolls. Charging allies increase their speed
 by 5 feet times the battle herald's inspiring command bonus.
 
-*Sound the Retreat*: Allies gain the benefit of the [Lightning
-Stance] feat. The battle herald must
+*Sound the Retreat*: Allies gain the benefit of the [Lightning Stance] feat. The battle herald must
 have the scatter ability to select this ability.
 
 *Stand Firm*: Allies apply the battle herald's inspiring command bonus
@@ -180,8 +176,7 @@ speech is impossible. She gains a +2 bonus on
 [Intimidate] checks with
 creatures with which she shares a language. In addition, her allies gain
 a bonus equal to the battle herald's class level on
-[Perception] or [Sense
-Motive] checks to hear her
+[Perception] or [Sense Motive] checks to hear her
 commands or interpret her secret messages conveyed with
 [Bluff]. The battle herald's levels
 stack with cavalier levels for the purpose of the cavalier's tactician
@@ -293,8 +288,7 @@ The vindicator's class skills are
 [Intimidate] (Cha),
 [Knowledge] (planes) (Int),
 [Knowledge] (religion) (Int),
-[Ride] (Dex), [Sense
-Motive] (Wis),
+[Ride] (Dex), [Sense Motive] (Wis),
 [Spellcraft] (Int), and
 [Swim] (Str).
 
@@ -414,8 +408,7 @@ attempt a new save every round to end the sickened and bleed effects.
 
 **Divine Retribution (Sp)**: At 10th level, when a vindicator confirms a
 critical hit, he may sacrifice a prepared 3rd-level spell or available
-3rd-level spell slot to invoke *[bestow
-curse]* upon the target as
+3rd-level spell slot to invoke *[bestow curse]* upon the target as
 an immediate action (using the vindicator's caster level). The save DC
 increases by +2 if his weapon has a ×3 critical multiplier, or by +4 if
 it is ×4. The vindicator can also use this ability in response to being
@@ -467,8 +460,7 @@ following criteria.
 
 The horizon walker's class skills are
 [Climb] (Str),
-[Diplomacy] (Cha), [Handle
-Animal] (Cha),
+[Diplomacy] (Cha), [Handle Animal] (Cha),
 [Knowledge] (geography) (Int),
 [Knowledge] (nature) (Int),
 [Knowledge] (the planes) (Int),
@@ -542,8 +534,7 @@ sources as concealment.
 *Forest*: The horizon walker gains a +4 competence bonus on
 [Stealth] checks.
 
-*Jungle*: The horizon walker gains a +4 competence bonus on [Escape
-Artist] checks and
+*Jungle*: The horizon walker gains a +4 competence bonus on [Escape Artist] checks and
 increases his CMD against grapple maneuvers by +4.
 
 *Mountain*: The horizon walker gains a +4 competence bonus on
@@ -598,8 +589,7 @@ the horizon walker gains a new terrain dominance he may, if he prefers,
 instead pick an additional terrain mastery.
 
 *Astral Plane*: The horizon walker gains a +1 competence bonus on attack
-and damage rolls against outsiders. He gains *[dimension
-door]* as a spell-like
+and damage rolls against outsiders. He gains *[dimension door]* as a spell-like
 ability a number of times per day equal to 3 + the character's Wisdom
 modifier (caster level equal to the character's level).
 
@@ -611,20 +601,17 @@ cold subtype.
 *Desert*: The horizon walker gains fire resistance 10 and immunity to
 fatigue.
 
-*Ethereal Plane*: The walker gains *[ethereal
-jaunt]* as a spell-like
+*Ethereal Plane*: The walker gains *[ethereal jaunt]* as a spell-like
 ability once per day (caster level equal to the character's level). He
 must be at least 7th level before selecting this power.
 
-*Forest*: The horizon walker gains *[hallucinatory
-terrain]*
+*Forest*: The horizon walker gains *[hallucinatory terrain]*
 as a spell-like ability a number of times per day equal to 3 + the
 character's Wisdom modifier (caster level equal to the character's
 level). The horizon walker can only use this ability to create illusory
 forests.
 
-*Jungle*: The horizon walker gains *[charm
-monster]* as a spell-like
+*Jungle*: The horizon walker gains *[charm monster]* as a spell-like
 ability a number of times per day equal to 3 + the character's Wisdom
 modifier (caster level equal to the character's level). This charm only
 affects animals, magical beasts, and creatures primarily found in the
@@ -634,7 +621,7 @@ jungle.
 
 *Plains*: The walker's base speed increases by +10 feet.
 
-*Plane of Air*: The horizon walker gains *[fly](../../spells/fly.html)*
+*Plane of Air*: The horizon walker gains *[fly]*
 as a spell-like ability a number of times per day equal to 3 + the
 character's Wisdom modifier (caster level equal to the character's
 level).
@@ -650,8 +637,7 @@ again creatures of the fire subtype.
 
 *Plane of Water*: The horizon walker's movements and actions are not
 hampered when underwater. This allows him to speak, make attacks, and
-cast spells normally underwater (as if using *[freedom of
-movement]*).
+cast spells normally underwater (as if using *[freedom of movement]*).
 
 *Plane, aligned*: For the purpose of bypassing damage reduction, the
 horizon walker's manufactured and natural weapons count as the opposite
@@ -674,8 +660,7 @@ must be 5th level before selecting this power.
 feet. If he already has darkvision 60 feet, its range extends by 60
 feet.
 
-*Urban*: The horizon walker gains *[charm
-person]* as a spell-like
+*Urban*: The horizon walker gains *[charm person]* as a spell-like
 ability a number of times per day equal to 3 + the character's Wisdom
 modifier (caster level equal to the character's level).
 
@@ -741,8 +726,7 @@ discovery.
 
 The master chymist's class skills are
 [Acrobatics] (Dex),
-[Climb] (Str), [Escape
-Artist] (Dex),
+[Climb] (Str), [Escape Artist] (Dex),
 [Intimidate] (Cha),
 [Knowledge] (dungeoneering)
 (Int), [Sense Motive]
@@ -810,8 +794,7 @@ dislike Darabont, but feels her gnome form is too soft and innocent to
 survive in the harsh world the chymist lives in. As Darabont, the
 character detects as good and is affected as a good character by spells
 with effects that vary by alignment; as Butcher, the same character is
-neutral, is not revealed by a *[detect
-good]* spell, and is treated
+neutral, is not revealed by a *[detect good]* spell, and is treated
 as neutral for all spells and effects.
 
 **Mutate (Su)**: At 1st level, as a result of repeated exposure to her
@@ -824,8 +807,7 @@ chymist into this form. Taking a mutagen or using the mutate ability
 again while in her mutagenic form works normally (with the new mutagen's
 modifiers replacing the current modifiers, and the longer duration
 taking precedent). The chymist remains in her mutagenic form until its
-duration expires, her magic is interrupted (as with an *[antimagic
-field]*), or she
+duration expires, her magic is interrupted (as with an *[antimagic field]*), or she
 expends another use of her mutate ability.
 
 A chymist may be forced to take her mutagenic form against her will by
@@ -881,8 +863,7 @@ DC 10 + the chymist's class level + the chymist's Intelligence
 modifier); she may use her breath weapon once per transformation into
 her mutagenic form. The character must have an effective alchemist level
 (alchemist level plus master chymist levels) of at least 16, must know
-the *[form of the dragon
-I]* extract,
+the *[form of the dragon I]* extract,
 and must have the feral mutagen discovery or advanced mutagen to select
 this ability.
 
@@ -928,12 +909,9 @@ level) of at least 12 and must have the feral mutagen discovery or
 advanced mutagen to select this ability.
 
 *Growth Mutagen (Su)*: When the chymist assumes her mutagenic form, she
-increases one size category, as if under the effects of an *[enlarge
-person]* spell. The
+increases one size category, as if under the effects of an *[enlarge person]* spell. The
 character must have an effective alchemist level (alchemist level plus
-chymist level) of at least 16 and must know the *[enlarge
-person]*, *[giant form
-I]*, or
+chymist level) of at least 16 and must know the *[enlarge person]*, *[giant form I]*, or
 *[polymorph]* extract to select
 this ability.
 
@@ -996,29 +974,22 @@ neutral than lawful or chaotic.
 To qualify to become a master spy, a character must fulfill all the
 following criteria.
 
-**Feats**: [Deceitful], [Iron
-Will].
+**Feats**: [Deceitful], [Iron Will].
 
 **Skills**: [Bluff] 7 ranks,
 [Disguise] 7 ranks,
-[Perception] 5 ranks, [Sense
-Motive] 5 ranks.
+[Perception] 5 ranks, [Sense Motive] 5 ranks.
 
 ### Class Skills
 
 The master spy's class skills are
 [Bluff] (Cha),
-[Diplomacy] (Cha), [Disable
-Device] (Dex),
-[Disguise] (Cha), [Escape
-Artist] (Dex),
+[Diplomacy] (Cha), [Disable Device] (Dex),
+[Disguise] (Cha), [Escape Artist] (Dex),
 [Knowledge] (all) (Int),
 [Linguistics] (Int),
-[Perception] (Wis), [Sense
-Motive] (Wis), [Sleight of
-Hand] (Dex),
-[Stealth] (Dex), and [Use Magic
-Device] (Cha).
+[Perception] (Wis), [Sense Motive] (Wis), [Sleight of Hand] (Dex),
+[Stealth] (Dex), and [Use Magic Device] (Cha).
 
 **Skill Ranks per Level**: 6 + Int modifier.
 
@@ -1046,8 +1017,7 @@ any weapon or armor.
 
 **Art of Deception (Ex)**: A master spy adds her class level to all
 [Bluff],
-[Disguise], and [Sense
-Motive] checks.
+[Disguise], and [Sense Motive] checks.
 
 **Master of [Disguise] (Ex)**: A
 master spy can create a disguise in half the time normally required. In
@@ -1077,8 +1047,7 @@ at all. This ability does not protect against spells or effects that
 cause harm based on alignment. Masking her alignment aura is a standard
 action, and lasts until she changes it again or ends the effect.
 
-**Nonmagical Aura (Sp)**: At 3rd level, a master spy can use *[magic
-aura]* twice per day, but only
+**Nonmagical Aura (Sp)**: At 3rd level, a master spy can use *[magic aura]* twice per day, but only
 for the purpose of making an object appear nonmagical.
 
 **Superficial [Knowledge]
@@ -1098,8 +1067,7 @@ cannot make untrained
 checks to identify herbs.
 
 **Concealed Thoughts (Su)**: A 4th-level master spy can conceal her
-schemes from mind-reading magic. When a creature is using *[detect
-thoughts]* or similar
+schemes from mind-reading magic. When a creature is using *[detect thoughts]* or similar
 magic to read her mind, she decides what surface thoughts her opponent
 detects, and her true surface thoughts remain private. This ability does
 not protect against mental attacks or mind-reading that delves deeper
@@ -1150,9 +1118,7 @@ attack, even if she has not yet reached 8th level as a master spy.
 **Fool Casting (Su)**: A master spy of 8th level or higher can trick an
 opponent into believing that she has been charmed or dominated. When the
 master spy succeeds at a saving throw against a magical effect that
-provides ongoing control (such as *[charm
-person]*, *[dominate
-person]*, or a
+provides ongoing control (such as *[charm person]*, *[dominate person]*, or a
 vampire's dominate ability), she can allow the spell to take partial
 effect. To the caster, it appears that the spy failed her saving throw,
 but the spy is not under the caster's control. If the spell provides a
@@ -1166,15 +1132,13 @@ such as that granted by slippery mind.
 constant *[mind blank]* spell
 at a caster level equal to her character level. The spy can suppress or
 resume this protection as a standard action. If dispelled, the spy
-cannot resume the *[mind
-blank]* for 1d4 rounds.
+cannot resume the *[mind blank]* for 1d4 rounds.
 
 **Assumption (Su)**: The ultimate ability of the master spy is to take
 over another persona entirely, making it her own. As a full-round
 action, the spy can touch a helpless creature and shift her aura to that
 of her target. This confuses divination effects and spells, even ones as
-powerful as *[discern
-location]*, such
+powerful as *[discern location]*, such
 that they register the spy as being the creature she has touched. This
 ability is not proof against the actions of deities or similarly
 powerful beings. The assumption of an identity lasts until the master
@@ -1224,8 +1188,7 @@ following criteria.
 **Special**: Animal companion class feature\*, favored terrain class
 feature, wild empathy class feature.
 
-**Skills**: [Handle
-Animal] 5 ranks,
+**Skills**: [Handle Animal] 5 ranks,
 [Knowledge] (geography) 5 ranks,
 [Knowledge] (nature) 5 ranks,
 [Survival] 5 ranks.
@@ -1238,14 +1201,12 @@ companion class ability for the purpose of this prestige class.
 ### Class Skills
 
 The nature warden's class skills are
-[Climb] (Str), [Handle
-Animal] (Cha),
+[Climb] (Str), [Handle Animal] (Cha),
 [Heal] (Wis),
 [Knowledge] (geography) (Int),
 [Knowledge] (nature) (Int),
 [Perception] (Wis),
-[Ride] (Dex), [Sense
-Motive] (Wis),
+[Ride] (Dex), [Sense Motive] (Wis),
 [Survival] (Wis), and
 [Swim] (Str).
 
@@ -1318,11 +1279,9 @@ impairment (in effect, this is the woodland stride ability applied to
 non-plant environmental hazards). Terrain hazards that have been
 magically manipulated to impede motion still affect her.
 
-**Animal Speech (Sp)**: At 3rd level, a nature warden can *[speak with
-animals]*at will
+**Animal Speech (Sp)**: At 3rd level, a nature warden can *[speak with animals]*at will
 when in her favored terrain. Outside her favored terrain, she can use
-*[speak with
-animals]*once
+*[speak with animals]*once
 per day. Her caster level is equal to her class level.
 
 **Silverclaw (Su)**: At 4th level, a nature warden's animal companion
@@ -1348,17 +1307,13 @@ items under the effect of an
 *[ironwood]*spell; in the hands of
 others, they are merely ordinary wooden items of the appropriate type.
 If the warden uses this ability to create armor or weapons, she may
-craft them into magic items as if she had the [Craft Magic Arms and
-Armor] feat (though they
+craft them into magic items as if she had the [Craft Magic Arms and Armor] feat (though they
 are merely magical wood in the hands of others, and only ironwood when
 she uses them).
 
 **Companion Walk (Su)**: At 7th level, the nature warden's companion
-shares the benefits of travel spells (such as *[tree
-stride]* and *[transport via
-plants]*)
-and polymorph and similar spells (including *[tree
-shape]*) cast by the warden
+shares the benefits of travel spells (such as *[tree stride]* and *[transport via plants]*)
+and polymorph and similar spells (including *[tree shape]*) cast by the warden
 from the druid or ranger spell list. The companion counts either as part
 of the warden or as an object with no weight, whichever is more
 favorable for the warden.
@@ -1366,8 +1321,7 @@ favorable for the warden.
 **Plant Speech (Sp)**: At 7th level, a nature warden can cast *[speak
 with plants]*at
 will when in her favored terrain. Outside her favored terrain, she can
-use *[speak with
-plants]*once per
+use *[speak with plants]*once per
 day as a spell-like ability. Her caster level is equal to her class
 level.
 
@@ -1409,8 +1363,7 @@ scry on her animal companion once per day as if using the
 *[scrying]* spell, except she needs
 no focus or divine focus. She may view the area around her companion or
 see through its eyes. If her companion dies, she can revive it with an
-8-hour ritual; this has the same effect as *[raise
-dead]*, except it doesn't
+8-hour ritual; this has the same effect as *[raise dead]*, except it doesn't
 require a material component and the companion does not gain any
 negative levels from the ordeal.
 
@@ -1523,10 +1476,7 @@ lends him its strength and wisdom. Whenever the rage prophet rages, he
 gains the benefit of a single
 *[guidance]*spell from his spirit
 guide; this bonus can be used at any time during his rage. The spirit
-guide also allows the rage prophet to use *[dancing
-lights]*, *[ghost
-sound]*, and *[mage
-hand]* as spell-like abilities
+guide also allows the rage prophet to use *[dancing lights]*, *[ghost sound]*, and *[mage hand]* as spell-like abilities
 once per day each (caster level equal to the rage prophet's class
 level). The DCs are Charisma-based.
 
@@ -1541,15 +1491,11 @@ spell as an oracle spell of the listed level. The possible spells are
 *[arcane eye]* (4th),
 *[augury]* (2nd),
 *[divination]* (4th),
-*[dream]* (5th), *[find the
-path]* (6th), *[helping
-hand]* (3rd), *[see
-invisibility]*
+*[dream]* (5th), *[find the path]* (6th), *[helping hand]* (3rd), *[see invisibility]*
 (2nd), *[shadow walk]* (6th),
 *[speak with dead]*
 (3rd), *[spectral hand]*
-(2nd), *[spiritual
-weapon]* (2nd),
+(2nd), *[spiritual weapon]* (2nd),
 *[unseen servant]*
 (1st), *[vision]* (7th), and
 *[whispering wind]*
@@ -1573,8 +1519,7 @@ the spirit guide's
 half the rage prophet's class level when used while battling a fey,
 outsider, undead, or incorporeal creature. As a swift action, the rage
 prophet can spend 1 round of rage (whether he is raging or not) to give
-his armor and weapons the *[ghost
-touch]* property for
+his armor and weapons the *[ghost touch]* property for
 1 round; this effect ends if the item is no longer in his possession.
 
 **Enduring Rage (Su)**: At 6th level, as a free action, a rage prophet
@@ -1654,8 +1599,7 @@ The stalwart defender's class skills are
 [Acrobatics] (Dex),
 [Climb] (Str),
 [Intimidate] (Cha),
-[Perception] (Wis), and [Sense
-Motive] (Wis).
+[Perception] (Wis), and [Sense Motive] (Wis).
 
 **Skill Ranks per Level**: 2 + Int modifier.
 
@@ -1693,8 +1637,7 @@ A stalwart defender can maintain this stance for a number of rounds per
 day equal to 4 + his Constitution modifier. At each level after 1st, he
 can maintain the stance for 2 additional rounds per day. Temporary
 increases to Constitution, such as those gained from the defensive
-stance and spells like *[bear's
-endurance]*, do not
+stance and spells like *[bear's endurance]*, do not
 increase the total number of rounds that the stalwart defender can
 maintain a defensive stance per day. The stalwart defender can enter a
 defensive stance as a free action. The total number of rounds of
@@ -1786,8 +1729,7 @@ defender is immune to the sickened and nauseated conditions.
 *Mighty Resilience (Ex)*: The stalwart defender automatically negates
 the additional damage of one successful critical hit or sneak attack, as
 well as other abilities or effects that rely on a successful critical
-hit or sneak attack (such as blinding from [Blinding
-Critical] or bleed from sneak
+hit or sneak attack (such as blinding from [Blinding Critical] or bleed from sneak
 attack). The stalwart defender takes only normal damage from the attack.
 This power may only be used once per defensive stance. The stalwart
 defender must be at least 6th level to select this power.
