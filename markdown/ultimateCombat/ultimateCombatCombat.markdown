@@ -16,51 +16,51 @@ Table: Eastern Armor
 |*Light       |          |          |          |          |          |          |          |          |
 |Armor*       |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Haramaki   |3 gp      |+1        |—         |0         |0%        |30 ft.    |20 ft.    |1 lb.     |
+|  Haramaki   |3 gp      |+1        |-         |0         |0%        |30 ft.    |20 ft.    |1 lb.     |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Silken     |30 gp     |+1        |—         |0         |0%        |30 ft.    |20 ft.    |4 lbs.    |
+|  Silken     |30 gp     |+1        |-         |0         |0%        |30 ft.    |20 ft.    |4 lbs.    |
 |ceremonial   |          |          |          |          |          |          |          |          |
 |armor        |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Lamellar   |15 gp     |+2        |+4        |0         |5%        |30 ft.    |20 ft.    |8 lbs.    |
+|  Lamellar   |15 gp     |+2        |+4        |0         |5%        |30 ft.    |20 ft.    |8 lbs.    |
 |cuirass      |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Lamellar,  |60 gp     |+4        |+3        |–2        |20%       |30 ft.    |20 ft.    |25 lbs.   |
+|  Lamellar,  |60 gp     |+4        |+3        |-2        |20%       |30 ft.    |20 ft.    |25 lbs.   |
 |leather      |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
 |*Medium      |          |          |          |          |          |          |          |          |
 |Armor*       |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Do-maru    |200 gp    |+5        |+4        |–4        |25%       |20 ft.    |15 ft.    |30 lbs.   |
+|  Do-maru    |200 gp    |+5        |+4        |-4        |25%       |20 ft.    |15 ft.    |30 lbs.   |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Kikko      |30 gp     |+5        |+4        |–3        |20%       |20 ft.    |15 ft.    |25 lbs.   |
+|  Kikko      |30 gp     |+5        |+4        |-3        |20%       |20 ft.    |15 ft.    |25 lbs.   |
 |armor        |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Lamellar,  |100 gp    |+5        |+3        |–4        |25%       |20 ft.    |15 ft.    |30 lbs.   |
+|  Lamellar,  |100 gp    |+5        |+3        |-4        |25%       |20 ft.    |15 ft.    |30 lbs.   |
 |horn         |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Four-mirror|45 gp     |+6        |+2        |–5        |30%       |20 ft.    |15 ft.    |45 lbs.   |
+|  Four-mirror|45 gp     |+6        |+2        |-5        |30%       |20 ft.    |15 ft.    |45 lbs.   |
 |armor        |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Lamellar,  |150 gp    |+6        |+3        |–5        |25%       |20 ft.    |15 ft.    |35 lbs.   |
+|  Lamellar,  |150 gp    |+6        |+3        |-5        |25%       |20 ft.    |15 ft.    |35 lbs.   |
 |steel        |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Mountain   |250 gp    |+6        |+3        |–4        |30%       |20 ft.    |15 ft.    |40 lbs.   |
+|  Mountain   |250 gp    |+6        |+3        |-4        |30%       |20 ft.    |15 ft.    |40 lbs.   |
 |pattern armor|          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
 |*Heavy Armor*|          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Kusari     |350 gp    |+7        |+1        |–7        |35%       |20 ft.    |15 ft.    |45 lbs.   |
+|  Kusari     |350 gp    |+7        |+1        |-7        |35%       |20 ft.    |15 ft.    |45 lbs.   |
 |gusoku       |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Lamellar,  |200 gp    |+7        |0         |–7        |40%       |20 ft.    |15 ft.    |50 lbs.   |
+|  Lamellar,  |200 gp    |+7        |0         |-7        |40%       |20 ft.    |15 ft.    |50 lbs.   |
 |iron         |          |          |          |          |          |          |          |          |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Tatami-do  |1,000 gp  |+7        |+3        |–6        |35%       |20 ft.    |15 ft.    |45 lbs.   |
+|  Tatami-do  |1,000 gp  |+7        |+3        |-6        |35%       |20 ft.    |15 ft.    |45 lbs.   |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  O-yoroi    |1,700 gp  |+8        |+2        |–6        |35%       |20 ft.    |15 ft.    |45 lbs.   |
+|  O-yoroi    |1,700 gp  |+8        |+2        |-6        |35%       |20 ft.    |15 ft.    |45 lbs.   |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
-|  Stone coat |500 gp    |+8        |0         |–7        |40%       |20 ft.    |15 ft.    |45 lbs.   |
+|  Stone coat |500 gp    |+8        |0         |-7        |40%       |20 ft.    |15 ft.    |45 lbs.   |
 +-------------+----------+----------+----------+----------+----------+----------+----------+----------+
 
 **Do-Maru**: The lightest of all samurai armors, do-maru wraps around your body like a short armored coat. It consists primarily of lamellar and lacks a solid breastplate or sleeves. This permits you greater flexibility than do heavier armors.
@@ -71,7 +71,7 @@ Table: Eastern Armor
 
 **Kikko Armor**: Kikko armor consists of hexagonal plates made from iron and sewn to cloth. The plates may be hidden by a layer of cloth or left exposed.
 
-**Kusari Gusoku**: Kusari gusoku is similar to tatami-do armor; however, a katabira—a type of chain jacket—is worn in place of the chest armor.
+**Kusari Gusoku**: Kusari gusoku is similar to tatami-do armor; however, a katabira-a type of chain jacket-is worn in place of the chest armor.
 
 **Lamellar Armor**: Lamellar is a type of armor in which small plates of various types of materials are strung together in parallel rows using fine cord. Lamellar plates can be constructed from lacquered leather, horn, or even stone, though steel and heavier iron are most common. Lamellar armor can be crafted into various shapes, including partial pieces such as breastplates, greaves, or even entire coats. The properties of specific suits and pieces of lamellar armor are determined by their material.
 
@@ -79,7 +79,7 @@ Table: Eastern Armor
 
 **Mountain Pattern Armor**: This medium armor consists of hundreds of small, interlocking pieces of steel shaped to resemble an ancient symbol for the word “mountain.” The mail is then riveted to a cloth or leather backing. It is worn like a mail coat and covers your torso, shoulders, and thighs.
 
-**O-Yoroi**: Worn almost exclusively by high-ranking samurai, o-yoroi—or “great armor”—is a heavy combat armor that consists of various supplementary components that include both plate and lamellar elements. Each suit is crafted for a specific individual and displays the owner's aesthetic. Upon completion, the suit is colored and sealed with a final lacquer finish. The centerpiece of o-yoroi is a cuirass consisting of two parts—a separate reinforcement for the right side called a waidate, and a kikko cuirass. The upper part of the waidate consists of a leather-covered iron plate. The cuirass's leather shoulder straps—called watagami—are likewise armored with metal plates. Affixed to the cuirass are a number of supplementary pieces, including wide lamellar shoulder guards, a kikko sleeve for the shield arm, lacquered iron greaves worn over padded silk leggings, and a groin protector. Still, the signature component of each suit of armor is the tiered kabuto helmet and its accompanying ho-ate mask. Ho-ate masks can be made of hardened leather or metal and are fashioned into fearsome visages such as oni, dragons, or other mythical beings.
+**O-Yoroi**: Worn almost exclusively by high-ranking samurai, o-yoroi-or “great armor”-is a heavy combat armor that consists of various supplementary components that include both plate and lamellar elements. Each suit is crafted for a specific individual and displays the owner's aesthetic. Upon completion, the suit is colored and sealed with a final lacquer finish. The centerpiece of o-yoroi is a cuirass consisting of two parts-a separate reinforcement for the right side called a waidate, and a kikko cuirass. The upper part of the waidate consists of a leather-covered iron plate. The cuirass's leather shoulder straps-called watagami-are likewise armored with metal plates. Affixed to the cuirass are a number of supplementary pieces, including wide lamellar shoulder guards, a kikko sleeve for the shield arm, lacquered iron greaves worn over padded silk leggings, and a groin protector. Still, the signature component of each suit of armor is the tiered kabuto helmet and its accompanying ho-ate mask. Ho-ate masks can be made of hardened leather or metal and are fashioned into fearsome visages such as oni, dragons, or other mythical beings.
 
 **Silken Ceremonial Armor**: Used for ceremonial displays or occasionally worn (albeit with no additional benefit) over heavier armor, these robes consist of several layers of cloth and an outer layer of silk intricately woven with gold brocade designs and covered with metal studs.
 
@@ -97,88 +97,85 @@ This section contains all the Eastern weapons needed to run an Eastern-inspired 
 
 *Blocking*: When you use this weapon to fight defensively, you gain a +1 shield bonus to AC.
 
-\
 
 *Deadly*: When this weapon delivers a coup de grace, it gains +4 to damage when calculating the DC of the Fortitude saving throw to see whether the target of the coup de grace dies from the attack. The bonus is not added to the actual damage of the coup de grace attack.
 
-\
 
 *Distracting*: You gain a +2 bonus on [Bluff] skill checks to feint in combat while wielding this weapon.
 
-\
 
 *Grapple*: On a successful critical hit with a weapon of this type, you can grapple the target of the attack. The wielder can then attempt a combat maneuver check to grapple his opponent as a free action. This grapple attempt does not provoke an attack of opportunity from the creature you are attempting to grapple if that creature is not threatening you. While you grapple the target with a grappling weapon, you can only move or damage the creature on your turn. You are still considered grappled, though you do not have to be adjacent to the creature to continue the grapple. If you move far enough away to be out of the weapon's reach, you end the grapple with that action.
 
 ## Weapon Descriptions
 
-\
+
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |Martial Weapons     |Cost                |Dmg (S)             |Dmg (M)             |Critical            |Range               |Weight^1^           |Type^2^             |Special             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Light Melee        |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Butterfly sword     |20 gp               |1d3                 |1d4                 |19–20/×2            |—                   |1 lb.               |S                   |monk                |
+|Butterfly sword     |20 gp               |1d3                 |1d4                 |19-20/x2            |-                   |1 lb.               |S                   |monk                |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Iron brush          |2 gp                |1d2                 |1d3                 |×2                  |10 ft.              |—                   |P                   |—                   |
+|Iron brush          |2 gp                |1d2                 |1d3                 |x2                  |10 ft.              |-                   |P                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Jutte               |8 gp                |1d4                 |1d6                 |×2                  |—                   |1 lb.               |B                   |disarm, monk        |
+|Jutte               |8 gp                |1d4                 |1d6                 |x2                  |-                   |1 lb.               |B                   |disarm, monk        |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Kerambit            |2 gp                |1d2                 |1d3                 |×3                  |—                   |—                   |S                   |—                   |
+|Kerambit            |2 gp                |1d2                 |1d3                 |x3                  |-                   |-                   |S                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Lungchuan tamo      |5 gp                |1d3                 |1d4                 |×2                  |10 ft.              |1 lb.               |P or S              |monk                |
+|Lungchuan tamo      |5 gp                |1d3                 |1d4                 |x2                  |10 ft.              |1 lb.               |P or S              |monk                |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Shang gou           |6 gp                |1d3                 |1d4                 |×2                  |—                   |1 lb.               |S                   |disarm or trip, monk|
+|Shang gou           |6 gp                |1d3                 |1d4                 |x2                  |-                   |1 lb.               |S                   |disarm or trip, monk|
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Tonfa               |1 gp                |1d4                 |1d6                 |×2                  |—                   |1 lb.               |B                   |blocking, monk      |
+|Tonfa               |1 gp                |1d4                 |1d6                 |x2                  |-                   |1 lb.               |B                   |blocking, monk      |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Wushu dart (5)      |1 gp                |1d2                 |1d3                 |×2                  |10 ft.              |—                   |P                   |monk                |
+|Wushu dart (5)      |1 gp                |1d2                 |1d3                 |x2                  |10 ft.              |-                   |P                   |monk                |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*One-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Broadsword, nine    |15 gp               |1d6                 |1d8                 |×3                  |—                   |4 lbs.              |S                   |monk                |
+|Broadsword, nine    |15 gp               |1d6                 |1d8                 |x3                  |-                   |4 lbs.              |S                   |monk                |
 |ring                |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Double chicken saber|12 gp               |1d4                 |1d6                 |19–20/×2            |—                   |3 lbs.              |S                   |disarm, monk        |
+|Double chicken saber|12 gp               |1d4                 |1d6                 |19-20/x2            |-                   |3 lbs.              |S                   |disarm, monk        |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Sibat               |2 gp                |1d4                 |1d6                 |×3                  |10 ft.              |2 lbs.              |P or S              |see description     |
+|Sibat               |2 gp                |1d4                 |1d6                 |x3                  |10 ft.              |2 lbs.              |P or S              |see description     |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Two-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Hooked lance        |3 gp                |1d6                 |1d8                 |×4                  |—                   |10 lbs.             |P                   |reach, trip         |
+|Hooked lance        |3 gp                |1d6                 |1d8                 |x4                  |-                   |10 lbs.             |P                   |reach, trip         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Monk's spade        |20 gp               |1d4/1d4             |1d6/1d6             |×2                  |—                   |12 lbs.             |B or P or S         |double, monk        |
+|Monk's spade        |20 gp               |1d4/1d4             |1d6/1d6             |x2                  |-                   |12 lbs.             |B or P or S         |double, monk        |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Naginata            |35 gp               |1d6                 |1d8                 |×4                  |—                   |9 lbs.              |S                   |reach               |
+|Naginata            |35 gp               |1d6                 |1d8                 |x4                  |-                   |9 lbs.              |S                   |reach               |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Nodachi             |60 gp               |1d8                 |1d10                |18–20/×2            |—                   |8 lbs.              |S or P              |brace               |
+|Nodachi             |60 gp               |1d8                 |1d10                |18-20/x2            |-                   |8 lbs.              |S or P              |brace               |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Sansetsukon         |8 gp                |1d8                 |1d10                |19–20/×2            |—                   |3 lbs.              |B                   |blocking, disarm,   |
+|Sansetsukon         |8 gp                |1d8                 |1d10                |19-20/x2            |-                   |3 lbs.              |B                   |blocking, disarm,   |
 |                    |                    |                    |                    |                    |                    |                    |                    |monk                |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Sword, tri-point    |12 gp               |1d8                 |1d10                |×3                  |—                   |14 lbs.             |P                   |reach               |
+|Sword, tri-point    |12 gp               |1d8                 |1d10                |x3                  |-                   |14 lbs.             |P                   |reach               |
 |double-edged        |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Tiger fork          |5 gp                |1d6                 |1d8                 |×2                  |—                   |8 lbs.              |P                   |brace, monk         |
+|Tiger fork          |5 gp                |1d6                 |1d8                 |x2                  |-                   |8 lbs.              |P                   |brace, monk         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Ranged Weapons*    |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Tube arrow shooter  |3 gp                |1d3                 |1d4                 |×2                  |40 ft.              |1/2 lb.             |P                   |—                   |
+|Tube arrow shooter  |3 gp                |1d3                 |1d4                 |x2                  |40 ft.              |1/2 lb.             |P                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Bamboo shaft (10)   |1 gp                |—                   |—                   |—                   |—                   |1/2 lb.             |—                   |—                   |
+|Bamboo shaft (10)   |1 gp                |-                   |-                   |-                   |-                   |1/2 lb.             |-                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Arrow, iron-tipped  |1 gp                |—                   |—                   |—                   |—                   |4 lbs.              |—                   |—                   |
+|Arrow, iron-tipped  |1 gp                |-                   |-                   |-                   |-                   |4 lbs.              |-                   |-                   |
 |distance (20)       |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Arrow, whistling    |2 gp                |—                   |—                   |—                   |—                   |3 lbs.              |—                   |—                   |
+|Arrow, whistling    |2 gp                |-                   |-                   |-                   |-                   |3 lbs.              |-                   |-                   |
 |(20)                |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Poisoned sand tube  |1 gp                |special             |special             |—                   |—                   |1 lb.               |—                   |—                   |
+|Poisoned sand tube  |1 gp                |special             |special             |-                   |-                   |1 lb.               |-                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
  
-Table: Eastern Weapons—Martial
+Table: Eastern Weapons-Martial
 
 ^1^ Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weighs twice as much.\
 ^2^ A weapon with two types is either type (wielder's choice) if the entry specifies “or.”
@@ -186,7 +183,7 @@ Table: Eastern Weapons—Martial
 \
  \
 
-Table: Eastern Weapons—Exotic
+Table: Eastern Weapons-Exotic
 
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |Exotic Weapons      |Cost                |Dmg (S)             |Dmg (M)             |Critical            |Range               |Weight              |Type^2^             |Special             |
@@ -194,64 +191,64 @@ Table: Eastern Weapons—Exotic
 |*Light Melee        |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Dan bong            |1 sp                |1d2                 |1d3                 |19–20/×2            |10 ft.              |—                   |B                   |blocking, monk      |
+|Dan bong            |1 sp                |1d2                 |1d3                 |19-20/x2            |10 ft.              |-                   |B                   |blocking, monk      |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Emei piercer        |3 gp                |1d2                 |1d3                 |19–20/×2            |—                   |—                   |P                   |monk, see text      |
+|Emei piercer        |3 gp                |1d2                 |1d3                 |19-20/x2            |-                   |-                   |P                   |monk, see text      |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Fighting fan        |5 gp                |1d3                 |1d4                 |×3                  |—                   |—                   |S or P              |distracting, monk   |
+|Fighting fan        |5 gp                |1d3                 |1d4                 |x3                  |-                   |-                   |S or P              |distracting, monk   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Tekko-kagi (iron    |2 gp                |1d2                 |1d3                 |×2                  |—                   |—                   |P                   |disarm, see text    |
+|Tekko-kagi (iron    |2 gp                |1d2                 |1d3                 |x2                  |-                   |-                   |P                   |disarm, see text    |
 |claw)               |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Wakizashi           |35 gp               |1d4                 |1d6                 |18–20/×2            |—                   |2 lbs.              |P or S              |deadly              |
+|Wakizashi           |35 gp               |1d4                 |1d6                 |18-20/x2            |-                   |2 lbs.              |P or S              |deadly              |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*One-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Katana              |50 gp               |1d6                 |1d8                 |18–20/×2            |—                   |6 lbs.              |S                   |deadly              |
+|Katana              |50 gp               |1d6                 |1d8                 |18-20/x2            |-                   |6 lbs.              |S                   |deadly              |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Nine-section whip   |8 gp                |1d6                 |1d8                 |19–20/×2            |—                   |3 lbs.              |B                   |blocking,           |
+|Nine-section whip   |8 gp                |1d6                 |1d8                 |19-20/x2            |-                   |3 lbs.              |B                   |blocking,           |
 |                    |                    |                    |                    |                    |                    |                    |                    |distracting, monk,\ |
 |                    |                    |                    |                    |                    |                    |                    |                    |trip                |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Urumi               |30 gp               |1d6                 |1d8                 |18–20/×2            |—                   |6 lbs.              |S                   |distracting         |
+|Urumi               |30 gp               |1d6                 |1d8                 |18-20/x2            |-                   |6 lbs.              |S                   |distracting         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Two-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Bo staff            |1 gp                |1d4                 |1d6                 |×2                  |—                   |3 lbs.              |B                   |blocking, double,   |
+|Bo staff            |1 gp                |1d4                 |1d6                 |x2                  |-                   |3 lbs.              |B                   |blocking, double,   |
 |                    |                    |                    |                    |                    |                    |                    |                    |monk                |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Kama, double-chained|8 gp                |1d4/1d4             |1d6/1d6             |×2                  |—                   |4 lbs.              |S                   |double, monk,       |
+|Kama, double-chained|8 gp                |1d4/1d4             |1d6/1d6             |x2                  |-                   |4 lbs.              |S                   |double, monk,       |
 |                    |                    |                    |                    |                    |                    |                    |                    |reach,\ trip        |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Katana, double      |50 gp               |1d4/1d4             |1d6/1d6             |×3                  |—                   |6 lbs.              |B                   |double              |
+|Katana, double      |50 gp               |1d4/1d4             |1d6/1d6             |x3                  |-                   |6 lbs.              |B                   |double              |
 |walking stick       |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Kusarigama (sickle  |12 gp               |1d2/1d4             |1d3/1d6             |×2                  |—                   |3 lbs.              |S or B              |double, monk,       |
+|Kusarigama (sickle  |12 gp               |1d2/1d4             |1d3/1d6             |x2                  |-                   |3 lbs.              |S or B              |double, monk,       |
 |and chain)          |                    |                    |                    |                    |                    |                    |                    |reach,\ trip,       |
 |                    |                    |                    |                    |                    |                    |                    |                    |grapple             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Kyoketsu shoge      |6 gp                |1d3                 |1d4                 |×2                  |20 ft.              |1 lb.               |S or P              |disarm, grapple,    |
+|Kyoketsu shoge      |6 gp                |1d3                 |1d4                 |x2                  |20 ft.              |1 lb.               |S or P              |disarm, grapple,    |
 |                    |                    |                    |                    |                    |                    |                    |                    |monk,\ reach        |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Meteor hammer       |10 gp               |1d6                 |1d8                 |×2                  |—                   |10 lbs.             |B                   |reach, trip         |
+|Meteor hammer       |10 gp               |1d6                 |1d8                 |x2                  |-                   |10 lbs.             |B                   |reach, trip         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Sword,              |50 gp               |1d8                 |1d10                |×3                  |—                   |7 lbs.              |S                   |disarm, monk        |
+|Sword,              |50 gp               |1d8                 |1d10                |x3                  |-                   |7 lbs.              |S                   |disarm, monk        |
 |seven-branched      |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Tetsubo             |20 gp               |1d8                 |1d10                |×4                  |—                   |10 lbs.             |B                   |—                   |
+|Tetsubo             |20 gp               |1d8                 |1d10                |x4                  |-                   |10 lbs.             |B                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Ranged Weapons*    |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Rope dart           |1 gp                |1d3                 |1d4                 |×2                  |20 ft.              |—                   |P                   |blocking,           |
+|Rope dart           |1 gp                |1d3                 |1d4                 |x2                  |20 ft.              |-                   |P                   |blocking,           |
 |                    |                    |                    |                    |                    |                    |                    |                    |distracting, monk   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
  
 ^1^ Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weighs twice as much.\
  ^2^ A weapon with two types is either type (wielder's choice) if the entry specifies “or.”
 
-**Arrow, Iron-Tipped Distance**: Used tactically for long-range attacks on troops, these arrows are fitted with heavy iron heads. While these heads help them travel great distances, they make the arrows less effective at dealing damage. Iron-tipped distance arrows increase their bow's range increment by 10 feet but take a –1 penalty on damage dealt per range increment (minimum 1 point of damage). They are sold in leather quivers in quantities of 20.
+**Arrow, Iron-Tipped Distance**: Used tactically for long-range attacks on troops, these arrows are fitted with heavy iron heads. While these heads help them travel great distances, they make the arrows less effective at dealing damage. Iron-tipped distance arrows increase their bow's range increment by 10 feet but take a -1 penalty on damage dealt per range increment (minimum 1 point of damage). They are sold in leather quivers in quantities of 20.
 
 **Arrow, Whistling**: These arrows come with specially designed grooves and fletching that cause them to emit a loud keening sound audible within 500 feet of their flight path. They are sold in quantities of 20.
 
@@ -345,9 +342,9 @@ Firearms
 
 # Firearms
 
-Guns are not strangers to fantasy. The earliest authors of fantasy and weird fiction often included guns in their stories. Heroes like Burroughs's John Carter or Howard's Solomon Kane carried pistols alongside their swords, and it's hard to imagine a pirate ship without cannons blazing. These authors likely included guns because they are exciting, but also because the guns they chose were primitive ones—relatively unpredictable weapons, prone to misfire and malfunction. This made firearms excellent storytelling devices. Such weapons could cause hero or villain to falter or triumph, changing the action within the tale in a flash or a fizzle. Still, a firearm remains an ominous and terrible weapon in the hands of a skilled gunman.
+Guns are not strangers to fantasy. The earliest authors of fantasy and weird fiction often included guns in their stories. Heroes like Burroughs's John Carter or Howard's Solomon Kane carried pistols alongside their swords, and it's hard to imagine a pirate ship without cannons blazing. These authors likely included guns because they are exciting, but also because the guns they chose were primitive ones-relatively unpredictable weapons, prone to misfire and malfunction. This made firearms excellent storytelling devices. Such weapons could cause hero or villain to falter or triumph, changing the action within the tale in a flash or a fizzle. Still, a firearm remains an ominous and terrible weapon in the hands of a skilled gunman.
 
-This section presents an anachronistic collection of hand-held black powder weapons. Most of them are single-shot muzzle-loaders with highly inefficient triggering mechanisms—traditional sword and sorcery firearms. More advanced firearms are also presented for those brave enough to mix their fantasy with a technology much closer to that of the Old West than the slow and unstable weapons that gave musketeers their name. If you are interested in letting such weapons in your game, do so with the following warning: Advanced guns can substantially change the assumptions of your game world, in the same way that they changed the face of warfare in the real world. If you like your fantasy to be of the more traditional variety, stand clear. Or, better yet, run for cover.
+This section presents an anachronistic collection of hand-held black powder weapons. Most of them are single-shot muzzle-loaders with highly inefficient triggering mechanisms-traditional sword and sorcery firearms. More advanced firearms are also presented for those brave enough to mix their fantasy with a technology much closer to that of the Old West than the slow and unstable weapons that gave musketeers their name. If you are interested in letting such weapons in your game, do so with the following warning: Advanced guns can substantially change the assumptions of your game world, in the same way that they changed the face of warfare in the real world. If you like your fantasy to be of the more traditional variety, stand clear. Or, better yet, run for cover.
 
 # Firearms in Your Campaign
 
@@ -355,9 +352,9 @@ Firearms and gunslingers are not for every campaign, and even if you are excited
 
 **No Guns**: If you do not want guns in your campaign, simply don't allow the rules that follow. The Pathfinder Roleplaying Game plays perfectly well without them.
 
-**Very Rare Guns**: Early firearms are rare; advanced firearms, the gunslinger class, the [Amateur Gunslinger]) feat, and archetypes that use the firearm rules do not exist in this type of campaign. Firearms are treated more like magic items—things of wonder and mystery—rather than like things that are mass-produced. Few know the strange secrets of firearm creation. Only NPCs can take the [Gunsmithing] feat.
+**Very Rare Guns**: Early firearms are rare; advanced firearms, the gunslinger class, the [Amateur Gunslinger]) feat, and archetypes that use the firearm rules do not exist in this type of campaign. Firearms are treated more like magic items-things of wonder and mystery-rather than like things that are mass-produced. Few know the strange secrets of firearm creation. Only NPCs can take the [Gunsmithing] feat.
 
-**Emerging Guns**: Firearms become more common. They are mass-produced by small guilds, lone gunsmiths, dwarven clans, or maybe even a nation or two—the secret is slipping out, and the occasional rare adventurer uses guns. The baseline gunslinger rules and the prices for ammunition given in this chapter are for this type of campaign. Early firearms are available, but are relatively rare. Adventurers who want to use guns must take the [Craft] Firearms feat just to make them feasible weapons. Advanced firearms may exist, but only as rare and wondrous items—the stuff of high-level treasure troves.
+**Emerging Guns**: Firearms become more common. They are mass-produced by small guilds, lone gunsmiths, dwarven clans, or maybe even a nation or two-the secret is slipping out, and the occasional rare adventurer uses guns. The baseline gunslinger rules and the prices for ammunition given in this chapter are for this type of campaign. Early firearms are available, but are relatively rare. Adventurers who want to use guns must take the [Craft] Firearms feat just to make them feasible weapons. Advanced firearms may exist, but only as rare and wondrous items-the stuff of high-level treasure troves.
 
 **Commonplace Guns**: While still expensive and tricky to wield, early firearms are readily available. Instead of requiring the [Exotic Weapon Proficiency] feat, all firearms are martial weapons. Early firearms and their ammunition cost 25% of the amounts listed in this book, but advanced firearms and their ammunition are still rare and cost the full price to purchase or craft.
 
@@ -365,9 +362,9 @@ Firearms and gunslingers are not for every campaign, and even if you are excited
 
 # Firearm Rules
 
-Firearms work differently from other ranged projectile weapons—they instead use the following rules.
+Firearms work differently from other ranged projectile weapons-they instead use the following rules.
 
-**Firearm Proficiency**: The [Exotic Weapon Proficiency] (firearms) feat allows you to use all firearms without penalty. A nonproficient character takes the standard –4 penalty on attack rolls with firearms, and a nonproficient character who loads a firearm increases all misfire values by 4 for the shots he loads.
+**Firearm Proficiency**: The [Exotic Weapon Proficiency] (firearms) feat allows you to use all firearms without penalty. A nonproficient character takes the standard -4 penalty on attack rolls with firearms, and a nonproficient character who loads a firearm increases all misfire values by 4 for the shots he loads.
 
 Even though the [Exotic Weapon Proficiency] (firearms) feat grants you proficiency with all firearms, anytime you take a feat that modifies a single type of weapon (such as [Weapon Focus] or [Rapid Reload])), you must still pick one specific type of firearm (such as musket, axe musket, blunderbuss, pistol, or double pistol) for that feat to affect.
 
@@ -377,13 +374,12 @@ All firearms are part of the same weapon group for the purposes of the fighter's
 
 **Range and Penetration**: Armor, whether manufactured or natural, provides little protection against the force of a bullet at short range.
 
-*Early Firearms*: When firing an early firearm, the attack resolves against the target's touch AC when the target is within the first range increment of the weapon, but this type of attack is not considered a touch attack for the purposes of feats and abilities such as [Deadly Aim]. At higher range increments, the attack resolves normally, including taking the normal cumulative –2 penalty for each full range increment. Unlike other projectile weapons, early firearms have a maximum range of five range increments.
+*Early Firearms*: When firing an early firearm, the attack resolves against the target's touch AC when the target is within the first range increment of the weapon, but this type of attack is not considered a touch attack for the purposes of feats and abilities such as [Deadly Aim]. At higher range increments, the attack resolves normally, including taking the normal cumulative -2 penalty for each full range increment. Unlike other projectile weapons, early firearms have a maximum range of five range increments.
 
-\
 
-*Advanced Firearms*: Advanced firearms resolve their attacks against touch AC when the target is within the first five range increments, but this type of attack is not considered a touch attack for the purposes of feats such as [Deadly Aim]. At higher range increments, the attack resolves normally, including taking the normal cumulative –2 penalty for each full-range increment. Advanced firearms have a maximum range of 10 range increments.
+*Advanced Firearms*: Advanced firearms resolve their attacks against touch AC when the target is within the first five range increments, but this type of attack is not considered a touch attack for the purposes of feats such as [Deadly Aim]. At higher range increments, the attack resolves normally, including taking the normal cumulative -2 penalty for each full-range increment. Advanced firearms have a maximum range of 10 range increments.
 
-**Loading a Firearm**: You need at least one hand free to load one-handed and two-handed firearms. In the case of two-handed firearms, you hold the weapon in one hand and load it with the other—you only need to hold it in two hands to aim and shoot the firearm. Loading siege firearms requires both hands, and one hand usually manipulates a large ramrod (which can be wielded as a club in combat).
+**Loading a Firearm**: You need at least one hand free to load one-handed and two-handed firearms. In the case of two-handed firearms, you hold the weapon in one hand and load it with the other-you only need to hold it in two hands to aim and shoot the firearm. Loading siege firearms requires both hands, and one hand usually manipulates a large ramrod (which can be wielded as a club in combat).
 
 The [Rapid Reload]) feat reduces the time required to load one-handed and two-handed firearms, but this feat does not reduce the time it takes to load siege firearms.
 
@@ -393,15 +389,13 @@ Other rules for loading a firearm depend on whether the firearm is an early fire
 
 *Early Firearms*: Early firearms are muzzle-loaded, requiring bullets or pellets and black powder to be rammed down the muzzle. If an early firearm has multiple barrels, each barrel must be loaded separately. It is a standard action to load each barrel of a one-handed early firearm and a full-round action to load each barrel of a two-handed early firearm. It takes three full-round actions by one person to load a siege firearm. This can be reduced to two full-round actions if more than one person is loading the cannon.
 
-\
 
 *Advanced Firearms*: Advanced firearms are chamber-loaded. It is a move action to load a one-handed or two-handed advanced firearm to its full capacity.
 
 **Misfires**: If the natural result of your attack roll falls within a firearm's misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition, it suffers the normal disadvantages that broken weapons do, and its misfire value increases by 4 unless the wielder has gun training in the particular type of firearm. In that case, the misfire value increases by 2 instead of 4.
 
-*Early Firearms*: If an early firearm with the broken condition misfires again, it explodes. When a nonmagical firearm explodes, the weapon is destroyed. Magical firearms are wrecked, which means they can't fire until they are fully restored (which requires either the *[make whole]* spell or the [Gunsmithing] feat). When a gun explodes, pick one corner of your square—the explosion creates a burst from that point of origin. Each firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon—a DC 12 Reflex save halves this damage.
+*Early Firearms*: If an early firearm with the broken condition misfires again, it explodes. When a nonmagical firearm explodes, the weapon is destroyed. Magical firearms are wrecked, which means they can't fire until they are fully restored (which requires either the *[make whole]* spell or the [Gunsmithing] feat). When a gun explodes, pick one corner of your square-the explosion creates a burst from that point of origin. Each firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon-a DC 12 Reflex save halves this damage.
 
-\
 
 *Advanced Firearms*: Advanced firearms can misfire, but when they do, they only gain the broken condition. A further misfire does not cause advanced firearms to explode.
 
@@ -409,7 +403,7 @@ Other rules for loading a firearm depend on whether the firearm is an early fire
 
 **Concealing Firearms**: Like light weapons and hand crossbows, one-handed firearms are easy to conceal on your person. Some smaller firearms (like the coat pistol) can grant bonuses to conceal a weapon on your person.
 
-**Inappropriately Sized Firearms**: You cannot make optimum use of a firearm that is not properly sized for you. A cumulative –2 penalty applies on attack rolls for each size category of difference between your size and the size of the firearm. If you are not proficient with the firearm, a –4 nonproficiency penalty also applies. The size of a firearm never affects how many hands you need to use to shoot it, the exception being siege firearms and Large or larger creatures. In most cases, a Large or larger creature can use a siege firearm as a two-handed firearm, but the creature takes a –4 penalty for using it this way because of its awkwardness.
+**Inappropriately Sized Firearms**: You cannot make optimum use of a firearm that is not properly sized for you. A cumulative -2 penalty applies on attack rolls for each size category of difference between your size and the size of the firearm. If you are not proficient with the firearm, a -4 nonproficiency penalty also applies. The size of a firearm never affects how many hands you need to use to shoot it, the exception being siege firearms and Large or larger creatures. In most cases, a Large or larger creature can use a siege firearm as a two-handed firearm, but the creature takes a -4 penalty for using it this way because of its awkwardness.
 
 **Bucklers**: You can use a one-handed or two-handed firearm without penalty while carrying a buckler.
 
@@ -423,9 +417,9 @@ Other rules for loading a firearm depend on whether the firearm is an early fire
 
 There are two general categories of firearms: early and advanced.
 
-Firearms are further divided into one-handed, two-handed, and siege firearms. As the category's name implies, one-handed firearms need only one hand to wield and shoot. Two-handed firearms work best when you use two-hands while shooting them. Two-handed firearms can be shot with one hand at a –4 penalty on the attack roll. Siege weapons are typically mounted on some sort of platform, movable or otherwise, and have greater power but a much slower rate of fire—they're detailed in their own section.
+Firearms are further divided into one-handed, two-handed, and siege firearms. As the category's name implies, one-handed firearms need only one hand to wield and shoot. Two-handed firearms work best when you use two-hands while shooting them. Two-handed firearms can be shot with one hand at a -4 penalty on the attack roll. Siege weapons are typically mounted on some sort of platform, movable or otherwise, and have greater power but a much slower rate of fire-they're detailed in their own section.
 
-**Scatter Weapon Quality**: A weapon with the scatter weapon quality can shoot two different types of ammunition. It can fire normal bullets that target one creature, or it can make a scattering shot, attacking all creatures within a cone. Cannons with the scatter weapon quality only fire grapeshot, unless their descriptions state otherwise. When a scatter weapon attacks all creatures within a cone, it makes a separate attack roll against each creature within the cone. Each attack roll takes a –2 penalty, and its attack damage cannot be modified by precision damage or damage-increasing feats such as [Vital Strike]. Effects that grant concealment, such as fog or smoke, or the *[blur], [invisibility]*, or *[mirror image]* spells, do not foil a scatter attack. If any of the attack rolls threaten a critical, confirm the critical for that attack roll alone. A firearm that makes a scatter shot misfires only if all of the attack rolls made misfire. If a scatter weapon explodes on a misfire, it deals triple its damage to all creatures within the misfire radius.
+**Scatter Weapon Quality**: A weapon with the scatter weapon quality can shoot two different types of ammunition. It can fire normal bullets that target one creature, or it can make a scattering shot, attacking all creatures within a cone. Cannons with the scatter weapon quality only fire grapeshot, unless their descriptions state otherwise. When a scatter weapon attacks all creatures within a cone, it makes a separate attack roll against each creature within the cone. Each attack roll takes a -2 penalty, and its attack damage cannot be modified by precision damage or damage-increasing feats such as [Vital Strike]. Effects that grant concealment, such as fog or smoke, or the *[blur], [invisibility]*, or *[mirror image]* spells, do not foil a scatter attack. If any of the attack rolls threaten a critical, confirm the critical for that attack roll alone. A firearm that makes a scatter shot misfires only if all of the attack rolls made misfire. If a scatter weapon explodes on a misfire, it deals triple its damage to all creatures within the misfire radius.
 
 ## Early Firearms
 
@@ -439,42 +433,42 @@ Table: Early Firearms
 |*One-Handed         |                    |                    |                  |                  |                  |                  |                  |                  |                    |                    |
 |Firearms*           |                    |                    |                  |                  |                  |                  |                  |                  |                    |                    |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Buckler gun         |750 gp              |1d4                 |1d6               |×4                |10 ft.            |1 (5 ft.)         |2                 |6 lbs.            |B and P             |—                   |
+|Buckler gun         |750 gp              |1d4                 |1d6               |x4                |10 ft.            |1 (5 ft.)         |2                 |6 lbs.            |B and P             |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Pepperbox           |3,000 gp            |1d6                 |1d8               |×4                |20 ft.            |1–2 (5 ft.)       |6                 |5 lbs.            |B and P             |—                   |
+|Pepperbox           |3,000 gp            |1d6                 |1d8               |x4                |20 ft.            |1-2 (5 ft.)       |6                 |5 lbs.            |B and P             |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Pistol              |1,000 gp            |1d6                 |1d8               |×4                |20 ft.            |1 (5 ft.)         |1                 |4 lbs.            |B and P             |—                   |
+|Pistol              |1,000 gp            |1d6                 |1d8               |x4                |20 ft.            |1 (5 ft.)         |1                 |4 lbs.            |B and P             |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Pistol, coat        |750 gp              |1d3                 |1d4               |×3                |10 ft.            |1 (5 ft.)         |1                 |1 lb.             |B and P             |—                   |
+|Pistol, coat        |750 gp              |1d3                 |1d4               |x3                |10 ft.            |1 (5 ft.)         |1                 |1 lb.             |B and P             |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Pistol, dagger      |740 gp              |1d3                 |1d4               |×3                |10 ft.            |1 (5 ft.)         |1                 |1 lb.             |B and P             |—                   |
+|Pistol, dagger      |740 gp              |1d3                 |1d4               |x3                |10 ft.            |1 (5 ft.)         |1                 |1 lb.             |B and P             |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Pistol,             |1,750 gp            |1d6                 |1d8               |×4                |20 ft.            |1–2 (5 ft.)       |2                 |5 lbs.            |B and P             |—                   |
+|Pistol,             |1,750 gp            |1d6                 |1d8               |x4                |20 ft.            |1-2 (5 ft.)       |2                 |5 lbs.            |B and P             |-                   |
 |double-barreled     |                    |                    |                  |                  |                  |                  |                  |                  |                    |                    |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Pistol, dragon      |1,000 gp            |1d4                 |1d6               |×4                |20 ft.            |1–2 (5 ft.)       |1                 |3 lbs.            |B and P             |scatter             |
+|Pistol, dragon      |1,000 gp            |1d4                 |1d6               |x4                |20 ft.            |1-2 (5 ft.)       |1                 |3 lbs.            |B and P             |scatter             |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Pistol, sword cane  |775 gp              |1d3                 |1d4               |×3                |10 ft.            |1 (5 ft.)         |1                 |1 lb.             |B and P             |—                   |
+|Pistol, sword cane  |775 gp              |1d3                 |1d4               |x3                |10 ft.            |1 (5 ft.)         |1                 |1 lb.             |B and P             |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
 |*Two-Handed         |                    |                    |                  |                  |                  |                  |                  |                  |                    |                    |
 |Firearms*           |                    |                    |                  |                  |                  |                  |                  |                  |                    |                    |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Blunderbuss         |2,000 gp            |1d6                 |1d8               |×2                |special           |1–2 (10 ft.)      |1                 |8 lbs.            |B and P             |scatter             |
+|Blunderbuss         |2,000 gp            |1d6                 |1d8               |x2                |special           |1-2 (10 ft.)      |1                 |8 lbs.            |B and P             |scatter             |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Culverin            |4,000 gp            |2d6                 |2d8               |×4                |30 ft.            |1 (10 ft.)        |1                 |40 lbs.           |B and P             |scatter             |
+|Culverin            |4,000 gp            |2d6                 |2d8               |x4                |30 ft.            |1 (10 ft.)        |1                 |40 lbs.           |B and P             |scatter             |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Double hackbut      |4,000 gp            |2d10                |2d12              |×4                |50 ft.            |1–2 (5 ft.)       |2                 |18 lbs.           |B and P             |—                   |
+|Double hackbut      |4,000 gp            |2d10                |2d12              |x4                |50 ft.            |1-2 (5 ft.)       |2                 |18 lbs.           |B and P             |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Fire lance          |25 gp               |1d4                 |1d6               |×4                |10 ft.            |1–4 (5 ft.)       |1                 |4 lbs.            |P                   |—                   |
+|Fire lance          |25 gp               |1d4                 |1d6               |x4                |10 ft.            |1-4 (5 ft.)       |1                 |4 lbs.            |P                   |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Musket              |1,500 gp            |1d10                |1d12              |×4                |40 ft.            |1–2 (5 ft.)       |1                 |9 lbs.            |B and P             |—                   |
+|Musket              |1,500 gp            |1d10                |1d12              |x4                |40 ft.            |1-2 (5 ft.)       |1                 |9 lbs.            |B and P             |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Musket, axe         |1,600 gp            |1d6                 |1d8               |×4                |30 ft.            |1–2 (5 ft.)       |1                 |6 lbs.            |B and P             |—                   |
+|Musket, axe         |1,600 gp            |1d6                 |1d8               |x4                |30 ft.            |1-2 (5 ft.)       |1                 |6 lbs.            |B and P             |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Musket,             |2,500 gp            |1d10                |1d12              |×4                |10 ft.            |1–3 (5 ft.)       |2                 |11 lbs.           |B and P             |—                   |
+|Musket,             |2,500 gp            |1d10                |1d12              |x4                |10 ft.            |1-3 (5 ft.)       |2                 |11 lbs.           |B and P             |-                   |
 |double-barreled     |                    |                    |                  |                  |                  |                  |                  |                  |                    |                    |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
-|Musket, warhammer   |1,600 gp            |1d6                 |1d8               |×4                |30 ft.            |1–2 (5 ft.)       |1                 |6 lbs.            |B and P             |—                   |
+|Musket, warhammer   |1,600 gp            |1d6                 |1d8               |x4                |30 ft.            |1-2 (5 ft.)       |1                 |6 lbs.            |B and P             |-                   |
 +--------------------+--------------------+--------------------+------------------+------------------+------------------+------------------+------------------+------------------+--------------------+--------------------+
   
 ^1^ Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weights twice as much.\
@@ -484,9 +478,9 @@ Table: Early Firearms
 
 **Buckler Gun**: The front of this buckler is fitted with a small, double-barreled gun that can be shot while wearing the buckler. Unlike with a double-barreled pistol, you can only shoot one barrel at a time. You must remove the buckler to reload the gun. Each barrel of a buckler gun uses a bullet and 1 dose of black powder or single alchemical cartridge as ammunition. Because of its awkward construction, a buckler gun is always considered an off-handed weapon.
 
-**Culverin (Hand Bombard)**: The culverin, also known as a hand bombard, consists of a simple smoothbore tube, sealed at one end except for a small hole used to ignite a gunpowder charge. A wooden stock partially encases the barrel, allowing the wielder to hold it under his arm with relative ease when carrying it. Firing a culverin without support (such as a wall, a window, or a stand) imparts a –4 penalty on the attack rolls, and the wielder is knocked prone. A culverin uses 4 doses of black powder and grapeshot. Note that these statistics simulate only the original, hand-held culverins—their larger descendants are considered cannons and are dealt with in the section on siege weapons.
+**Culverin (Hand Bombard)**: The culverin, also known as a hand bombard, consists of a simple smoothbore tube, sealed at one end except for a small hole used to ignite a gunpowder charge. A wooden stock partially encases the barrel, allowing the wielder to hold it under his arm with relative ease when carrying it. Firing a culverin without support (such as a wall, a window, or a stand) imparts a -4 penalty on the attack rolls, and the wielder is knocked prone. A culverin uses 4 doses of black powder and grapeshot. Note that these statistics simulate only the original, hand-held culverins-their larger descendants are considered cannons and are dealt with in the section on siege weapons.
 
-**Double Hackbut**: This double-length rifle uses a pair of trunnions to mount its barrel into a swiveling mechanism fastened to a lightweight, two-wheeled carriage. It takes a full-round action to set up the carriage. The carriage has a hind leg, allowing the wielder to wheel the device about and immediately prop it for stability during combat. Unlike other two-handed firearms, you must fire the double hackbut while it is mounted, or else firing it imparts a –4 penalty on attack rolls and the recoil knocks the wielder prone. A Large or larger creature can fire a double hackbut one size smaller than it is without its mounting as a normal two-handed weapon and without the danger of being knocked prone, but takes the normal penalty for firing an inappropriately sized weapon.
+**Double Hackbut**: This double-length rifle uses a pair of trunnions to mount its barrel into a swiveling mechanism fastened to a lightweight, two-wheeled carriage. It takes a full-round action to set up the carriage. The carriage has a hind leg, allowing the wielder to wheel the device about and immediately prop it for stability during combat. Unlike other two-handed firearms, you must fire the double hackbut while it is mounted, or else firing it imparts a -4 penalty on attack rolls and the recoil knocks the wielder prone. A Large or larger creature can fire a double hackbut one size smaller than it is without its mounting as a normal two-handed weapon and without the danger of being knocked prone, but takes the normal penalty for firing an inappropriately sized weapon.
 
 **Fire Lance**: This primitive firearm is nothing more than a long tube that, when ignited, propels a short gout of flame and a javelin. Unlike other firearms, the fire lance is wildly imprecise, and targets AC rather than touch AC. A fire lance is always treated as having the broken condition for the purpose of determining the effects of a misfire. A fire lances uses a javelin and 2 doses of black powder as ammunition.
 
@@ -494,7 +488,7 @@ Table: Early Firearms
 
 **Musket, Axe**: This musket features an axe blade at the end of its barrel. It can be used as both a musket and a battleaxe. It is considered a double weapon for purposes of creating masterwork or magical versions of this weapon. If this firearm gains the broken condition, both the firearm component and the axe are considered broken. An axe musket uses either a bullet and a single dose of black powder or an alchemical cartridge as ammunition.
 
-**Musket, Double-Barreled**: This musket has two parallel barrels; each barrel can be shot independently as a separate action, or both can be fired at once as the same attack. If both barrels are fired at once, they must both target the same creature or object, and the gun becomes wildly inaccurate, taking a –4 penalty on each shot. Each barrel of a double-barreled musket uses either a bullet and a single dose of black powder or an alchemical cartridge as ammunition.
+**Musket, Double-Barreled**: This musket has two parallel barrels; each barrel can be shot independently as a separate action, or both can be fired at once as the same attack. If both barrels are fired at once, they must both target the same creature or object, and the gun becomes wildly inaccurate, taking a -4 penalty on each shot. Each barrel of a double-barreled musket uses either a bullet and a single dose of black powder or an alchemical cartridge as ammunition.
 
 **Musket, Warhammer**: This musket has a warhammer head at the end of its barrel, which allows it to be used as both a musket and a warhammer. It is considered a double weapon for purposes of creating masterwork or magical versions of this weapon. If this firearm gains the broken condition, both the firearm component and the warhammer are considered broken. A warhammer musket uses either a bullet and a single dose of black powder or an alchemical cartridge as ammunition.
 
@@ -506,7 +500,7 @@ Table: Early Firearms
 
 **Pistol, Dagger**: A combination of a coat pistol and a blade, the dagger pistol can be used as both weapons. The awkwardness of the configuration means you do not gain the bonus on [Sleight of Hand] checks that either of those stand-alone weapons grants. The dagger pistol is considered a double weapon for the purpose of creating masterwork or magical versions of this weapon. If this firearm gains the broken condition, both the firearm component and the dagger component are considered broken. A dagger pistol uses either a bullet and a single dose of black powder or an alchemical cartridge as ammunition.
 
-**Pistol, Double-Barreled**: This pistol has two parallel barrels; each barrel can be fired independently as a separate action, or both can be shot at once with the same action. If both barrels are shot at once, they must both target the same creature or object, and the pistol becomes wildly inaccurate, imparting a –4 penalty on each shot.
+**Pistol, Double-Barreled**: This pistol has two parallel barrels; each barrel can be fired independently as a separate action, or both can be shot at once with the same action. If both barrels are shot at once, they must both target the same creature or object, and the pistol becomes wildly inaccurate, imparting a -4 penalty on each shot.
 
 **Pistol, Dragon**: Like a miniature blunderbuss, the dragon pistol fires pellets or a bullet from its flared barrel. The dragon pistol fires in a 15-foot cone when firing pellets, and has a 10-foot range increment when firing a bullet. For ammunition, a dragon pistol uses a bullet or group of pellets and a single dose of black powder, or else a single alchemical cartridge (with either bullets or pellets) as ammunition.
 
@@ -524,18 +518,18 @@ Table: Advanced Firearms
 |*One-Handed     |                |                |                |                |                |                |                |                |                |                |
 |Firearms*       |                |                |                |                |                |                |                |                |                |                |
 +----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+
-|Revolver        |4,000 gp        |1d6             |1d8             |×4              |20 ft.          |1               |6               |4 lbs.          |B and P         |—               |
+|Revolver        |4,000 gp        |1d6             |1d8             |x4              |20 ft.          |1               |6               |4 lbs.          |B and P         |-               |
 +----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+
 |*Two-Handed     |                |                |                |                |                |                |                |                |                |                |
 |Firearms*       |                |                |                |                |                |                |                |                |                |                |
 +----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+
-|Rifle           |5,000 gp        |1d8             |1d10            |×4              |80 ft.          |1               |1               |12 lbs.         |B and P         |—               |
+|Rifle           |5,000 gp        |1d8             |1d10            |x4              |80 ft.          |1               |1               |12 lbs.         |B and P         |-               |
 +----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+
-|Rifle, pepperbox|7,000 gp        |1d8             |1d10            |×4              |80 ft.          |1–2             |4               |15 lbs.         |B and P         |—               |
+|Rifle, pepperbox|7,000 gp        |1d8             |1d10            |x4              |80 ft.          |1-2             |4               |15 lbs.         |B and P         |-               |
 +----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+
-|Shotgun         |5,000 gp        |1d6             |1d8             |×2              |20 ft.          |1–2             |1               |12 lbs.         |B and P         |scatter         |
+|Shotgun         |5,000 gp        |1d6             |1d8             |x2              |20 ft.          |1-2             |1               |12 lbs.         |B and P         |scatter         |
 +----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+
-|Shotgun,        |7,000 gp        |1d6             |1d8             |×2              |20 ft.          |1–2             |2               |15 lbs.         |B and P         |scatter         |
+|Shotgun,        |7,000 gp        |1d6             |1d8             |x2              |20 ft.          |1-2             |2               |15 lbs.         |B and P         |scatter         |
 |double-barreled |                |                |                |                |                |                |                |                |                |                |
 +----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+----------------+
 
@@ -550,7 +544,7 @@ Table: Advanced Firearms
 
 **Shotgun**: This advanced version of the blunderbuss shoots in a 30-foot cone when firing pellets, and has a 20-foot range increment when firing a bullet (often called a slug). A shotgun uses metal cartridges (loaded with either a bullet or pellets) as ammunition.
 
-**Shotgun, Double-Barreled**: This twin-barreled shotgun can be shot either one barrel at a time, or both together as one attack. A double shot that fires bullets is inaccurate, and takes a –4 penalty on both attacks. A double shot that fires bullets targets only a single creature and increases the damage of each barrel to 2d6 points (Small) or 2d8 points (Medium) for a total of 4d6 or 4d8 points. A double-barreled shotgun uses metal cartridges (loaded with either a bullet or pellets) as ammunition.
+**Shotgun, Double-Barreled**: This twin-barreled shotgun can be shot either one barrel at a time, or both together as one attack. A double shot that fires bullets is inaccurate, and takes a -4 penalty on both attacks. A double shot that fires bullets targets only a single creature and increases the damage of each barrel to 2d6 points (Small) or 2d8 points (Medium) for a total of 4d6 or 4d8 points. A double-barreled shotgun uses metal cartridges (loaded with either a bullet or pellets) as ammunition.
 
 ## Firearm Ammunition and Adventuring Gear
 
@@ -561,36 +555,36 @@ Table: Firearm Gear
 +----------------------------------------+----------+----------+
 |Item                                    |Cost      |Weight    |
 +----------------------------------------+----------+----------+
-|Alchemical cartridge, dragon's breath   |40 gp     |—         |
+|Alchemical cartridge, dragon's breath   |40 gp     |-         |
 +----------------------------------------+----------+----------+
-|Alchemical cartridge, entangling shot   |40 gp     |—         |
+|Alchemical cartridge, entangling shot   |40 gp     |-         |
 +----------------------------------------+----------+----------+
-|Alchemical cartridge, flare             |10 gp     |—         |
+|Alchemical cartridge, flare             |10 gp     |-         |
 +----------------------------------------+----------+----------+
-|Alchemical cartridge, paper (bullet or  |12 gp     |—         |
+|Alchemical cartridge, paper (bullet or  |12 gp     |-         |
 |pellet)                                 |          |          |
 +----------------------------------------+----------+----------+
-|Alchemical cartridge, salt shot         |12 gp     |—         |
+|Alchemical cartridge, salt shot         |12 gp     |-         |
 +----------------------------------------+----------+----------+
-|Black powder (dose)                     |10 gp     |—         |
+|Black powder (dose)                     |10 gp     |-         |
 +----------------------------------------+----------+----------+
 |Black powder (keg)                      |1,000 gp  |5 lbs.    |
 +----------------------------------------+----------+----------+
-|Firearm bullet (1)                      |1 gp      |—         |
+|Firearm bullet (1)                      |1 gp      |-         |
 +----------------------------------------+----------+----------+
 |Firearm bullet (30)                     |30 gp     |1/2 lb.   |
 +----------------------------------------+----------+----------+
-|Bullet, adamantine                      |61 gp     |—         |
+|Bullet, adamantine                      |61 gp     |-         |
 +----------------------------------------+----------+----------+
-|Firearm bullet, pitted                  |5 gp^1^   |—         |
+|Firearm bullet, pitted                  |5 gp^1^   |-         |
 +----------------------------------------+----------+----------+
-|Firearm bullet, silver                  |25 gp     |—         |
+|Firearm bullet, silver                  |25 gp     |-         |
 +----------------------------------------+----------+----------+
 |Gunsmith's kit                          |15 gp     |2 lb.     |
 +----------------------------------------+----------+----------+
-|Metal cartridge                         |15 gp     |—         |
+|Metal cartridge                         |15 gp     |-         |
 +----------------------------------------+----------+----------+
-|Pellets (handful)                       |1 gp      |—         |
+|Pellets (handful)                       |1 gp      |-         |
 +----------------------------------------+----------+----------+
 |Pellets (30 handfuls)                   |30 gp     |1/2 lb.   |
 +----------------------------------------+----------+----------+
@@ -599,27 +593,23 @@ Table: Firearm Gear
  
 ^1^ Does not include the cost of poison compound.
 
-**Alchemical Cartridges**: An alchemical cartridge is a prepared bundle of black powder with a bullet or pellets, sometimes with more exotic material added, which is then wrapped in paper or cloth and sealed with beeswax, lard, or tallow. There are many types of alchemical cartridges, the simplest being the paper cartridge—a simple mix of black powder and either pellets or a bullet. Alchemical cartridges make loading a firearm easier, reducing the time to load a firearm by one step (a full-round action becomes a standard action, a standard action becomes a move action, and a move action becomes a free action), but they tend to be unstable. The misfire value of a weapon firing an alchemical cartridge increases as listed in each entry.
+**Alchemical Cartridges**: An alchemical cartridge is a prepared bundle of black powder with a bullet or pellets, sometimes with more exotic material added, which is then wrapped in paper or cloth and sealed with beeswax, lard, or tallow. There are many types of alchemical cartridges, the simplest being the paper cartridge-a simple mix of black powder and either pellets or a bullet. Alchemical cartridges make loading a firearm easier, reducing the time to load a firearm by one step (a full-round action becomes a standard action, a standard action becomes a move action, and a move action becomes a free action), but they tend to be unstable. The misfire value of a weapon firing an alchemical cartridge increases as listed in each entry.
 
 *Dragon's Breath Cartridge*: This cartridge contains alchemical compounds that, when fired, produce a cone of fire instead of the normal attack of a one-handed or two-handed firearm with the scatter weapon quality. The nonmagical flame deals 2d6 points of fire damage to all targets within the cone of the scatter firearm (DC 15 Reflex save for half). These cartridges cannot be used in firearms that don't have the scatter weapon quality. Because this ammunition forces a saving throw instead of making an attack roll, the misfire rules are slightly different. If you roll a 1 with either of the damage dice, the firearm misfires.
 
-\
 
 *Entangling Shot Cartridge*: This mix of black powder and an alchemically treated resin strong enough to survive the shot can only be loaded into a blunderbuss, a dragon pistol, or other scatter weapon. It deals half damage to those hit by a cone attack made with this weapon, but any creature hit by the shot must succeed at a DC 15 Reflex saving throw or become entangled for 2d4 rounds. An entangling shot cartridge increases the firearm's misfire value by 2.
 
-\
 
 *[Flare] Cartridge*: When a flare cartridge hits its target, it only deals half damage, but the creature struck is blinded for 1 round (Fort DC 15 reduces this to dazzled), and creatures within a 20-foot burst are dazzled for 1 round (Fort DC 15 negates the effect). Flare cartridges are also useful for sending up signal flares. Firing a flare cartridge increases the firearm's misfire value by 2 unless it is fired from a blunderbuss or a dragon pistol, in which case doing so only increases the firearm's misfire value by 1. Flares can only be used to attack single creatures; they do not work as a shot for a cone scatter attack.
 
-\
 
 *Paper Cartridge*: This simple mix of black powder and either pellets or a bullet increases the misfire value by 1.
 
-\
 
 *Salt Shot Cartridge*: This mix of black powder and rock salt can only be loaded into a blunderbuss, a dragon pistol, or other scatter weapon. It deals nonlethal instead of lethal damage, and increases the misfire value by 1. You can only use it with a scatter weapon's cone attack.
 
-**Black Powder**: Black powder is the key explosive component within a firearm that enables it to function, but in larger amounts this alchemical material can be quite destructive on its own as well. A single dose of black powder is enough to power a single shot from most one-handed and two-handed firearms, while 10 doses are required to fire a cannon. Black powder is often stored and transported in kegs (which hold 100 doses), but in this quantity the powder itself becomes dangerous. Exposure to fire, electricity, or a misfire explosion causes black powder to explode—a single keg that explodes in this manner deals 5d6 points of fire damage to anyone within a 20-foot burst (DC 15 Reflex half). Storing black powder in a powder horn protects the powder from explosion.
+**Black Powder**: Black powder is the key explosive component within a firearm that enables it to function, but in larger amounts this alchemical material can be quite destructive on its own as well. A single dose of black powder is enough to power a single shot from most one-handed and two-handed firearms, while 10 doses are required to fire a cannon. Black powder is often stored and transported in kegs (which hold 100 doses), but in this quantity the powder itself becomes dangerous. Exposure to fire, electricity, or a misfire explosion causes black powder to explode-a single keg that explodes in this manner deals 5d6 points of fire damage to anyone within a 20-foot burst (DC 15 Reflex half). Storing black powder in a powder horn protects the powder from explosion.
 
 **Bullet**: The ammunition of most one-handed and two-handed firearms, firearm bullets typically take the form of small balls of lead or some other metal.
 
@@ -627,7 +617,7 @@ Table: Firearm Gear
 
 **Bullet, Pitted**: This ammunition is pitted with a pattern of small pocks into which specially formulated poison compounds can be applied. A poison compound is a derivative of a standard toxin that is alchemically reduced to a solid form. These can be made from any standard injury or contact poison with a [Craft] (poison) check equal to the poison's DC + 4. The cost of purchasing an already prepared poison compound for the purpose of treating pitted bullets is equal to the poison's base cost + 20 gp. Once crafted, the compound can be pasted into the ammunition's pitted design and allowed to harden. Upon completion, the bullet can be fired from an appropriate firearm, releasing the poison compound into its target upon impact, but the poison's DC is reduced by 2. A pitted bullet cannot be used with an alchemical cartridge.
 
-**Bullet, Silver**: This ammunition is specifically crafted from silver, and though nonmagical, it is particularly detrimental to lycanthropes, automatically confirming any critical threats against such creatures. A firearm that is shooting a silver bullet takes a –1 penalty on damage rolls (with a minimum of 1 point of damage).
+**Bullet, Silver**: This ammunition is specifically crafted from silver, and though nonmagical, it is particularly detrimental to lycanthropes, automatically confirming any critical threats against such creatures. A firearm that is shooting a silver bullet takes a -1 penalty on damage rolls (with a minimum of 1 point of damage).
 
 **Gunsmith's Kit**: This small kit has all the tools a person needs to create, repair, and restore firearms, except for the necessary raw materials. Without such a kit, you cannot properly construct or provide upkeep for firearms.
 
@@ -653,7 +643,7 @@ Description
 
 This special ability can only be applied to alchemical or metal firearm cartridges. *Dry load*cartridges can be used to load guns underwater or in other airless environments, such as a vacuum. This ability protects the cartridge's contents as it is being loaded and creates a residual bubble of air that surrounds the firearm, further protecting the ammunition and allowing the firearm with this ammunition to be fired in an airless environment. After the cartridge is loaded, the bubble of air lasts for 3 minutes, or until the firearm is fired, whichever occurs first.
 
-A firearm loaded with this ammunition still takes the –2 penalty on attack rolls when fired underwater for every 5 feet of water the bullet passes through, in addition to the normal penalties to range. When firing a *dry load* cartridge underwater or in an airless environment, a misfire that results in a firearm explosion occurs normally.
+A firearm loaded with this ammunition still takes the -2 penalty on attack rolls when fired underwater for every 5 feet of water the bullet passes through, in addition to the normal penalties to range. When firing a *dry load* cartridge underwater or in an airless environment, a misfire that results in a firearm explosion occurs normally.
 
 Construction
 
@@ -667,7 +657,7 @@ Burrowing Bullet
 
 **Aura** moderate necromancy; **CL** 9th (*burrowing bullet*) or 13th (*greater burrowing bullet*)
 
-**Slot** none; **Price** 1,722 gp (*burrowing bullet*) or 3,447 gp (*greater burrowing bullet*); **Weight** —
+**Slot** none; **Price** 1,722 gp (*burrowing bullet*) or 3,447 gp (*greater burrowing bullet*); **Weight** -
 
 Description
 
@@ -681,11 +671,11 @@ Tracer Bullet
 
 **Aura** faint evocation; **CL** 2nd
 
-**Slot** none; **Price** 100 gp; **Weight** —
+**Slot** none; **Price** 100 gp; **Weight** -
 
 Description
 
-These *+1 firearm bullets* deal no damage, but instead cause a pale glow to outline the target, granting the effect of a *[faerie fire]* spell and causing the target to take a –2 penalty to AC against ranged attacks. These effects last for 1d4 rounds.
+These *+1 firearm bullets* deal no damage, but instead cause a pale glow to outline the target, granting the effect of a *[faerie fire]* spell and causing the target to take a -2 penalty to AC against ranged attacks. These effects last for 1d4 rounds.
 
 Construction
 
@@ -751,7 +741,7 @@ Amulet of Bullet Protection
 
 **Aura** faint abjuration; **CL** 5th
 
-**Slot** neck; **Price** 1,500 gp (+1), 6,000 gp (+2), 13,500 gp (+3), 24,000 gp (+4), or 37,500 gp (+5); **Weight** —
+**Slot** neck; **Price** 1,500 gp (+1), 6,000 gp (+2), 13,500 gp (+3), 24,000 gp (+4), or 37,500 gp (+5); **Weight** -
 
 Description
 
@@ -771,7 +761,7 @@ Description
 
 This magical powder horn holds 20 doses of black powder. Furthermore, when a firearm is loaded with black powder directly from this horn, the horn creates a small pocket of air that envelops the gun and allows that shot to be fired underwater or in an area lacking air, such as a vacuum. Once the gun is loaded with powder from the *dry load powder horn*, it retains the pocket of air for 10 minutes or until the firearm is fired, whichever comes first.
 
-Firing a firearm that has been loaded from this horn underwater still incurs the –2 penalty on attack rolls for every 5 feet of water the bullet passes through, in addition to the normal penalties to range. When a shot loaded from a *dry load powder horn* results in a firearm explosion while underwater or in an airless environment, that explosion occurs normally.
+Firing a firearm that has been loaded from this horn underwater still incurs the -2 penalty on attack rolls for every 5 feet of water the bullet passes through, in addition to the normal penalties to range. When a shot loaded from a *dry load powder horn* results in a firearm explosion while underwater or in an airless environment, that explosion occurs normally.
 
 Construction
 
@@ -813,7 +803,7 @@ Oil of Silence
 
 **Aura** faint illusion; **CL** 5th
 
-**Slot** none; **Price** 250 gp; **Weight** —
+**Slot** none; **Price** 250 gp; **Weight** -
 
 Description
 
@@ -861,56 +851,56 @@ Table: Gladiator Weapons
 |*Light Melee        |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Gladius             |15 gp               |1d4                 |1d6                 |19–20/×2            |—                   |3 lbs.              |P or S              |performance         |
+|Gladius             |15 gp               |1d4                 |1d6                 |19-20/x2            |-                   |3 lbs.              |P or S              |performance         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*One-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Scizore             |20 gp               |1d8                 |1d10                |×2                  |—                   |3 lbs.              |P                   |performance         |
+|Scizore             |20 gp               |1d8                 |1d10                |x2                  |-                   |3 lbs.              |P                   |performance         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Ranged Weapons*    |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Amentum             |—                   |1d4                 |1d6                 |×2                  |50 ft.              |1 lb.               |P                   |performance         |
+|Amentum             |-                   |1d4                 |1d6                 |x2                  |50 ft.              |1 lb.               |P                   |performance         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Javelin             |1 gp                |—                   |—                   |—                   |—                   |2 lbs.              |—                   |—                   |
+|Javelin             |1 gp                |-                   |-                   |-                   |-                   |2 lbs.              |-                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |Exotic Weapons      |Cost                |Dmg (S)             |Dmg (M)             |Critical            |Range               |Weight^1^           |Type^2^             |Special             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Light Melee        |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Aklys               |5 gp                |1d6                 |1d8                 |×2                  |20 ft.              |2 lbs.              |B                   |performance, trip   |
+|Aklys               |5 gp                |1d6                 |1d8                 |x2                  |20 ft.              |2 lbs.              |B                   |performance, trip   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Knuckle axe         |9 gp                |1d4                 |1d6                 |×3                  |—                   |2 lbs.              |S                   |monk, performance   |
+|Knuckle axe         |9 gp                |1d4                 |1d6                 |x3                  |-                   |2 lbs.              |S                   |monk, performance   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Madu, leather       |40 gp               |1d3                 |1d4                 |×2                  |—                   |5 lbs.              |P                   |performance         |
+|Madu, leather       |40 gp               |1d3                 |1d4                 |x2                  |-                   |5 lbs.              |P                   |performance         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Madu, steel         |40 gp               |1d3                 |1d4                 |×2                  |—                   |6 lbs.              |P                   |performance         |
+|Madu, steel         |40 gp               |1d3                 |1d4                 |x2                  |-                   |6 lbs.              |P                   |performance         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Pata                |14 gp               |1d4                 |1d6                 |×3                  |—                   |3 lbs.              |P                   |performance         |
+|Pata                |14 gp               |1d4                 |1d6                 |x3                  |-                   |3 lbs.              |P                   |performance         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Quadrens            |8 gp                |1d4                 |1d6                 |19–20/×2            |—                   |2 lbs.              |P                   |performance         |
+|Quadrens            |8 gp                |1d4                 |1d6                 |19-20/x2            |-                   |2 lbs.              |P                   |performance         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Scorpion whip       |5 gp                |1d3                 |1d4                 |×2                  |—                   |3 lbs               |S                   |performance         |
+|Scorpion whip       |5 gp                |1d3                 |1d4                 |x2                  |-                   |3 lbs               |S                   |performance         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Sica                |10 gp               |1d4                 |1d6                 |×2                  |—                   |2 lbs.              |S                   |performance         |
+|Sica                |10 gp               |1d4                 |1d6                 |x2                  |-                   |2 lbs.              |S                   |performance         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*One-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Hooked axe          |20 gp               |1d6                 |1d8                 |×3                  |—                   |7 lbs.              |S                   |disarm, performance,|
+|Hooked axe          |20 gp               |1d6                 |1d8                 |x3                  |-                   |7 lbs.              |S                   |disarm, performance,|
 |                    |                    |                    |                    |                    |                    |                    |                    |trip                |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Shotel              |30 gp               |1d6                 |1d8                 |×3                  |—                   |3 lbs.              |P                   |performance         |
+|Shotel              |30 gp               |1d6                 |1d8                 |x3                  |-                   |3 lbs.              |P                   |performance         |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Two-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Flying blade        |40 gp               |1d10                |1d12                |×3                  |—                   |12 lbs.             |S                   |performance, reach  |
+|Flying blade        |40 gp               |1d10                |1d12                |x3                  |-                   |12 lbs.             |S                   |performance, reach  |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Ranged Weapons*    |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|Throwing shield     |+50 gp              |1d4                 |1d6                 |×2                  |20 ft.              |—                   |B                   |performance, trip   |
+|Throwing shield     |+50 gp              |1d4                 |1d6                 |x2                  |20 ft.              |-                   |B                   |performance, trip   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
  
 1 Weight figures are for Medium weapons. A Small weapon weights half as much, and a Large weapon weighs twice as much.\
@@ -922,7 +912,7 @@ Presented below are descriptions for weapons popular among gladiators, pit fight
 
 **Amentum**: An amentum is a long leather thong that attaches to a javelin. Before throwing, the amentum is wound about the javelin's shaft. You then throw the javelin while gripping the amentum, imparting spin to the weapon and greatly improving its range. Attaching an amentum to a javelin is a move action, and winding it is a full-round action. Javelins can be stored with amenta already wound about them. A javelin wound with an amentum is considered a martial weapon.
 
-**Flying Blade**: A flying blade is a large, crescent-shaped blade anchored to a 10-foot chain. You fight with a flying blade by spinning it about your head or by snapping it toward an opponent. The flying blade is a clumsy weapon and receives a –2 penalty on attack rolls, but when you make attacks of opportunity provoked by movement, you receive a +2 bonus on attack rolls instead of the penalty.
+**Flying Blade**: A flying blade is a large, crescent-shaped blade anchored to a 10-foot chain. You fight with a flying blade by spinning it about your head or by snapping it toward an opponent. The flying blade is a clumsy weapon and receives a -2 penalty on attack rolls, but when you make attacks of opportunity provoked by movement, you receive a +2 bonus on attack rolls instead of the penalty.
 
 **Gladius**: The gladius is the favorite short sword of gladiators, with a heavier blade than the standard short sword. It serves well as a slashing weapon. Feats and abilities that affect short swords apply to the gladius.
 
@@ -930,13 +920,13 @@ Presented below are descriptions for weapons popular among gladiators, pit fight
 
 **Knuckle Axe**: Knuckle axes, usually used in pairs, resemble axe blades mounted on brass knuckles. You may hold, but not wield, a weapon or other object in a hand wearing a knuckle axe. Unlike when wearing brass knuckles, you cannot use a hand wearing a knuckle axe for spellcasting.
 
-**Madu**: The madu is a round, light shield with two animal horns—usually from an antelope—extending from opposite sides of the shield. If you are proficient with the madu, you may use it to fight defensively with a –2 penalty instead of the normal –4, and your attack penalty for using [Combat Expertise] improves by +1 (minimum –1 penalty). You cannot hold anything else in the hand that bears a madu. If you are not proficient with the madu, treat it as a light spiked shield.
+**Madu**: The madu is a round, light shield with two animal horns-usually from an antelope-extending from opposite sides of the shield. If you are proficient with the madu, you may use it to fight defensively with a -2 penalty instead of the normal -4, and your attack penalty for using [Combat Expertise] improves by +1 (minimum -1 penalty). You cannot hold anything else in the hand that bears a madu. If you are not proficient with the madu, treat it as a light spiked shield.
 
 **Pata**: An evolution of the punching dagger, the pata is a short sword that ends in a full, fingerless gauntlet hilt. You punch rather than stab with the weapon, allowing you to put more force behind each strike. While wearing a pata, you cannot use that hand for anything else. A pata provides a +10 bonus to your CMD against being disarmed.
 
 **Quadrens**: A quadrens looks like a dagger, but with four spikes mounted in a square pattern in place of a blade. When you score a critical hit with a quadrens, the resulting gaping wound causes 1 point of bleed damage.
 
-**Scizore**: The scizore is a hardened tube that fits your forearm, ending in a semicircular blade used for devastating bladed punch attacks. The scizore grants a +1 shield bonus to AC, but if you attack with the blade, you lose the AC bonus that round and take a –1 penalty on attack rolls with the scizore. While wearing a scizore, you cannot use that hand for anything else. A scizore provides a +10 bonus to your CMD against being disarmed of your scizore. Donning a scizore is a full-round action.
+**Scizore**: The scizore is a hardened tube that fits your forearm, ending in a semicircular blade used for devastating bladed punch attacks. The scizore grants a +1 shield bonus to AC, but if you attack with the blade, you lose the AC bonus that round and take a -1 penalty on attack rolls with the scizore. While wearing a scizore, you cannot use that hand for anything else. A scizore provides a +10 bonus to your CMD against being disarmed of your scizore. Donning a scizore is a full-round action.
 
 **Scorpion Whip**: This whip has a series of razor-sharp blades and fangs inset along its tip. It deals lethal damage, even to creatures with armor bonuses. If you are proficient with whips, you can use a scorpion whip as a whip.
 
@@ -960,11 +950,11 @@ The following section presents general rules for both of these broad categories,
 
 Standard adventuring equipment is crafted of materials well suited to the task. Primitive equipment, on the other hand, is crafted from the best materials available, which are often inferior in performance. Sometimes these differences are hand-waved away (as in the case of most mundane gear and items), but in the case of weapons and armor, these differences are not as easily overlooked.
 
-All of the special materials listed below have their own rules and exceptions that make them function slightly differently (typically worse) than the standard materials for weapons found in the Pathfinder RPG. Some of these materials grant the item the fragile quality—a quality that can be applied to both weapons and armor.
+All of the special materials listed below have their own rules and exceptions that make them function slightly differently (typically worse) than the standard materials for weapons found in the Pathfinder RPG. Some of these materials grant the item the fragile quality-a quality that can be applied to both weapons and armor.
 
 **Fragile**: Fragile weapons and armor cannot take the beating that sturdier weapons can. A fragile weapon gains the broken condition if the wielder rolls a natural 1 on an attack roll with the weapon. If a fragile weapon is already broken, the roll of a natural 1 destroys it instead.
 
-Armor with the fragile quality falls apart when hit with heavy blows. If an attacker hits a creature wearing fragile armor with an attack roll of a natural 20 and confirms the critical hit (even if the creature is immune to critical hits), the armor gains the broken condition. If already broken, the armor is destroyed instead. Fragile armor is not broken or destroyed by critical threats that are not generated by natural 20s, so if a creature wielding a weapon with a 19–20 or 18–20 critical range scores a critical hit on the wearer of this armor with a roll of less than a natural 20, that critical hit has no chance to break or destroy the armor.
+Armor with the fragile quality falls apart when hit with heavy blows. If an attacker hits a creature wearing fragile armor with an attack roll of a natural 20 and confirms the critical hit (even if the creature is immune to critical hits), the armor gains the broken condition. If already broken, the armor is destroyed instead. Fragile armor is not broken or destroyed by critical threats that are not generated by natural 20s, so if a creature wielding a weapon with a 19-20 or 18-20 critical range scores a critical hit on the wearer of this armor with a roll of less than a natural 20, that critical hit has no chance to break or destroy the armor.
 
 Masterwork and magical fragile weapons and armor lack these flaws unless otherwise noted in the item description or the special material description.
 
@@ -974,7 +964,7 @@ Bone can be used in place of wood and steel in weapons and armor. Other animal-b
 
 **Weapons**: Light and one-handed melee weapons, as well as two-handed weapons that deal bludgeoning damage only, can be crafted from bone. Hafted two-handed weapons such as spears can be crafted with bone tips, as can arrowheads. Other two-handed weapons cannot be constructed of bone.
 
-Bone weapons have half the hardness of their base weapons and have the fragile weapon quality. Masterwork bone weapons also have the fragile quality, but magic bone weapons do not. Bone weapons take a –2 penalty on damage rolls (minimum 1 damage).
+Bone weapons have half the hardness of their base weapons and have the fragile weapon quality. Masterwork bone weapons also have the fragile quality, but magic bone weapons do not. Bone weapons take a -2 penalty on damage rolls (minimum 1 damage).
 
 **Armor**: Studded leather, scale mail, breastplates, and wooden shields can all be constructed using bone. Bone either replaces the metal components of the armor, or in the case of wooden shields, large pieces of bone or shell replace the wood.
 
@@ -996,7 +986,7 @@ Typically only used for ceremonial weapons and armor, metal equipment made from 
 
 Gold-plated items triple the base cost of weapons and armor and have the same properties as the item the gold is plating. Items constructed purely of gold cost 10 times the normal cost for items of their type. Gold items weigh 50% more than typical weapons or armor of their type.
 
-**Weapons**: Gold is often too soft to hold a decent edge, but light weapons that do piercing or slashing damage can be constructed of gold or some nearly gold alloy. They take a –2 penalty on damage rolls (minimum 1 damage).
+**Weapons**: Gold is often too soft to hold a decent edge, but light weapons that do piercing or slashing damage can be constructed of gold or some nearly gold alloy. They take a -2 penalty on damage rolls (minimum 1 damage).
 
 Gold weapons have a hardness of half their base weapons' and also have the fragile quality.
 
@@ -1040,11 +1030,11 @@ For the sake of simplicity, when creating a currency for your Stone Age campaign
 
 The following weapons are also available in Stone Age campaigns.
 
-**Atlatl**: An atlatl is a thin piece of wood or antler used as a lever to hurl a specially fitted dart. An atlatl gives much greater range to a dart, but must be loaded like a projectile weapon. Your Strength modifier applies to damage rolls when you use an atlatl, just as it does for thrown weapons. You can fire—but not load—an atlatl with one hand. Loading an atlatl is a move action that requires two hands and provokes attacks of opportunity. The [Rapid Reload]) feat can be taken for atlatls, allowing you to load a dart as a free action. Atlatl darts are the size of javelins but have fletching, and can be used as javelins without an atlatl.
+**Atlatl**: An atlatl is a thin piece of wood or antler used as a lever to hurl a specially fitted dart. An atlatl gives much greater range to a dart, but must be loaded like a projectile weapon. Your Strength modifier applies to damage rolls when you use an atlatl, just as it does for thrown weapons. You can fire-but not load-an atlatl with one hand. Loading an atlatl is a move action that requires two hands and provokes attacks of opportunity. The [Rapid Reload]) feat can be taken for atlatls, allowing you to load a dart as a free action. Atlatl darts are the size of javelins but have fletching, and can be used as javelins without an atlatl.
 
 **Mere Club**: Traditionally made of sturdy carved stone, a mere (MEH-reh) is a short, flat-sided, sharp-pointed club.
 
-**Taiaha**: A taiaha is a long, heavy stick, club-shaped at one end and tipped with a wooden or metal spear point at the other. You wield it with a combination of solid strikes with the club and fending motions with the spear. A taiaha can be wielded as a martial weapon that deals 1d8/×2 bludgeoning damage.
+**Taiaha**: A taiaha is a long, heavy stick, club-shaped at one end and tipped with a wooden or metal spear point at the other. You wield it with a combination of solid strikes with the club and fending motions with the spear. A taiaha can be wielded as a martial weapon that deals 1d8/x2 bludgeoning damage.
 
 **Tepoztopilli**: The head of this wooden polearm is edged with jagged bits obsidian, glass, teeth, or similar materials. The wide head serves well for both piercing and slashing attacks.
 
@@ -1062,36 +1052,36 @@ Table: Stone Age Weapons
 |*One-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Mere club         |2 gp                |1d3                 |1d4                 |×2                  |—                   |2 lbs.              |B or P              |fragile             |
+|  Mere club         |2 gp                |1d3                 |1d4                 |x2                  |-                   |2 lbs.              |B or P              |fragile             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |Martial Weapons     |Cost                |Dmg (S)             |Dmg (M)             |Critical            |Range               |Weight^1^           |Type^2^             |Special             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*One-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Terbutje          |5 gp                |1d6                 |1d8                 |19–20/×2            |—                   |2 lbs.              |S                   |fragile             |
+|  Terbutje          |5 gp                |1d6                 |1d8                 |19-20/x2            |-                   |2 lbs.              |S                   |fragile             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Two-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Tepoztopilli      |8 gp                |1d8                 |1d10                |19–20/×2            |—                   |8 lbs.              |P or S              |fragile, reach      |
+|  Tepoztopilli      |8 gp                |1d8                 |1d10                |19-20/x2            |-                   |8 lbs.              |P or S              |fragile, reach      |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Ranged Weapons*    |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Atlatl            |2 gp                |1d4                 |1d6                 |×2                  |50 ft.              |2 lbs.              |P                   |—                   |
+|  Atlatl            |2 gp                |1d4                 |1d6                 |x2                  |50 ft.              |2 lbs.              |P                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Atlatl dart       |1 gp                |—                   |—                   |—                   |—                   |2 lbs.              |—                   |—                   |
+|  Atlatl dart       |1 gp                |-                   |-                   |-                   |-                   |2 lbs.              |-                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |Exotic Weapons      |Cost                |Dmg (S)             |Dmg (M)             |Critical            |Range               |Weight^1^           |Type^2^             |Special             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*One-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Taiaha            |10 gp               |1d8/1d4             |1d10/1d6            |×2/×3               |—                   |8 lbs.              |B or P              |double              |
+|  Taiaha            |10 gp               |1d8/1d4             |1d10/1d6            |x2/x3               |-                   |8 lbs.              |B or P              |double              |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Terbutje, great   |12 gp               |1d8                 |1d10                |19–20/×2            |—                   |4 lbs.              |S                   |fragile             |
+|  Terbutje, great   |12 gp               |1d8                 |1d10                |19-20/x2            |-                   |4 lbs.              |S                   |fragile             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Wahaika           |3 gp                |1d4                 |1d6                 |×2                  |10 ft.              |3 lbs.              |B                   |disarm              |
+|  Wahaika           |3 gp                |1d4                 |1d6                 |x2                  |10 ft.              |3 lbs.              |B                   |disarm              |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
  
 
@@ -1114,7 +1104,7 @@ Currency in a Bronze Age campaign is the same as the standard Pathfinder RPG cur
 
 A harpoon's weight includes the weight of 50 feet of hemp rope. It can be reduced by using shorter or lighter rope.
 
-**Kestros**: The kestros is an oddly shaped sling used for launching darts. Your Strength modifier applies on damage rolls when you use a kestros, just as it does for thrown weapons. You can fire—but not load—a kestros with one hand. Loading a kestros is a move action that requires two hands and provokes attacks of opportunity. Halflings treat the kestros as a martial weapon.
+**Kestros**: The kestros is an oddly shaped sling used for launching darts. Your Strength modifier applies on damage rolls when you use a kestros, just as it does for thrown weapons. You can fire-but not load-a kestros with one hand. Loading a kestros is a move action that requires two hands and provokes attacks of opportunity. Halflings treat the kestros as a martial weapon.
 
 **Mattock**: Derived from the digging tool of the same name, a mattock resembles a two-handed pick, but with a chisel-like blade instead of a point.
 
@@ -1128,23 +1118,23 @@ Table: Bronze Age Weapons
 |*Two-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Mattock           |12 gp               |1d6                 |2d4                 |×4                  |—                   |12 lbs.             |P                   |fragile             |
+|  Mattock           |12 gp               |1d6                 |2d4                 |x4                  |-                   |12 lbs.             |P                   |fragile             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Rhomphaia         |15 gp               |1d6                 |2d4                 |×3                  |—                   |10 lbs.             |P or S              |brace, fragile,reach|
+|  Rhomphaia         |15 gp               |1d6                 |2d4                 |x3                  |-                   |10 lbs.             |P or S              |brace, fragile,reach|
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |Exotic Weapons      |Cost                |Dmg (S)             |Dmg (M)             |Critical            |Range               |Weight^1^           |Type^2^             |Special             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Two-Handed Melee   |                    |                    |                    |                    |                    |                    |                    |                    |
 |Weapons*            |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Harpoon           |5 gp                |1d6                 |1d8                 |×3                  |10 ft.              |16 lbs.             |P                   |fragile, grappling  |
+|  Harpoon           |5 gp                |1d6                 |1d8                 |x3                  |10 ft.              |16 lbs.             |P                   |fragile, grappling  |
 |                    |                    |                    |                    |                    |                    |                    |                    |(see description)   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
 |*Ranged Weapons*    |                    |                    |                    |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Kestros           |1 gp                |1d6                 |1d8                 |×3                  |50 ft.              |1 lb.               |P                   |—                   |
+|  Kestros           |1 gp                |1d6                 |1d8                 |x3                  |50 ft.              |1 lb.               |P                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|  Kestros dart (10) |5 gp                |—                   |—                   |—                   |—                   |5 lbs.              |—                   |—                   |
+|  Kestros dart (10) |5 gp                |-                   |-                   |-                   |-                   |5 lbs.              |-                   |-                   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
  
 ^1^ Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weighs twice as much.\
@@ -1188,7 +1178,7 @@ At the start of the duel, each participant makes an initiative check, just like 
 
 At the beginning of each round, the participants check the status of the duel (the GM may want to mark the beginning of each round in some way during initiative tracking as a reminder to check this status). So long as all participants agree to continue dueling, the duel goes on. If any one of the participants withdraws from the duel, the duel immediately ends for all participants, even those who would see it continue. The participant or side that ended the duel is considered the loser of the duel. The duel's remaining participants can, among themselves, agree to resume the duel, but this is considered a separate duel from the previous one and does not involve those who withdrew from the duel.
 
-Each participant in a duel can act normally on his turn, but his actions must target or affect either himself or one of the other duel participants (either an ally or an opponent). For example, a warrior might make an attack with his bow against anyone participating in the duel, or he might administer a potion to a wounded ally also involved in the duel, but he could not attack anyone other than a participant. Similarly a dueling wizard could not cast *[haste]*on allies outside the duel while excluding himself, but he could cast it on his allies if he was among the targets. The same goes for offensive spells, such as *[fireball]*—the dueling caster must include one of his opponents in the duel among the targets of the spell, and could not affect some nearby creatures to the exclusion of his opponent.
+Each participant in a duel can act normally on his turn, but his actions must target or affect either himself or one of the other duel participants (either an ally or an opponent). For example, a warrior might make an attack with his bow against anyone participating in the duel, or he might administer a potion to a wounded ally also involved in the duel, but he could not attack anyone other than a participant. Similarly a dueling wizard could not cast *[haste]*on allies outside the duel while excluding himself, but he could cast it on his allies if he was among the targets. The same goes for offensive spells, such as *[fireball]*-the dueling caster must include one of his opponents in the duel among the targets of the spell, and could not affect some nearby creatures to the exclusion of his opponent.
 
 In addition to his normal actions, each participant in a duel may use one of a number of special immediate actions, available only to characters participating in a duel. They may take dueling counters, dueling dodges, dueling parries, or dueling resolve actions, each of which is described below.
 
@@ -1198,7 +1188,7 @@ Each participant in a duel can take a special action called a dueling counter. A
 
 When a dueling opponent tries to cast a spell, the targeted spellcaster can make a [Spellcraft] check (DC 15 + the spell's level) as a free action. If the check succeeds, she can identify her opponent's spell and can attempt a dueling counter. If it fails, she cannot attempt a dueling counter against that spell (although special actions are still available to her).
 
-A dueling counter is an immediate action that does not provoke attacks of opportunity. To attempt a dueling counter, the countering duelist must expend a spell or spell slot of a level equal to or higher than that of the spell being cast. Note that characters who cast spells spontaneously (such as bards, oracles, and sorcerers) must choose which exact spell they are using to counterspell in addition to the slot being used. The countering duelist must then make a caster level check against a DC of 15 + the spell's caster level. Unlike when using a true counterspell action (which requires a readied action), even expending an exact copy of the spell being cast does not guarantee success. The caster attempting the counterspell receives a bonus or penalty on her check depending upon the level of the spell slot being expended and the exact spell used, as noted in the table below. If the check is successful, the spell is countered—it is negated and the spell is lost. If not, the spell takes effect as normal and the duelist attempting to counter the spell takes a –2 penalty on any saving throws made against the spell's effect.
+A dueling counter is an immediate action that does not provoke attacks of opportunity. To attempt a dueling counter, the countering duelist must expend a spell or spell slot of a level equal to or higher than that of the spell being cast. Note that characters who cast spells spontaneously (such as bards, oracles, and sorcerers) must choose which exact spell they are using to counterspell in addition to the slot being used. The countering duelist must then make a caster level check against a DC of 15 + the spell's caster level. Unlike when using a true counterspell action (which requires a readied action), even expending an exact copy of the spell being cast does not guarantee success. The caster attempting the counterspell receives a bonus or penalty on her check depending upon the level of the spell slot being expended and the exact spell used, as noted in the table below. If the check is successful, the spell is countered-it is negated and the spell is lost. If not, the spell takes effect as normal and the duelist attempting to counter the spell takes a -2 penalty on any saving throws made against the spell's effect.
 
 Alternatively, a spellcaster can use *[dispel magic]* or *[greater dispel magic]* as a dueling counter. When a duelist spellcaster does so, he does not need to identify the spell being cast, can counter a spell of any level, and must succeed at a caster level check against a DC of 11 + the spell's caster level. When *[dispel magic]* is used as a dueling counter, it is not modified by any of the circumstances in the table below.
 
@@ -1209,7 +1199,7 @@ Table: Dueling Counter Modifiers
 +------------------------------+--------------------+
 |Circumstance                  |Check Modifier      |
 +------------------------------+--------------------+
-|Spell is of a different school|–2                  |
+|Spell is of a different school|-2                  |
 +------------------------------+--------------------+
 |Spell is of the same school,  |+2                  |
 |but not the same spell        |                    |
@@ -1227,13 +1217,13 @@ Each participant in a duel can take a special action called a dueling dodge. Thi
 
 Whenever a character participating in a duel is the target of a melee attack, a ranged attack, a supernatural ability, or a spell or spell-like ability from another participant of the duel, he can declare that he is making a dueling dodge as an immediate action. This grants him a +4 circumstance bonus to his AC and on any Reflex saving throws he must make as a result of the attack. This bonus only applies until the attack that triggered the immediate action is resolved. If the attacker can make more than one such attack, all subsequent attacks are resolved as normal. This immediate action must be declared before the attack is resolved. If the attack does not require an attack roll or a Reflex saving throw, the immediate action is still spent, but with no effect.
 
-Once the attack is resolved, the creature that attempted a dueling dodge takes a –2 penalty to his AC and on all Reflex saving throws until the start of his next turn (even if the duel ends).
+Once the attack is resolved, the creature that attempted a dueling dodge takes a -2 penalty to his AC and on all Reflex saving throws until the start of his next turn (even if the duel ends).
 
 ## Dueling Parry
 
 Each participant in a duel can take a special action called a dueling parry. This special action allows the duelist to deflect a blow from a melee or ranged attack directed at her. A dueling parry cannot deflect spell or firearm ranged attacks.
 
-Whenever a character participating in a duel is the target of a melee or ranged attack from another participant of the duel, she can declare that she is attempting to parry the attack as an immediate action. She must then make an attack roll with whatever weapon she is currently wielding, using her full base attack bonus but with a –5 penalty. If this attack roll is equal to or greater than the attack roll being made against her, she parries the attack and it is considered a miss. If the duelist attempting the parry is unarmed, she takes a further –2 on the attempt. If the duelist possesses the parry class feature, she can attempt this dueling parry once per round without spending an immediate action if she is using her parry class feature.
+Whenever a character participating in a duel is the target of a melee or ranged attack from another participant of the duel, she can declare that she is attempting to parry the attack as an immediate action. She must then make an attack roll with whatever weapon she is currently wielding, using her full base attack bonus but with a -5 penalty. If this attack roll is equal to or greater than the attack roll being made against her, she parries the attack and it is considered a miss. If the duelist attempting the parry is unarmed, she takes a further -2 on the attempt. If the duelist possesses the parry class feature, she can attempt this dueling parry once per round without spending an immediate action if she is using her parry class feature.
 
 This dueling parry only applies to one attack. Other attacks made by the same attacker are resolved normally. If the attack is a hit and a critical threat, but would be parried by the duelist, it is still a hit, but no confirmation roll is made and damage is rolled normally.
 
@@ -1273,7 +1263,7 @@ When creating a performance combat, it is important to determine the goals and r
 
 **Knockout Bout**: Frequently as brutal but not as bloody as battles to the death, a knockout bout does not end in the death of one side, but still requires a clear and crushing victory. As long as both sides in the performance combat remain standing, the fight continues. Many knockout bout combats require that their participants deal nonlethal damage.
 
-**Staged Combats:** Staged combats are less dangerous than knockout bouts. In these contests, combatants typically arrange to have blows that just barely land, so the hits are not registered as either nonlethal or lethal damage, but crowd reaction is determined in the same way as for normal battles. Staged combats often require advanced training (see the [Stage Combatant]) feat). Those without advanced training can attempt to participate, but take a –6 penalty on attack rolls in order to make it seem like their attacks hit without doing real damage.
+**Staged Combats:** Staged combats are less dangerous than knockout bouts. In these contests, combatants typically arrange to have blows that just barely land, so the hits are not registered as either nonlethal or lethal damage, but crowd reaction is determined in the same way as for normal battles. Staged combats often require advanced training (see the [Stage Combatant]) feat). Those without advanced training can attempt to participate, but take a -6 penalty on attack rolls in order to make it seem like their attacks hit without doing real damage.
 
 **To a Number of Wounds**: Not all blood sports end in death. It is often costly to train warriors for arenas big and small, and those who finance such enterprises are protective of their investments. In societies that value life but still love the spectacle of a good fracas, fighting to a number of wounds is an excellent compromise. A fight to first blood or to a certain number of wounds is often enough to appease a crowd.
 
@@ -1291,11 +1281,11 @@ During performance combat, it is important for the GM to keep track of the crowd
 
 The following are the general categories of crowd reaction and attitude. They are listed from lowest regard to highest.
 
-**Hostile**: The crowd does not like what it is seeing. Hostile crowds demoralize combatants in a performance combat. In these battles, while the crowd is hostile toward a given side, those combatants take a –2 penalty on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mind-affecting effect.
+**Hostile**: The crowd does not like what it is seeing. Hostile crowds demoralize combatants in a performance combat. In these battles, while the crowd is hostile toward a given side, those combatants take a -2 penalty on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mind-affecting effect.
 
 If the crowd is hostile toward a side of the combat and a member of that side fails a performance combat check by 5 or more, that side automatically loses the performance part of the combat. This can be important for the story of the game, or if the PCs are participating in serialized performance combats.
 
-**Unfriendly**: While still biased against a side, the crowd reserves its most vocal disdain for failed performance combat checks. Unfriendly crowds demoralize combatants in a performance combat. In these battles, while the crowd is unfriendly toward a given side, those combatants take a –1 penalty on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mind-affecting effect.
+**Unfriendly**: While still biased against a side, the crowd reserves its most vocal disdain for failed performance combat checks. Unfriendly crowds demoralize combatants in a performance combat. In these battles, while the crowd is unfriendly toward a given side, those combatants take a -1 penalty on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mind-affecting effect.
 
 **Indifferent**: The crowd is waiting for something exciting to happen. Audience members show little emotion other than anticipation and a desire for daring feats of combat to occur.
 
@@ -1316,19 +1306,18 @@ Whenever a combatant has a chance to affect the crowd's attitude, she makes a pe
   Base Attack Bonus   Bonus on Performance Combat Check
   ------------------- -----------------------------------
   0                   +0
-  1–5                 +1
-  6–10                +2
-  11–15               +3
+  1-5                 +1
+  6-10                +2
+  11-15               +3
   16+                 +4
 
-\
 
   Highest Perform Ranks   Bonus on Performance Combat Check
   ----------------------- -----------------------------------
   0                       +0
-  1–5                     +1
-  6–10                    +2
-  11–15                   +3
+  1-5                     +1
+  6-10                    +2
+  11-15                   +3
   16+                     +4
 
 Using a performance weapon grants a combatant a +2 bonus on performance combat checks. Some feats, spells, or other circumstances may grant a combatant a bonus on performance combat checks.
@@ -1371,27 +1360,22 @@ The base DC is modified by the size of the crowd, the number of participants on 
 
 *Small Crowd*: A small crowd contains no fewer than two and no more than 25 creatures. It does not increase the base DC of all performance combat checks.
 
-\
 
 *Medium Crowd*: A medium crowd contains no fewer than 26 and no more than 100 creatures. A medium crowd increases the DC of all performance combat checks by +2.
 
-\
 
 *Large Crowd*: A large crowd contains no fewer than 101 and no more than 300 creatures. A large crowd increases the DC of all performance combat checks by +3.
 
-\
 
 *Massive Mob*: A massive mob is made up of no fewer than 301 creatures, and its numbers can expand into the thousands. A massive mob increases the DC of all performance combat checks by +4.
 
 **Total Number of Combatants**: The participation of a large number of combatants increases the difficulty of swaying the crowd. Large groups of combatants make it difficult for a crowd to follow the entire battle and to catch actions from individuals that could possibly sway the audience's attitude. Adjust these modifications as combatants enter or leave the battle.
 
-*Small Battle*: If the battle is between a total of 2–8 combatants, there is no change to the base DC to improve the attitude of the crowd or gain victory points.
+*Small Battle*: If the battle is between a total of 2-8 combatants, there is no change to the base DC to improve the attitude of the crowd or gain victory points.
 
-\
 
-*Medium Battle*: If the battle is between 9–16 combatants, the DC to improve the attitude of the crowd or gain victory points increases by +4.
+*Medium Battle*: If the battle is between 9-16 combatants, the DC to improve the attitude of the crowd or gain victory points increases by +4.
 
-\
 
 *Large Battle*: A battle with 17 or more total combatants increases the DC to improve the attitude of the crowd by +8.
 
@@ -1399,9 +1383,8 @@ The base DC is modified by the size of the crowd, the number of participants on 
 
 *Cheating*: If one side visibly cheats or breaks the rules, the DC for that side of the performance combat to improve the attitude of the crowd increases by 2 for the remainder of the performance combat. This increase can occur multiple times in a battle. For the purpose of spotting cheating, determine the base [Perception] and [Sense Motive] for the average member of a crowd (usually +0 if you assume an average human) and apply the following modifiers based on crowd size. The DC is based on whatever action the combatant is using to hide any cheating (usually [Bluff] or [Stealth]).
 
-\
 
-  ------------------------------------------------------
+  -------------- ---------------------------------------
   Crowd Size     Bonus on Perception and Sense Motive\
                  Checks to Spot Cheating
   -------------- ---------------------------------------
@@ -1412,21 +1395,17 @@ The base DC is modified by the size of the crowd, the number of participants on 
   Large crowd    +16
 
   Massive mob    +20
-  ------------------------------------------------------
-
-\
+  -------------- ---------------------------------------
+  
 
 *Outnumbered*: If one side of the battle outnumbers the others by less than a 2:1 ratio, the DC for that side to improve the attitude of the crowd or to gain victory points increases by 2. If one side outnumbers all others by a ratio of 2:1 or more, the DC for that side to improve the attitude of the crowd increases by 6. These increases to the DC end or are reduced to the appropriate level if the numbers become even or if the 2:1 ratio of combatants is ever brought down to outnumbering the other sides by less than a 2:1 ratio.
 
-\
 
 *Unfair Advantage*: If one side of the battle has an obvious unfair advantage (for example, one side starts the battle in a fortified position or has better weapons and armor, or its opponents are not armed at all), the DC to improve the attitude of the crowd is increased by 2. A GM can increase the DC by as much as 6 if the unfair advantage is severe enough.
 
-\
 
 *Bribery or Coercion*: Crowds can be bribed or coerced. Typically a successful bribe or attempt at coercion involves paying some amount of gold based on the crowd size, and succeeding at a [Diplomacy] check with a DC based on the size of the crowd. If the gold is paid and the [Diplomacy] check fails, the side gains a penalty for cheating instead, though the gold is still spent. If the check succeeds, the DC to improve crowd reaction and gain victory points decreases by 2. For every 5 points over the DC by which the combatants make the check, the DC to improve the crowd's attitude or to gain a victory point decreases by 1.
 
-\
 
   Crowd Size     Diplomacy DC   Gold Paid
   -------------- -------------- -----------
@@ -1435,9 +1414,8 @@ The base DC is modified by the size of the crowd, the number of participants on 
   Large crowd    DC 25          750 gp
   Massive mob    DC 30          2,000 gp
 
-\
 
-# Affecting the Crowd's Attitude {#affecting-the-crowd's-attitude}
+# Affecting the Crowd's Attitude 
 
 For a combatant to affect the crowd's reaction in some way, he must usually accomplish some visible combat display that has a chance of motivating the crowd toward a new attitude. If the crowd cannot see the combatant (because of total concealment, invisibility, improved cover, or total cover), he cannot affect the crowd's attitude in any way, but concealment and lesser forms of cover do not affect a combatant's ability to affect the crowd.
 
@@ -1455,7 +1433,7 @@ The following triggers allow a character participating in a performance combat t
 
 **Combat Maneuvers**: Whenever a combatant successfully performs any combat maneuver, she can make a performance combat check as a swift action.
 
-**Dealing Maximum Damage**: Whenever a combatant deals maximum damage with a damage roll (weapon or spell, but not including sneak attack or other variable precision damage), she can make a performance combat check as a swift action. She gains a penalty or bonus on this check based on the type of weapon or spell she uses. Light weapons take a –4 penalty on the check, one-handed weapons grant neither a bonus or a penalty, and two-handed or exotic weapons grant a +2 circumstance bonus on the check. Spells grant a bonus on the performance combat check equal to half their spell level.
+**Dealing Maximum Damage**: Whenever a combatant deals maximum damage with a damage roll (weapon or spell, but not including sneak attack or other variable precision damage), she can make a performance combat check as a swift action. She gains a penalty or bonus on this check based on the type of weapon or spell she uses. Light weapons take a -4 penalty on the check, one-handed weapons grant neither a bonus or a penalty, and two-handed or exotic weapons grant a +2 circumstance bonus on the check. Spells grant a bonus on the performance combat check equal to half their spell level.
 
 **Energy Spells and Effects**: Crowds tend to respond to flashy spells and effects. If a combatant casts a spell or produces an effect that deals acid, cold, fire, electricity, force, or sonic damage in a visible way (including weapons with special abilities like *[flaming burst]* or *[shocking burst]* that deal bursts of energy damage on critical hits), she can make a performance combat check as a swift action.
 
@@ -1485,7 +1463,7 @@ The following performance combat checks must be attempted whenever possible. The
 
 **Rolling a Natural 1**: When a combatant rolls a natural 1 on an attack roll or a saving throw, she must make a performance combat check. A success does not affect the crowd in any way, but any failure reduces the crowd's attitude by one step.
 
-**Withdraw**: Whenever a combatant uses the withdraw action, she must make a performance combat check as a free action. She takes a –5 penalty on the check, and success does not shift the crowd's attitude, but failure shifts it one step lower.
+**Withdraw**: Whenever a combatant uses the withdraw action, she must make a performance combat check as a free action. She takes a -5 penalty on the check, and success does not shift the crowd's attitude, but failure shifts it one step lower.
 
 ## Victory Points
 
@@ -1535,7 +1513,7 @@ The number of members in a crew assumes Medium creatures. A ram can be crewed by
 
 **Magical and Masterwork Siege Engines**: Siege engines can be masterwork, increasing their [Craft] DC by 5 and costing an additional 300 gp. A masterwork siege engine can be enchanted at twice the cost for a normal magical weapon. The enhancement bonus of a siege engine applies on attack rolls and targeting checks (in the case of indirect ranged siege engines), and in the case of magical spell engines, the enhancement bonus also applies on damage rolls.
 
-**Defense and Hit Points**: All siege engines are objects. A siege engine has a Dexterity of 0 (–5 penalty) and a further penalty based on its size. Each type of siege engine has its own hardness and hit points. Siege engines can be armored—treat the siege engine as a creature of its size to determine the cost of the armor. Masterwork siege engine armor can be enchanted for twice the normal cost to enchant armor. Armored siege engines have an AC equal to that normally granted by the specific armor (shields have no effect on a siege engine), a hardness and hit points equal to that of the armor, and bonus hit points equal to the armor bonus × 5.
+**Defense and Hit Points**: All siege engines are objects. A siege engine has a Dexterity of 0 (-5 penalty) and a further penalty based on its size. Each type of siege engine has its own hardness and hit points. Siege engines can be armored-treat the siege engine as a creature of its size to determine the cost of the armor. Masterwork siege engine armor can be enchanted for twice the normal cost to enchant armor. Armored siege engines have an AC equal to that normally granted by the specific armor (shields have no effect on a siege engine), a hardness and hit points equal to that of the armor, and bonus hit points equal to the armor bonus x 5.
 
 **Moving Siege Engines**: Siege engines have a speed. The speed of a siege engine is the distance it can be moved if its full crew makes a move action to move it. Some siege engines have a speed of 0. If this is the case, the engine must be dissembled before movement is possible, or else mounted on a vehicle. Siege engines that are atop or mounted on vehicles move with those vehicles (see Chapter 4: Vehicles).
 
@@ -1543,7 +1521,7 @@ The number of members in a crew assumes Medium creatures. A ram can be crewed by
 
 **Critical Hits**: When a direct-fire siege engine or a close assault siege engine scores a critical hit, it confirms the critical and deals critical hit damage just like any other weapon. If an indirect-fire ranged siege engine rolls a natural 20 on its targeting check, it can also score a critical hit. The crew leader must reroll the targeting check to confirm the critical. If the confirmation targeting check is successful, the attack is a critical hit, and the siege engine multiplies its damage by its critical multiplier. Unlike normal attacks, siege engines attacks can deal critical hit damage to objects. Siege engines do not gain the benefit of critical feats the crew or the crew leader may have.
 
-**Mishaps and Misfires**: Rolling a natural 1 on an attack roll or a targeting check made by an indirect-fire ranged siege engine produces a mishap. Usually a mishap applies the broken condition. A non-firearm siege engine with the broken condition takes a –2 penalty on attack rolls, targeting checks, and damage rolls. It also moves at half its normal speed.
+**Mishaps and Misfires**: Rolling a natural 1 on an attack roll or a targeting check made by an indirect-fire ranged siege engine produces a mishap. Usually a mishap applies the broken condition. A non-firearm siege engine with the broken condition takes a -2 penalty on attack rolls, targeting checks, and damage rolls. It also moves at half its normal speed.
 
 If the creature that serves as crew leader has the [Siege Engineer]) feat, that creature does not generate a mishap on a natural 1 when firing the siege engine.
 
@@ -1568,17 +1546,17 @@ Firearm siege weapons do not gain a mishap on a natural 1, but instead have a mi
 
 ## Siege Engine Qualities
 
-The following are the various entries on the equipment tables for siege engines (given in the column headings on Tables 3–13 and 3–15). While ranged siege engines use most of these entries, close-assault siege engines only use some of them.
+The following are the various entries on the equipment tables for siege engines (given in the column headings on Tables 3-13 and 3-15). While ranged siege engines use most of these entries, close-assault siege engines only use some of them.
 
 **Cost**: This value is the siege engine's cost in gold pieces (gp). The cost includes gear needed to work the engine as well as gear for upkeep. Typical ammunition costs and weights are given in siege weapon description.
 
-**Damage**: This column gives the damage typically dealt by the engine. If the engine has a special mode of attack or damage, this space is marked by the words “see description.” If the siege engine does not deal any damage, but rather is a tool for getting close to or over fortifications, this entry features a dash (—). Some ranged siege engines can be loaded with special ammunition that affects or overrides the weapon's typical damage or range.
+**Damage**: This column gives the damage typically dealt by the engine. If the engine has a special mode of attack or damage, this space is marked by the words “see description.” If the siege engine does not deal any damage, but rather is a tool for getting close to or over fortifications, this entry features a dash (-). Some ranged siege engines can be loaded with special ammunition that affects or overrides the weapon's typical damage or range.
 
 As large and imprecise weapons, siege engines do not deal sneak attack damage or any other kind of precision damage.
 
 **Critical**: The entry for this column notes how the engine is used with the rules for critical hits. Unlike normal ranged weapons, siege engines can deal critical damage to objects as well as creatures.
 
-**Range**: Any attack at more than the distance listed in this entry is penalized for range. Beyond this range, the attack or targeting check takes a cumulative –2 penalty for each full range increment (or fraction thereof) of distance to the target. Some siege engines have a minimum range for effectiveness. If that is the case, the range of this weapon is followed by a parenthetical with the minimum range, followed by the abbreviation “min.”
+**Range**: Any attack at more than the distance listed in this entry is penalized for range. Beyond this range, the attack or targeting check takes a cumulative -2 penalty for each full range increment (or fraction thereof) of distance to the target. Some siege engines have a minimum range for effectiveness. If that is the case, the range of this weapon is followed by a parenthetical with the minimum range, followed by the abbreviation “min.”
 
 **Type**: Like weapons, siege engines that deal damage are classified according to the type of damage they deal: B for bludgeoning, P for piercing, or S for slashing. Some engines deal damage of multiple types. Some special siege engines (like the firedrake and the firewyrm) deal energy damage, typically fire damage. In those cases, the type of energy damage is listed instead.
 
@@ -1600,9 +1578,9 @@ Ranged siege engines assault structures and people from a distance, by propellin
 
 **Direct-Fire Ranged Siege Engines**: Direct-fire weapons launch their projectiles on a relatively flat trajectory, allowing them to more easily target creatures or pummel barriers directly in front of them.
 
-A direct-fire weapon uses a normal attack roll, with the normal penalty for nonproficient use. In addition, a direct-fire weapon takes a –2 attack roll penalty per size category that the weapon is larger than the creature aiming it. Creatures that have ranks in [Knowledge] (engineering) or use a targeting platform (see below) are not adversely affected by their size when firing direct-fire ranged siege engines.
+A direct-fire weapon uses a normal attack roll, with the normal penalty for nonproficient use. In addition, a direct-fire weapon takes a -2 attack roll penalty per size category that the weapon is larger than the creature aiming it. Creatures that have ranks in [Knowledge] (engineering) or use a targeting platform (see below) are not adversely affected by their size when firing direct-fire ranged siege engines.
 
-Sheer manpower can also reduce the penalties for size. Increasing the crew of these weapons by 1 or more can reduce the attack roll penalty for creature size: as long as an extra crew member is no smaller than three size categories smaller than the direct-fire weapon, it can reduce the penalty due to the aiming creature's size by 2. For example, a Huge ballista fired by a Medium creature that is part of a crew of two (the creature aiming the ballista and someone to help position it) takes only a –2 penalty on attack rolls.
+Sheer manpower can also reduce the penalties for size. Increasing the crew of these weapons by 1 or more can reduce the attack roll penalty for creature size: as long as an extra crew member is no smaller than three size categories smaller than the direct-fire weapon, it can reduce the penalty due to the aiming creature's size by 2. For example, a Huge ballista fired by a Medium creature that is part of a crew of two (the creature aiming the ballista and someone to help position it) takes only a -2 penalty on attack rolls.
 
 **Indirect-Fire Ranged Siege Engines**: Indirect-fire weapons launch projectiles in high arcs toward their targets. They typically lob heavier missiles and payloads than direct-fire weapons, but they are harder to aim accurately. Indirect weapons can bypass many forms of fortification, delivering their payloads of solid shot, scatter shot, or even disease-ridden offal to targets beyond the walls of castles. They can also be used to batter fortifications where they are most vulnerable, arcing down on towers and walls, crushing them with the weight of stone or raining down smaller projectiles on a wall's defenders.
 
@@ -1612,12 +1590,11 @@ Indirect-fire weapons use a targeting mechanic similar to that described for cat
 \
 If the attack misses the intended square, roll 1d8 to determine in what direction the shot veers. A roll of 1 indicates the ammunition falls short (toward the siege engine), with rolls of 2 through 8 counting squares clockwise around the target square. Roll 1d4 for every range increment at which the attack was made (1d4 if the target square is within the engine's first range increment, 2d4 if the target square is within the second range increment, and so on). The total is the number of squares by which the attack misses, with the direction in which the squares are counted determined by the d8 roll. The ammunition deals its damage and any other effects in the square it lands on.
 
-\
 
   ---------------------------------------------------------------------------------------------------------------
   Condition                                                       Modifier
   --------------------------------------------------------------- -----------------------------------------------
-  No line of sight to target square                               –6
+  No line of sight to target square                               -6
 
   Successive shots (crew can see where most recent miss landed)   Cumulative +2 per previous miss (maximum +10)
 
@@ -1631,7 +1608,6 @@ If the attack misses the intended square, roll 1d8 to determine in what directio
 
 # Siege Weapon Descriptions
 
-\
 
 Table: Ranged Siege Engines
 
@@ -1642,71 +1618,71 @@ Table: Ranged Siege Engines
 |*Large Siege      |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 |Engines*          |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Ballista, light |500 gp            |3d8               |19–20/×2          |120 ft.           |P                 |1                 |0                 |2                 |10 ft.            |
+|  Ballista, light |500 gp            |3d8               |19-20/x2          |120 ft.           |P                 |1                 |0                 |2                 |10 ft.            |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Cannon          |6,000 gp          |6d6               |×4                |100 ft.           |B and P           |2                 |1                 |3                 |10 ft.            |
+|  Cannon          |6,000 gp          |6d6               |x4                |100 ft.           |B and P           |2                 |1                 |3                 |10 ft.            |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
 |*Huge Siege       |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 |Engines*          |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Ballista, heavy |800 gp            |4d8               |19–20/×2          |180 ft.           |P                 |3                 |2                 |3                 |0 ft.             |
+|  Ballista, heavy |800 gp            |4d8               |19-20/x2          |180 ft.           |P                 |3                 |2                 |3                 |0 ft.             |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Cannon, fiend's |9,000 gp          |8d6               |×4                |150 ft.           |B and P           |3                 |1                 |3                 |0 ft.             |
+|  Cannon, fiend's |9,000 gp          |8d6               |x4                |150 ft.           |B and P           |3                 |1                 |3                 |0 ft.             |
 |mouth             |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Firedrake       |4,000 gp          |6d6               |—                 |—                 |fire              |3                 |2                 |5                 |10 ft.            |
+|  Firedrake       |4,000 gp          |6d6               |-                 |-                 |fire              |3                 |2                 |5                 |10 ft.            |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
 |*Gargantuan Siege |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 |Engines*          |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Ballista, gate  |1,200 gp          |6d8               |19–20/×2          |100 ft.           |B                 |5                 |3                 |5                 |0 ft.             |
+|  Ballista, gate  |1,200 gp          |6d8               |19-20/x2          |100 ft.           |B                 |5                 |3                 |5                 |0 ft.             |
 |breaker           |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Firewyrm        |6,000 gp          |6d6               |—                 |—                 |fire              |5                 |2                 |6                 |0 ft.             |
+|  Firewyrm        |6,000 gp          |6d6               |-                 |-                 |fire              |5                 |2                 |6                 |0 ft.             |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Indirect-Fire   |Cost              |Dmg               |Critical          |Range             |Type              |Crew              |Aim               |Load              |Speed             |
+|  Indirect-Fire   |Cost              |Dmg               |Critical          |Range             |Type              |Crew              |Aim               |Load              |Speed             |
 |Engines           |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
 |*Large Siege      |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 |Engines*          |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Bombard, light  |6,000 gp          |5d6               |×4                |100 ft. (50       |B and P           |2                 |1                 |3                 |10 ft.            |
+|  Bombard, light  |6,000 gp          |5d6               |x4                |100 ft. (50       |B and P           |2                 |1                 |3                 |10 ft.            |
 |                  |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Catapult, light |550 gp            |4d6               |×2                |150 ft. (50       |B                 |2                 |2                 |3                 |10 ft.            |
+|  Catapult, light |550 gp            |4d6               |x2                |150 ft. (50       |B                 |2                 |2                 |3                 |10 ft.            |
 |                  |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Trebuchet, light|800 gp            |4d6               |×2                |200 ft. (100      |B                 |3                 |2                 |3                 |0 ft.             |
+|  Trebuchet, light|800 gp            |4d6               |x2                |200 ft. (100      |B                 |3                 |2                 |3                 |0 ft.             |
 |                  |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
 |*Huge Siege       |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 |Engines*          |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Bombard,        |8,000 gp          |7d6               |×4                |150 ft. (100      |B and P           |2                 |1                 |3                 |0 ft.             |
+|  Bombard,        |8,000 gp          |7d6               |x4                |150 ft. (100      |B and P           |2                 |1                 |3                 |0 ft.             |
 |standard          |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Catapult,       |800 gp            |6d6               |×2                |200 ft. (100      |B                 |3                 |2                 |3                 |0 ft.             |
+|  Catapult,       |800 gp            |6d6               |x2                |200 ft. (100      |B                 |3                 |2                 |3                 |0 ft.             |
 |standard          |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Springal, arrow |1,000 gp          |3d8               |×3                |100 ft. (50       |P                 |3                 |2                 |3                 |0 ft.             |
+|  Springal, arrow |1,000 gp          |3d8               |x3                |100 ft. (50       |P                 |3                 |2                 |3                 |0 ft.             |
 |                  |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Springal, rocket|6,000 gp          |3d10              |×4                |100 ft. (50       |fire              |3                 |2                 |3                 |0 ft.             |
+|  Springal, rocket|6,000 gp          |3d10              |x4                |100 ft. (50       |fire              |3                 |2                 |3                 |0 ft.             |
 |                  |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Trebuchet,      |1,000 gp          |6d6               |×2                |300 ft. (150      |B                 |4                 |2                 |3                 |0 ft.             |
+|  Trebuchet,      |1,000 gp          |6d6               |x2                |300 ft. (150      |B                 |4                 |2                 |3                 |0 ft.             |
 |standard          |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
 |*Gargantuan Siege |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 |Engines*          |                  |                  |                  |                  |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Bombard, heavy  |8,000 gp          |9d6               |×4                |200 ft. (100      |B and P           |4                 |3                 |5                 |0 ft.             |
+|  Bombard, heavy  |8,000 gp          |9d6               |x4                |200 ft. (100      |B and P           |4                 |3                 |5                 |0 ft.             |
 |                  |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Catapult, heavy |1,000 gp          |8d6               |×2                |300 ft. (100      |B                 |4                 |3                 |3                 |0 ft.             |
+|  Catapult, heavy |1,000 gp          |8d6               |x2                |300 ft. (100      |B                 |4                 |3                 |3                 |0 ft.             |
 |                  |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|  Trebuchet, heavy|1,500 gp          |8d6               |×2                |400 ft. (200      |B                 |4                 |3                 |3                 |0 ft.             |
+|  Trebuchet, heavy|1,500 gp          |8d6               |x2                |400 ft. (200      |B                 |4                 |3                 |3                 |0 ft.             |
 |                  |                  |                  |                  |ft. min.)         |                  |                  |                  |                  |                  |
 +------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
  
@@ -1718,37 +1694,31 @@ The following are siege weapon descriptions.
 
 *Light*: This common type of ballista, also called an arbalest or scorpion, is size Large, maneuverable, and often mounted atop towers or even vehicles. Light ballistae have a hardness of 5 and 50 hit points. Light ballista bolts cost 10 gp each and weigh 10 pounds.
 
-\
 
 *Heavy*: These Huge-sized siege engines are commonly used as castle defenses, as well as on large warships. Heavy ballistae have a hardness of 5 and 100 hit points. Heavy ballista bolts cost 30 gp and weigh 20 pounds each.
 
-\
 
-*Gate Breaker*: This massive ballista fires specially weighted quarrels with blunt mental tips. These are used as long-range battering rams, shot at walls or the gates of castles. When they hit a wooden structure, they have a critical range of 19–20/×3. Gate breaker ballistae have a hardness of 5 and 200 hit points. Gate breaker ballista bolts cost 50 gp and weigh 30 pounds each.
+*Gate Breaker*: This massive ballista fires specially weighted quarrels with blunt mental tips. These are used as long-range battering rams, shot at walls or the gates of castles. When they hit a wooden structure, they have a critical range of 19-20/x3. Gate breaker ballistae have a hardness of 5 and 200 hit points. Gate breaker ballista bolts cost 50 gp and weigh 30 pounds each.
 
-**Bombard**: Resembling either large cauldrons or more traditional cannons, these firearms lob their ammunition in an arc in order to deliver their deadly payloads over troops or castle walls. Bombards are normally fired indirectly, but can also be fired as direct-fire siege engines. When they are used for direct fire, they take a –4 penalty on attack rolls and have their range increment halved, but do not have a minimum range. Like all firearms, bombards do not suffer mishaps, but instead have a misfire chance.
+**Bombard**: Resembling either large cauldrons or more traditional cannons, these firearms lob their ammunition in an arc in order to deliver their deadly payloads over troops or castle walls. Bombards are normally fired indirectly, but can also be fired as direct-fire siege engines. When they are used for direct fire, they take a -4 penalty on attack rolls and have their range increment halved, but do not have a minimum range. Like all firearms, bombards do not suffer mishaps, but instead have a misfire chance.
 
-*Light*: These bombards resemble cauldrons attached to swivels. Often they are mounted into the ground or into the stone of castle walls because of the mighty power of their recoil. The targeting DC of a light bombard is 15. A light bombard has a base misfire range of 1–2 (10 feet). Light bombards have a hardness of 10 and 70 hit points. Light bombard balls cost 30 gp each and weigh 25 pounds.
+*Light*: These bombards resemble cauldrons attached to swivels. Often they are mounted into the ground or into the stone of castle walls because of the mighty power of their recoil. The targeting DC of a light bombard is 15. A light bombard has a base misfire range of 1-2 (10 feet). Light bombards have a hardness of 10 and 70 hit points. Light bombard balls cost 30 gp each and weigh 25 pounds.
 
-\
 
-*Standard*: These bombards feature the greatest diversity of forms. Many take the cauldron shape of the light bombard, but they may also take the forms of more traditional cannons, albeit featuring stabilizing mechanisms that allow them to fire at a much steeper incline. The targeting DC of a standard bombard is 20. A standard bombard has a misfire range of 1–2 (20 feet). Standard bombards have a hardness of 10 and 140 hit points. Standard bombard balls cost 35 gp each and weigh 30 pounds.
+*Standard*: These bombards feature the greatest diversity of forms. Many take the cauldron shape of the light bombard, but they may also take the forms of more traditional cannons, albeit featuring stabilizing mechanisms that allow them to fire at a much steeper incline. The targeting DC of a standard bombard is 20. A standard bombard has a misfire range of 1-2 (20 feet). Standard bombards have a hardness of 10 and 140 hit points. Standard bombard balls cost 35 gp each and weigh 30 pounds.
 
-\
 
-*Heavy*: These massive siege engines are often fixed to positions on high hilltops or atop massive keeps, raining death down on a valley or strait. Often these firearms come in two pieces connected by a screw mechanism. The bombard is unscrewed to be loaded, and then the main part of the muzzle is screwed back on to the barrel section in order to be fired. Heavy bombards are too large and powerful to mount on vehicles. The targeting DC of a heavy bombard is 25. A heavy bombard has a misfire range of 1–2 (30 feet). Heavy bombards have a hardness of 10 and 280 hit points. Heavy bombard balls cost 45 gp each and weigh 50 pounds.
+*Heavy*: These massive siege engines are often fixed to positions on high hilltops or atop massive keeps, raining death down on a valley or strait. Often these firearms come in two pieces connected by a screw mechanism. The bombard is unscrewed to be loaded, and then the main part of the muzzle is screwed back on to the barrel section in order to be fired. Heavy bombards are too large and powerful to mount on vehicles. The targeting DC of a heavy bombard is 25. A heavy bombard has a misfire range of 1-2 (30 feet). Heavy bombards have a hardness of 10 and 280 hit points. Heavy bombard balls cost 45 gp each and weigh 50 pounds.
 
-**Cannon**: Cannons are crafted of metal—some are cast in one piece, others welded with iron bands—and mounted either in the ground or on wooden frames. Cannons use black powder to propel their projectiles with great force. A cannon has a misfire range of 1 (20 feet). Cannons have a hardness of 10 and 70 hit points. Cannon balls cost 30 gp each and weigh 25 pounds.
+**Cannon**: Cannons are crafted of metal-some are cast in one piece, others welded with iron bands-and mounted either in the ground or on wooden frames. Cannons use black powder to propel their projectiles with great force. A cannon has a misfire range of 1 (20 feet). Cannons have a hardness of 10 and 70 hit points. Cannon balls cost 30 gp each and weigh 25 pounds.
 
 **Catapult**: Catapults are stone-throwing siege engines powered by winched arms that run through torsion skeins, and hold their payload in a cup that swings up and over the weapon when released. Catapults can hurl a variety of different types of ammunition (the damage given is for stone projectiles; other types of ammunition can be found later in this chapter). They are indirect-fire siege engines.
 
 *Light*: These catapults are Large and often mounted on wheels. The targeting DC of a light catapult is 15. Light catapults have a hardness of 5 and 50 hit points. Light catapult stones cost 10 gp and weigh 50 pounds each.
 
-\
 
 *Standard*: These Huge siege engines are too large to be transported to the battlefield in one piece, and require assembly. They typically hurl large stones indirectly at a target (targeting DC 20). Standard catapults have a hardness of 5 and 100 hit points. Standard catapult stones cost 15 gp and weigh 75 pounds each.
 
-\
 
 *Heavy*: These Gargantuan siege engines are too large to be transported to the battlefield in one piece, and require assembly. They typically hurl large stones indirectly at a target (targeting DC 25). Heavy catapults have a hardness of 5 and 200 hit points. Heavy catapult stones cost 25 gp and weigh 90 pounds each.
 
@@ -1760,11 +1730,9 @@ The following are siege weapon descriptions.
 
 **Springal**: A springal uses a torsion-cranked composite paddle to strike a firing rack containing multiple arrows or black-powder-propelled rockets, which rain down in an arc over a burst area. Springals are indirect-fire weapons that affect an area centered on the target square.
 
-\
 
 *Arrow*: This springal propels a group of arrows that rains down on the targeted square and in a 15-foot burst around that square. One use of arrow springal ammunition costs 20 gp and weighs 10 pounds.
 
-\
 
 *Rocket*: This highly volatile springal propels a group of black-powder rockets that rain down on the targeted square and in a 15-foot burst around the area. If the rocket springal misfires, it explodes, dealing its damage in a 20-foot blast around the springal. This explosion destroys the rocket springal. One use of rocket springal ammunition costs 500 gp and weighs 30 pounds.
 
@@ -1772,11 +1740,9 @@ The following are siege weapon descriptions.
 
 *Light*: These Large siege engines typically hurl large stones indirectly at a target (targeting DC 15). A light trebuchet's ammunition scatters on contact, dealing full damage to the target square and half its damage to creatures and objects within 5 feet of the target square (creatures can make a DC 15 Reflex save to halve the damage again). Light trebuchets have a hardness of 5 and 50 hit points. One use of light trebuchet stones costs 15 gp and weighs 60 pounds.
 
-\
 
 *Standard*: These Huge siege engines typically hurl large stones indirectly at a target (targeting DC 20). A standard trebuchet's ammunition scatters on contact, dealing full damage to the target square and half damage to creatures and objects within 15 feet of the target square (creatures can make a DC 20 Reflex save to halve the damage again). Standard trebuchets have a hardness of 5 and 100 hit points. One use of standard trebuchet stones costs 30 gp and weighs 110 pounds.
 
-\
 
 *Heavy*: These Gargantuan siege engines typically hurl large stones indirectly at a target (targeting DC 25). A heavy trebuchet's ammunition scatters on contact, dealing full damage to the target square and half its damage to creatures and objects within 30 feet of the target square (creatures can make a DC 25 Reflex save to halve the damage again). Heavy trebuchets have a hardness of 5 and 200 hit points. One use of heavy trebuchet stones costs 30 gp and weighs 120 pounds.
 
@@ -1817,31 +1783,31 @@ While most siege engines attack at range, some are used up close to directly und
   Close Assault Engines   Cost        Dmg    Critical   Type   Crew   Speed
   ----------------------- ----------- ------ ---------- ------ ------ ---------------
   *Bridge, assault*
-    Large                 1 gp        —      —          —      —      —
-    Huge                  10 gp       —      —          —      —      —
-    Gargantuan            50 gp       —      —          —      —      —
-    Colossal              250 gp      —      —          —      —      —
-    Corvus                100 gp      —      —          —      1      Special
+    Large                 1 gp        -      -          -      -      -
+    Huge                  10 gp       -      -          -      -      -
+    Gargantuan            50 gp       -      -          -      -      -
+    Colossal              250 gp      -      -          -      -      -
+    Corvus                100 gp      -      -          -      1      Special
   *Gallery*
-    Large                 250 gp      —      —          —      3      15 ft.
-    Huge                  500 gp      —      —          —      6      15 ft.
-    Gargantuan            1000 gp     —      —          —      9      15 ft.
-    Colossal              2000 gp     —      —          —      18     15 ft.
+    Large                 250 gp      -      -          -      3      15 ft.
+    Huge                  500 gp      -      -          -      6      15 ft.
+    Gargantuan            1000 gp     -      -          -      9      15 ft.
+    Colossal              2000 gp     -      -          -      18     15 ft.
   *Ladder, escalade*
-    Large                 5 gp        —      —          —      2      as crew speed
-    Huge                  10 gp       —      —          —      4      as crew speed
-    Gargantuan            50 gp       —      —          —      6      as crew speed
-    Colossal              250 gp      —      —          —      8      as crew speed
+    Large                 5 gp        -      -          -      2      as crew speed
+    Huge                  10 gp       -      -          -      4      as crew speed
+    Gargantuan            50 gp       -      -          -      6      as crew speed
+    Colossal              250 gp      -      -          -      8      as crew speed
   *Ram*
-    Large                 500 gp      2d6    ×3         B      5      15 ft.
-    Huge                  1000 gp     3d6    ×3         B      10     15 ft.
-    Gargantuan            2000 gp     6d6    ×3         B      20     15 ft.
-    Colossal              5000 gp     10d6   ×3         B      40     15 ft.
+    Large                 500 gp      2d6    x3         B      5      15 ft.
+    Huge                  1000 gp     3d6    x3         B      10     15 ft.
+    Gargantuan            2000 gp     6d6    x3         B      20     15 ft.
+    Colossal              5000 gp     10d6   x3         B      40     15 ft.
   Siege tower
-    Large                 1000 gp     —      —          —      6      15 ft.
-    Huge                  2000 gp     —      —          —      12     15 ft.
-    Gargantuan            5000 gp     —      —          —      24     15 ft.
-    Colossal              10,000 gp   —      —          —      48     15 ft.
+    Large                 1000 gp     -      -          -      6      15 ft.
+    Huge                  2000 gp     -      -          -      12     15 ft.
+    Gargantuan            5000 gp     -      -          -      24     15 ft.
+    Colossal              10,000 gp   -      -          -      48     15 ft.
 
   : Table: Close Assault Siege Engines
 
@@ -1858,7 +1824,7 @@ While most siege engines attack at range, some are used up close to directly und
 
 **Corvus**: A corvus is a boarding device that features a hinged counterweight system for mounting a bridge vertically on a siege tower or a vehicle, with a hooked end to grab onto a target vehicle or structure. A corvus is usually 10 feet wide and 15 feet long. It has a hardness of 5 and 10 hit points per square. Using a corvus requires a DC 10 [Profession] (siege engineer) check as a full-round action; if the check fails, the corvus fails to catch on the target and must be reset (a full-round action). A corvus mounted on a vehicle can target another moving vehicle (see Chapter 4: Vehicles). Doing so requires an opposed driving check to get the corvus into the correct position, which is within the length of the corvus and adjacent to the other vehicle. Once a corvus is attached, it takes a Strength check as a full-round action to dislodge the corvus. Alternatively, if the corvus is attached to a vehicle, either vehicle driver can make a driving check as a standard action to dislodge the corvus (a check that succeeds by 5 or more destroys the corvus). The base DC for either of these checks is 15, and the DC increases by 5 for every Small or Medium creature currently standing on the corvus. If a corvus is disengaged while creatures are standing on it, those creatures must make a DC 15 Reflex saving throw or fall. Succeeding at the saving throw allows them to move to the nearest area of safe ground, but such movement provokes attacks of opportunity. A corvus cannot be armored.
 
-**Gallery**: A mobile temporary defense, a gallery is similar to a building made of hide or wood. Most are of flimsy construction, but rare examples are more stoutly built (use the rules for giving siege engines armor, and adjust AC, hardness, and hit points accordingly). Galleries are almost always a single section of movable “wall” plus another section that acts as the “roof.” (Galleries made to house battering rams are an exception, and typically have two joined wall sections and roof sections.) Because a gallery is partially open, it does not provide the same cover as a normal building: a creature inside a gallery gains cover if it is the same size as the gallery, improved cover if it is one size smaller, and total cover if it is two or more sizes smaller. Galleries are sized like creatures—a Larger gallery protects the same space as a Large creature, and so on.
+**Gallery**: A mobile temporary defense, a gallery is similar to a building made of hide or wood. Most are of flimsy construction, but rare examples are more stoutly built (use the rules for giving siege engines armor, and adjust AC, hardness, and hit points accordingly). Galleries are almost always a single section of movable “wall” plus another section that acts as the “roof.” (Galleries made to house battering rams are an exception, and typically have two joined wall sections and roof sections.) Because a gallery is partially open, it does not provide the same cover as a normal building: a creature inside a gallery gains cover if it is the same size as the gallery, improved cover if it is one size smaller, and total cover if it is two or more sizes smaller. Galleries are sized like creatures-a Larger gallery protects the same space as a Large creature, and so on.
 
 Wooden galleries can be moved on rollers at a speed of 10 feet with their full crew, or 5 feet with at least half the required crew. Galleries have a base speed of 15 feet (or 10 feet if protected with medium or heavy armor).
 
@@ -1868,33 +1834,26 @@ Galleries have a hardness of 5, and hit points based on their size. A Large gall
 
 **Rams**: The most basic close assault weapons are iron-shod logs carried by one or more creatures to combine their strength. A ram can be used to deal damage or to make a Strength check against the target's break DC.
 
-*Ramming Charge*: Rams require momentum to be effective. All creatures using the ram must use the charge action to gain its full effect. Creatures not wishing to charge may make a ram attack as a full-round action, taking a –4 penalty on attack and damage rolls and Strength checks with the ram.
+*Ramming Charge*: Rams require momentum to be effective. All creatures using the ram must use the charge action to gain its full effect. Creatures not wishing to charge may make a ram attack as a full-round action, taking a -4 penalty on attack and damage rolls and Strength checks with the ram.
 
-\
 
 *Breaking*: The crew leader makes a Strength check with a +2 bonus, adding +2 for each member of the crew (or equivalent number of larger creatures) assisting. The ram also provides a +4 bonus per size category above Medium.
 
-\
 
-*Damage*: The crew leader makes an attack roll with a –4 nonproficiency penalty. A hit deals the listed damage, plus the Strength modifiers of the crew leader and all members of the crew, regardless of their size.
+*Damage*: The crew leader makes an attack roll with a -4 nonproficiency penalty. A hit deals the listed damage, plus the Strength modifiers of the crew leader and all members of the crew, regardless of their size.
 
-\
 
-*Improvised Ram*: Any tree, log, or timber can be used as a ram with a –4 penalty on attack and damage rolls and Strength checks.
+*Improvised Ram*: Any tree, log, or timber can be used as a ram with a -4 penalty on attack and damage rolls and Strength checks.
 
-\
 
 *Pick*: A ram with a pick head grants a +2 circumstance bonus on Strength checks and attack and damage rolls made against stone structures.
 
-\
 
 *Screw*: A ram with a screw head grants a +2 circumstance bonus on Strength checks and attack and damage rolls made against earthen structures.
 
-\
 
 *Gallery Ram*: This is a ram suspended from chains or ropes within a gallery. A gallery ram does not require a charge action for full momentum. In addition, adding tethers to the back end of the ram allows four additional crew members to assist in using the ram.
 
-\
 
 *Hit Points*: Rams have a hardness of 5 and hit points based on their size. A Large ram has 30 hit points, a Huge one has 120 hit points, a Gargantuan one has 320 hit points, and a Colossal one has 625 hit points. Improvised rams have half the normal hit points.
 
@@ -1921,7 +1880,7 @@ When any of these structures gain the broken condition, their hardness is halved
 
 ## Buildings
 
-Buildings are sizable structures with many hit points and very poor ACs (a Large building is AC 4, a Huge building is AC 3, and a Gargantuan or larger building is AC 0). When a building is reduced to half its hit points, it is broken—it still stands, but only partially. It can be easily entered, and for all intents and purposes it has been breached. Reducing a building to 0 hit points completely destroys that building. Creatures inside the building suffer the effects of a cave-in.
+Buildings are sizable structures with many hit points and very poor ACs (a Large building is AC 4, a Huge building is AC 3, and a Gargantuan or larger building is AC 0). When a building is reduced to half its hit points, it is broken-it still stands, but only partially. It can be easily entered, and for all intents and purposes it has been breached. Reducing a building to 0 hit points completely destroys that building. Creatures inside the building suffer the effects of a cave-in.
 
 All these building statistics assume that the structure's inside is somewhat hollow but sturdily built, with enough space for its occupants to walk around inside. Flimsy buildings have half the hit points of the buildings detailed. Buildings can be magically treated, like dungeon walls and doors can. Doing so doubles their hardness and hit points. Magically treating a building costs 5,000 gp for a Large building, 10,000 gp for a Huge building, 20,000 gp for a Gargantuan building, and 40,000 gp for a Colossal building. A spellcaster with the [Craft Magic Arms and Armor] feat can magically treat buildings.
 
@@ -1980,4 +1939,4 @@ The walls that guard castles and cities are sturdy fortifications, usually const
 
 Squares of walls can be magically treated. Doing so doubles the hardness and hit points. Magically treating wall squares costs 500 gp per wall square. A spellcaster with the [Craft Magic Arms and Armor] feat can magically treat walls.
 
-When a wall gains the broken condition, its hardness is halved, but the wall is not breached. Only destroying a section of wall allows it to become breached. When a square of wall is breached, any sections directly above it fall onto the missing section of walls. Doing this reduces the falling wall section to half its current hit point total –1, which applies the broken condition to that square of wall.
+When a wall gains the broken condition, its hardness is halved, but the wall is not breached. Only destroying a section of wall allows it to become breached. When a square of wall is breached, any sections directly above it fall onto the missing section of walls. Doing this reduces the falling wall section to half its current hit point total -1, which applies the broken condition to that square of wall.
