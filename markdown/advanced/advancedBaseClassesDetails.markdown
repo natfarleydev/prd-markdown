@@ -143,128 +143,135 @@ Table: Alchemist
 
 The following are class features of the alchemist.
 
-**Weapon and Armor Proficiency**: Alchemists are proficient with all
-simple weapons and bombs. They are also proficient with light armor, but
-not with shields.
+**Weapon and Armor Proficiency**: Alchemists are proficient with
+all simple weapons and bombs. They are also proficient with light
+armor, but not with shields.
 
-**Alchemy (Su)**: Alchemists are not only masters of creating mundane
-alchemical substances such as alchemist's fire and smokesticks, but also
-of fashioning magical potion-like extracts in which they can store spell
-effects. In effect, an alchemist prepares his spells by mixing
-ingredients into a number of extracts, and then “casts” his spells by
-drinking the extract. When an alchemist creates an extract or bomb, he
-infuses the concoction with a tiny fraction of his own magical
-power-this enables the creation of powerful effects, but also binds the
+**Alchemy (Su)**: Alchemists are not only masters of creating
+mundane alchemical substances such as alchemist's fire and
+smokesticks, but also of fashioning magical potion-like extracts
+in which they can store spell effects. In effect, an alchemist
+prepares his spells by mixing ingredients into a number of
+extracts, and then “casts” his spells by drinking the
+extract. When an alchemist creates an extract or bomb, he infuses
+the concoction with a tiny fraction of his own magical power-this
+enables the creation of powerful effects, but also binds the
 effects to the creator.
 
-When using [Craft] (alchemy) to create
-an alchemical item, an alchemist gains a competence bonus equal to his
-class level on the [Craft] (alchemy)
-check. In addition, an alchemist can use
-[Craft] (alchemy) to identify potions as
-if using *[detect magic]*.
-He must hold the potion for 1 round to make such a check.
+When using [Craft] (alchemy) to create an alchemical item, an
+alchemist gains a competence bonus equal to his class level on
+the [Craft] (alchemy) check. In addition, an alchemist can use
+[Craft] (alchemy) to identify potions as if using *[detect
+magic]*.  He must hold the potion for 1 round to make such a
+check.
 
-An alchemist can create three special types of magical items-extracts,
-bombs, and mutagens. Bombs are explosive splash weapons, and mutagens
-are transformative elixirs that the alchemist drinks to enhance his
-physical abilities-both of these are detailed in their own sections
-below.
+An alchemist can create three special types of magical
+items-extracts, bombs, and mutagens. Bombs are explosive splash
+weapons, and mutagens are transformative elixirs that the
+alchemist drinks to enhance his physical abilities-both of these
+are detailed in their own sections below.
 
-Extracts are the most varied of the three. In many ways, they behave
-like spells in potion form, and as such their effects can be dispelled
-by effects like *[dispel magic]*using the
-alchemist's level as the caster level. Unlike potions, though, extracts
-can have powerful effects and duplicate spells that a potion normally
-could not.
+Extracts are the most varied of the three. In many ways, they
+behave like spells in potion form, and as such their effects can
+be dispelled by effects like *[dispel magic]*using the
+alchemist's level as the caster level. Unlike potions, though,
+extracts can have powerful effects and duplicate spells that a
+potion normally could not.
 
-An alchemist can create only a certain number of extracts of each level
-per day. His base daily allotment of extracts is given on Table 2-1. In
-addition, he receives bonus extracts per day if he has a high
-Intelligence score, in the same way a wizard receives bonus spells per
-day.
+An alchemist can create only a certain number of extracts of each
+level per day. His base daily allotment of extracts is given on
+Table 2-1. In addition, he receives bonus extracts per day if he
+has a high Intelligence score, in the same way a wizard receives
+bonus spells per day.
 
 When an alchemist mixes an extract, he infuses the chemicals and
-reagents in the extract with magic siphoned from his own magical aura.
-An extract immediately becomes inert if it leaves the alchemist's
-possession, reactivating as soon as it returns to his keeping-an
-alchemist cannot normally pass out his extracts for allies to use (but
-see the “infusion” discovery below). An extract, once created, remains
-potent for 1 day before losing its magic, so an alchemist must
-re-prepare his extracts every day. Mixing an extract takes 1 minute of
-work-most alchemists prepare many extracts at the start of the day or
-just before going on an adventure, but it's not uncommon for an
-alchemist to keep some (or even all) of his daily extract slots open so
-that he can prepare extracts in the field as needed.
+reagents in the extract with magic siphoned from his own magical
+aura.  An extract immediately becomes inert if it leaves the
+alchemist's possession, reactivating as soon as it returns to his
+keeping-an alchemist cannot normally pass out his extracts for
+allies to use (but see the “infusion” discovery below). An
+extract, once created, remains potent for 1 day before losing its
+magic, so an alchemist must re-prepare his extracts every
+day. Mixing an extract takes 1 minute of work-most alchemists
+prepare many extracts at the start of the day or just before
+going on an adventure, but it's not uncommon for an alchemist to
+keep some (or even all) of his daily extract slots open so that
+he can prepare extracts in the field as needed.
 
-Although the alchemist doesn't actually cast spells, he does have a
-formulae list that determines what extracts he can create. An alchemist
-can utilize spell-trigger items if the spell appears on his formuale
-list, but not spell-completion items (unless he uses [Use Magic Device] to do so).
-An extract is “cast” by drinking it, as if imbibing a potion-the effects
-of an extract exactly duplicate the spell upon which its formula is
-based, save that the spell always affects only the drinking alchemist.
-An alchemist can draw and drink an extract as a standard action. The
-alchemist uses his level as the caster level to determine any effect
-based on caster level.
+Although the alchemist doesn't actually cast spells, he does have
+a formulae list that determines what extracts he can create. An
+alchemist can utilize spell-trigger items if the spell appears on
+his formuale list, but not spell-completion items (unless he uses
+[Use Magic Device] to do so).  An extract is “cast” by drinking
+it, as if imbibing a potion-the effects of an extract exactly
+duplicate the spell upon which its formula is based, save that
+the spell always affects only the drinking alchemist.  An
+alchemist can draw and drink an extract as a standard action. The
+alchemist uses his level as the caster level to determine any
+effect based on caster level.
 
 Creating extracts consumes raw materials, but the cost of these
 materials is insignificant-comparable to the valueless material
-components of most spells. If a spell normally has a costly material
-component, that component is expended during the consumption of that
-particular extract. Extracts cannot be made from spells that have focus
-requirements (alchemist extracts that duplicate divine spells never have
-a divine focus requirement).
+components of most spells. If a spell normally has a costly
+material component, that component is expended during the
+consumption of that particular extract. Extracts cannot be made
+from spells that have focus requirements (alchemist extracts that
+duplicate divine spells never have a divine focus requirement).
 
-An alchemist can prepare an extract of any formula he knows. To learn or
-use an extract, an alchemist must have an Intelligence score equal to at
-least 10 + the extract's level. The Difficulty Class for a saving throw
-against an alchemist's extract is 10 + the extract level + the
-alchemist's Intelligence modifier.
+An alchemist can prepare an extract of any formula he knows. To
+learn or use an extract, an alchemist must have an Intelligence
+score equal to at least 10 + the extract's level. The Difficulty
+Class for a saving throw against an alchemist's extract is 10 +
+the extract level + the alchemist's Intelligence modifier.
 
-An alchemist may know any number of formulae. He stores his formulae in
-a special tome called a formula book. He must refer to this book
-whenever he prepares an extract but not when he consumes it. An
-alchemist begins play with two 1st-level formulae of his choice, plus a
-number of additional forumlae equal to his Intelligence modifier. At
-each new alchemist level, he gains one new formula of any level that he
-can create. An alchemist can also add formulae to his book just like a
-wizard adds spells to his spellbook, using the same costs, pages, and
-time requirements. An alchemist can study a wizard's spellbook to learn
-any formula that is equivalent to a spell the spellbook contains. A
-wizard, however, cannot learn spells from a formula book. An alchemist
-does not need to decipher arcane writings before copying them.
+An alchemist may know any number of formulae. He stores his
+formulae in a special tome called a formula book. He must refer
+to this book whenever he prepares an extract but not when he
+consumes it. An alchemist begins play with two 1st-level formulae
+of his choice, plus a number of additional forumlae equal to his
+Intelligence modifier. At each new alchemist level, he gains one
+new formula of any level that he can create. An alchemist can
+also add formulae to his book just like a wizard adds spells to
+his spellbook, using the same costs, pages, and time
+requirements. An alchemist can study a wizard's spellbook to
+learn any formula that is equivalent to a spell the spellbook
+contains. A wizard, however, cannot learn spells from a formula
+book. An alchemist does not need to decipher arcane writings
+before copying them.
 
-**Bomb (Su)**: In addition to magical extracts, alchemists are adept at
-swiftly mixing various volatile chemicals and infusing them with their
-magical reserves to create powerful bombs that they can hurl at their
-enemies. An alchemist can use a number of bombs each day equal to his
-class level + his Intelligence modifier. Bombs are unstable, and if not
-used in the round they are created, they degrade and become inert-their
-method of creation prevents large volumes of explosive material from
-being created and stored. In order to create a bomb, the alchemist must
-use a small vial containing an ounce of liquid catalyst-the alchemist
-can create this liquid catalyst from small amounts of chemicals from an
-alchemy lab, and these supplies can be readily refilled in the same
-manner as a spellcaster's component pouch. Most alchemists create a
-number of catalyst vials at the start of the day equal to the total
-number of bombs they can create in that day-once created, a catalyst
-vial remains usable by the alchemist for years.
+**Bomb (Su)**: In addition to magical extracts, alchemists are
+adept at swiftly mixing various volatile chemicals and infusing
+them with their magical reserves to create powerful bombs that
+they can hurl at their enemies. An alchemist can use a number of
+bombs each day equal to his class level + his Intelligence
+modifier. Bombs are unstable, and if not used in the round they
+are created, they degrade and become inert-their method of
+creation prevents large volumes of explosive material from being
+created and stored. In order to create a bomb, the alchemist must
+use a small vial containing an ounce of liquid catalyst-the
+alchemist can create this liquid catalyst from small amounts of
+chemicals from an alchemy lab, and these supplies can be readily
+refilled in the same manner as a spellcaster's component
+pouch. Most alchemists create a number of catalyst vials at the
+start of the day equal to the total number of bombs they can
+create in that day-once created, a catalyst vial remains usable
+by the alchemist for years.
 
-Drawing the components of, creating, and throwing a bomb requires a
-standard action that provokes an attack of opportunity. Thrown bombs
-have a range of 20 feet and use the [Throw Splash Weapon] special attack. Bombs
-are considered weapons and can be selected using feats such as
-[Point-Blank Shot] and [Weapon Focus]. On a direct hit, an alchemist's
-bomb inflicts 1d6 points of fire damage + additional damage equal to the
-alchemist's Intelligence modifier. The damage of an alchemist's bomb
-increases by 1d6 points at every odd-numbered alchemist level (this
-bonus damage is not multiplied on a critical hit or by using feats such
-as [Vital Strike]). Splash damage from
-an alchemist bomb is always equal to the bomb's minimum damage (so if
-the bomb would deal 2d6+4 points of fire damage on a direct hit, its
-splash damage would be 6 points of fire damage). Those caught in the
-splash damage can attempt a Reflex save for half damage. The DC of this
+Drawing the components of, creating, and throwing a bomb requires
+a standard action that provokes an attack of opportunity. Thrown
+bombs have a range of 20 feet and use the [Throw Splash Weapon]
+special attack. Bombs are considered weapons and can be selected
+using feats such as [Point-Blank Shot] and [Weapon Focus]. On a
+direct hit, an alchemist's bomb inflicts 1d6 points of fire
+damage + additional damage equal to the alchemist's Intelligence
+modifier. The damage of an alchemist's bomb increases by 1d6
+points at every odd-numbered alchemist level (this bonus damage
+is not multiplied on a critical hit or by using feats such as
+[Vital Strike]). Splash damage from an alchemist bomb is always
+equal to the bomb's minimum damage (so if the bomb would deal
+2d6+4 points of fire damage on a direct hit, its splash damage
+would be 6 points of fire damage). Those caught in the splash
+damage can attempt a Reflex save for half damage. The DC of this
 save is equal to 10 + 1/2 the alchemist's level + the alchemist's
 Intelligence modifier.
 
@@ -272,372 +279,426 @@ Alchemists can learn new types of bombs as discoveries (see the
 Discovery ability) as they level up. An alchemist's bomb, like an
 extract, becomes inert if used or carried by anyone else.
 
-**[Brew Potion] (Ex)**: At 1st level,
-alchemists receive [Brew Potion] as a
-bonus feat. An alchemist can brew potions of any formulae he knows (up
-to 3rd level), using his alchemist level as his caster level. The spell
-must be one that can be made into a potion. The alchemist does not need
-to meet the prerequisites for this feat.
+**[Brew Potion] (Ex)**: At 1st level, alchemists receive [Brew
+Potion] as a bonus feat. An alchemist can brew potions of any
+formulae he knows (up to 3rd level), using his alchemist level as
+his caster level. The spell must be one that can be made into a
+potion. The alchemist does not need to meet the prerequisites for
+this feat.
 
-**Mutagen (Su)**: At 1st level, an alchemist discovers how to create a
-mutagen that he can imbibe in order to heighten his physical prowess at
-the cost of his personality. It takes 1 hour to brew a dose of mutagen,
-and once brewed, it remains potent until used. An alchemist can only
-maintain one dose of mutagen at a time-if he brews a second dose, any
-existing mutagen becomes inert. As with an extract or bomb, a mutagen
-that is not in an alchemist's possession becomes inert until an
-alchemist picks it up again.
+**Mutagen (Su)**: At 1st level, an alchemist discovers how to
+create a mutagen that he can imbibe in order to heighten his
+physical prowess at the cost of his personality. It takes 1 hour
+to brew a dose of mutagen, and once brewed, it remains potent
+until used. An alchemist can only maintain one dose of mutagen at
+a time-if he brews a second dose, any existing mutagen becomes
+inert. As with an extract or bomb, a mutagen that is not in an
+alchemist's possession becomes inert until an alchemist picks it
+up again.
 
-When an alchemist brews a mutagen, he selects one physical ability
-score-either Strength, Dexterity, or Constitution. It's a standard
-action to drink a mutagen. Upon being imbibed, the mutagen causes the
-alchemist to grow bulkier and more bestial, granting him a +2 natural
-armor bonus and a +4 alchemical bonus to the selected ability score for
-10 minutes per alchemist level. In addition, while the mutagen is in
-effect, the alchemist takes a -2 penalty to one of his mental ability
-scores. If the mutagen enhances his Strength, it applies a penalty to
-his Intelligence. If it enhances his Dexterity, it applies a penalty to
-his Wisdom. If it enhances his Constitution, it applies a penalty to his
-Charisma.
+When an alchemist brews a mutagen, he selects one physical
+ability score-either Strength, Dexterity, or Constitution. It's a
+standard action to drink a mutagen. Upon being imbibed, the
+mutagen causes the alchemist to grow bulkier and more bestial,
+granting him a +2 natural armor bonus and a +4 alchemical bonus
+to the selected ability score for 10 minutes per alchemist
+level. In addition, while the mutagen is in effect, the alchemist
+takes a -2 penalty to one of his mental ability scores. If the
+mutagen enhances his Strength, it applies a penalty to his
+Intelligence. If it enhances his Dexterity, it applies a penalty
+to his Wisdom. If it enhances his Constitution, it applies a
+penalty to his Charisma.
 
-A non-alchemist who drinks a mutagen must make a Fortitude save (DC 10 +
-1/2 the alchemist's level + the alchemist's Intelligence modifier) or
-become nauseated for 1 hour-a non-alchemist can never gain the benefit
-of a mutagen, but an alchemist can gain the effects of another
-alchemist's mutagen if he drinks it. (Although if the other alchemist
-creates a different mutagen, the effects of the “stolen” mutagen
-immediately cease.) The effects of a mutagen do not stack. Whenever an
-alchemist drinks a mutagen, the effects of any previous mutagen
-immediately end.
+A non-alchemist who drinks a mutagen must make a Fortitude save
+(DC 10 + 1/2 the alchemist's level + the alchemist's Intelligence
+modifier) or become nauseated for 1 hour-a non-alchemist can
+never gain the benefit of a mutagen, but an alchemist can gain
+the effects of another alchemist's mutagen if he drinks
+it. (Although if the other alchemist creates a different mutagen,
+the effects of the “stolen” mutagen immediately cease.) The
+effects of a mutagen do not stack. Whenever an alchemist drinks a
+mutagen, the effects of any previous mutagen immediately end.
 
-**[Throw Anything] (Ex)**: All
-alchemists gain the [Throw Anything]
-feat as a bonus feat at 1st level. An alchemist adds his Intelligence
-modifier to damage done with splash weapons, including the splash damage
-if any. This bonus damage is already included in the bomb class feature.
+**[Throw Anything] (Ex)**: All alchemists gain the [Throw
+Anything] feat as a bonus feat at 1st level. An alchemist adds
+his Intelligence modifier to damage done with splash weapons,
+including the splash damage if any. This bonus damage is already
+included in the bomb class feature.
 
 **Discovery (Su)**: At 2nd level, and then again every 2 levels
 thereafter (up to 18th level), an alchemist makes an incredible
-alchemical discovery. Unless otherwise noted, an alchemist cannot select
-an individual discovery more than once. Some discoveries can only be
-made if the alchemist has met certain prerequisites first, such as
-uncovering other discoveries. Discoveries that modify bombs that are
-marked with an asterisk (\*) do not stack. Only one such discovery can
-be applied to an individual bomb. The DC of any saving throw called for
-by a discovery is equal to 10 + 1/2 the alchemist's level + the
-alchemist's Intelligence modifier.
+alchemical discovery. Unless otherwise noted, an alchemist cannot
+select an individual discovery more than once. Some discoveries
+can only be made if the alchemist has met certain prerequisites
+first, such as uncovering other discoveries. Discoveries that
+modify bombs that are marked with an asterisk (\*) do not
+stack. Only one such discovery can be applied to an individual
+bomb. The DC of any saving throw called for by a discovery is
+equal to 10 + 1/2 the alchemist's level + the alchemist's
+Intelligence modifier.
 
-*Acid bomb\**: When the alchemist creates a bomb, he can choose to have
-it inflict acid damage. Creatures that take a direct hit from an acid
-bomb take an additional 1d6 points of acid damage 1 round later.
+*Acid bomb\**: When the alchemist creates a bomb, he can choose
+to have it inflict acid damage. Creatures that take a direct hit
+from an acid bomb take an additional 1d6 points of acid damage 1
+round later.
 
-*Combine extracts*: When the alchemist creates an extract, he can place
-two formulae into one extract. When the extract is consumed, both
-formulae take effect. This extract has a level two levels higher than
-the highest-level formulae placed in the extract. An alchemist must be
-at least 8th level before selecting this discovery.
+*Combine extracts*: When the alchemist creates an extract, he can
+place two formulae into one extract. When the extract is
+consumed, both formulae take effect. This extract has a level two
+levels higher than the highest-level formulae placed in the
+extract. An alchemist must be at least 8th level before selecting
+this discovery.
 
-*Concentrate poison*: The alchemist can combine two doses of the same
-poison to increase their effects. This requires two doses of the poison
-and 1 minute of concentration. When completed, the alchemist has one
-dose of poison. The poison's frequency is extended by 50% and the save
-DC increases by +2. This poison must be used within 1 hour of its
-creation or it is ruined.
+*Concentrate poison*: The alchemist can combine two doses of the
+same poison to increase their effects. This requires two doses of
+the poison and 1 minute of concentration. When completed, the
+alchemist has one dose of poison. The poison's frequency is
+extended by 50% and the save DC increases by +2. This poison must
+be used within 1 hour of its creation or it is ruined.
 
-*Concussive bomb\**: When the alchemist creates a bomb, he can choose to
-have it inflict sonic damage. Concussive bombs deal 1d4 points of sonic
-damage, plus 1d4 points of sonic damage for every odd-numbered level,
-instead of 1d6. Creatures that take a direct hit from a concussive bomb
-are deafened for 1 minute unless they succeed at a Fortitude save. An
-alchemist must be at least 6th level before selecting this discovery.
+*Concussive bomb\**: When the alchemist creates a bomb, he can
+choose to have it inflict sonic damage. Concussive bombs deal 1d4
+points of sonic damage, plus 1d4 points of sonic damage for every
+odd-numbered level, instead of 1d6. Creatures that take a direct
+hit from a concussive bomb are deafened for 1 minute unless they
+succeed at a Fortitude save. An alchemist must be at least 6th
+level before selecting this discovery.
 
-*Delayed bomb*: The alchemist can place a bomb so that it explodes a
-number of rounds after the alchemist ceases contact with the bomb. This
-delay can be any number of rounds as chosen by the alchemist, up to a
-number of rounds equal to his level. If at any point the alchemist
-reclaims possession of the delayed bomb, he can end the timer and
-prevent the bomb's detonation. A delayed bomb detonates immediately if
-any other creature attempts to touch or move it, or if the bomb's
-contents are removed from the vial (such as if the vial breaks). The
-bomb deals damage as if it scored a direct hit to any creature in the
-square with the bomb when it detonates, and splash damage to all
-adjacent creatures as normal. An alchemist cannot have more than one
+*Delayed bomb*: The alchemist can place a bomb so that it
+explodes a number of rounds after the alchemist ceases contact
+with the bomb. This delay can be any number of rounds as chosen
+by the alchemist, up to a number of rounds equal to his level. If
+at any point the alchemist reclaims possession of the delayed
+bomb, he can end the timer and prevent the bomb's detonation. A
+delayed bomb detonates immediately if any other creature attempts
+to touch or move it, or if the bomb's contents are removed from
+the vial (such as if the vial breaks). The bomb deals damage as
+if it scored a direct hit to any creature in the square with the
+bomb when it detonates, and splash damage to all adjacent
+creatures as normal. An alchemist cannot have more than one
 delayed bomb at one time. If he creates another delayed bomb, the
 previous bomb becomes inert. *[Dispel magic]* can neutralize a
 delayed bomb, as can a successful [Disable Device] check (DC
 equals 10 + the alchemist's level + the alchemist's Intelligence
-modifier). An alchemist must be at least 8th level before selecting this
-discovery.
-
-*Dilution*: Once per day, the alchemist can dilute any one potion or
-elixir, creating two doses of the same potion from one. Diluting a
-potion costs a number of gp equal to one-quarter of the potion's market
-value. A potion that has been diluted cannot be diluted again. This
-discovery cannot be used to dilute extracts or mutagens. An alchemist
-must be at least 12th level before selecting this discovery.
-
-*Dispelling Bomb*: When the alchemist creates a bomb, he can choose to
-have it dispel magic effects instead of deal damage. Creatures that take
-a direct hit from a dispelling bomb are subject to a targeted *[dispel magic]* spell, using the
-alchemist's level as the caster level. This cannot be used to target a
-specific spell effect. The alchemist must be at least 6th level before
+modifier). An alchemist must be at least 8th level before
 selecting this discovery.
 
-*Elixir of life*: Once per day, the alchemist can brew an elixir of
-life. This special concoction costs 25,000 gp to create and takes 1 hour
-of work. An elixir of life, when administered by the alchemist who
-brewed it, restores life to a dead creature as per the spell *[true resurrection]*.
-Alternatively, the alchemist himself may drink the elixir of life, after
-which point he is immediately targeted with a
-*[resurrection]* spell the
-next time he is killed. Used in this manner, the effects of an elixir of
+*Dilution*: Once per day, the alchemist can dilute any one potion
+or elixir, creating two doses of the same potion from
+one. Diluting a potion costs a number of gp equal to one-quarter
+of the potion's market value. A potion that has been diluted
+cannot be diluted again. This discovery cannot be used to dilute
+extracts or mutagens. An alchemist must be at least 12th level
+before selecting this discovery.
+
+*Dispelling Bomb*: When the alchemist creates a bomb, he can
+choose to have it dispel magic effects instead of deal
+damage. Creatures that take a direct hit from a dispelling bomb
+are subject to a targeted *[dispel magic]* spell, using the
+alchemist's level as the caster level. This cannot be used to
+target a specific spell effect. The alchemist must be at least
+6th level before selecting this discovery.
+
+*Elixir of life*: Once per day, the alchemist can brew an elixir
+of life. This special concoction costs 25,000 gp to create and
+takes 1 hour of work. An elixir of life, when administered by the
+alchemist who brewed it, restores life to a dead creature as per
+the spell *[true resurrection]*.  Alternatively, the alchemist
+himself may drink the elixir of life, after which point he is
+immediately targeted with a *[resurrection]* spell the next time
+he is killed. Used in this manner, the effects of an elixir of
 life persist only for a number of days equal to the alchemist's
-Intelligence modifier; if he does not die before that time expires, the
-effects of the elixir of life end. An alchemist must be at least 16th
-level before selecting this discovery.
+Intelligence modifier; if he does not die before that time
+expires, the effects of the elixir of life end. An alchemist must
+be at least 16th level before selecting this discovery.
 
-*Enhance potion*: A number of times per day equal to his Intelligence
-modifier, the alchemist can cause any potion he drinks to function at a
-caster level equal to his class level.
+*Enhance potion*: A number of times per day equal to his
+Intelligence modifier, the alchemist can cause any potion he
+drinks to function at a caster level equal to his class level.
 
-*Eternal potion*: If an alchemist drinks a potion that he extends, the
-effects of that potion become permanent until he chooses to make another
-potion effect permanent. An alchemist must be at least 16th level and
-must possess the extend potion discovery before selecting this
-discovery.
+*Eternal potion*: If an alchemist drinks a potion that he
+extends, the effects of that potion become permanent until he
+chooses to make another potion effect permanent. An alchemist
+must be at least 16th level and must possess the extend potion
+discovery before selecting this discovery.
 
-*Explosive bomb\**: The alchemist's bombs now have a splash radius of 10
-feet rather than 5 feet. Creatures that take a direct hit from an
-explosive bomb catch fire, taking 1d6 points of fire damage each round
-until the fire is extinguished. Extinguishing the flames is a full-round
-action that requires a Reflex save. Rolling on the ground provides the
-target with a +2 to the save. Dousing the target with at least 2 gallons
-of water automatically extinguishes the flames.
+*Explosive bomb\**: The alchemist's bombs now have a splash
+radius of 10 feet rather than 5 feet. Creatures that take a
+direct hit from an explosive bomb catch fire, taking 1d6 points
+of fire damage each round until the fire is
+extinguished. Extinguishing the flames is a full-round action
+that requires a Reflex save. Rolling on the ground provides the
+target with a +2 to the save. Dousing the target with at least 2
+gallons of water automatically extinguishes the flames.
 
-*Extend potion*: A number of times per day equal to his Intelligence
-modifier, the alchemist can cause any potion he drinks that does not
-have an instantaneous duration to function at twice its normal duration.
-This does not apply to extracts.
+*Extend potion*: A number of times per day equal to his
+Intelligence modifier, the alchemist can cause any potion he
+drinks that does not have an instantaneous duration to function
+at twice its normal duration.  This does not apply to extracts.
 
-*Fast bombs*: An alchemist with this discovery can quickly create enough
-bombs to throw more than one in a single round. The alchemist can
-prepare and throw additional bombs as a full-round action if his base
-attack bonus is high enough to grant him additional attacks. This
-functions just like a full-attack with a ranged weapon. An alchemist
-must be at least 8th level before selecting this discovery.
-
-*Feral mutagen*: Whenever the alchemist imbibes a mutagen, he gains two
-claw attacks and a bite attack. These are primary attacks and are made
-using the alchemist's full base attack bonus. The claw attacks deal 1d6
-points of damage (1d4 if the alchemist is Small) and the bite attack
-deals 1d8 points of damage (1d6 if the alchemist is Small). While the
-mutagen is in effect, the alchemist gains a +2 competence bonus on
-[Intimidate] skill checks.
-
-*Force bomb\**: When the alchemist creates a bomb, he can choose to have
-it inflict force damage. Force bombs deal 1d4 points of force damage,
-plus 1d4 points of force damage for every odd-numbered level, instead of
-1d6. Creatures that take a direct hit from a force bomb are knocked
-prone unless they succeed on a Reflex save. An alchemist must be at
-least 8th level before selecting this discovery.
-
-*Frost bomb\**: When the alchemist creates a bomb, he can choose to have
-it inflict cold damage. Creatures that take a direct hit from a frost
-bomb are staggered on their next turn unless they succeed on a Fortitude
-save.
-
-*Grand mutagen*: The alchemist's mutagen now grants a +6 natural armor
-bonus, a +8 alchemical bonus to one ability score (Strength, Dexterity,
-or Constitution), a +6 alchemical bonus to a second physical ability
-score, and a +4 alchemical bonus to a third physical ability score. The
-alchemist takes a -2 penalty to his Intelligence, Wisdom, and Charisma
-as long as the mutagen persists (see Mutagen). An alchemist must be at
-least 16th level and must possess the greater mutagen discovery before
+*Fast bombs*: An alchemist with this discovery can quickly create
+enough bombs to throw more than one in a single round. The
+alchemist can prepare and throw additional bombs as a full-round
+action if his base attack bonus is high enough to grant him
+additional attacks. This functions just like a full-attack with a
+ranged weapon. An alchemist must be at least 8th level before
 selecting this discovery.
 
-*Greater mutagen*: The alchemist's mutagen now grants a +4 natural armor
-bonus, a +6 alchemical bonus to one physical ability score (Strength,
-Dexterity, or Constitution), and a +4 alchemical bonus to a second
-physical ability score. The alchemist takes a -2 penalty on both
-associated mental ability scores as long as the mutagen persists. An
-alchemist must be at least 12th level before selecting this discovery.
+*Feral mutagen*: Whenever the alchemist imbibes a mutagen, he
+gains two claw attacks and a bite attack. These are primary
+attacks and are made using the alchemist's full base attack
+bonus. The claw attacks deal 1d6 points of damage (1d4 if the
+alchemist is Small) and the bite attack deals 1d8 points of
+damage (1d6 if the alchemist is Small). While the mutagen is in
+effect, the alchemist gains a +2 competence bonus on [Intimidate]
+skill checks.
 
-*Infuse mutagen*: When the alchemist creates a mutagen, he can infuse it
-with an extra bit of his own magical power. This inflicts 2 points of
-Intelligence damage to the alchemist and costs 1,000 gp in rare
-reagents, but the mutagen created persists on its own and is not
-rendered inert if the alchemist creates another mutagen. This allows an
-alchemist to create different types of mutagens and keep them handy for
-emergencies. This does not allow an alchemist to gain the effects of
-multiple mutagens-only the most recently imbibed mutagen has any effect.
-
-*Inferno bomb\**: The effects of the smoke created by an alchemist's
-bomb duplicate the effects of *[incendiary cloud]* instead of
-*[fog cloud],*filling an area equal to twice
-the bomb's splash radius for 1 round per level. An alchemist must be at
-least 16th level and must possess the smoke bomb discovery before
+*Force bomb\**: When the alchemist creates a bomb, he can choose
+to have it inflict force damage. Force bombs deal 1d4 points of
+force damage, plus 1d4 points of force damage for every
+odd-numbered level, instead of 1d6. Creatures that take a direct
+hit from a force bomb are knocked prone unless they succeed on a
+Reflex save. An alchemist must be at least 8th level before
 selecting this discovery.
 
-*Infusion*: When the alchemist creates an extract, he can infuse it with
-an extra bit of his own magical power. The extract created now persists
-even after the alchemist sets it down. As long as the extract exists, it
-continues to occupy one of the alchemist's daily extract slots. An
-infused extract can be imbibed by a non-alchemist to gain its effects.
+*Frost bomb\**: When the alchemist creates a bomb, he can choose
+to have it inflict cold damage. Creatures that take a direct hit
+from a frost bomb are staggered on their next turn unless they
+succeed on a Fortitude save.
 
-*Madness bomb*: The alchemist's bombs do more than sear flesh-they sear
-the mind. A creature that takes a direct hit from a madness bomb takes
-damage from the bomb plus 1d4 points of Wisdom damage. Reduce the amount
-of normal damage dealt by the bomb by 2d6 (so a bomb that would normally
-deal 6d6+4 points of damage deals 4d6+4 points of damage instead). The
-amount of Wisdom damage dealt by a madness bomb is reduced by 1 for each
-madness bomb that hit the target in the past 24 hours, to a minimum of 1
-point of Wisdom damage. An alchemist must be at least 12th level before
-selecting this discovery.
+*Grand mutagen*: The alchemist's mutagen now grants a +6 natural
+armor bonus, a +8 alchemical bonus to one ability score
+(Strength, Dexterity, or Constitution), a +6 alchemical bonus to
+a second physical ability score, and a +4 alchemical bonus to a
+third physical ability score. The alchemist takes a -2 penalty to
+his Intelligence, Wisdom, and Charisma as long as the mutagen
+persists (see Mutagen). An alchemist must be at least 16th level
+and must possess the greater mutagen discovery before selecting
+this discovery.
 
-*Poison bomb\**: The effects of the smoke created by an alchemist's bomb
-duplicates the effects of
-*[cloudkill]* instead of *[fog cloud]*, filling an area equal to twice the
-bomb's splash radius for 1 round per level. An alchemist must be at
+*Greater mutagen*: The alchemist's mutagen now grants a +4
+natural armor bonus, a +6 alchemical bonus to one physical
+ability score (Strength, Dexterity, or Constitution), and a +4
+alchemical bonus to a second physical ability score. The
+alchemist takes a -2 penalty on both associated mental ability
+scores as long as the mutagen persists. An alchemist must be at
+least 12th level before selecting this discovery.
+
+*Infuse mutagen*: When the alchemist creates a mutagen, he can
+infuse it with an extra bit of his own magical power. This
+inflicts 2 points of Intelligence damage to the alchemist and
+costs 1,000 gp in rare reagents, but the mutagen created persists
+on its own and is not rendered inert if the alchemist creates
+another mutagen. This allows an alchemist to create different
+types of mutagens and keep them handy for emergencies. This does
+not allow an alchemist to gain the effects of multiple
+mutagens-only the most recently imbibed mutagen has any effect.
+
+*Inferno bomb\**: The effects of the smoke created by an
+alchemist's bomb duplicate the effects of *[incendiary cloud]*
+instead of *[fog cloud],*filling an area equal to twice the
+bomb's splash radius for 1 round per level. An alchemist must be
+at least 16th level and must possess the smoke bomb discovery
+before selecting this discovery.
+
+*Infusion*: When the alchemist creates an extract, he can infuse
+it with an extra bit of his own magical power. The extract
+created now persists even after the alchemist sets it down. As
+long as the extract exists, it continues to occupy one of the
+alchemist's daily extract slots. An infused extract can be
+imbibed by a non-alchemist to gain its effects.
+
+*Madness bomb*: The alchemist's bombs do more than sear
+flesh-they sear the mind. A creature that takes a direct hit from
+a madness bomb takes damage from the bomb plus 1d4 points of
+Wisdom damage. Reduce the amount of normal damage dealt by the
+bomb by 2d6 (so a bomb that would normally deal 6d6+4 points of
+damage deals 4d6+4 points of damage instead). The amount of
+Wisdom damage dealt by a madness bomb is reduced by 1 for each
+madness bomb that hit the target in the past 24 hours, to a
+minimum of 1 point of Wisdom damage. An alchemist must be at
+least 12th level before selecting this discovery.
+
+*Poison bomb\**: The effects of the smoke created by an
+alchemist's bomb duplicates the effects of *[cloudkill]* instead
+of *[fog cloud]*, filling an area equal to twice the bomb's
+splash radius for 1 round per level. An alchemist must be at
 least 12th level and must possess the smoke bomb discovery before
 selecting this discovery.
 
-*Precise bombs*: Whenever the alchemist throws a bomb, he can select a
-number of squares equal to his Intelligence modifier that are not
-affected by the splash damage from his bombs. If the bomb misses, this
-discovery has no effect.
+*Precise bombs*: Whenever the alchemist throws a bomb, he can
+select a number of squares equal to his Intelligence modifier
+that are not affected by the splash damage from his bombs. If the
+bomb misses, this discovery has no effect.
 
-*Shock bomb\**: When the alchemist creates a bomb, he can choose to have
-it inflict electricity damage. Creatures that take a direct hit from a
-shock bomb are dazzled for 1d4 rounds.
+*Shock bomb\**: When the alchemist creates a bomb, he can choose
+to have it inflict electricity damage. Creatures that take a
+direct hit from a shock bomb are dazzled for 1d4 rounds.
 
-*Smoke bomb\**: When the alchemist creates a bomb, he can choose to have
-it create a cloud of thick smoke when it detonates. The cloud functions
-as *[fog cloud]*, filling an area equal to
-twice the bomb's splash radius for 1 round per level.
+*Smoke bomb\**: When the alchemist creates a bomb, he can choose
+to have it create a cloud of thick smoke when it detonates. The
+cloud functions as *[fog cloud]*, filling an area equal to twice
+the bomb's splash radius for 1 round per level.
 
-*Sticky bomb*: The effects of the alchemist's bombs are persistent and
-continue to damage creatures for 1 round after the initial damage.
-Creatures that take a direct hit from a sticky bomb take the splash
-damage 1 round later. Bombs that have effects that would normally occur
-1 round later instead have those effects occur 2 rounds later. An
-alchemist must be at least 10th level before selecting this discovery.
+*Sticky bomb*: The effects of the alchemist's bombs are
+persistent and continue to damage creatures for 1 round after the
+initial damage.  Creatures that take a direct hit from a sticky
+bomb take the splash damage 1 round later. Bombs that have
+effects that would normally occur 1 round later instead have
+those effects occur 2 rounds later. An alchemist must be at least
+10th level before selecting this discovery.
 
-*Sticky poison*: Any poison the alchemist creates is sticky-when the
-alchemist applies it to a weapon, the weapon remains poisoned for a
-number of strikes equal to the alchemist's Intelligence modifier. An
-alchemist must be at least 6th level before selecting this discovery.
+*Sticky poison*: Any poison the alchemist creates is sticky-when
+the alchemist applies it to a weapon, the weapon remains poisoned
+for a number of strikes equal to the alchemist's Intelligence
+modifier. An alchemist must be at least 6th level before
+selecting this discovery.
 
-*Stink bomb\**: The effects of the smoke created by an alchemist's bomb
-can duplicate the effects of *[stinking cloud]* instead of
-*[fog cloud]*, filling an area equal to
-twice the bomb's splash radius for 1 round. An alchemist must possess
-the smoke bomb discovery before selecting this discovery.
+*Stink bomb\**: The effects of the smoke created by an
+alchemist's bomb can duplicate the effects of *[stinking cloud]*
+instead of *[fog cloud]*, filling an area equal to twice the
+bomb's splash radius for 1 round. An alchemist must possess the
+smoke bomb discovery before selecting this discovery.
 
-**Poison Resistance (Ex)**: At 2nd level, an alchemist gains a +2 bonus
-on all saving throws against poison. This bonus increases to +4 at 5th
-level, and then again to +6 at 8th level. At 10th level, an alchemist
-becomes completely immune to poison.
+**Poison Resistance (Ex)**: At 2nd level, an alchemist gains a +2
+bonus on all saving throws against poison. This bonus increases
+to +4 at 5th level, and then again to +6 at 8th level. At 10th
+level, an alchemist becomes completely immune to poison.
 
-**Poison Use (Ex)**: Alchemists are trained in the use of poison and
-starting at 2nd level, cannot accidentally poison themselves when
-applying poison to a weapon.
+**Poison Use (Ex)**: Alchemists are trained in the use of poison
+and starting at 2nd level, cannot accidentally poison themselves
+when applying poison to a weapon.
 
-**Swift Alchemy (Ex)**: At 3rd level, an alchemist can create alchemical
-items with astounding speed. It takes an alchemist half the normal
-amount of time to create alchemical items, and he can apply poison to a
-weapon as a move action.
+**Swift Alchemy (Ex)**: At 3rd level, an alchemist can create
+alchemical items with astounding speed. It takes an alchemist
+half the normal amount of time to create alchemical items, and he
+can apply poison to a weapon as a move action.
 
-**Swift Poisoning (Ex)**: At 6th level, an alchemist can apply a dose of
-poison to a weapon as a swift action.
+**Swift Poisoning (Ex)**: At 6th level, an alchemist can apply a
+dose of poison to a weapon as a swift action.
 
-**Persistent Mutagen (Su)**: At 14th level, the effects of a mutagen
-last for 1 hour per level.
+**Persistent Mutagen (Su)**: At 14th level, the effects of a
+mutagen last for 1 hour per level.
 
 **Instant Alchemy (Ex)**: At 18th level, an alchemist can create
-alchemical items with almost supernatural speed. He can create any
-alchemical item as a full-round action if he succeeds at the
-[Craft] (alchemy) check and has the
-appropriate resources at hand to fund the creation. He can apply poison
-to a weapon as an immediate action.
+alchemical items with almost supernatural speed. He can create
+any alchemical item as a full-round action if he succeeds at the
+[Craft] (alchemy) check and has the appropriate resources at hand
+to fund the creation. He can apply poison to a weapon as an
+immediate action.
 
-**Grand Discovery (Su)**: At 20th level, the alchemist makes a grand
-discovery. He immediately learns two normal discoveries, but also learns
-a third discovery chosen from the list below, representing a truly
-astounding alchemical breakthrough of significant import. For many
-alchemists, the promise of one of these grand discoveries is the primary
-goal of their experiments and hard work.
+**Grand Discovery (Su)**: At 20th level, the alchemist makes a
+grand discovery. He immediately learns two normal discoveries,
+but also learns a third discovery chosen from the list below,
+representing a truly astounding alchemical breakthrough of
+significant import. For many alchemists, the promise of one of
+these grand discoveries is the primary goal of their experiments
+and hard work.
 
-*Awakened Intellect*: The alchemist's constant exposure to strange
-chemicals has expanded his mind. His Intelligence score permanently
-increases by 2 points.
+*Awakened Intellect*: The alchemist's constant exposure to
+strange chemicals has expanded his mind. His Intelligence score
+permanently increases by 2 points.
 
-*Eternal Youth*: The alchemist has discovered a cure for aging, and from
-this point forward he takes no penalty to his physical ability scores
-from advanced age. If the alchemist is already taking such penalties,
-they are removed at this time.
+*Eternal Youth*: The alchemist has discovered a cure for aging,
+and from this point forward he takes no penalty to his physical
+ability scores from advanced age. If the alchemist is already
+taking such penalties, they are removed at this time.
 
-*Fast Healing*: The alchemist's flesh responds to damage with shocking
-speed-he gains fast healing 5.
+*Fast Healing*: The alchemist's flesh responds to damage with
+shocking speed-he gains fast healing 5.
 
 *Philosopher's Stone*: The alchemist learns how to create a
-[*philosopher's
-stone*], and can
-do so once per month at no cost. Creating a *philosopher's stone* takes
-1 day of work.
+[*philosopher's stone*], and can do so once per month at no
+cost. Creating a *philosopher's stone* takes 1 day of work.
 
-*Poison Touch*: The alchemist gains a poisonous touch, as if under the
-effects of a *[poison]* spell. He can
-suppress or activate this ability as a free action. The physical
-appearance of how the alchemist generates and delivers his poisonous
-touch varies from alchemist to alchemist.
+*Poison Touch*: The alchemist gains a poisonous touch, as if
+under the effects of a *[poison]* spell. He can suppress or
+activate this ability as a free action. The physical appearance
+of how the alchemist generates and delivers his poisonous touch
+varies from alchemist to alchemist.
 
-*True Mutagen*: The alchemist's mutagen now grants a +8 natural armor
-bonus and a +8 alchemical bonus to Strength, Dexterity, and
-Constitution. The alchemist takes a -2 penalty to his Intelligence,
-Wisdom, and Charisma as long as the mutagen persists (see Mutagen). An
-alchemist must possess the grand mutagen discovery before selecting this
-discovery.
+*True Mutagen*: The alchemist's mutagen now grants a +8 natural
+armor bonus and a +8 alchemical bonus to Strength, Dexterity, and
+Constitution. The alchemist takes a -2 penalty to his
+Intelligence, Wisdom, and Charisma as long as the mutagen
+persists (see Mutagen). An alchemist must possess the grand
+mutagen discovery before selecting this discovery.
 
 ### Alchemist Formulae
 
 
-Alchemists gain access to a variety of formulae, allowing them to make
-extracts of the following spells. While most of these spells are found
-in the *Core Rulebook*, those marked with an asterisk (\*) appear in
-Chapter 5 of this book.
+Alchemists gain access to a variety of formulae, allowing them to
+make extracts of the following spells. While most of these spells
+are found in the *Core Rulebook*, those marked with an asterisk
+(\*) appear in Chapter 5 of this book.
 
-**1st-Level Alchemist Formulae**-*[Ant Haul]\*, [Bomber's Eye]\*, [Comprehend Languages], [Crafter's Fortune]\*, [Cure Light Wounds], [Detect Secret Doors], [Detect Undead], [Disguise Self], [Endure Elements], [Enlarge Person], [Expeditious Retreat], [Identify], [Jump], [Keen Senses]\*, [Negate Aroma]\*, [Reduce Person], [Shield], [Stone Fist]\*, [Touch of the Sea]\*, [True Strike].*
+**1st-Level Alchemist Formulae**-*[Ant Haul]\*, [Bomber's Eye]\*,
+  [Comprehend Languages], [Crafter's Fortune]\*, [Cure Light
+  Wounds], [Detect Secret Doors], [Detect Undead], [Disguise
+  Self], [Endure Elements], [Enlarge Person], [Expeditious
+  Retreat], [Identify], [Jump], [Keen Senses]\*, [Negate
+  Aroma]\*, [Reduce Person], [Shield], [Stone Fist]\*, [Touch of
+  the Sea]\*, [True Strike].*
 
-**2nd-Level Alchemist Formulae**-*[Aid], [Alchemical Allocation]\*, [Alter Self], [Barkskin], [Bear's Endurance], [Blur], [Bull's Strength], [Cat's Grace], [Cure Moderate Wounds], [Darkvision], [Delay Poison], [Detect Thoughts], [Eagle's Splendor], [Elemental Touch]\*, [False Life], [Fire Breath]\*, [Fox's Cunning], [Invisibility], [Levitate], [Owl's Wisdom], [Perceive Cues]\*, [Protection From Arrows], [Resist Energy], [Restoration (Lesser)], [See Invisibility], [Spider Climb], [Transmute Potion To]\*, [Undetectable Alignment], [Vomit Swarm]\*.*
+**2nd-Level Alchemist Formulae**-*[Aid], [Alchemical
+  Allocation]\*, [Alter Self], [Barkskin], [Bear's Endurance],
+  [Blur], [Bull's Strength], [Cat's Grace], [Cure Moderate
+  Wounds], [Darkvision], [Delay Poison], [Detect Thoughts],
+  [Eagle's Splendor], [Elemental Touch]\*, [False Life], [Fire
+  Breath]\*, [Fox's Cunning], [Invisibility], [Levitate], [Owl's
+  Wisdom], [Perceive Cues]\*, [Protection From Arrows], [Resist
+  Energy], [Restoration (Lesser)], [See Invisibility], [Spider
+  Climb], [Transmute Potion To]\*, [Undetectable Alignment],
+  [Vomit Swarm]\*.*
 
-**3rd-Level Alchemist Formulae**-*[Absorbing Touch]\*, [Amplify Elixir]\*, [Arcane Sight], [Beast Shape I], [Bloodhound]\*, [Cure Serious Wounds], [Displacement], [Draconic Reservoir]\*, [Elemental Aura]\*, [Fly], [Gaseous Form], [Haste], [Heroism], [Nondetection], [Protection From Energy], [Rage], [Remove Blindness/deafness], [Remove Curse], [Remove Disease], [Seek Thoughts]\*, [Thorn Body]\*, [Tongues], [Water Breathing].*
+**3rd-Level Alchemist Formulae**-*[Absorbing Touch]\*, [Amplify
+  Elixir]\*, [Arcane Sight], [Beast Shape I], [Bloodhound]\*,
+  [Cure Serious Wounds], [Displacement], [Draconic Reservoir]\*,
+  [Elemental Aura]\*, [Fly], [Gaseous Form], [Haste], [Heroism],
+  [Nondetection], [Protection From Energy], [Rage], [Remove
+  Blindness/deafness], [Remove Curse], [Remove Disease], [Seek
+  Thoughts]\*, [Thorn Body]\*, [Tongues], [Water Breathing].*
 
-**4th-Level Alchemist Formulae**-*[Air Walk], [Arcane Eye], [Beast Shape II], [Cure Critical Wounds], [Death Ward], [Detonate]\*, [Discern Lies], [Dragon's Breath]\*, [Elemental Body I], [Fire Shield], [Fluid Form]\*, [Freedom of Movement], [Invisibility (Greater)], [Neutralize Poison], [Restoration]*, *[Spell Immunity]*, *[Stoneskin], [Universal Formula]\*.*
+**4th-Level Alchemist Formulae**-*[Air Walk], [Arcane Eye],
+  [Beast Shape II], [Cure Critical Wounds], [Death Ward],
+  [Detonate]\*, [Discern Lies], [Dragon's Breath]\*, [Elemental
+  Body I], [Fire Shield], [Fluid Form]\*, [Freedom of Movement],
+  [Invisibility (Greater)], [Neutralize Poison], [Restoration]*,
+  *[Spell Immunity]*, *[Stoneskin], [Universal Formula]\*.*
 
-**5th-Level Alchemist Formulae**-*[Beast Shape III], [Contact Other Plane], [Delayed Consumption]\*, [Dream], [Elemental Body II], [Elude Time]\*, [Magic Jar], [Nightmare], [Overland Flight], [Planar Adaptation]\*, [Plant Shape I], [Polymorph], [Resurgent Transformation]\*, [Sending], [Spell Resistance].*
+**5th-Level Alchemist Formulae**-*[Beast Shape III], [Contact
+  Other Plane], [Delayed Consumption]\*, [Dream], [Elemental Body
+  II], [Elude Time]\*, [Magic Jar], [Nightmare], [Overland
+  Flight], [Planar Adaptation]\*, [Plant Shape I], [Polymorph],
+  [Resurgent Transformation]\*, [Sending], [Spell Resistance].*
 
-**6th-Level Alchemist Formulae**-*[Analyze Dweomer], [Beast Shape IV], [Elemental Body III], [Eyebite], [Form of the Dragon I], [Giant Form I], [Heal], [Mislead], [Plant Shape II], [Shadow Walk], [Statue], [Transformation], [True Seeing], [Twin Form]\*, [Wind Walk].*
+**6th-Level Alchemist Formulae**-*[Analyze Dweomer], [Beast Shape
+  IV], [Elemental Body III], [Eyebite], [Form of the Dragon I],
+  [Giant Form I], [Heal], [Mislead], [Plant Shape II], [Shadow
+  Walk], [Statue], [Transformation], [True Seeing], [Twin
+  Form]\*, [Wind Walk].*
 
 
 
 ## Cavalier
 
 
-While many warriors strive to perfect their art, spending all of their
-time honing their skill at martial arms, others spend as much effort
-dedicating themselves to a cause. These warriors, known as cavaliers,
-swear themselves to a purpose, serving it above all else. Cavaliers are
-skilled at fighting from horseback, and are often found charging across
-a battlefield, with the symbol of their order trailing on a long,
-fluttering banner. The cavalier's true power comes from the conviction
-of his ideals, the oaths that he swears, and the challenges he makes.
+While many warriors strive to perfect their art, spending all of
+their time honing their skill at martial arms, others spend as
+much effort dedicating themselves to a cause. These warriors,
+known as cavaliers, swear themselves to a purpose, serving it
+above all else. Cavaliers are skilled at fighting from horseback,
+and are often found charging across a battlefield, with the
+symbol of their order trailing on a long, fluttering banner. The
+cavalier's true power comes from the conviction of his ideals,
+the oaths that he swears, and the challenges he makes.
 
-**Role**: Cavaliers tend to marshal forces on the battlefield, using
-their mounted talents and challenges to control the flow of the fight.
-Outside of battle, cavaliers can be found advancing their cause through
-diplomacy and, if needed, subterfuge. The cavalier is no stranger to
-courtly intrigue and can hold his own in even the most delicate of
-social situations.
+**Role**: Cavaliers tend to marshal forces on the battlefield,
+using their mounted talents and challenges to control the flow of
+the fight.  Outside of battle, cavaliers can be found advancing
+their cause through diplomacy and, if needed, subterfuge. The
+cavalier is no stranger to courtly intrigue and can hold his own
+in even the most delicate of social situations.
 
 **Alignment**: Any.
 
@@ -646,39 +707,60 @@ social situations.
 ### Class Skills
 
 
-The cavalier's class skills are [Bluff]
-(Cha), [Climb] (Str),
-[Craft] (Int),
-[Diplomacy] (Cha), [Handle Animal] (Cha),
-[Intimidate] (Cha),
-[Profession] (Wis),
-[Ride] (Dex), [Sense Motive] (Wis), and
-[Swim] (Str).
+The cavalier's class skills are [Bluff] (Cha), [Climb] (Str),
+[Craft] (Int), [Diplomacy] (Cha), [Handle Animal] (Cha),
+[Intimidate] (Cha), [Profession] (Wis), [Ride] (Dex), [Sense
+Motive] (Wis), and [Swim] (Str).
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
-  Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special
-  ------- ------------------- ----------- ---------- ----------- ------------------------------------------------------------------------------------------
-  1st     +1                  +2          +0         +0          [Challenge] 1/day, [mount], [order], [tactician]
-  2nd     +2                  +3          +0         +0          [Order] ability
-  3rd     +3                  +3          +1         +1          [Cavalier's charge]
-  4th     +4                  +4          +1         +1          [Challenge] 2/day, [expert trainer]
-  5th     +5                  +4          +1         +1          [Banner]
-  6th     +6/+1               +5          +2         +2          [Bonus feat]
-  7th     +7/+2               +5          +2         +2          [Challenge] 3/day
-  8th     +8/+3               +6          +2         +2          [Order] ability
-  9th     +9/+4               +6          +3         +3          [Greater tactician]
-  10th    +10/+5              +7          +3         +3          [Challenge] 4/day
-  11th    +11/+6/+1           +7          +3         +3          [Mighty charge]
-  12th    +12/+7/+2           +8          +4         +4          [Bonus feat], [demanding challenge]
-  13th    +13/+8/+3           +8          +4         +4          [Challenge] 5/day
-  14th    +14/+9/+4           +9          +4         +4          [Greater banner]
-  15th    +15/+10/+5          +9          +5         +5          [Order] ability
-  16th    +16/+11/+6/+1       +10         +5         +5          [Challenge] 6/day
-  17th    +17/+12/+7/+2       +10         +5         +5          [Master tactician]
-  18th    +18/+13/+8/+3       +11         +6         +6          [Bonus feat]
-  19th    +19/+14/+9/+4       +11         +6         +6          [Challenge] 7/day
-  20th    +20/+15/+10/+5      +12         +6         +6          [Supreme charge]
++-----+--------------+----+----+----+---------------------------+
+|Level|Base Attack   |Fort|Ref |Will|Special                    |
+|     |Bonus         |Save|Save|Save|                           |
++-----+--------------+----+----+----+---------------------------+
+|1st  |+1            |+2  |+0  |+0  |[Challenge] 1/day, [mount],|
+|     |              |    |    |    |[order], [tactician]       |
++-----+--------------+----+----+----+---------------------------+
+|2nd  |+2            |+3  |+0  |+0  |[Order] ability            |
++-----+--------------+----+----+----+---------------------------+
+|3rd  |+3            |+3  |+1  |+1  |[Cavalier's charge]        |
++-----+--------------+----+----+----+---------------------------+
+|4th  |+4            |+4  |+1  |+1  |[Challenge] 2/day, [expert |
+|     |              |    |    |    |trainer]                   |
++-----+--------------+----+----+----+---------------------------+
+|5th  |+5            |+4  |+1  |+1  |[Banner]                   |
++-----+--------------+----+----+----+---------------------------+
+|6th  |+6/+1         |+5  |+2  |+2  |[Bonus feat]               |
++-----+--------------+----+----+----+---------------------------+
+|7th  |+7/+2         |+5  |+2  |+2  |[Challenge] 3/day          |
++-----+--------------+----+----+----+---------------------------+
+|8th  |+8/+3         |+6  |+2  |+2  |[Order] ability            |
++-----+--------------+----+----+----+---------------------------+
+|9th  |+9/+4         |+6  |+3  |+3  |[Greater tactician]        |
++-----+--------------+----+----+----+---------------------------+
+|10th |+10/+5        |+7  |+3  |+3  |[Challenge] 4/day          |
++-----+--------------+----+----+----+---------------------------+
+|11th |+11/+6/+1     |+7  |+3  |+3  |[Mighty charge]            |
++-----+--------------+----+----+----+---------------------------+
+|12th |+12/+7/+2     |+8  |+4  |+4  |[Bonus Feat], [Demanding   |
+|     |              |    |    |    |Challenge]                 |
++-----+--------------+----+----+----+---------------------------+
+|13th |+13/+8/+3     |+8  |+4  |+4  |[Challenge] 5/day          |
++-----+--------------+----+----+----+---------------------------+
+|14th |+14/+9/+4     |+9  |+4  |+4  |[Greater banner]           |
++-----+--------------+----+----+----+---------------------------+
+|15th |+15/+10/+5    |+9  |+5  |+5  |[Order] ability            |
++-----+--------------+----+----+----+---------------------------+
+|16th |+16/+11/+6/+1 |+10 |+5  |+5  |[Challenge] 6/day          |
++-----+--------------+----+----+----+---------------------------+
+|17th |+17/+12/+7/+2 |+10 |+5  |+5  |[Master tactician]         |
++-----+--------------+----+----+----+---------------------------+
+|18th |+18/+13/+8/+3 |+11 |+6  |+6  |[Bonus feat]               |
++-----+--------------+----+----+----+---------------------------+
+|19th |+19/+14/+9/+4 |+11 |+6  |+6  |[Challenge] 7/day          |
++-----+--------------+----+----+----+---------------------------+
+|20th |+20/+15/+10/+5|+12 |+6  |+6  |[Supreme charge]           |
++-----+--------------+----+----+----+---------------------------+
 
   : Table: Cavalier
 
@@ -687,317 +769,331 @@ The cavalier's class skills are [Bluff]
 
 The following are the class features of the cavalier.
 
-**Weapon and Armor Proficiency**: Cavaliers are proficient with all
-simple and martial weapons, with all types of armor (heavy, light, and
-medium) and with shields (except tower shields).
+**Weapon and Armor Proficiency**: Cavaliers are proficient with
+all simple and martial weapons, with all types of armor (heavy,
+light, and medium) and with shields (except tower shields).
 
-**Challenge (Ex)**: Once per day, a cavalier can challenge a foe to
-combat. As a swift action, the cavalier chooses one target within sight
-to challenge. The cavalier's melee attacks deal extra damage whenever
-the attacks are made against the target of his challenge. This extra
-damage is equal to the cavalier's level. The cavalier can use this
-ability once per day at 1st level, plus one additional time per day for
-every three levels beyond 1st, to a maximum of seven times per day at
-19th level.
+**Challenge (Ex)**: Once per day, a cavalier can challenge a foe
+to combat. As a swift action, the cavalier chooses one target
+within sight to challenge. The cavalier's melee attacks deal
+extra damage whenever the attacks are made against the target of
+his challenge. This extra damage is equal to the cavalier's
+level. The cavalier can use this ability once per day at 1st
+level, plus one additional time per day for every three levels
+beyond 1st, to a maximum of seven times per day at 19th level.
 
-Challenging a foe requires much of the cavalier's concentration. The
-cavalier takes a -2 penalty to his Armor Class, except against attacks
-made by the target of his challenge.
+Challenging a foe requires much of the cavalier's
+concentration. The cavalier takes a -2 penalty to his Armor
+Class, except against attacks made by the target of his
+challenge.
 
-The challenge remains in effect until the target is dead or unconscious
-or until the combat ends. Each cavalier's challenge also includes
-another effect which is listed in the section describing the cavalier's
-order.
+The challenge remains in effect until the target is dead or
+unconscious or until the combat ends. Each cavalier's challenge
+also includes another effect which is listed in the section
+describing the cavalier's order.
 
-**Mount (Ex)**: A cavalier gains the service of a loyal and trusty steed
-to carry him into battle. This mount functions as a druid's animal
-companion, using the cavalier's level as his effective druid level. The
-creature must be one that he is capable of riding and is suitable as a
-mount. A Medium cavalier can select a camel or a horse. A Small cavalier
-can select a pony or wolf, but can also select a boar or a dog if he is
-at least 4th level. The GM might approve other animals as suitable
-mounts.
+**Mount (Ex)**: A cavalier gains the service of a loyal and
+trusty steed to carry him into battle. This mount functions as a
+druid's animal companion, using the cavalier's level as his
+effective druid level. The creature must be one that he is
+capable of riding and is suitable as a mount. A Medium cavalier
+can select a camel or a horse. A Small cavalier can select a pony
+or wolf, but can also select a boar or a dog if he is at least
+4th level. The GM might approve other animals as suitable mounts.
 
-A cavalier does not take an armor check penalty on
-[Ride] checks while riding his mount. The
-mount is always considered combat trained and begins play with Light
-Armor Proficiency as a bonus feat. A cavalier's mount does not gain the
-share spells special ability.
+A cavalier does not take an armor check penalty on [Ride] checks
+while riding his mount. The mount is always considered combat
+trained and begins play with Light Armor Proficiency as a bonus
+feat. A cavalier's mount does not gain the share spells special
+ability.
 
-A cavalier's bond with his mount is strong, with the pair learning to
-anticipate each other's moods and moves. Should a cavalier's mount die,
-the cavalier may find another mount to serve him after 1 week of
-mourning. This new mount does not gain the link, evasion, devotion, or
-improved evasion special abilities until the next time the cavalier
-gains a level.
+A cavalier's bond with his mount is strong, with the pair
+learning to anticipate each other's moods and moves. Should a
+cavalier's mount die, the cavalier may find another mount to
+serve him after 1 week of mourning. This new mount does not gain
+the link, evasion, devotion, or improved evasion special
+abilities until the next time the cavalier gains a level.
 
 **Order (Ex)**: At 1st level, a cavalier must pledge himself to a
-specific order. The order grants the cavalier a number of bonuses, class
-skills, and special abilities. In addition, each order includes a number
-of edicts that the cavalier must follow. If he violates any of these
-edicts, he loses the benefits from his order's challenge ability for 24
-hours. The violation of an edict is subject to GM interpretation.
+specific order. The order grants the cavalier a number of
+bonuses, class skills, and special abilities. In addition, each
+order includes a number of edicts that the cavalier must
+follow. If he violates any of these edicts, he loses the benefits
+from his order's challenge ability for 24 hours. The violation of
+an edict is subject to GM interpretation.
 
-A cavalier cannot change his order without undertaking a lengthy process
-to dedicate himself to a new cause. When this choice is made, he
-immediately loses all of the benefits from his old order. He must then
-follow the edicts of his new order for one entire level without gaining
-any benefits from that order. Once accomplished, he gains all of the
-bonuses from his new order. Note that the names of these orders might
-vary depending upon the campaign setting or GM's preference.
+A cavalier cannot change his order without undertaking a lengthy
+process to dedicate himself to a new cause. When this choice is
+made, he immediately loses all of the benefits from his old
+order. He must then follow the edicts of his new order for one
+entire level without gaining any benefits from that order. Once
+accomplished, he gains all of the bonuses from his new
+order. Note that the names of these orders might vary depending
+upon the campaign setting or GM's preference.
 
-**Tactician (Ex)**: At 1st level, a cavalier receives a teamwork feat as
-a bonus feat. He must meet the prerequisites for this feat. As a
-standard action, the cavalier can grant this feat to all allies within
-30 feet who can see and hear him. Allies retain the use of this bonus
-feat for 3 rounds plus 1 round for every two levels the cavalier
-possesses. Allies do not need to meet the prerequisites of these bonus
-feats. The cavalier can use this ability once per day at 1st level, plus
-one additional time per day at 5th level and for every 5 levels
-thereafter.
+**Tactician (Ex)**: At 1st level, a cavalier receives a teamwork
+feat as a bonus feat. He must meet the prerequisites for this
+feat. As a standard action, the cavalier can grant this feat to
+all allies within 30 feet who can see and hear him. Allies retain
+the use of this bonus feat for 3 rounds plus 1 round for every
+two levels the cavalier possesses. Allies do not need to meet the
+prerequisites of these bonus feats. The cavalier can use this
+ability once per day at 1st level, plus one additional time per
+day at 5th level and for every 5 levels thereafter.
 
-**Cavalier's Charge (Ex)**: At 3rd level, a cavalier learns to make more
-accurate charge attacks while mounted. The cavalier receives a +4 bonus
-on melee attack rolls on a charge while mounted (instead of the normal
-+2). In addition, the cavalier does not suffer any penalty to his AC
-after making a charge attack while mounted.
+**Cavalier's Charge (Ex)**: At 3rd level, a cavalier learns to
+make more accurate charge attacks while mounted. The cavalier
+receives a +4 bonus on melee attack rolls on a charge while
+mounted (instead of the normal +2). In addition, the cavalier
+does not suffer any penalty to his AC after making a charge
+attack while mounted.
 
-**Expert Trainer (Ex)**: At 4th level, a cavalier learns to train mounts
-with speed and unsurpassed expertise. The cavalier receives a bonus
-equal to 1/2 his cavalier level whenever he uses [Handle Animal] on an animal that
-serves as a mount. In addition, he can reduce the time needed to teach a
-mount a new trick or train a mount for a general purpose to 1 day per 1
-week required by increasing the DC by +5. He can also train more than
-one mount at once, although each mount after the first adds +2 to the
-DC.
+**Expert Trainer (Ex)**: At 4th level, a cavalier learns to train
+mounts with speed and unsurpassed expertise. The cavalier
+receives a bonus equal to 1/2 his cavalier level whenever he uses
+[Handle Animal] on an animal that serves as a mount. In addition,
+he can reduce the time needed to teach a mount a new trick or
+train a mount for a general purpose to 1 day per 1 week required
+by increasing the DC by +5. He can also train more than one mount
+at once, although each mount after the first adds +2 to the DC.
 
-**Banner (Ex)**: At 5th level, a cavalier's banner becomes a symbol of
-inspiration to his allies and companions. As long as the cavalier's
-banner is clearly visible, all allies within 60 feet receive a +2 morale
-bonus on saving throws against fear and a +1 morale bonus on attack
-rolls made as part of a charge. At 10th level, and every five levels
-thereafter, these bonuses increase by +1. The banner must be at least
-Small or larger and must be carried or displayed by the cavalier or his
-mount to function.
+**Banner (Ex)**: At 5th level, a cavalier's banner becomes a
+symbol of inspiration to his allies and companions. As long as
+the cavalier's banner is clearly visible, all allies within 60
+feet receive a +2 morale bonus on saving throws against fear and
+a +1 morale bonus on attack rolls made as part of a charge. At
+10th level, and every five levels thereafter, these bonuses
+increase by +1. The banner must be at least Small or larger and
+must be carried or displayed by the cavalier or his mount to
+function.
 
-**Bonus Feat**: At 6th level, and at every six levels thereafter, a
-cavalier gains a bonus feat in addition to those gained from normal
-advancement. These bonus feats must be selected from those listed as
-combat feats. The cavalier must meet the prerequisites of these bonus
-feats.
+**Bonus Feat**: At 6th level, and at every six levels thereafter,
+a cavalier gains a bonus feat in addition to those gained from
+normal advancement. These bonus feats must be selected from those
+listed as combat feats. The cavalier must meet the prerequisites
+of these bonus feats.
 
-**Greater Tactician (Ex)**: At 9th level, the cavalier receives an
-additional teamwork feat as a bonus feat. He must meet the prerequisites
-for this feat. The cavalier can grant this feat to his allies using the
-tactician ability. Using the tactician ability is a swift action.
+**Greater Tactician (Ex)**: At 9th level, the cavalier receives
+an additional teamwork feat as a bonus feat. He must meet the
+prerequisites for this feat. The cavalier can grant this feat to
+his allies using the tactician ability. Using the tactician
+ability is a swift action.
 
 **Mighty Charge (Ex)**: At 11th level, a cavalier learns to make
-devastating charge attacks while mounted. Double the threat range of any
-weapons wielded during a charge while mounted. This increase does not
-stack with other effects that increase the threat range of the weapon.
-In addition, the cavalier can make a free bull rush, disarm, sunder, or
-trip combat maneuver if his charge attack is successful. This free
-combat maneuver does not provoke an attack of opportunity.
+devastating charge attacks while mounted. Double the threat range
+of any weapons wielded during a charge while mounted. This
+increase does not stack with other effects that increase the
+threat range of the weapon.  In addition, the cavalier can make a
+free bull rush, disarm, sunder, or trip combat maneuver if his
+charge attack is successful. This free combat maneuver does not
+provoke an attack of opportunity.
 
 **Demanding Challenge (Ex)**: At 12th level, whenever a cavalier
-declares a challenge, his target must pay attention to the threat he
-poses. As long as the target is within the threatened area of the
-cavalier, it takes a -2 penalty to its AC from attacks made by anyone
-other than the cavalier.
+declares a challenge, his target must pay attention to the threat
+he poses. As long as the target is within the threatened area of
+the cavalier, it takes a -2 penalty to its AC from attacks made
+by anyone other than the cavalier.
 
-**Greater Banner (Ex)**: At 14th level, the cavalier's banner becomes a
-rallying call to his allies. All allies within 60 feet receive a +2
-morale bonus on saving throws against charm and compulsion spells and
-effects. In addition, while his banner is displayed, the cavalier can
-spend a standard action to wave the banner through the air, granting all
-allies within 60 feet an additional saving throw against any one spell
-or effect that is targeting them. This save is made at the original DC.
-Spells and effects that do not allow saving throws are unaffected by
-this ability. An ally cannot benefit from this ability more than once
+**Greater Banner (Ex)**: At 14th level, the cavalier's banner
+becomes a rallying call to his allies. All allies within 60 feet
+receive a +2 morale bonus on saving throws against charm and
+compulsion spells and effects. In addition, while his banner is
+displayed, the cavalier can spend a standard action to wave the
+banner through the air, granting all allies within 60 feet an
+additional saving throw against any one spell or effect that is
+targeting them. This save is made at the original DC.  Spells and
+effects that do not allow saving throws are unaffected by this
+ability. An ally cannot benefit from this ability more than once
 per day.
 
-**Master Tactician (Ex)**: At 17th level, the cavalier receives an
-additional teamwork feat as a bonus feat. He must meet the prerequisites
-for this feat. The cavalier can grant this feat to his allies using the
-tactician ability. Whenever the cavalier uses the tactician ability, he
-grants any two teamwork feats that he knows. He can select from any of
-his teamwork feats, not just his bonus feats.
+**Master Tactician (Ex)**: At 17th level, the cavalier receives
+an additional teamwork feat as a bonus feat. He must meet the
+prerequisites for this feat. The cavalier can grant this feat to
+his allies using the tactician ability. Whenever the cavalier
+uses the tactician ability, he grants any two teamwork feats that
+he knows. He can select from any of his teamwork feats, not just
+his bonus feats.
 
-**Supreme Charge (Ex)**: At 20th level, whenever the cavalier makes a
-charge attack while mounted, he deals double the normal amount of damage
-(or triple if using a lance). In addition, if the cavalier confirms a
-critical hit on a charge attack while mounted, the target is stunned for
-1d4 rounds. A Will save reduces this to staggered for 1d4 rounds. The DC
-is equal to 10 + the cavalier's base attack bonus.
+**Supreme Charge (Ex)**: At 20th level, whenever the cavalier
+makes a charge attack while mounted, he deals double the normal
+amount of damage (or triple if using a lance). In addition, if
+the cavalier confirms a critical hit on a charge attack while
+mounted, the target is stunned for 1d4 rounds. A Will save
+reduces this to staggered for 1d4 rounds. The DC is equal to 10 +
+the cavalier's base attack bonus.
 
 ### Cavalier Orders
 
 
-The following orders represent the most common chosen by cavaliers.
-Members of these orders are not necessarily bound together, but some
-organizations do exist that are comprised of cavaliers that all belong
-to one specific order.
+The following orders represent the most common chosen by
+cavaliers.  Members of these orders are not necessarily bound
+together, but some organizations do exist that are comprised of
+cavaliers that all belong to one specific order.
 
 #### Order of the Cockatrice
 
 
-A cavalier who belongs to this order serves only himself, working to
-further his own aims and increase his own prestige. Cavaliers of this
-order tend to be selfish and concerned only with personal goals and
-objectives.
+A cavalier who belongs to this order serves only himself, working
+to further his own aims and increase his own prestige. Cavaliers
+of this order tend to be selfish and concerned only with personal
+goals and objectives.
 
-**Edicts**: The cavalier must keep his own interests and aims above
-those of all others. He must always accept payment when it is due,
-rewards when earned, and an even (or greater) share of loot. The
-cavalier must take every opportunity to increase his own stature,
-prestige, and power.
+**Edicts**: The cavalier must keep his own interests and aims
+above those of all others. He must always accept payment when it
+is due, rewards when earned, and an even (or greater) share of
+loot. The cavalier must take every opportunity to increase his
+own stature, prestige, and power.
 
-**Challenge**: Whenever an order of the cockatrice cavalier issues a
-challenge, he receives a +1 morale bonus on all melee damage rolls made
-against the target of his challenge as long as he is the only creature
-threatening the target (not counting his mount). This bonus increases by
-+1 for every four levels the cavalier possesses.
+**Challenge**: Whenever an order of the cockatrice cavalier
+issues a challenge, he receives a +1 morale bonus on all melee
+damage rolls made against the target of his challenge as long as
+he is the only creature threatening the target (not counting his
+mount). This bonus increases by +1 for every four levels the
+cavalier possesses.
 
-**Skills**: An order of the cockatrice cavalier adds
-[Appraise] (Int) and
-[Perform] (Cha) to his list of class
-skills. In addition, an order of the cockatrice cavalier adds his
-Charisma modifier to the DC on another creature's attempt to demoralize
-him through [Intimidate] (in
-addition to his Wisdom modifier, as normal).
+**Skills**: An order of the cockatrice cavalier adds [Appraise]
+(Int) and [Perform] (Cha) to his list of class skills. In
+addition, an order of the cockatrice cavalier adds his Charisma
+modifier to the DC on another creature's attempt to demoralize
+him through [Intimidate] (in addition to his Wisdom modifier, as
+normal).
 
 **Order Abilities**: A cavalier that belongs to the order of the
-cockatrice gains the following abilities as he increases in level.
+cockatrice gains the following abilities as he increases in
+level.
 
-*Braggart (Ex)*: At 2nd level, the cavalier can spend a standard action
-to extol his own accomplishments and battle prowess. He receives
-[Dazzling Display] as a bonus feat.
-He does not need a weapon in hand to use this ability. The cavalier
-receives a +2 morale bonus on melee attack rolls made against
-demoralized targets.
+*Braggart (Ex)*: At 2nd level, the cavalier can spend a standard
+action to extol his own accomplishments and battle prowess. He
+receives [Dazzling Display] as a bonus feat.  He does not need a
+weapon in hand to use this ability. The cavalier receives a +2
+morale bonus on melee attack rolls made against demoralized
+targets.
 
-*Steal Glory (Ex)*: At 8th level, the cavalier can steal the glory from
-another creature's successful strike. Whenever a creature other than the
-cavalier scores a critical hit against a target that the cavalier is
-threatening, he can make an attack of opportunity against the same
-target.
+*Steal Glory (Ex)*: At 8th level, the cavalier can steal the
+glory from another creature's successful strike. Whenever a
+creature other than the cavalier scores a critical hit against a
+target that the cavalier is threatening, he can make an attack of
+opportunity against the same target.
 
-*Moment of Triumph (Ex)*: At 15th level, the cavalier can, as a free
-action, declare a moment of triumph. For 1 round, the cavalier receives
-a competence bonus equal to his Charisma modifier on all ability checks,
-attack rolls, damage rolls, saving throws, and skill checks. This bonus
-is also added to his AC. In addition, any critical threats he makes are
-automatically confirmed. The cavalier can use this ability once per day.
+*Moment of Triumph (Ex)*: At 15th level, the cavalier can, as a
+free action, declare a moment of triumph. For 1 round, the
+cavalier receives a competence bonus equal to his Charisma
+modifier on all ability checks, attack rolls, damage rolls,
+saving throws, and skill checks. This bonus is also added to his
+AC. In addition, any critical threats he makes are automatically
+confirmed. The cavalier can use this ability once per day.
 
 #### Order of the Dragon
 
 
-Cavaliers belonging to the order of the dragon dedicate themselves to a
-group of like-minded individuals, be it a mercenary company or a small
-band of adventurers. These cavaliers believe in loyalty and friendship,
-and are willing to lay down their lives to protect their allies.
+Cavaliers belonging to the order of the dragon dedicate
+themselves to a group of like-minded individuals, be it a
+mercenary company or a small band of adventurers. These cavaliers
+believe in loyalty and friendship, and are willing to lay down
+their lives to protect their allies.
 
-**Edicts**: The cavalier must remain loyal to his allies and must always
-work to further the aims of the group. He must protect his allies from
-harm and defend their honor when called into doubt.
+**Edicts**: The cavalier must remain loyal to his allies and must
+always work to further the aims of the group. He must protect his
+allies from harm and defend their honor when called into doubt.
 
 **Challenge**: Whenever an order of the dragon cavalier issues a
-challenge, his allies receive a +1 circumstance bonus on melee attack
-rolls against the target of his challenge whenever he is threatening the
-target. This bonus increases by +1 for every four levels the cavalier
-possesses.
+challenge, his allies receive a +1 circumstance bonus on melee
+attack rolls against the target of his challenge whenever he is
+threatening the target. This bonus increases by +1 for every four
+levels the cavalier possesses.
 
-**Skills**: An order of the dragon cavalier adds
-[Perception] (Wis) and
-[Survival] (Wis) to his list of
-class skills. In addition, whenever an order of the dragon cavalier uses
-[Survival] to provide food and
-water for his allies or to protect his allies from harsh weather, he
-receives a bonus on the check equal to 1/2 his cavalier level (minimum
-+1).
+**Skills**: An order of the dragon cavalier adds [Perception]
+(Wis) and [Survival] (Wis) to his list of class skills. In
+addition, whenever an order of the dragon cavalier uses
+[Survival] to provide food and water for his allies or to protect
+his allies from harsh weather, he receives a bonus on the check
+equal to 1/2 his cavalier level (minimum +1).
 
-**Order Abilities**: A cavalier that belongs to the order of the dragon
-gains the following abilities as he increases in level.
+**Order Abilities**: A cavalier that belongs to the order of the
+dragon gains the following abilities as he increases in level.
 
 *Aid Allies (Ex)*: At 2nd level, whenever an order of the dragon
-cavalier uses the aid another action to assist one of his allies, the
-ally receives a +3 bonus to his Armor Class, attack roll, saving throw,
-or skill check. At 8th level, and every six levels thereafter, this
-bonus increases by an additional +1.
+cavalier uses the aid another action to assist one of his allies,
+the ally receives a +3 bonus to his Armor Class, attack roll,
+saving throw, or skill check. At 8th level, and every six levels
+thereafter, this bonus increases by an additional +1.
 
-*Strategy (Ex)*: At 8th level, the cavalier can spend a standard action
-to grant one of a number of bonuses to all allies within 30 feet
-(including himself). The allies must be able to see or hear the cavalier
-to receive this bonus. The cavalier can grant a +2 dodge bonus to AC for
-1 round, a +2 morale bonus on all attack rolls for 1 round, or the
-ability to move up to their speed as an immediate action once. The
-cavalier can grant a different bonus to each ally within range, but
-allies can only benefit from this ability once per combat.
+*Strategy (Ex)*: At 8th level, the cavalier can spend a standard
+action to grant one of a number of bonuses to all allies within
+30 feet (including himself). The allies must be able to see or
+hear the cavalier to receive this bonus. The cavalier can grant a
++2 dodge bonus to AC for 1 round, a +2 morale bonus on all attack
+rolls for 1 round, or the ability to move up to their speed as an
+immediate action once. The cavalier can grant a different bonus
+to each ally within range, but allies can only benefit from this
+ability once per combat.
 
-*Act as One (Ex)*: At 15th level, the cavalier can spend a standard
-action to move up to his speed and make a melee attack. All allies
-within 30 feet can also move up to their speed and make a melee attack
-as an immediate action. This movement and attack can be made as a charge
-if the movement qualifies. All attacks are made at a +2 bonus (this
-stacks with the bonus from a charge) and all participants receive a +2
-dodge bonus to their AC for 1 round. A cavalier can use this ability
-once per combat.
+*Act as One (Ex)*: At 15th level, the cavalier can spend a
+standard action to move up to his speed and make a melee
+attack. All allies within 30 feet can also move up to their speed
+and make a melee attack as an immediate action. This movement and
+attack can be made as a charge if the movement qualifies. All
+attacks are made at a +2 bonus (this stacks with the bonus from a
+charge) and all participants receive a +2 dodge bonus to their AC
+for 1 round. A cavalier can use this ability once per combat.
 
 
 #### Order of the Lion
 
-A cavalier who belongs to this order has pledged himself to a sovereign;
-be it a king, queen, or even the local warlord. Cavaliers of this order
-are stalwart and dedicated to their cause, willing to go any length to
-ensure the safety of their lord and his domain.
+A cavalier who belongs to this order has pledged himself to a
+sovereign; be it a king, queen, or even the local
+warlord. Cavaliers of this order are stalwart and dedicated to
+their cause, willing to go any length to ensure the safety of
+their lord and his domain.
 
 **Edicts**: The cavalier must protect the life and lands of his
-sovereign at all costs. He must obey the commands of his sovereign
-without question. He must strive to expand the power and prestige of his
-realm.
+sovereign at all costs. He must obey the commands of his
+sovereign without question. He must strive to expand the power
+and prestige of his realm.
 
 **Challenge**: Whenever an order of the lion cavalier issues a
-challenge, he receives a +1 dodge bonus to his AC against attacks made
-by the target of his challenge. This bonus increases by +1 for every
-four levels the cavalier possesses.
+challenge, he receives a +1 dodge bonus to his AC against attacks
+made by the target of his challenge. This bonus increases by +1
+for every four levels the cavalier possesses.
 
-**Skills**: An order of the lion cavalier adds
-[Knowledge] (local) (Int) and
-[Knowledge] (nobility) (Int) to
-his list of class skills. An order of the lion cavalier can make
-[Knowledge] (nobility) skill
-checks untrained. If he has ranks in the skill, he receives a bonus on
-the check equal to 1/2 his cavalier level (minimum +1) as long as the
-check involves his sovereign.
+**Skills**: An order of the lion cavalier adds [Knowledge]
+(local) (Int) and [Knowledge] (nobility) (Int) to his list of
+class skills. An order of the lion cavalier can make [Knowledge]
+(nobility) skill checks untrained. If he has ranks in the skill,
+he receives a bonus on the check equal to 1/2 his cavalier level
+(minimum +1) as long as the check involves his sovereign.
 
-**Order Abilities**: A cavalier belonging to the order of the lion gains
-the following abilities as he increases in level.
+**Order Abilities**: A cavalier belonging to the order of the
+lion gains the following abilities as he increases in level.
 
-*Lion's Call (Ex)*: At 2nd level, an order of the lion cavalier gains
-the ability to rally his allies. As a standard action, he can give an
-encouraging speech which grants all allies within 60 feet a competence
-bonus on their saving throws against fear equal to his Charisma modifier
-and a +1 competence bonus on attack rolls for a number of rounds equal
-to his cavalier level. If an ally within range is under the effect of a
-spell or ability that causes him to be frightened or panicked, he can
-immediately make another saving throw to resist the effect (if allowed).
+*Lion's Call (Ex)*: At 2nd level, an order of the lion cavalier
+gains the ability to rally his allies. As a standard action, he
+can give an encouraging speech which grants all allies within 60
+feet a competence bonus on their saving throws against fear equal
+to his Charisma modifier and a +1 competence bonus on attack
+rolls for a number of rounds equal to his cavalier level. If an
+ally within range is under the effect of a spell or ability that
+causes him to be frightened or panicked, he can immediately make
+another saving throw to resist the effect (if allowed).
 
-*For the King (Ex)*: At 8th level, an order of the lion cavalier can
-call out to his allies, inspiring them to greatness. As a swift action,
-the cavalier can grant a competence bonus equal to his Charisma modifier
-on all attack and damage rolls to all allies within 30 feet. This bonus
-lasts for 1 round. This ability can be used once per combat.
+*For the King (Ex)*: At 8th level, an order of the lion cavalier
+can call out to his allies, inspiring them to greatness. As a
+swift action, the cavalier can grant a competence bonus equal to
+his Charisma modifier on all attack and damage rolls to all
+allies within 30 feet. This bonus lasts for 1 round. This ability
+can be used once per combat.
 
-*Shield of the Liege (Ex)*: At 15th level, an order of the lion cavalier
-can protect those around him. Allies that are adjacent to the cavalier
-receive a +2 shield bonus to their AC. In addition, as an immediate
-action, the cavalier can redirect an attack made at a creature adjacent
-to himself, as long as the creature making the attack is within the
-cavalier's reach. This ability must be declared before the attack roll
-is made. The attack is made against the cavalier's AC and defenses, even
-if the creature could not normally reach or attack the cavalier. The
-cavalier loses any cover or concealment bonuses when subject to the
-redirected attack.
+*Shield of the Liege (Ex)*: At 15th level, an order of the lion
+cavalier can protect those around him. Allies that are adjacent
+to the cavalier receive a +2 shield bonus to their AC. In
+addition, as an immediate action, the cavalier can redirect an
+attack made at a creature adjacent to himself, as long as the
+creature making the attack is within the cavalier's reach. This
+ability must be declared before the attack roll is made. The
+attack is made against the cavalier's AC and defenses, even if
+the creature could not normally reach or attack the cavalier. The
+cavalier loses any cover or concealment bonuses when subject to
+the redirected attack.
 
 
 #### Order of the Shield
@@ -1007,210 +1103,204 @@ protecting the common folk, from the simple farmer to the honest
 craftsman. These cavaliers stand before the tide, protecting the
 innocent from roving marauders and hungry monsters.
 
-**Edicts**: The cavalier must protect the lives and prosperity of the
-common folk, shielding them from the deprivations of those who would
-seek to cause them harm or exploit them. He must give charity when it is
-warranted and aid when needed. He must take no action that would cause
-harm or hardship to those who cannot defend themselves.
+**Edicts**: The cavalier must protect the lives and prosperity of
+the common folk, shielding them from the deprivations of those
+who would seek to cause them harm or exploit them. He must give
+charity when it is warranted and aid when needed. He must take no
+action that would cause harm or hardship to those who cannot
+defend themselves.
 
 **Challenge**: Whenever an order of the shield cavalier issues a
-challenge, he receives a +1 morale bonus on attack rolls made against
-the target of his challenge if the target makes an attack against a
-target other than the cavalier. This bonus lasts for 1 minute. The bonus
-increases by +1 for every four levels the cavalier possesses.
+challenge, he receives a +1 morale bonus on attack rolls made
+against the target of his challenge if the target makes an attack
+against a target other than the cavalier. This bonus lasts for 1
+minute. The bonus increases by +1 for every four levels the
+cavalier possesses.
 
-**Skills**: An order of the shield cavalier adds
-[Heal] (Wis) and
-[Knowledge] (local) (Int) to his
-list of class skills. Whenever an order of the shield cavalier uses the
-[Heal] skill on a creature other than
-himself, he receives a bonus on the check equal to 1/2 his cavalier
-level (minimum +1).
+**Skills**: An order of the shield cavalier adds [Heal] (Wis) and
+[Knowledge] (local) (Int) to his list of class skills. Whenever
+an order of the shield cavalier uses the [Heal] skill on a
+creature other than himself, he receives a bonus on the check
+equal to 1/2 his cavalier level (minimum +1).
 
-**Order Abilities**: A cavalier belonging to the order of the shield
-gains the following abilities as he increases in level.
+**Order Abilities**: A cavalier belonging to the order of the
+shield gains the following abilities as he increases in level.
 
-*Resolute (Ex)*: At 2nd level, whenever the cavalier takes damage from a
-melee or ranged attack while wearing heavy armor, the cavalier can
-convert 1 point of lethal damage to 1 point of nonlethal damage. He can
-use this ability once each time he takes damage. This ability cannot be
-used to convert ability damage, ability drain, or energy damage to
-nonlethal damage. At 6th level, and every four levels thereafter, the
-amount of damage the cavalier can convert increases by 1.
+*Resolute (Ex)*: At 2nd level, whenever the cavalier takes damage
+from a melee or ranged attack while wearing heavy armor, the
+cavalier can convert 1 point of lethal damage to 1 point of
+nonlethal damage. He can use this ability once each time he takes
+damage. This ability cannot be used to convert ability damage,
+ability drain, or energy damage to nonlethal damage. At 6th
+level, and every four levels thereafter, the amount of damage the
+cavalier can convert increases by 1.
 
-*Stem the Tide (Ex)*: At 8th level, the cavalier receives [Stand Still] as a bonus feat, even if he does
-not meet the prerequisites. Instead of making a combat maneuver check to
-stop the creature from moving, a cavalier with this ability can elect to
-make a normal attack instead. If the attack hits and deals damage, the
-target must stop moving, just as if the cavalier had made a successful
-combat maneuver check.
+*Stem the Tide (Ex)*: At 8th level, the cavalier receives [Stand
+Still] as a bonus feat, even if he does not meet the
+prerequisites. Instead of making a combat maneuver check to stop
+the creature from moving, a cavalier with this ability can elect
+to make a normal attack instead. If the attack hits and deals
+damage, the target must stop moving, just as if the cavalier had
+made a successful combat maneuver check.
 
 *Protect the Meek (Ex)*: At 15th level, the cavalier can move to
-intercept foes. As an immediate action, he can move up to his speed (or
-his mount's speed, if mounted) and make a single melee attack. This
-movement provokes attacks of opportunity as normal. The cavalier must
-end his movement adjacent to an enemy. On his next turn, the cavalier is
-staggered and cannot use this ability again for 1 round.
+intercept foes. As an immediate action, he can move up to his
+speed (or his mount's speed, if mounted) and make a single melee
+attack. This movement provokes attacks of opportunity as
+normal. The cavalier must end his movement adjacent to an
+enemy. On his next turn, the cavalier is staggered and cannot use
+this ability again for 1 round.
 
 
 #### Order of the Star
 
-Cavaliers who join the order of the star dedicate themselves to the
-protection and service of a faith and its members. Cavaliers belonging
-to this order tend to follow many of the tenets and guides of the
-religion that they serve. When a cavalier joins this order, he should
-select a single religion to serve.
+Cavaliers who join the order of the star dedicate themselves to
+the protection and service of a faith and its members. Cavaliers
+belonging to this order tend to follow many of the tenets and
+guides of the religion that they serve. When a cavalier joins
+this order, he should select a single religion to serve.
 
-**Edicts**: The cavalier must strive to protect the faith and all those
-who follow its teachings, from priest to common man. He must adhere to
-the strictures of the faith, promote its cause whenever possible, and
-serve the agents of the divine.
+**Edicts**: The cavalier must strive to protect the faith and all
+those who follow its teachings, from priest to common man. He
+must adhere to the strictures of the faith, promote its cause
+whenever possible, and serve the agents of the divine.
 
 **Challenge**: Whenever an order of the star cavalier issues a
-challenge, he receives a +1 morale bonus on all his saving throws as
-long as he is threatening the target of his challenge. This bonus
-increases by +1 for every four levels the cavalier possesses.
+challenge, he receives a +1 morale bonus on all his saving throws
+as long as he is threatening the target of his challenge. This
+bonus increases by +1 for every four levels the cavalier
+possesses.
 
-**Skills**: An order of the star cavalier adds
-[Heal] (Wis) and
-[Knowledge] (religion) (Int) to
-his list of class skills. An order of the star cavalier can make
-[Knowledge] (religion) skill
-checks untrained. If he has ranks in the skill, he receives a bonus on
-the check equal to 1/2 his cavalier level (minimum +1) as long as the
-check involves his chosen faith.
+**Skills**: An order of the star cavalier adds [Heal] (Wis) and
+[Knowledge] (religion) (Int) to his list of class skills. An
+order of the star cavalier can make [Knowledge] (religion) skill
+checks untrained. If he has ranks in the skill, he receives a
+bonus on the check equal to 1/2 his cavalier level (minimum +1)
+as long as the check involves his chosen faith.
 
-**Order Abilities**: An order of the star cavalier gains the following
-abilities as he increases in level.
+**Order Abilities**: An order of the star cavalier gains the
+following abilities as he increases in level.
 
-*Calling (Ex)*: At 2nd level, the cavalier can make a short prayer as a
-standard action, filling him with confidence in his abilities. At any
-point in the next minute, he can receive a competence bonus on an
-ability check, attack roll, saving throw, or skill check equal to his
-Charisma modifier. He must declare that he is using this bonus before
-the roll is made. He can use this ability up to four times per day, once
-for each type of check or roll. In addition, the cavalier adds 1/2 his
-cavalier level to any levels of paladin or cleric he might possess for
-the purposes of determining the effects of channel energy or lay on
+*Calling (Ex)*: At 2nd level, the cavalier can make a short
+prayer as a standard action, filling him with confidence in his
+abilities. At any point in the next minute, he can receive a
+competence bonus on an ability check, attack roll, saving throw,
+or skill check equal to his Charisma modifier. He must declare
+that he is using this bonus before the roll is made. He can use
+this ability up to four times per day, once for each type of
+check or roll. In addition, the cavalier adds 1/2 his cavalier
+level to any levels of paladin or cleric he might possess for the
+purposes of determining the effects of channel energy or lay on
 hands.
 
-*For the Faith (Ex)*: At 8th level, the cavalier can call upon his faith
-to bolster himself in combat. As a free action, the cavalier can call
-out the name of his deity, granting him a morale bonus on attack rolls
-equal to his Charisma modifier for 1 round. In addition, any allies
-within 30 feet that share his faith also receive half this bonus
-(minimum +1). The cavalier can use this ability once per day, plus one
-additional time per day at 12th level and every four levels thereafter.
+*For the Faith (Ex)*: At 8th level, the cavalier can call upon
+his faith to bolster himself in combat. As a free action, the
+cavalier can call out the name of his deity, granting him a
+morale bonus on attack rolls equal to his Charisma modifier for 1
+round. In addition, any allies within 30 feet that share his
+faith also receive half this bonus (minimum +1). The cavalier can
+use this ability once per day, plus one additional time per day
+at 12th level and every four levels thereafter.
 
-*Retribution (Ex)*: At 15th level, the cavalier can take retribution on
-those who dare to strike an agent of his faith. Whenever an enemy makes
-a successful melee attack against the cavalier or an adjacent ally
-devoted to the same faith as the cavalier, the enemy provokes an attack
-of opportunity from the cavalier. The cavalier receives a +2 morale
-bonus on the attack of opportunity. If the attack made by the enemy was
-a critical hit, the cavalier may treat the enemy as the target of his
-challenge for the attack of opportunity. The cavalier can use this
-ability once per round.
+*Retribution (Ex)*: At 15th level, the cavalier can take
+retribution on those who dare to strike an agent of his
+faith. Whenever an enemy makes a successful melee attack against
+the cavalier or an adjacent ally devoted to the same faith as the
+cavalier, the enemy provokes an attack of opportunity from the
+cavalier. The cavalier receives a +2 morale bonus on the attack
+of opportunity. If the attack made by the enemy was a critical
+hit, the cavalier may treat the enemy as the target of his
+challenge for the attack of opportunity. The cavalier can use
+this ability once per round.
 
 
 #### Order of the Sword
 
-Cavaliers who join the order of the sword dedicate their lives to the
-code of chivalry, living a life of honor, valor, and fairness. Cavaliers
-of this order tend to swear service to a lord or a lady. Of all the
-orders, the order of the sword is perhaps the broadest in terms of its
-focus and ideals.
+Cavaliers who join the order of the sword dedicate their lives to
+the code of chivalry, living a life of honor, valor, and
+fairness. Cavaliers of this order tend to swear service to a lord
+or a lady. Of all the orders, the order of the sword is perhaps
+the broadest in terms of its focus and ideals.
 
-**Edicts**: The cavalier must show courage in the face of danger, mercy
-to those who have wronged him, and charity to the poor and the meek. He
-must be just and honorable at all times and in all things. He must
-defend his honor and, above all else, the honor of those he serves.
+**Edicts**: The cavalier must show courage in the face of danger,
+mercy to those who have wronged him, and charity to the poor and
+the meek. He must be just and honorable at all times and in all
+things. He must defend his honor and, above all else, the honor
+of those he serves.
 
 **Challenge**: Whenever an order of the sword cavalier issues a
-challenge, he receives a +1 morale bonus on attack rolls against the
-target of his challenge so long as he is astride his mount. The bonus
-increases by +1 for every four levels the cavalier possesses.
+challenge, he receives a +1 morale bonus on attack rolls against
+the target of his challenge so long as he is astride his
+mount. The bonus increases by +1 for every four levels the
+cavalier possesses.
 
-**Skills**: An order of the sword cavalier adds
-[Knowledge] (nobility) (Int) and
-[Knowledge] (religion) (Int) to
-his list of class skills. Whenever the cavalier uses [Sense Motive] to oppose a
-[Bluff] check, he receives a competence
-bonus on the check equal to 1/2 his cavalier level (minimum +1).
+**Skills**: An order of the sword cavalier adds [Knowledge]
+(nobility) (Int) and [Knowledge] (religion) (Int) to his list of
+class skills. Whenever the cavalier uses [Sense Motive] to oppose
+a [Bluff] check, he receives a competence bonus on the check
+equal to 1/2 his cavalier level (minimum +1).
 
 **Order Abilities**: An order of the sword cavalier receives the
 following abilities as he increases in level.
 
 *By My Honor (Ex)*: At 2nd level, the cavalier must select one
-alignment. As long as he maintains the selected alignment, he receives a
-+2 morale bonus to one saving throw of his choice.
+alignment. As long as he maintains the selected alignment, he
+receives a +2 morale bonus to one saving throw of his choice.
 
-*Mounted Mastery (Ex)*: At 8th level, the cavalier ignores the armor
-check penalty when using the [Ride] skill,
-regardless of whether or not the creature he is riding is his mount.
-Whenever he makes a charge attack while mounted, he receives a +4 dodge
-bonus to his AC to avoid attacks set against his charge. When making
-such an attack, he can add his mount's Strength modifier to the damage
-roll, in addition to his own. He also receives a bonus feat, chosen from
-the following list: [Mounted Combat],
-[Ride-By Attack], [Skill Focus]
-([Ride]), [Spirited Charge],
-[Trample], or
-[Unseat]. He must qualify for the feat
-selected.
+*Mounted Mastery (Ex)*: At 8th level, the cavalier ignores the
+armor check penalty when using the [Ride] skill, regardless of
+whether or not the creature he is riding is his mount.  Whenever
+he makes a charge attack while mounted, he receives a +4 dodge
+bonus to his AC to avoid attacks set against his charge. When
+making such an attack, he can add his mount's Strength modifier
+to the damage roll, in addition to his own. He also receives a
+bonus feat, chosen from the following list: [Mounted Combat],
+[Ride-By Attack], [Skill Focus] ([Ride]), [Spirited Charge],
+[Trample], or [Unseat]. He must qualify for the feat selected.
 
 *Knight's Challenge (Ex)*: At 15th level, the cavalier can make a
-knight's challenge once per day. This functions like a normal challenge,
-but the cavalier adds his Charisma bonus on all attack rolls and damage
-rolls made against the target of his challenge. In addition, he receives
-a +4 circumstance bonus on attack rolls made to confirm critical hits
-against the target of his knight's challenge.
+knight's challenge once per day. This functions like a normal
+challenge, but the cavalier adds his Charisma bonus on all attack
+rolls and damage rolls made against the target of his
+challenge. In addition, he receives a +4 circumstance bonus on
+attack rolls made to confirm critical hits against the target of
+his knight's challenge.
 
 
 
 ## Inquisitor
 
-Grim and determined, the inquisitor roots out enemies of the faith,
-using trickery and guile when righteousness and purity is not enough.
-Although inquisitors are dedicated to a deity, they are above many of
-the normal rules and conventions of the church. They answer to their
-deity and their own sense of justice alone, and are willing to take
-extreme measures to meet their goals.
+Grim and determined, the inquisitor roots out enemies of the
+faith, using trickery and guile when righteousness and purity is
+not enough.  Although inquisitors are dedicated to a deity, they
+are above many of the normal rules and conventions of the
+church. They answer to their deity and their own sense of justice
+alone, and are willing to take extreme measures to meet their
+goals.
 
-**Role**: Inquisitors tend to move from place to place, chasing down
-enemies and researching emerging threats. As a result, they often travel
-with others, if for no other reason than to mask their presence.
-Inquisitors work with members of their faith whenever possible, but even
-such allies are not above suspicion.
+**Role**: Inquisitors tend to move from place to place, chasing
+down enemies and researching emerging threats. As a result, they
+often travel with others, if for no other reason than to mask
+their presence.  Inquisitors work with members of their faith
+whenever possible, but even such allies are not above suspicion.
 
-**Alignment**: An inquisitor's alignment must be within one step of her
-deity's, along either the law/chaos axis or the good/evil axis.
+**Alignment**: An inquisitor's alignment must be within one step
+of her deity's, along either the law/chaos axis or the good/evil
+axis.
 
 **Hit Dice**: d8.
 
 ### Class Skills
 
 
-The inquisitor's class skills are
-[Bluff] (Cha),
-[Climb] (Str),
-[Craft] (Int),
-[Diplomacy] (Cha),
-[Disguise] (Cha),
-[Heal] (Wis),
-[Intimidate] (Cha),
-[Knowledge] (arcana) (Int),
-[Knowledge] (dungeoneering)
-(Int), [Knowledge] (nature)
-(Int), [Knowledge] (planes)
-(Int), [Knowledge] (religion)
-(Int), [Perception] (Wis),
-[Profession] (Wis),
-[Ride] (Dex), [Sense Motive] (Wis),
-[Spellcraft] (Int),
-[Stealth] (Dex),
-[Survival] (Wis), and
-[Swim] (Str).
+The inquisitor's class skills are [Bluff] (Cha), [Climb] (Str),
+[Craft] (Int), [Diplomacy] (Cha), [Disguise] (Cha), [Heal] (Wis),
+[Intimidate] (Cha), [Knowledge] (arcana) (Int), [Knowledge]
+(dungeoneering) (Int), [Knowledge] (nature) (Int), [Knowledge]
+(planes) (Int), [Knowledge] (religion) (Int), [Perception] (Wis),
+[Profession] (Wis), [Ride] (Dex), [Sense Motive] (Wis),
+[Spellcraft] (Int), [Stealth] (Dex), [Survival] (Wis), and [Swim]
+(Str).
 
 **Skill Ranks per Level**: 6 + Int modifier.
 
