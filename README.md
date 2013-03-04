@@ -1,5 +1,8 @@
 # pathfinder-prd-markdown
 
+## Note: this project is not _yet_ ready to accept submissions, but should be by
+## end of the week so feel free to start testing!
+
 A project to convert the pathfinder prd into markdown for the purpose of making
 an ebook (or collection of ebooks)
 
