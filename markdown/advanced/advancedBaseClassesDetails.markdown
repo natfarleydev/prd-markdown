@@ -1,26 +1,27 @@
 ## Alchemist
 
-
 Whether secreted away in a smoky basement laboratory or gleefully
-experimenting in a well-respected school of magic, the alchemist is
-often regarded as being just as unstable, unpredictable, and dangerous
-as the concoctions he brews. While some creators of alchemical items
-content themselves with sedentary lives as merchants, providing
-tindertwigs and smokesticks, the true alchemist answers a deeper
-calling. Rather than cast magic like a spellcaster, the alchemist
-captures his own magic potential within liquids and extracts he creates,
-infusing his chemicals with virulent power to grant him impressive skill
-with poisons, explosives, and all manner of self-transformative magic.
+experimenting in a well-respected school of magic, the alchemist
+is often regarded as being just as unstable, unpredictable, and
+dangerous as the concoctions he brews. While some creators of
+alchemical items content themselves with sedentary lives as
+merchants, providing tindertwigs and smokesticks, the true
+alchemist answers a deeper calling. Rather than cast magic like a
+spellcaster, the alchemist captures his own magic potential
+within liquids and extracts he creates, infusing his chemicals
+with virulent power to grant him impressive skill with poisons,
+explosives, and all manner of self-transformative magic.
 
-**Role**: The alchemist's reputation is not softened by his exuberance
-(some would say dangerous recklessness) in perfecting his magical
-extracts and potion-like creations, infusing these substances with magic
-siphoned from his aura and using his own body as experimental stock. Nor
-is it mollified by the alchemist's almost gleeful passion for building
-explosive bombs and discovering strange new poisons and methods for
-their use. These traits, while making him a liability and risk for most
-civilized organizations and institutions of higher learning, seem to fit
-quite well with most adventuring groups.
+**Role**: The alchemist's reputation is not softened by his
+exuberance (some would say dangerous recklessness) in perfecting
+his magical extracts and potion-like creations, infusing these
+substances with magic siphoned from his aura and using his own
+body as experimental stock. Nor is it mollified by the
+alchemist's almost gleeful passion for building explosive bombs
+and discovering strange new poisons and methods for their
+use. These traits, while making him a liability and risk for most
+civilized organizations and institutions of higher learning, seem
+to fit quite well with most adventuring groups.
 
 **Alignment**: Any.
 
@@ -28,91 +29,113 @@ quite well with most adventuring groups.
 
 ### Class Skills
 
-
-The alchemist's class skills are
-[Appraise] (Int),
-[Craft] (any) (Int), [Disable Device] (Dex),
-[Fly] (Dex),
-[Heal] (Wis),
-[Knowledge] (arcana) (Int),
-[Knowledge] (nature) (Int),
-[Perception] (Wis),
-[Profession] (Wis), [Sleight
-of Hand] (Dex),
-[Spellcraft] (Int),
-[Survival] (Wis), [Use Magic Device] (Cha).
+The alchemist's class skills are [Appraise] (Int), [Craft] (any)
+(Int), [Disable Device] (Dex), [Fly] (Dex), [Heal] (Wis),
+[Knowledge] (arcana) (Int), [Knowledge] (nature) (Int),
+[Perception] (Wis), [Profession] (Wis), [Sleight of Hand] (Dex),
+[Spellcraft] (Int), [Survival] (Wis), [Use Magic Device] (Cha).
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
 Table: Alchemist
 
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|Level     |Base      |Fort Save |Ref Save  |Will Save |Special                        |1st  |2nd  |3rd  |4th  |5th  |6th  |
-|          |Attack    |          |          |          |                               |     |     |     |     |     |     |
-|          |Bonus     |          |          |          |                               |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|1st       |+0        |+2        |+2        |+0        |[Alchemy],                     |1    |-    |-    |-    |-    |-    |
-|          |          |          |          |          |[bomb] 1d6, [Brew              |     |     |     |     |     |     |
-|          |          |          |          |          |Potion],                       |     |     |     |     |     |     |
-|          |          |          |          |          |[mutagen],                     |     |     |     |     |     |     |
-|          |          |          |          |          |[Throw                         |     |     |     |     |     |     |
-|          |          |          |          |          |Anything]                      |     |     |     |     |     |     |
-|          |          |          |          |          |                               |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|2nd       |  +1      |+3        |+3        |+0        |[Discovery],                   |2    |-    |-    |-    |-    |-    |
-|          |          |          |          |          |[poison                        |     |     |     |     |     |     |
-|          |          |          |          |          |resistance]                    |     |     |     |     |     |     |
-|          |          |          |          |          |+2,[poison use]                |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|3rd       |+2        |+3        |+3        |+1        |[Bomb] 2d6, [swift             |3    |-    |-    |-    |-    |-    |
-|          |          |          |          |          |alchemy]                       |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|4th       |+3        |+4        |+4        |+1        |[Discovery]                    |3    |1    |-    |-    |-    |-    |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|5th       |+3        |+4        |+4        |+1        |[Bomb] 3d6, [poison            |4    |2    |-    |-    |-    |-    |
-|          |          |          |          |          |resistance]                    |     |     |     |     |     |     |
-|          |          |          |          |          |+4                             |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|6th       |+4        |+5        |+5        |+2        |[Discovery], [swift            |4    |3    |-    |-    |-    |-    |
-|          |          |          |          |          |poisoning]                     |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|7th       |+5        |+5        |+5        |+2        |[Bomb] 4d6                     |4    |3    |1    |-    |-    |-    |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|8th       |+6/+1     |+6        |+6        |+2        |[Discovery],                   |4    |4    |2    |-    |-    |-    |
-|          |          |          |          |          |[poison                        |     |     |     |     |     |     |
-|          |          |          |          |          |resistance]                    |     |     |     |     |     |     |
-|          |          |          |          |          |+6                             |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|9th       |+6/+1     |+6        |+6        |+3        |[Bomb] 5d6                     |5    |4    |3    |-    |-    |-    |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|10th      |+7/+2     |+7        |+7        |+3        |[Discovery], poison            |5    |4    |3    |1    |-    |-    |
-|          |          |          |          |          |immunity                       |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|11th      |+8/+3     |+7        |+7        |+3        |[Bomb] 6d6                     |5    |4    |4    |2    |-    |-    |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|12th      |+9/+4     |+8        |+8        |+4        |[Discovery]                    |5    |5    |4    |3    |-    |-    |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|13th      |+9/+4     |+8        |+8        |+4        |[Bomb] 7d6                     |5    |5    |4    |3    |1    |-    |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|14th      |+10/+5    |+9        |+9        |+4        |[Discovery],                   |5    |5    |4    |4    |2    |-    |
-|          |          |          |          |          |[persistent                    |     |     |     |     |     |     |
-|          |          |          |          |          |mutagen]                       |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|15th      |+11/+6/+1 |+9        |+9        |+5        |[Bomb] 8d6                     |5    |5    |5    |4    |3    |-    |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|16th      |+12/+7/+2 |+10       |+10       |+5        |[Discovery]                    |5    |5    |5    |4    |3    |1    |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|17th      |+12/+7/+2 |+10       |+10       |+5        |[Bomb] 9d6                     |5    |5    |5    |4    |4    |2    |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|18th      |+13/+8/+3 |+11       |+11       |+6        |[Discovery],                   |5    |5    |5    |5    |4    |3    |
-|          |          |          |          |          |[instant                       |     |     |     |     |     |     |
-|          |          |          |          |          |alchemy]                       |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|19th      |+14/+9/+4 |+11       |+11       |+6        |[Bomb] 10d6                    |5    |5    |5    |5    |5    |4    |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
-|20th      |+15/+10/+5|+12       |+12       |+6        |[Grand                         |5    |5    |5    |5    |5    |5    |
-|          |          |          |          |          |discovery]                     |     |     |     |     |     |     |
-+----------+----------+----------+----------+----------+-------------------------------+-----+-----+-----+-----+-----+-----+
++-----+----------+----+----+----+-------------------------------+
+|Level|Base      |Fort|Ref |Will|Special                        |
+|     |Attack    |Save|Save|Save|                               |
+|     |Bonus     |    |    |    |                               |
+|     |          |    |    |    |                               |
++-----+----------+----+----+----+-------------------------------+
+|1st  |+0        |+2  |+2  |+0  |[Alchemy],[bomb] 1d6, [Brew    |
+|     |          |    |    |    |Potion], [mutagen], [Throw     |
+|     |          |    |    |    |Anything]                      |
++-----+----------+----+----+----+-------------------------------+
+|2nd  |  +1      |+3  |+3  |+0  |[Discovery],[Poison Resistance]|
+|     |          |    |    |    |+2,[Poison Use]                |
++-----+----------+----+----+----+-------------------------------+
+|3rd  |+2        |+3  |+3  |+1  |[Bomb] 2d6, [Swift Alchemy]    |
++-----+----------+----+----+----+-------------------------------+
+|4th  |+3        |+4  |+4  |+1  |[Discovery]                    |
++-----+----------+----+----+----+-------------------------------+
+|5th  |+3        |+4  |+4  |+1  |[Bomb] 3d6, [poison resistance]|
+|     |          |    |    |    |+4                             |
++-----+----------+----+----+----+-------------------------------+
+|6th  |+4        |+5  |+5  |+2  |[Discovery], [swift poisoning] |
++-----+----------+----+----+----+-------------------------------+
+|7th  |+5        |+5  |+5  |+2  |[Bomb] 4d6                     |
++-----+----------+----+----+----+-------------------------------+
+|8th  |+6/+1     |+6  |+6  |+2  |[Discovery], [poison           |
+|     |          |    |    |    |resistance] +6                 |
++-----+----------+----+----+----+-------------------------------+
+|9th  |+6/+1     |+6  |+6  |+3  |[Bomb] 5d6                     |
++-----+----------+----+----+----+-------------------------------+
+|10th |+7/+2     |+7  |+7  |+3  |[Discovery], poison immunity   |
++-----+----------+----+----+----+-------------------------------+
+|11th |+8/+3     |+7  |+7  |+3  |[Bomb] 6d6                     |
++-----+----------+----+----+----+-------------------------------+
+|12th |+9/+4     |+8  |+8  |+4  |[Discovery]                    |
++-----+----------+----+----+----+-------------------------------+
+|13th |+9/+4     |+8  |+8  |+4  |[Bomb] 7d6                     |
++-----+----------+----+----+----+-------------------------------+
+|14th |+10/+5    |+9  |+9  |+4  |[Discovery], [persistent       |
+|     |          |    |    |    |mutagen]                       |
++-----+----------+----+----+----+-------------------------------+
+|15th |+11/+6/+1 |+9  |+9  |+5  |[Bomb] 8d6                     |
++-----+----------+----+----+----+-------------------------------+
+|16th |+12/+7/+2 |+10 |+10 |+5  |[Discovery]                    |
++-----+----------+----+----+----+-------------------------------+
+|17th |+12/+7/+2 |+10 |+10 |+5  |[Bomb] 9d6                     |
++-----+----------+----+----+----+-------------------------------+
+|18th |+13/+8/+3 |+11 |+11 |+6  |[Discovery], [instant alchemy] |
++-----+----------+----+----+----+-------------------------------+
+|19th |+14/+9/+4 |+11 |+11 |+6  |[Bomb] 10d6                    |
++-----+----------+----+----+----+-------------------------------+
+|20th |+15/+10/+5|+12 |+12 |+6  |[Grand discovery]              |
++-----+----------+----+----+----+-------------------------------+
+
++-----+----+----+----+----+----+----+
+|Level|1st |2nd |3rd |4th |5th |6th |
++-----+----+----+----+----+----+----+
+|1st  |1   |-   |-   |-   |-   |-   |
++-----+----+----+----+----+----+----+
+|2nd  |2   |-   |-   |-   |-   |-   |
++-----+----+----+----+----+----+----+
+|3rd  |3   |-   |-   |-   |-   |-   |
++-----+----+----+----+----+----+----+
+|4th  |3   |1   |-   |-   |-   |-   |
++-----+----+----+----+----+----+----+
+|5th  |4   |2   |-   |-   |-   |-   |
++-----+----+----+----+----+----+----+
+|6th  |4   |3   |-   |-   |-   |-   |
++-----+----+----+----+----+----+----+
+|7th  |4   |3   |1   |-   |-   |-   |
++-----+----+----+----+----+----+----+
+|8th  |4   |4   |2   |-   |-   |-   |
++-----+----+----+----+----+----+----+
+|9th  |5   |4   |3   |-   |-   |-   |
++-----+----+----+----+----+----+----+
+|10th |5   |4   |3   |1   |-   |-   |
++-----+----+----+----+----+----+----+
+|11th |5   |4   |4   |2   |-   |-   |
++-----+----+----+----+----+----+----+
+|12th |5   |5   |4   |3   |-   |-   |
++-----+----+----+----+----+----+----+
+|13th |5   |5   |4   |3   |1   |-   |
++-----+----+----+----+----+----+----+
+|14th |5   |5   |4   |4   |2   |-   |
++-----+----+----+----+----+----+----+
+|15th |5   |5   |5   |4   |3   |-   |
++-----+----+----+----+----+----+----+
+|16th |5   |5   |5   |4   |3   |1   |
++-----+----+----+----+----+----+----+
+|17th |5   |5   |5   |4   |4   |2   |
++-----+----+----+----+----+----+----+
+|18th |5   |5   |5   |5   |4   |3   |
++-----+----+----+----+----+----+----+
+|19th |5   |5   |5   |5   |5   |4   |
++-----+----+----+----+----+----+----+
+|20th |5   |5   |5   |5   |5   |5   |
++-----+----+----+----+----+----+----+
+
 
 
 ### Class Features
