@@ -1,262 +1,274 @@
 ## Battle Herald
 
-In every army there are leaders who surpass the average cold-hearted
-mercenary, battle-scarred veteran, or wizened drill instructor, not so
-much in their skill at arms but in their ability to inspire and lead
-others. Battle heralds are just such captains—skilled warriors to be
-sure, but ones who have honed the art of leadership to a keen edge and
-keep it as ready as their sword as a means to victory. Battle heralds
-tap into reservoirs of courage, skill, bravery, and perseverance that
-those who serve with them never knew they had, and their allies often
-find themselves ascending the mount of triumph following the battle
+In every army there are leaders who surpass the average
+cold-hearted mercenary, battle-scarred veteran, or wizened drill
+instructor, not so much in their skill at arms but in their
+ability to inspire and lead others. Battle heralds are just such
+captains—skilled warriors to be sure, but ones who have honed the
+art of leadership to a keen edge and keep it as ready as their
+sword as a means to victory. Battle heralds tap into reservoirs
+of courage, skill, bravery, and perseverance that those who serve
+with them never knew they had, and their allies often find
+themselves ascending the mount of triumph following the battle
 herald's glorious (if often tattered) banner.
 
 **Hit Die**: d10.
 
 ### Requirements
 
-To qualify to become a battle herald, a character must fulfill all the
-following criteria.
+To qualify to become a battle herald, a character must fulfill
+all the following criteria.
 
 **Base Attack Bonus**: +4.
 
 **Special**: Challenge and inspire courage class features.
 
-**Skills**: [Diplomacy] 5 ranks,
-[Intimidate] 5 ranks,
-[Perform] (oratory) 5 ranks,
-[Profession] (soldier) 2
-ranks.
+**Skills**: [Diplomacy] 5 ranks, [Intimidate] 5 ranks, [Perform]
+(oratory) 5 ranks, [Profession] (soldier) 2 ranks.
 
 ### Class Skills
 
-The battle herald's class skills are
-[Bluff] (Cha),
-[Craft] (Int),
-[Diplomacy] (Cha), [Handle Animal] (Cha),
-[Heal] (Wis),
-[Intimidate] (Cha),
-[Knowledge] (engineering) (Int),
-[Knowledge] (history) (Int),
-[Knowledge] (local) (Int),
-[Knowledge] (nobility) (Int),
-[Perception] (Wis),
-[Profession] (Wis),
-[Ride] (Dex), and [Sense Motive] (Wis).
+The battle herald's class skills are [Bluff] (Cha), [Craft]
+(Int), [Diplomacy] (Cha), [Handle Animal] (Cha), [Heal] (Wis),
+[Intimidate] (Cha), [Knowledge] (engineering) (Int), [Knowledge]
+(history) (Int), [Knowledge] (local) (Int), [Knowledge]
+(nobility) (Int), [Perception] (Wis), [Profession] (Wis), [Ride]
+(Dex), and [Sense Motive] (Wis).
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
-  Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special
-  ------- ------------------- ----------- ---------- ----------- ------------------------------------------------------------------------------------------------------------------------------------------
-  1st     +1                  +1          +0         +1          1st [inspiring command] (+1), [improved leadership], [voice of authority]
-  2nd     +2                  +1          +1         +1          [Easy march]
-  3rd     +3                  +2          +1         +2          2nd [inspiring command]
-  4th     +4                  +2          +1         +2          [Inspiring command] (+2), [inspire greatness]
-  5th     +5                  +3          +2         +3          3rd [inspiring command], [banner]
-  6th     +6                  +3          +2         +3          [Teamwork feat]
-  7th     +7                  +4          +2         +4          4th [inspiring command] (+3), [demanding challenge]
-  8th     +8                  +4          +3         +4          [Persistent commands]
-  9th     +9                  +5          +3         +5          5th [inspiring command], [inspire last stand]
-  10th    +10                 +5          +3         +5          [Complex commands], [inspiring command] (+4)
+Level BAB Fort  Ref  Will Special
+          Save  Save Save
+----- --- ----- ---- ---- -----------------------------------
+1st   +1  +1    +0   +1   1st [inspiring command] (+1),
+                          [improved leadership],
+			  [voice of authority]
+2nd   +2  +1    +1   +1   [Easy march]
+3rd   +3  +2    +1   +2   2nd [inspiring command]
+4th   +4  +2    +1   +2   [Inspiring command] (+2),
+                          [inspire greatness]
+5th   +5  +3    +2   +3   3rd [inspiring command], [banner]
+6th   +6  +3    +2   +3   [Teamwork feat]
+7th   +7  +4    +2   +4   4th [inspiring command] (+3),
+                          [demanding challenge]
+8th   +8  +4    +3   +4   [Persistent commands]
+9th   +9  +5    +3   +5   5th [inspiring command],
+                          [inspire last stand]
+10th  +10 +5    +3   +5   [Complex commands],
+                          [inspiring command] (+4)
 
   : Table: Battle Herald
 
 ### Class Features
 
-The following are class features of the battle herald prestige class.
+The following are class features of the battle herald prestige
+class.
 
-**Weapon and Armor Proficiency**: A battle herald gains no proficiency
-with any weapon or armor.
+**Weapon and Armor Proficiency**: A battle herald gains no
+proficiency with any weapon or armor.
 
-**Inspiring Command (Ex)**: A battle herald uses her keen tactical
-acumen and decisive judgment to lead others to victory, as well as her
-mastery of command to assist herself and her allies in battle.
+**Inspiring Command (Ex)**: A battle herald uses her keen
+tactical acumen and decisive judgment to lead others to victory,
+as well as her mastery of command to assist herself and her
+allies in battle.
 
-All battle heralds may use inspiring command to inspire courage (as the
-bardic performance ability); bard and battle herald levels stack to
-determine the bonuses provided by inspire courage.
+All battle heralds may use inspiring command to inspire courage
+(as the bardic performance ability); bard and battle herald
+levels stack to determine the bonuses provided by inspire
+courage.
 
-At 1st level, and every two levels thereafter, the battle herald chooses
-one command to learn. Unless otherwise noted, these abilities provide a
-competence bonus equal to the battle herald's inspiring command bonus to
-her and to all allies within 60 feet able to see or hear her. Commands
-marked with an asterisk have the same range as above but only affect a
-certain number of allies (which can include the battle herald).
+At 1st level, and every two levels thereafter, the battle herald
+chooses one command to learn. Unless otherwise noted, these
+abilities provide a competence bonus equal to the battle herald's
+inspiring command bonus to her and to all allies within 60 feet
+able to see or hear her. Commands marked with an asterisk have
+the same range as above but only affect a certain number of
+allies (which can include the battle herald).
 
 Issuing an inspiring command is a move action. At 5th level, this
-becomes a swift action, and at 10th level, it becomes an immediate
-action. Maintaining an inspiring command is a free action that cannot be
-disrupted, but its effects end immediately if the battle herald is
-killed or otherwise prevented from taking actions (such as being dazed,
-helpless, or stunned). The battle herald cannot have more than one
-command in effect at a time. She may use this ability for a number of
-rounds per day equal to 4 + her Charisma modifier, plus 2 additional
-rounds per level after 1st. She may use rounds of bardic performance to
-issue inspiring commands, but not vice versa. Inspiring commands are
-language-dependent, mind-affecting effects. The battle herald cannot
-maintain an inspiring command and a bardic performance at the same time
-(this does not preclude abilities such as persistent command or the
-[Lingering Performance]
-feat, which continue an inspiring command or bardic performance after
-the battle herald stops maintaining it).
+becomes a swift action, and at 10th level, it becomes an
+immediate action. Maintaining an inspiring command is a free
+action that cannot be disrupted, but its effects end immediately
+if the battle herald is killed or otherwise prevented from taking
+actions (such as being dazed, helpless, or stunned). The battle
+herald cannot have more than one command in effect at a time. She
+may use this ability for a number of rounds per day equal to 4 +
+her Charisma modifier, plus 2 additional rounds per level after
+1st. She may use rounds of bardic performance to issue inspiring
+commands, but not vice versa. Inspiring commands are
+language-dependent, mind-affecting effects. The battle herald
+cannot maintain an inspiring command and a bardic performance at
+the same time (this does not preclude abilities such as
+persistent command or the [Lingering Performance] feat, which
+continue an inspiring command or bardic performance after the
+battle herald stops maintaining it).
 
-*Battle Magic\**: One ally gains a bonus on caster level checks and
-concentration checks equal to the battle herald's command bonus.
+*Battle Magic\**: One ally gains a bonus on caster level checks
+and concentration checks equal to the battle herald's command
+bonus.
 
-*Inspire Hardiness*: Allies gain DR/— equal to the battle herald's
+*Inspire Hardiness*: Allies gain DR/— equal to the battle
+herald's inspiring command bonus.
+
+*Inspired Tactics*: Allies apply the battle herald's inspiring
+command bonus on critical hit confirmation rolls, on combat
+maneuver checks, and as a dodge bonus to AC against any attacks
+of opportunity provoked by combat maneuvers.
+
+*Keep Your Heads*: Allies apply the battle herald's inspiring
+command bonus on Will saves and concentration checks.
+
+*None Shall Fall\**: A number of allies equal to the battle
+herald's inspiring command bonus heal 1d6 points of
+damage. Targeted allies who are poisoned may attempt a new poison
+saving throw with a bonus equal to the battle herald's inspiring
+command bonus; a failed save has no additional effect, but a
+successful save counts toward curing the poison. This healing is
+not positive energy and can heal undead creatures.
+
+*Pincer Maneuver*: Allies apply the battle herald's inspiring
+command bonus to attack and damage rolls when flanking and as a
+dodge bonus to AC against attacks of opportunity provoked by
+movement (including standing from prone).
+
+*Rally*: Allies affected by a fear effect may attempt a new
+saving throw against each fear effect on them; this new save has
+a bonus equal to the battle herald's inspiring command bonus.
+
+*Reveille*: Allies affected by exhaustion, fatigue, or sleep
+effects may attempt a new saving throw against each such effect;
+this new save has a bonus equal to the battle herald's inspiring
+command bonus. Allies who are sleeping normally automatically
+awaken when this ability is used.
+
+*Scatter\**: A number of allies equal to the battle herald's
+inspiring command bonus gain the benefits of the [Wind Stance]
+feat.
+
+*Shake It Off\**: One ally subject to an ongoing condition may
+attempt a new saving throw to negate the effects with a bonus
+equal to the battle herald's inspiring command bonus. This
+ability does not help against instantaneous effects, effects that
+require recurring saving throws to avoid additional penalties
+(such as diseases and poisons), or effects that do not allow a
+saving throw.
+
+*Sound the Charge*: Allies apply the battle herald's inspiring
+command bonus to attack and damage rolls. Charging allies
+increase their speed by 5 feet times the battle herald's
 inspiring command bonus.
 
-*Inspired Tactics*: Allies apply the battle herald's inspiring command
-bonus on critical hit confirmation rolls, on combat maneuver checks, and
-as a dodge bonus to AC against any attacks of opportunity provoked by
-combat maneuvers.
+*Sound the Retreat*: Allies gain the benefit of the [Lightning
+Stance] feat. The battle herald must have the scatter ability to
+select this ability.
 
-*Keep Your Heads*: Allies apply the battle herald's inspiring command
-bonus on Will saves and concentration checks.
+*Stand Firm*: Allies apply the battle herald's inspiring command
+bonus to CMD and on Fortitude saves.
 
-*None Shall Fall\**: A number of allies equal to the battle herald's
-inspiring command bonus heal 1d6 points of damage. Targeted allies who
-are poisoned may attempt a new poison saving throw with a bonus equal to
-the battle herald's inspiring command bonus; a failed save has no
-additional effect, but a successful save counts toward curing the
-poison. This healing is not positive energy and can heal undead
-creatures.
+*Teamwork*: Allies add the battle herald's inspiring command
+bonus on skill checks or attack rolls made when using the aid
+another action, and if successful, the assisted ally increases
+the aid another bonus by an amount equal to the battle herald's
+inspiring command bonus.
 
-*Pincer Maneuver*: Allies apply the battle herald's inspiring command
-bonus to attack and damage rolls when flanking and as a dodge bonus to
-AC against attacks of opportunity provoked by movement (including
-standing from prone).
+*Tuck and Roll*: Allies apply the battle herald's inspiring
+command bonus on Reflex saves and [Acrobatics] checks.
 
-*Rally*: Allies affected by a fear effect may attempt a new saving throw
-against each fear effect on them; this new save has a bonus equal to the
-battle herald's inspiring command bonus.
+**Improved [Leadership] (Ex)**: A battle herald with the
+[Leadership] feat adds her inspiring command bonus to her
+leadership score.
 
-*Reveille*: Allies affected by exhaustion, fatigue, or sleep effects may
-attempt a new saving throw against each such effect; this new save has a
-bonus equal to the battle herald's inspiring command bonus. Allies who
-are sleeping normally automatically awaken when this ability is used.
-
-*Scatter\**: A number of allies equal to the battle herald's inspiring
-command bonus gain the benefits of the [Wind Stance] feat.
-
-*Shake It Off\**: One ally subject to an ongoing condition may attempt a
-new saving throw to negate the effects with a bonus equal to the battle
-herald's inspiring command bonus. This ability does not help against
-instantaneous effects, effects that require recurring saving throws to
-avoid additional penalties (such as diseases and poisons), or effects
-that do not allow a saving throw.
-
-*Sound the Charge*: Allies apply the battle herald's inspiring command
-bonus to attack and damage rolls. Charging allies increase their speed
-by 5 feet times the battle herald's inspiring command bonus.
-
-*Sound the Retreat*: Allies gain the benefit of the [Lightning Stance] feat. The battle herald must
-have the scatter ability to select this ability.
-
-*Stand Firm*: Allies apply the battle herald's inspiring command bonus
-to CMD and on Fortitude saves.
-
-*Teamwork*: Allies add the battle herald's inspiring command bonus on
-skill checks or attack rolls made when using the aid another action, and
-if successful, the assisted ally increases the aid another bonus by an
-amount equal to the battle herald's inspiring command bonus.
-
-*Tuck and Roll*: Allies apply the battle herald's inspiring command
-bonus on Reflex saves and
-[Acrobatics] checks.
-
-**Improved [Leadership] (Ex)**: A battle
-herald with the [Leadership] feat adds her
-inspiring command bonus to her leadership score.
-
-**Voice of Authority (Ex)**: A battle herald is skilled at shouting
-commands over the din of the battlefield and signaling allies when
-speech is impossible. She gains a +2 bonus on
-[Diplomacy] and
-[Intimidate] checks with
-creatures with which she shares a language. In addition, her allies gain
-a bonus equal to the battle herald's class level on
-[Perception] or [Sense Motive] checks to hear her
-commands or interpret her secret messages conveyed with
-[Bluff]. The battle herald's levels
-stack with cavalier levels for the purpose of the cavalier's tactician
+**Voice of Authority (Ex)**: A battle herald is skilled at
+shouting commands over the din of the battlefield and signaling
+allies when speech is impossible. She gains a +2 bonus on
+[Diplomacy] and [Intimidate] checks with creatures with which she
+shares a language. In addition, her allies gain a bonus equal to
+the battle herald's class level on [Perception] or [Sense Motive]
+checks to hear her commands or interpret her secret messages
+conveyed with [Bluff]. The battle herald's levels stack with
+cavalier levels for the purpose of the cavalier's tactician
 ability.
 
-**Easy March (Ex)**: At 2nd level, allies within 60 feet of the battle
-herald can hustle or force march during overland travel without ill
-effects for a number of hours per day equal to 1 hour times her
-inspiring command bonus.
+**Easy March (Ex)**: At 2nd level, allies within 60 feet of the
+battle herald can hustle or force march during overland travel
+without ill effects for a number of hours per day equal to 1 hour
+times her inspiring command bonus.
 
-**Inspire Greatness (Ex)**: At 4th level, a battle herald may use her
-inspiring command ability to inspire greatness (as the 9th-level bardic
-performance ability). This ability affects one creature at 4th level,
-two at 7th, and three at 10th.
+**Inspire Greatness (Ex)**: At 4th level, a battle herald may use
+her inspiring command ability to inspire greatness (as the
+9th-level bardic performance ability). This ability affects one
+creature at 4th level, two at 7th, and three at 10th.
 
-**Banner (Ex)**: At 5th level, a battle herald may fly a battle standard
-that inspires her allies. This ability is identical to the cavalier's
-banner ability, and cavalier levels stack with battle herald levels to
-determine the bonuses provided by the banner.
+**Banner (Ex)**: At 5th level, a battle herald may fly a battle
+standard that inspires her allies. This ability is identical to
+the cavalier's banner ability, and cavalier levels stack with
+battle herald levels to determine the bonuses provided by the
+banner.
 
-**Teamwork Feat**: At 6th level, a battle herald receives a teamwork
-feat as a bonus feat. She must meet the prerequisites for this feat. She
-can use her cavalier tactician ability as a move action to grant this
-feat to allies (if she has the cavalier greater tactician ability, this
-is a swift action).
+**Teamwork Feat**: At 6th level, a battle herald receives a
+teamwork feat as a bonus feat. She must meet the prerequisites
+for this feat. She can use her cavalier tactician ability as a
+move action to grant this feat to allies (if she has the cavalier
+greater tactician ability, this is a swift action).
 
 **Demanding Challenge (Ex)**: This ability is identical to the
 12th-level cavalier demanding challenge ability.
 
-**Persistent Commands (Ex)**: At 8th level, a battle herald may allow
-her inspiring commands to persist even if she is incapacitated and
-unable to maintain them. If the player chooses, the effects of the
-battle herald's inspiring commands persist for a number of rounds equal
-to her Charisma bonus (these count toward her number of rounds per day
-limit). This ability does not apply if the battle herald intentionally
-stops maintaining an inspiring command—only if she is dazed, held,
-stunned, killed, and so on, and is unable to maintain them. If the
-battle herald recovers from incapacity while an inspiring command is
-ongoing, she may resume maintaining it as a free action.
+**Persistent Commands (Ex)**: At 8th level, a battle herald may
+allow her inspiring commands to persist even if she is
+incapacitated and unable to maintain them. If the player chooses,
+the effects of the battle herald's inspiring commands persist for
+a number of rounds equal to her Charisma bonus (these count
+toward her number of rounds per day limit). This ability does not
+apply if the battle herald intentionally stops maintaining an
+inspiring command—only if she is dazed, held, stunned, killed,
+and so on, and is unable to maintain them. If the battle herald
+recovers from incapacity while an inspiring command is ongoing,
+she may resume maintaining it as a free action.
 
-**Inspire Last Stand (Ex)**: At 9th level, a battle herald may use
-inspiring command to grant herself and all allies within 30 feet the
-benefits of the [Diehard] feat. Conscious
-affected creatures also gain the benefits of inspire courage while at
+**Inspire Last Stand (Ex)**: At 9th level, a battle herald may
+use inspiring command to grant herself and all allies within 30
+feet the benefits of the [Diehard] feat. Conscious affected
+creatures also gain the benefits of inspire courage while at
 negative hit points.
 
-**Complex Commands (Ex)**: At 10th level, a battle herald can have more
-than one command ability in effect at one time. Each must be begun
-separately and requires a separate maintenance cost. This allows the
-battle herald to have more than one single-target command (such as
-battle magic) in effect at the same time. The effects of multiple
-instances of the same command ability do not stack, even if the bonuses
-provided by that ability would normally stack (for example, if the
-battle herald maintains two pincer maneuver commands, her allies do not
-get double the bonus, even though dodge bonuses normally stack).
+**Complex Commands (Ex)**: At 10th level, a battle herald can
+have more than one command ability in effect at one time. Each
+must be begun separately and requires a separate maintenance
+cost. This allows the battle herald to have more than one
+single-target command (such as battle magic) in effect at the
+same time. The effects of multiple instances of the same command
+ability do not stack, even if the bonuses provided by that
+ability would normally stack (for example, if the battle herald
+maintains two pincer maneuver commands, her allies do not get
+double the bonus, even though dodge bonuses normally stack).
 
-The battle herald can also maintain one bardic performance in addition
-to her inspiring commands, though each must be begun separately and each
-requires its own maintenance cost.
+The battle herald can also maintain one bardic performance in
+addition to her inspiring commands, though each must be begun
+separately and each requires its own maintenance cost.
 
 
 ## Holy Vindicator
 
 Many faiths have within their membership an order of the church
-militant, be they holy knights or dark warriors, who put their lives and
-immortal souls on the line for their faith. They are paragons of battle,
-eschewing sermons for steel. These men and women are living conduits of
-divine power, down to their very blood, which they happily shed in a
-moment if it brings greater glory to their deity or judgment upon
-heretics, infidels, and all enemies of the faith.
+militant, be they holy knights or dark warriors, who put their
+lives and immortal souls on the line for their faith. They are
+paragons of battle, eschewing sermons for steel. These men and
+women are living conduits of divine power, down to their very
+blood, which they happily shed in a moment if it brings greater
+glory to their deity or judgment upon heretics, infidels, and all
+enemies of the faith.
 
-Holy vindicators are usually clerics or fighter/clerics, though many
-paladins (or even paladin/clerics) are drawn to this class as well. In
-all cases, the class offers a further opportunity to fuse and refine
-their martial and ministerial powers and role.
+Holy vindicators are usually clerics or fighter/clerics, though
+many paladins (or even paladin/clerics) are drawn to this class
+as well. In all cases, the class offers a further opportunity to
+fuse and refine their martial and ministerial powers and role.
 
-**Role**: The holy vindicator has substantial spellcasting ability,
-though not so much as a focused cleric or paladin. His combat skills are
-considerable and his healing powers prodigious, and those whose
-religious views align well with the vindicator will find a ready ally.
+**Role**: The holy vindicator has substantial spellcasting
+ability, though not so much as a focused cleric or paladin. His
+combat skills are considerable and his healing powers prodigious,
+and those whose religious views align well with the vindicator
+will find a ready ally.
 
 **Alignment**: While lawful vindicators are somewhat more common,
 vindicators may be of any alignment.
@@ -265,153 +277,153 @@ vindicators may be of any alignment.
 
 ### Requirements
 
-To qualify to become a holy vindicator, a character must fulfill all the
-following criteria.
+To qualify to become a holy vindicator, a character must fulfill
+all the following criteria.
 
 **Base Attack Bonus**: +5.
 
 **Special**: Channel energy class feature.
 
-**Skills**: [Knowledge]
-(religion) 5 ranks.
+**Skills**: [Knowledge] (religion) 5 ranks.
 
-**Feats**: [Alignment Channel] or
-[Elemental Channel].
+**Feats**: [Alignment Channel] or [Elemental Channel].
 
 **Spells**: Able to cast 1st-level divine spells.
 
 ### Class Skills
 
-The vindicator's class skills are
-[Climb] (Str),
-[Heal] (Wis),
-[Intimidate] (Cha),
-[Knowledge] (planes) (Int),
-[Knowledge] (religion) (Int),
-[Ride] (Dex), [Sense Motive] (Wis),
-[Spellcraft] (Int), and
-[Swim] (Str).
+The vindicator's class skills are [Climb] (Str), [Heal] (Wis),
+[Intimidate] (Cha), [Knowledge] (planes) (Int), [Knowledge]
+(religion) (Int), [Ride] (Dex), [Sense Motive] (Wis),
+[Spellcraft] (Int), and [Swim] (Str).
 
 **Skill Ranks per Level**: 2 + Int modifier.
 
-  Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special                                                                          SpellsSpells per Day
-  ------- ------------------- ----------- ---------- ----------- -------------------------------------------------------------------------------- ---------------------------------------
-  1st     +1                  +1          +0         +1          [Channel energy], [vindicator's shield]   —
-  2nd     +2                  +1          +1         +1          [Stigmata]                                                            +1 level of divine spellcasting class
-  3rd     +3                  +2          +1         +2          [Faith healing] (empower)                                        +1 level of divine spellcasting class
-  4th     +4                  +2          +1         +2          [Divine wrath]                                                    +1 level of divine spellcasting class
-  5th     +5                  +3          +2         +3          [Bloodfire], [Channel Smite]        —
-  6th     +6                  +3          +2         +3          [Versatile channel]                                          +1 level of divine spellcasting class
-  7th     +7                  +4          +2         +4          [Divine judgment]                                              +1 level of divine spellcasting class
-  8th     +8                  +4          +3         +4          [Faith healing] (maximize)                                       +1 level of divine spellcasting class
-  9th     +9                  +5          +3         +5          [Bloodrain]                                                          —
-  10th    +10                 +5          +3         +5          [Divine retribution]                                        +1 level of divine spellcasting class
+Level   BAB Fort Ref  Will   Special                      Spells per Day
+            Save Save Save
+------- --- ---- ---- ----- ----------------------------- ----------------
+1st     +1  +1   +0   +1    [Channel energy],             —
+                            [vindicator's shield]         
+2nd     +2  +1   +1   +1    [Stigmata]                    \*
+3rd     +3  +2   +1   +2    [Faith healing] (empower)     \*
+4th     +4  +2   +1   +2    [Divine wrath]                \*
+5th     +5  +3   +2   +3    [Bloodfire], [Channel Smite]  —
+6th     +6  +3   +2   +3    [Versatile channel]           \*
+7th     +7  +4   +2   +4    [Divine judgment]             \*
+8th     +8  +4   +3   +4    [Faith healing] (maximize)    \*
+9th     +9  +5   +3   +5    [Bloodrain]                   —
+10th    +10 +5   +3   +5    [Divine retribution]          \*
 
+\* means +1 level of divine spellcasting class
   : Table: Holy Vindicator
 
 ### Class Features
 
-The following are class features of the holy vindicator prestige class.
+The following are class features of the holy vindicator prestige
+class.
 
-**Weapon and Armor Proficiency**: A vindicator is proficient with all
-simple and martial weapons and all armor and shields (except tower
-shields).
+**Weapon and Armor Proficiency**: A vindicator is proficient with
+all simple and martial weapons and all armor and shields (except
+tower shields).
 
-**Spells per Day**: At the indicated levels, a vindicator gains new
-spells per day as if he had also gained a level in a divine spellcasting
-class he belonged to before adding the prestige class. He does not,
-however, gain other benefits of that class other than spells per day,
-spells known, and an increased effective level of spellcasting. If he
-had more than one divine spellcasting class before becoming a
-vindicator, he must decide to which class he adds the new level for the
-purpose of determining spells per day.
+**Spells per Day**: At the indicated levels, a vindicator gains
+new spells per day as if he had also gained a level in a divine
+spellcasting class he belonged to before adding the prestige
+class. He does not, however, gain other benefits of that class
+other than spells per day, spells known, and an increased
+effective level of spellcasting. If he had more than one divine
+spellcasting class before becoming a vindicator, he must decide
+to which class he adds the new level for the purpose of
+determining spells per day.
 
-**Channel Energy (Su)**: The vindicator's class level stacks with levels
-in any other class that grants the channel energy ability.
+**Channel Energy (Su)**: The vindicator's class level stacks with
+levels in any other class that grants the channel energy ability.
 
-**Vindicator's Shield (Su)**: A vindicator can channel energy into his
-shield as a standard action; when worn, the shield gives the vindicator
-a sacred bonus (if positive energy) or profane bonus (if negative
-energy) to his Armor Class equal to the number of dice of the
-vindicator's channel energy. This bonus lasts for 24 hours or until the
-vindicator is struck in combat, whichever comes first. The shield does
-not provide this bonus to any other wielder, but the vindicator does not
-need to be holding the shield for it to retain this power.
+**Vindicator's Shield (Su)**: A vindicator can channel energy
+into his shield as a standard action; when worn, the shield gives
+the vindicator a sacred bonus (if positive energy) or profane
+bonus (if negative energy) to his Armor Class equal to the number
+of dice of the vindicator's channel energy. This bonus lasts for
+24 hours or until the vindicator is struck in combat, whichever
+comes first. The shield does not provide this bonus to any other
+wielder, but the vindicator does not need to be holding the
+shield for it to retain this power.
 
-**Stigmata (Su)**: A vindicator willingly gives his blood in service to
-his faith, and is marked by scarified wounds appropriate to his deity.
-He may stop or start the flow of blood by force of will as a standard
-action; at 6th level it becomes a move action, and at 10th level it
-becomes a swift action. Activating stigmata causes bleed damage equal to
-half the vindicator's class level, and this bleed damage is not halted
-by curative magic. While the stigmata are bleeding, the vindicator gains
-a sacred bonus (if he channels positive energy) or profane bonus (if he
-channels negative energy) equal to half his class level. Each time he
-activates his stigmata, the vindicator decides if the bonus applies to
-attack rolls, weapon damage rolls, Armor Class, caster level checks, or
-saving throws; to change what the bonus applies to, the vindicator must
-deactivate and reactivate his stigmata.
+**Stigmata (Su)**: A vindicator willingly gives his blood in
+service to his faith, and is marked by scarified wounds
+appropriate to his deity.  He may stop or start the flow of blood
+by force of will as a standard action; at 6th level it becomes a
+move action, and at 10th level it becomes a swift
+action. Activating stigmata causes bleed damage equal to half the
+vindicator's class level, and this bleed damage is not halted by
+curative magic. While the stigmata are bleeding, the vindicator
+gains a sacred bonus (if he channels positive energy) or profane
+bonus (if he channels negative energy) equal to half his class
+level. Each time he activates his stigmata, the vindicator
+decides if the bonus applies to attack rolls, weapon damage
+rolls, Armor Class, caster level checks, or saving throws; to
+change what the bonus applies to, the vindicator must deactivate
+and reactivate his stigmata.
 
-While his stigmata are bleeding, the vindicator ignores blood drain and
-bleed damage from any other source and can use
-*[bleed]* or
-*[stabilize]* at will as a
-standard action.
+While his stigmata are bleeding, the vindicator ignores blood
+drain and bleed damage from any other source and can use
+*[bleed]* or *[stabilize]* at will as a standard action.
 
 **Faith Healing (Su)**: At 3rd level, any *cure wounds* spells a
-vindicator casts on himself are automatically empowered as if by the
-[Empower Spell] feat, except they do
-not use higher spell level slots or an increased casting time. If the
-vindicator targets himself with a cure spell that affects multiple
-creatures, this ability only applies to himself. At 8th level, these
-healing spells are maximized rather than empowered.
+vindicator casts on himself are automatically empowered as if by
+the [Empower Spell] feat, except they do not use higher spell
+level slots or an increased casting time. If the vindicator
+targets himself with a cure spell that affects multiple
+creatures, this ability only applies to himself. At 8th level,
+these healing spells are maximized rather than empowered.
 
 **Divine Wrath (Sp)**: At 4th level, when a vindicator confirms a
-critical hit, he may sacrifice a prepared 1st-level spell or available
-1st-level spell slot to invoke *[doom]*
-upon the target as an immediate action (using the vindicator's caster
-level). The save DC is increased by +2 if his weapon has a ×3 damage
-multiplier, or by +4 if it is ×4. The vindicator can also use this
-ability in response to being critically hit, even if the attack
-incapacitates or kills the vindicator.
+critical hit, he may sacrifice a prepared 1st-level spell or
+available 1st-level spell slot to invoke *[doom]* upon the target
+as an immediate action (using the vindicator's caster level). The
+save DC is increased by +2 if his weapon has a ×3 damage
+multiplier, or by +4 if it is ×4. The vindicator can also use
+this ability in response to being critically hit, even if the
+attack incapacitates or kills the vindicator.
 
-**Bloodfire (Su)**: At 5th level, while a vindicator's stigmata are
-bleeding, his blood runs down his weapons like sacred or profane liquid
-energy; when he uses [Channel Smite],
-the damage increases by 1d6, and if the target fails its save, it is
-sickened and takes 1d6 points of bleed damage each round on its turn.
-The target can attempt a new save every round to end the sickened and
-bleed effects.
+**Bloodfire (Su)**: At 5th level, while a vindicator's stigmata
+are bleeding, his blood runs down his weapons like sacred or
+profane liquid energy; when he uses [Channel Smite], the damage
+increases by 1d6, and if the target fails its save, it is
+sickened and takes 1d6 points of bleed damage each round on its
+turn.  The target can attempt a new save every round to end the
+sickened and bleed effects.
 
-**[Channel Smite]**: At 5th level, a
-vindicator gains [Channel Smite] as a
-bonus feat.
+**[Channel Smite]**: At 5th level, a vindicator gains [Channel
+Smite] as a bonus feat.
 
-**Versatile Channel (Su)**: At 6th level, a vindicator's channel energy
-can instead affect a 30-foot cone or a 120-foot line.
+**Versatile Channel (Su)**: At 6th level, a vindicator's channel
+energy can instead affect a 30-foot cone or a 120-foot line.
 
-**Divine Judgment (Sp)**: At 7th level, when a vindicator's melee attack
-reduces a creature to -1 or fewer hit points, he may sacrifice a
-prepared 2nd-level spell or available 2nd-level spell slot to invoke
-*[death knell]* upon the
-target as an immediate action (using the vindicator's caster level). As
-vindicators mete out divine judgment, this is not an evil act. The save
-DC increases by +2 if his weapon has a ×3 critical multiplier, or by +4
-if it is ×4.
+**Divine Judgment (Sp)**: At 7th level, when a vindicator's melee
+attack reduces a creature to -1 or fewer hit points, he may
+sacrifice a prepared 2nd-level spell or available 2nd-level spell
+slot to invoke *[death knell]* upon the target as an immediate
+action (using the vindicator's caster level). As vindicators mete
+out divine judgment, this is not an evil act. The save DC
+increases by +2 if his weapon has a ×3 critical multiplier, or by
++4 if it is ×4.
 
-**Bloodrain (Su)**: At 9th level, while his stigmata are bleeding, the
-vindicator's harmful channeled energy is accompanied by a burst of
-sacred or profane liquid energy, increasing the damage by 1d6. Creatures
-failing their saves against the channeled energy become sickened and
-take 1d6 points of bleed damage each round. Affected creatures can
-attempt a new save every round to end the sickened and bleed effects.
+**Bloodrain (Su)**: At 9th level, while his stigmata are
+bleeding, the vindicator's harmful channeled energy is
+accompanied by a burst of sacred or profane liquid energy,
+increasing the damage by 1d6. Creatures failing their saves
+against the channeled energy become sickened and take 1d6 points
+of bleed damage each round. Affected creatures can attempt a new
+save every round to end the sickened and bleed effects.
 
-**Divine Retribution (Sp)**: At 10th level, when a vindicator confirms a
-critical hit, he may sacrifice a prepared 3rd-level spell or available
-3rd-level spell slot to invoke *[bestow curse]* upon the target as
-an immediate action (using the vindicator's caster level). The save DC
-increases by +2 if his weapon has a ×3 critical multiplier, or by +4 if
-it is ×4. The vindicator can also use this ability in response to being
+**Divine Retribution (Sp)**: At 10th level, when a vindicator
+confirms a critical hit, he may sacrifice a prepared 3rd-level
+spell or available 3rd-level spell slot to invoke *[bestow
+curse]* upon the target as an immediate action (using the
+vindicator's caster level). The save DC increases by +2 if his
+weapon has a ×3 critical multiplier, or by +4 if it is ×4. The
+vindicator can also use this ability in response to being
 critically hit, even if the attack incapacitates or kills the
 vindicator.
 
@@ -419,318 +431,320 @@ vindicator.
 ## Horizon Walker
 
 Those whose wanderlust drives them to push the boundary of safe
-environments sometimes seek the calling of the horizon walker. Horizon
-walkers are masters of travel, always seeking to find the safe ways
-through inhospitable terrain. They are comfortable in places others
-speak of only in hushed whispers, and they can both venture forth onto
-untrod paths themselves and guide the less-traveled through such
-hazardous lands.
+environments sometimes seek the calling of the horizon
+walker. Horizon walkers are masters of travel, always seeking to
+find the safe ways through inhospitable terrain. They are
+comfortable in places others speak of only in hushed whispers,
+and they can both venture forth onto untrod paths themselves and
+guide the less-traveled through such hazardous lands.
 
-Though rangers are most likely to be attracted to the ever-wandering
-life common to horizon walkers, barbarians, fighters, and rogues have
-also been known to find it appealing. Horizon walkers are most common in
-areas on the edge of civilization, where they can easily spend time away
-from the known and boring streets of settled lands.
+Though rangers are most likely to be attracted to the
+ever-wandering life common to horizon walkers, barbarians,
+fighters, and rogues have also been known to find it
+appealing. Horizon walkers are most common in areas on the edge
+of civilization, where they can easily spend time away from the
+known and boring streets of settled lands.
 
-**Role**: Horizon walkers have the accuracy and resilience to face
-frontline combat. They also have the skills and abilities to make
-excellent scouts, often taking the role of the first member of a group
-into danger and the last one out. Of course, walkers shine when
-adventuring in areas that match their many favored terrains, but many of
-the tricks they pick up in specific regions have application in a wide
-range of situations, allowing a horizon walker to be more mobile and
-resourceful than typical combatants.
+**Role**: Horizon walkers have the accuracy and resilience to
+face frontline combat. They also have the skills and abilities to
+make excellent scouts, often taking the role of the first member
+of a group into danger and the last one out. Of course, walkers
+shine when adventuring in areas that match their many favored
+terrains, but many of the tricks they pick up in specific regions
+have application in a wide range of situations, allowing a
+horizon walker to be more mobile and resourceful than typical
+combatants.
 
-**Alignment**: Anyone can crave new vistas and constant travel, and thus
-a horizon walker can be of any alignment.
+**Alignment**: Anyone can crave new vistas and constant travel,
+and thus a horizon walker can be of any alignment.
 
 **Hit Die**: d10.
 
 ### Requirements
 
-To qualify to become a horizon walker, a character must fulfill all the
-following criteria.
+To qualify to become a horizon walker, a character must fulfill
+all the following criteria.
 
-**Skills**: [Knowledge]
-(geography) 6 ranks.
+**Skills**: [Knowledge] (geography) 6 ranks.
 
 **Feats**: [Endurance].
 
 ### Class Skills
 
-The horizon walker's class skills are
-[Climb] (Str),
-[Diplomacy] (Cha), [Handle Animal] (Cha),
-[Knowledge] (geography) (Int),
-[Knowledge] (nature) (Int),
-[Knowledge] (the planes) (Int),
-[Linguistics] (Int),
-[Perception] (Wis),
-[Stealth] (Dex),
-[Survival] (Wis), and
-[Swim] (Str).
+The horizon walker's class skills are [Climb] (Str), [Diplomacy]
+(Cha), [Handle Animal] (Cha), [Knowledge] (geography) (Int),
+[Knowledge] (nature) (Int), [Knowledge] (the planes) (Int),
+[Linguistics] (Int), [Perception] (Wis), [Stealth] (Dex),
+[Survival] (Wis), and [Swim] (Str).
 
 **Skill Ranks at Each Level**: 6 + Int modifier.
 
-  Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special
-  ------- ------------------- ----------- ---------- ----------- ----------------------------------------------------------------------------------
-  1st     +1                  +1          +0         +0          [Favored terrain]
-  2nd     +2                  +1          +1         +1          [Favored terrain], [terrain mastery]
-  3rd     +3                  +2          +1         +1          [Terrain dominance]
-  4th     +4                  +2          +1         +1          [Favored terrain], [terrain mastery]
-  5th     +5                  +3          +2         +2          [Favored terrain]
-  6th     +6                  +3          +2         +2          [Terrain dominance], [terrain mastery]
-  7th     +7                  +4          +2         +2          [Favored terrain]
-  8th     +8                  +4          +3         +3          [Favored terrain], [terrain mastery]
-  9th     +9                  +5          +3         +3          [Terrain dominance]
-  10th    +10                 +5          +3         +3          [Favored terrain], [master of all lands]
+Level BAB Fort Ref  Will Special
+          Save Save Save
+----- --- ---- ---- ---- ------------------------------------
+1st   +1  +1   +0   +0   [Favored terrain]
+2nd   +2  +1   +1   +1   [Favored terrain], [terrain mastery]
+3rd   +3  +2   +1   +1   [Terrain dominance]
+4th   +4  +2   +1   +1   [Favored terrain], [terrain mastery]
+5th   +5  +3   +2   +2   [Favored terrain]
+6th   +6  +3   +2   +2   [Terrain dominance], [terrain mastery]
+7th   +7  +4   +2   +2   [Favored terrain]
+8th   +8  +4   +3   +3   [Favored terrain], [terrain mastery]
+9th   +9  +5   +3   +3   [Terrain dominance]
+10th  +10 +5   +3   +3   [Favored terrain], [master of all lands]
 
   : Table: Horizon Walker
 
 ### Class Features
 
-The following are class features of the horizon walker prestige class.
+The following are class features of the horizon walker prestige
+class.
 
-**Weapon and Armor Proficiency**: A horizon walker gains no proficiency
-with any weapon or armor.
+**Weapon and Armor Proficiency**: A horizon walker gains no
+proficiency with any weapon or armor.
 
-**Favored Terrain**: At 1st level, a horizon walker may select a favored
-terrain from the ranger Favored Terrains table (*Pathfinder RPG Core
-Rulebook* 65). This works exactly like the ranger favored terrain
-ability. The horizon walker gains an additional favored terrain at 2nd,
-4th, 5th, 7th, 8th and 10th level, and he can increase the bonus from an
-existing favored terrain as described in the ranger ability. If the
-horizon walker has abilities from other classes that only work in a
-favored terrain (such as a ranger's camouflage and hide in plain sight
-abilities), those abilities work in favored terrains selected as a
-horizon walker.
+**Favored Terrain**: At 1st level, a horizon walker may select a
+favored terrain from the ranger Favored Terrains table
+(*Pathfinder RPG Core Rulebook* 65). This works exactly like the
+ranger favored terrain ability. The horizon walker gains an
+additional favored terrain at 2nd, 4th, 5th, 7th, 8th and 10th
+level, and he can increase the bonus from an existing favored
+terrain as described in the ranger ability. If the horizon walker
+has abilities from other classes that only work in a favored
+terrain (such as a ranger's camouflage and hide in plain sight
+abilities), those abilities work in favored terrains selected as
+a horizon walker.
 
-**Terrain Mastery**: At 2nd level, a horizon walker selects a favored
-terrain to master. When within this terrain the horizon walker may, as a
-move action, grant a +2 bonus on
-[Climb],
-[Stealth],
-[Perception] and
-[Survival] checks made by all
-allies within 30 feet who can see and hear him. The character masters
+**Terrain Mastery**: At 2nd level, a horizon walker selects a
+favored terrain to master. When within this terrain the horizon
+walker may, as a move action, grant a +2 bonus on [Climb],
+[Stealth], [Perception] and [Survival] checks made by all allies
+within 30 feet who can see and hear him. The character masters
 one additional terrain at 4th, 6th, and 8th levels.
 
-Mastery of each terrain has additional benefits, outlined below; these
-benefits apply to the horizon walker at all times whether or not he is
-in the relevant terrain.
+Mastery of each terrain has additional benefits, outlined below;
+these benefits apply to the horizon walker at all times whether
+or not he is in the relevant terrain.
 
-*Astral Plane*: The horizon walker's fly speed increases by +30 feet on
-planes with no gravity or subjective gravity.
+*Astral Plane*: The horizon walker's fly speed increases by +30
+feet on planes with no gravity or subjective gravity.
 
 *Cold*: The horizon walker gains cold resistance 10.
 
-*Desert*: The horizon walker gains immunity to exhaustion; anything that
-would cause him to become exhausted makes him fatigued instead.
+*Desert*: The horizon walker gains immunity to exhaustion;
+anything that would cause him to become exhausted makes him
+fatigued instead.
 
-*Ethereal Plane*: The horizon walker ignores the 20% concealment miss
-chance from fog and mist, and treats total concealment from these
-sources as concealment.
+*Ethereal Plane*: The horizon walker ignores the 20% concealment
+miss chance from fog and mist, and treats total concealment from
+these sources as concealment.
 
 *Forest*: The horizon walker gains a +4 competence bonus on
 [Stealth] checks.
 
-*Jungle*: The horizon walker gains a +4 competence bonus on [Escape Artist] checks and
-increases his CMD against grapple maneuvers by +4.
+*Jungle*: The horizon walker gains a +4 competence bonus on
+[Escape Artist] checks and increases his CMD against grapple
+maneuvers by +4.
 
 *Mountain*: The horizon walker gains a +4 competence bonus on
-[Climb] checks and does not lose his
-Dexterity modifier to AC while climbing.
+[Climb] checks and does not lose his Dexterity modifier to AC
+while climbing.
 
-*Plains*: The horizon walker's movement is not reduced by wearing medium
-armor or carrying a medium load.
+*Plains*: The horizon walker's movement is not reduced by wearing
+medium armor or carrying a medium load.
 
 *Plane of Air*: The horizon walker gains a +4 competence bonus on
-[Fly] checks and +1 competence bonus on all
-attack and damage rolls against flying creatures. He gains the ability
-to breathe air if he cannot already do so.
+[Fly] checks and +1 competence bonus on all attack and damage
+rolls against flying creatures. He gains the ability to breathe
+air if he cannot already do so.
 
 *Plane of Earth*: The horizon walker gains DR 1/adamantine.
 
 *Plane of Fire*: The horizon walker gains fire resistance 10.
 
-*Plane of Water*: The horizon walker gains a +4 competence bonus on
-[Swim] checks and a +1 competence bonus on
-all attack and damage rolls against swimming creatures. He gains the
-ability to breathe water if he cannot already do so.
+*Plane of Water*: The horizon walker gains a +4 competence bonus
+on [Swim] checks and a +1 competence bonus on all attack and
+damage rolls against swimming creatures. He gains the ability to
+breathe water if he cannot already do so.
 
 *Plane, aligned*: If the horizon walker selects a plane with an
-alignment trait, he can choose to detect as that alignment (fooling all
-forms of magic divination) as an immediate action; this benefit lasts
-until he dismisses it (a free action).
+alignment trait, he can choose to detect as that alignment
+(fooling all forms of magic divination) as an immediate action;
+this benefit lasts until he dismisses it (a free action).
 
 *Swamp*: The horizon walker gains a +4 competence bonus on
 [Perception] checks.
 
-*Underground*: The horizon walker gains
-[Blind-Fight] as a bonus feat.
+*Underground*: The horizon walker gains [Blind-Fight] as a bonus
+feat.
 
 *Urban*: The horizon walker gains a +4 competence bonus on
 [Diplomacy] checks.
 
-*Water*: The horizon walker gains a +4 competence bonus on
-[Swim] checks and +1 competence bonus on
-all attack and damage rolls against swimming creatures.
+*Water*: The horizon walker gains a +4 competence bonus on [Swim]
+checks and +1 competence bonus on all attack and damage rolls
+against swimming creatures.
 
-**Terrain Dominance**: At 3rd level, a horizon walker learns total
-dominance over one terrain he has already selected for terrain mastery.
-When dealing with creatures native to that terrain, the horizon walker
-treats his favored terrain bonus for that terrain as a favored enemy
-bonus (as the ranger class feature) against those creatures.This bonus
-overlaps (does not stack with) bonuses gained when fighting a favored
-enemy.
+**Terrain Dominance**: At 3rd level, a horizon walker learns
+total dominance over one terrain he has already selected for
+terrain mastery.  When dealing with creatures native to that
+terrain, the horizon walker treats his favored terrain bonus for
+that terrain as a favored enemy bonus (as the ranger class
+feature) against those creatures.This bonus overlaps (does not
+stack with) bonuses gained when fighting a favored enemy.
 
-Each terrain dominance grants additional abilities, detailed below. When
-the horizon walker gains a new terrain dominance he may, if he prefers,
-instead pick an additional terrain mastery.
+Each terrain dominance grants additional abilities, detailed
+below. When the horizon walker gains a new terrain dominance he
+may, if he prefers, instead pick an additional terrain mastery.
 
-*Astral Plane*: The horizon walker gains a +1 competence bonus on attack
-and damage rolls against outsiders. He gains *[dimension door]* as a spell-like
-ability a number of times per day equal to 3 + the character's Wisdom
-modifier (caster level equal to the character's level).
+*Astral Plane*: The horizon walker gains a +1 competence bonus on
+attack and damage rolls against outsiders. He gains *[dimension
+door]* as a spell-like ability a number of times per day equal to
+3 + the character's Wisdom modifier (caster level equal to the
+character's level).
 
-*Cold*: The horizon walker gains cold resistance 20 (this replaces the
-character's cold resistance from mastery of the cold terrain) and a +1
-competence bonus on all attack and damage rolls against creatures of the
-cold subtype.
+*Cold*: The horizon walker gains cold resistance 20 (this
+replaces the character's cold resistance from mastery of the cold
+terrain) and a +1 competence bonus on all attack and damage rolls
+against creatures of the cold subtype.
 
-*Desert*: The horizon walker gains fire resistance 10 and immunity to
-fatigue.
+*Desert*: The horizon walker gains fire resistance 10 and
+immunity to fatigue.
 
-*Ethereal Plane*: The walker gains *[ethereal jaunt]* as a spell-like
-ability once per day (caster level equal to the character's level). He
-must be at least 7th level before selecting this power.
+*Ethereal Plane*: The walker gains *[ethereal jaunt]* as a
+spell-like ability once per day (caster level equal to the
+character's level). He must be at least 7th level before
+selecting this power.
 
-*Forest*: The horizon walker gains *[hallucinatory terrain]*
-as a spell-like ability a number of times per day equal to 3 + the
-character's Wisdom modifier (caster level equal to the character's
-level). The horizon walker can only use this ability to create illusory
-forests.
+*Forest*: The horizon walker gains *[hallucinatory terrain]* as a
+spell-like ability a number of times per day equal to 3 + the
+character's Wisdom modifier (caster level equal to the
+character's level). The horizon walker can only use this ability
+to create illusory forests.
 
-*Jungle*: The horizon walker gains *[charm monster]* as a spell-like
-ability a number of times per day equal to 3 + the character's Wisdom
-modifier (caster level equal to the character's level). This charm only
-affects animals, magical beasts, and creatures primarily found in the
-jungle.
+*Jungle*: The horizon walker gains *[charm monster]* as a
+spell-like ability a number of times per day equal to 3 + the
+character's Wisdom modifier (caster level equal to the
+character's level). This charm only affects animals, magical
+beasts, and creatures primarily found in the jungle.
 
 *Mountain*: The horizon walker gains DR 2/adamantine.
 
 *Plains*: The walker's base speed increases by +10 feet.
 
-*Plane of Air*: The horizon walker gains *[fly]*
-as a spell-like ability a number of times per day equal to 3 + the
-character's Wisdom modifier (caster level equal to the character's
-level).
+*Plane of Air*: The horizon walker gains *[fly]* as a spell-like
+ability a number of times per day equal to 3 + the character's
+Wisdom modifier (caster level equal to the character's level).
 
-*Plane of Earth*: The horizon walker gains tremorsense with a range of
-30 feet. He must be at least 5th level before selecting this plane for
-this ability.
+*Plane of Earth*: The horizon walker gains tremorsense with a
+range of 30 feet. He must be at least 5th level before selecting
+this plane for this ability.
 
-*Plane of Fire*: The horizon walker gains fire resistance 20 (this
-replaces the character's file resistance from mastery of the Plane of
-Fire terrain) and a +1 competence bonus on all attack and damage rolls
-again creatures of the fire subtype.
+*Plane of Fire*: The horizon walker gains fire resistance 20
+(this replaces the character's file resistance from mastery of
+the Plane of Fire terrain) and a +1 competence bonus on all
+attack and damage rolls again creatures of the fire subtype.
 
-*Plane of Water*: The horizon walker's movements and actions are not
-hampered when underwater. This allows him to speak, make attacks, and
-cast spells normally underwater (as if using *[freedom of movement]*).
+*Plane of Water*: The horizon walker's movements and actions are
+not hampered when underwater. This allows him to speak, make
+attacks, and cast spells normally underwater (as if using
+*[freedom of movement]*).
 
-*Plane, aligned*: For the purpose of bypassing damage reduction, the
-horizon walker's manufactured and natural weapons count as the opposite
-alignment of his chosen plane of dominance. If his chosen plane has more
-than one alignment type, he must choose one of those types for this
-ability. For example, if he selects “Hell” (an evil, lawful plane) for
-his terrain dominance ability, he may choose “evil” or “lawful,” which
-means his attacks bypass good or chaotic damage reduction, respectively.
-Alternatively, if native creatures of his chosen plane are vulnerable to
-a particular special material (such as cold iron or silver), he may
-choose to have his weapons bypass damage reduction as if they were that
-special material. If he selects this plane more than once for his
-terrain dominance ability, his attacks count as an additional alignment
-or special material (such as “good and silver” or “chaotic and good”).
+*Plane, aligned*: For the purpose of bypassing damage reduction,
+the horizon walker's manufactured and natural weapons count as
+the opposite alignment of his chosen plane of dominance. If his
+chosen plane has more than one alignment type, he must choose one
+of those types for this ability. For example, if he selects
+“Hell” (an evil, lawful plane) for his terrain dominance ability,
+he may choose “evil” or “lawful,” which means his attacks bypass
+good or chaotic damage reduction, respectively.  Alternatively,
+if native creatures of his chosen plane are vulnerable to a
+particular special material (such as cold iron or silver), he may
+choose to have his weapons bypass damage reduction as if they
+were that special material. If he selects this plane more than
+once for his terrain dominance ability, his attacks count as an
+additional alignment or special material (such as “good and
+silver” or “chaotic and good”).
 
-*Swamp*: The horizon walker gains tremorsense with a 30-foot range. He
-must be 5th level before selecting this power.
+*Swamp*: The horizon walker gains tremorsense with a 30-foot
+range. He must be 5th level before selecting this power.
 
-*Underground*: The horizon walker gains darkvision with a range of 60
-feet. If he already has darkvision 60 feet, its range extends by 60
+*Underground*: The horizon walker gains darkvision with a range
+of 60 feet. If he already has darkvision 60 feet, its range
+extends by 60 feet.
+
+*Urban*: The horizon walker gains *[charm person]* as a
+spell-like ability a number of times per day equal to 3 + the
+character's Wisdom modifier (caster level equal to the
+character's level).
+
+*Water*: The horizon walker gains a swim speed of 20 feet. If he
+already has a natural swim speed, his swim speed increases by +20
 feet.
 
-*Urban*: The horizon walker gains *[charm person]* as a spell-like
-ability a number of times per day equal to 3 + the character's Wisdom
-modifier (caster level equal to the character's level).
-
-*Water*: The horizon walker gains a swim speed of 20 feet. If he already
-has a natural swim speed, his swim speed increases by +20 feet.
-
-**Master of All Lands (Su)**: At 10th level, the horizon walker becomes
-familiar with and comfortable in all possible terrains. His terrain
-bonus in all favored terrains increases by +2, and he treats all other
-terrains as if they were favored terrains (+2 bonus). If a naturally
-occurring condition of temperature or weather requires a check or saving
-throw, he automatically succeeds. All allies within 60 feet of him gain
-a +2 bonus on these checks and saves; if the horizon walker is in a
+**Master of All Lands (Su)**: At 10th level, the horizon walker
+becomes familiar with and comfortable in all possible
+terrains. His terrain bonus in all favored terrains increases by
++2, and he treats all other terrains as if they were favored
+terrains (+2 bonus). If a naturally occurring condition of
+temperature or weather requires a check or saving throw, he
+automatically succeeds. All allies within 60 feet of him gain a
++2 bonus on these checks and saves; if the horizon walker is in a
 mastered terrain, this bonus increases to +4.
 
 
 ## Master Chymist
 
-When alchemists blithely use mutagens to turn themselves into hulking
-creatures of muscle and reflex, civilized folk often turn their heads
-and mutter that such transformations must have a price. For a few
-alchemists, that price is transformation into a master chymist, a
-creature able to take a monstrous brute form as an act of will.
+When alchemists blithely use mutagens to turn themselves into
+hulking creatures of muscle and reflex, civilized folk often turn
+their heads and mutter that such transformations must have a
+price. For a few alchemists, that price is transformation into a
+master chymist, a creature able to take a monstrous brute form as
+an act of will.
 
-Master chymists become two personalities sharing a single body. Both the
-hulking “mutagenic form” of alchemical prowess and the original
-alchemist who created it think of themselves as the true form, and they
-must learn to work together to achieve their joint goals. More often
-than not, master chymists eventually become their mutagenic form, and
-the original alchemist's body and mind may only be brought forth when
-required by social custom or a need for obscurity and stealth arises.
-Unfortunately, the mutagenic form of a master chymist is often a more
-violent, unforgiving personality (which can lead to conflict between the
+Master chymists become two personalities sharing a single
+body. Both the hulking “mutagenic form” of alchemical prowess and
+the original alchemist who created it think of themselves as the
+true form, and they must learn to work together to achieve their
+joint goals. More often than not, master chymists eventually
+become their mutagenic form, and the original alchemist's body
+and mind may only be brought forth when required by social custom
+or a need for obscurity and stealth arises.  Unfortunately, the
+mutagenic form of a master chymist is often a more violent,
+unforgiving personality (which can lead to conflict between the
 two versions of the same character).
 
-**Role**: Master chymists are rarely accepted by society once their
-nature is revealed, and thus they have a strong motivation to keep on
-the move. Adventuring is one of the few activities that their monstrous
-form can be useful for, leading many to constantly explore dangerous
-areas on the edge of civilization. A master chymist's resilience and
-ability to combine bomb-throwing mayhem with up-close melee carnage is a
-great benefit to many adventuring parties, buying the master chymist
-allies who are at least willing to overlook her more distasteful
-features.
+**Role**: Master chymists are rarely accepted by society once
+their nature is revealed, and thus they have a strong motivation
+to keep on the move. Adventuring is one of the few activities
+that their monstrous form can be useful for, leading many to
+constantly explore dangerous areas on the edge of civilization. A
+master chymist's resilience and ability to combine bomb-throwing
+mayhem with up-close melee carnage is a great benefit to many
+adventuring parties, buying the master chymist allies who are at
+least willing to overlook her more distasteful features.
 
-**Alignment**: A master chymist actually has two alignments (see the
-mutagenic form ability). The only restriction on these alignments is
-that they cannot be exactly the same.
+**Alignment**: A master chymist actually has two alignments (see
+the mutagenic form ability). The only restriction on these
+alignments is that they cannot be exactly the same.
 
 **Hit Die**: d10.
 
 ### Requirements
 
-To qualify to become a master chymist, a character must fulfill all the
-following criteria.
+To qualify to become a master chymist, a character must fulfill
+all the following criteria.
 
 **Spells**: Ability to create 3rd-level extracts.
 
-**Special**: Mutagen class feature, feral mutagen or infuse mutagen
-discovery.
+**Special**: Mutagen class feature, feral mutagen or infuse
+mutagen discovery.
 
 ### Class Skills
 
-The master chymist's class skills are
-[Acrobatics] (Dex),
-[Climb] (Str), [Escape Artist] (Dex),
-[Intimidate] (Cha),
-[Knowledge] (dungeoneering)
-(Int), [Sense Motive]
-(Wis), [Stealth] (Dex), and
+The master chymist's class skills are [Acrobatics] (Dex), [Climb]
+(Str), [Escape Artist] (Dex), [Intimidate] (Cha), [Knowledge]
+(dungeoneering) (Int), [Sense Motive] (Wis), [Stealth] (Dex), and
 [Swim] (Str).
 
 **Skill Ranks at Each Level**: 2 + Int modifier.
