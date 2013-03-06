@@ -2672,11 +2672,11 @@ level, except that her effective druid level for this ability is
 equal to her druid level - 2.
 
 **Snowcaster (Su)**: At 9th level, an arctic druid can see
-*normally in [Ice Storm]*, *[Sleet Storm]*, or similar natural
-*snowstorms. In addition, she can prepare any druid spell with
-*the fire subtype as a cold spell, with an identical effect but
-*inflicting cold damage instead of fire damage. This ability
-*replaces venom immunity.
+normally in [Ice Storm]*, *[Sleet Storm]*, or similar natural
+snowstorms. In addition, she can prepare any druid spell with
+the fire subtype as a cold spell, with an identical effect but
+inflicting cold damage instead of fire damage. This ability
+replaces venom immunity.
 
 **Flurry Form (Ex)**: At 13th level, an arctic druid can assume
 the form of a swirling column of snow equivalent to *[Gaseous
