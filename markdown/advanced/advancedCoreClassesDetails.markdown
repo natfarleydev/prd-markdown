@@ -4036,7 +4036,7 @@ body.
 **Mystic Visions (Su)**: At 11th level, a *ki*mystic may receive
 mystic visions when he rests. These visions can come as a dream,
 an epiphany, or even as the voice of an old friend whispering in
-the monk's mind. The effect is similar to a *[Divination]*spell
+the monk's mind. The effect is similar to a *[Divination]* spell
 with a caster level equal to the monk's level. The *[Divination]*
 has no casting time; it is just part of the normal dreams or
 visions that occur every night. Using this ability costs 2 *ki*
@@ -4132,16 +4132,16 @@ Fist]) by 1d6 (2d6 at 5th level, 3d6 at 10th level, and so
 on). This ability replaces [Stunning Fist].
 
 **Slow Time (Su)**: At 12th level, a monk of the four winds can
-*use his ki* to slow time or quicken his movements, depending on
-*the observer.  As a swift action, the monk can expend 6 *ki*
-*points to gain three standard actions during his turn instead of
-*just one. The monk can use these actions to do the following:
-*take a melee attack action, use a skill, use an extraordinary
-*ability, or take a move action. The monk cannot use these
-*actions to cast spells or use spell-like abilities, and cannot
-*combine them to take full-attack actions. Any move actions the
-*monk makes this turn do not provoke attacks of opportunity. This
-*ability replaces abundant step.
+use his ki* to slow time or quicken his movements, depending on
+the observer.  As a swift action, the monk can expend 6 *ki*
+points to gain three standard actions during his turn instead of
+just one. The monk can use these actions to do the following:
+take a melee attack action, use a skill, use an extraordinary
+ability, or take a move action. The monk cannot use these actions
+to cast spells or use spell-like abilities, and cannot combine
+them to take full-attack actions. Any move actions the monk makes
+this turn do not provoke attacks of opportunity. This ability
+replaces abundant step.
 
 **Aspect Master (Su)**: At 17th level, a monk of the four winds
 must choose an aspect of one of the great spirits of the
@@ -7047,10 +7047,10 @@ cultivating an air of mystery and majesty that is all your own.
 **Class Skill**: [Stealth].
 
 **Bonus Spells**: *[Ray of Enfeeblement]*(3rd),
-*[Darkvision]*(5th), *[Deeper Darkness]*(7th), [Shadow
-*Conjuration]*(9th), [Shadow Evocation]*(11th), [Shadow
-*Walk]*(13th), [Power Word Blind]*(15th), [Greater
-*Evocation]*(17th), *[Shades]*(19th).
+*[Darkvision]*(5th), *[Deeper Darkness]*(7th), *[Shadow
+Conjuration]*(9th), [Shadow Evocation]*(11th), *[Shadow
+Walk]*(13th), [Power Word Blind]*(15th), *[Greater
+Evocation]*(17th), *[Shades]*(19th).
 
 **Bonus Feats**: [Acrobatic], [Blind-Fight], [Dodge], [Quick
 Draw], [Silent Spell], [Skill Focus] ([Stealth]), [Stealthy],
@@ -7235,9 +7235,9 @@ seed, giving you innate communion with nature.
 **Class Skill**: [Knowledge] (nature).
 
 **Bonus Spells**: [Entangle]*(3rd), [Barkskin]*(5th), *[Speak
-*with Plants]*(7th), [Command Plants]*(9th), *[Wall of
-*Thorns]*(11th), [Transport via Plants]*(13th), [Plant Shape
-*III]*(15th), *[Animate Plants]*(17th), [Shambler]*(19th).
+with Plants]*(7th), [Command Plants]*(9th), *[Wall of
+Thorns]*(11th), [Transport via Plants]*(13th), *[Plant Shape
+III]*(15th), *[Animate Plants]*(17th), [Shambler]*(19th).
 
 **Bonus Feats**: [Acrobatic Steps], [Craft Staff], [Endurance],
 [Extend Spell], [Fleet], [Nimble Moves], [Skill Focus]
