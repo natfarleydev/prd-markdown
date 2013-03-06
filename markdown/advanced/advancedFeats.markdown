@@ -903,7 +903,7 @@ knowledge and training.
 [Profession] skill checks, and can make checks with those skills
 untrained.
 
-### Bull Rush Strike (Combat)
+### Bull Rush Strike (Combat) {#bull-rush-strike}
 
 
 Your critical hits can push back your foes.
@@ -1257,7 +1257,7 @@ enemies within 30 feet as a free action. Enemies that cannot see
 both you and the enemy you reduced to 0 or fewer hit points are
 unaffected.
 
-### Duck and Cover (Teamwork)
+### Duck and Cover (Teamwork) {#duck-and-cover}
 
 
 Your allies assist you in avoiding certain attacks.
@@ -1665,7 +1665,7 @@ the usual +2 bonus for being invisible.
 **Special:** The Greater [Blind-Fight] feat is of no use against
 a character who is the subject of a *[blink]* spell.
 
-### Greater Dirty Trick (Combat)
+### Greater Dirty Trick (Combat) {#greater-dirty-trick}
 
 
 When you pull a dirty trick, your foe is truly hindered.
@@ -1737,7 +1737,7 @@ attacks of opportunity from all of your allies (but not you).
 **Normal:** Creatures moved by reposition do not provoke attacks
 of opportunity.
 
-### Greater Shield Specialization (Combat)
+### Greater Shield Specialization (Combat) {#greater-shield-specialization}
 
 
 Your masterful shieldwork provides even greater protection to
@@ -1843,7 +1843,7 @@ usual +2 bonus for being invisible.
 **Special:** The Improved Blind-Fight feat is of no use against a
 character who is the subject of a *[blink]* spell.
 
-### Improved Dirty Trick (Combat)
+### Improved Dirty Trick (Combat) {#improved-dirty-trick}
 
 
 You are skilled at pulling dirty tricks on your foes.
@@ -1875,7 +1875,7 @@ you.
 **Normal:** You provoke an attack of opportunity when performing
 a drag combat maneuver.
 
-### Improved Ki Throw (Combat)
+### Improved Ki Throw (Combat) {#improved-ki-throw}
 
 
 Your enemies are living weapons in your hands.
@@ -1915,7 +1915,7 @@ to reposition you.
 **Normal:** You provoke an attack of opportunity when performing
 a reposition combat maneuver.
 
-### Improved Second Chance (Combat)
+### Improved Second Chance (Combat) {#improved-second-chance}
 
 
 You can turn a missed strike into a second chance without
@@ -2407,7 +2407,7 @@ than the spell's actual level.
 Spells that do not require a saving throw to resist or lessen the
 spell's effect do not benefit from this feat.
 
-### Point Blank Master (Combat)
+### Point Blank Master (Combat) {#point-blank-master}
 
 
 You are adept at firing ranged weapons in close quarters.
@@ -2713,7 +2713,7 @@ racial trait.
 **Normal:** The keen senses trait normally grants a +2 racial
 bonus on [Perception] skill checks.
 
-### Shield of Swings (Combat)
+### Shield of Swings (Combat) {#shield-of-swings}
 
 
 A wild frenzy of attacks serves to bolster your defenses.
@@ -3132,7 +3132,7 @@ level.
 
 Spells that do not inflict damage do not benefit from this feat.
 
-### Touch of Serenity (Combat)
+### Touch of Serenity (Combat) {#touch-of-serenity}
 
 
 With a single touch you can reduce the threat of even the most
@@ -3199,7 +3199,7 @@ following feats to a given critical hit: [Bull Rush Strike],
 or [Tripping Strike]. You may choose to use this feat after you
 make your confirmation roll.
 
-### Under and Over (Combat)
+### Under and Over (Combat) {#under-and-over}
 
 
 You can slip under a foe trying to grab you, knocking him off
