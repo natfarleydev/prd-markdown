@@ -1,3 +1,6 @@
+% Advanced Player's Guide
+% Piazo.com
+
 # Advanced Player's Guide
 
 ### Version 0.9 (BETA)
