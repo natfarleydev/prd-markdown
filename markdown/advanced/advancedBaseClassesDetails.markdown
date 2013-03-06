@@ -3260,54 +3260,54 @@ The summoner's class skills are [Craft] (Int), [Fly] (Dex),
 
 **Skill Ranks per Level**: 2 + Int modifier.
 
-+-----+----------+----+----+----+-------------------------------+
-|Level|Base      |Fort|Ref |Will|Special                        |
-|     |Attack    |Save|Save|Save|                               |
-|     |Bonus     |    |    |    |                               |
-+-----+----------+----+----+----+-------------------------------+
-|1st  |+0        |+0  |+0  |+2  |[Cantrips], [eidolon], [life   |
-|     |          |    |    |    |link],*[summon monster I]*     |
-+-----+----------+----+----+----+-------------------------------+
-|2nd  |+1        |+0  |+0  |+3  |[Bond senses]                  |
-+-----+----------+----+----+----+-------------------------------+
-|3rd  |+2        |+1  |+1  |+3  |*[Summon monster II]*          |
-+-----+----------+----+----+----+-------------------------------+
-|4th  |+3        |+1  |+1  |+4  |[Shield ally]                  |
-+-----+----------+----+----+----+-------------------------------+
-|5th  |+3        |+1  |+1  |+4  | [Summon monster III]*         |
-+-----+----------+----+----+----+-------------------------------+
-|6th  |+4        |+2  |+2  |+5  |[Maker's call]                 |
-+-----+----------+----+----+----+-------------------------------+
-|7th  |+5        |+2  |+2  |+5  |*[Summon monster IV]*          |
-+-----+----------+----+----+----+-------------------------------+
-|8th  |+6/+1     |+2  |+2  |+6  |[Transposition]                |
-+-----+----------+----+----+----+-------------------------------+
-|9th  |+6/+1     |+3  |+3  |+6  |*[Summon monster V]*           |
-+-----+----------+----+----+----+-------------------------------+
-|10th |+7/+2     |+3  |+3  |+7  |[Aspect]                       |
-+-----+----------+----+----+----+-------------------------------+
-|11th |+8/+3     |+3  |+3  |+7  |*[Summon monster VI]*          |
-+-----+----------+----+----+----+-------------------------------+
-|12th |+9/+4     |+4  |+4  |+8  |[Greater shield ally]          |
-+-----+----------+----+----+----+-------------------------------+
-|13th |+9/+4     |+4  |+4  |+8  |*[Summon monster VII]*         |
-+-----+----------+----+----+----+-------------------------------+
-|14th |+10/+5    |+4  |+4  |+9  |[Life bond]                    |
-+-----+----------+----+----+----+-------------------------------+
-|15th |+11/+6/+1 |+5  |+5  |+9  |*[Summon monster VIII]*        |
-+-----+----------+----+----+----+-------------------------------+
-|16th |+12/+7/+2 |+5  |+5  |+10 |[Merge forms]                  |
-+-----+----------+----+----+----+-------------------------------+ 
-|17th |+12/+7/+2 |+5  |+5  |+10 |*[Summon monster IX]*          |
-+-----+----------+----+----+----+-------------------------------+
-|18th |+13/+8/+3 |+6  |+6  |+11 |[Greater aspect]               |
-+-----+----------+----+----+----+-------------------------------+
-|19th |+14/+9/+4 |+6  |+6  |+11 |*[Gate]*                       |
-+-----+----------+----+----+----+-------------------------------+
-|20th |+15/+10/+5|+6  |+6  |+12 |[Twin eidolon]                 |
-+-----+----------+----+----+----+-------------------------------+
++----+----------+----+----+----+--------------------------------+
+|Lvl |BAB       |Fort|Ref |Will|Special                         |
+|    |          |Save|Save|Save|                                |
++----+----------+----+----+----+--------------------------------+
+|1st |+0        |+0  |+0  |+2  |[Cantrips], [eidolon], [life    |
+|    |          |    |    |    |link],*[summon monster I]*      |
++----+----------+----+----+----+--------------------------------+
+|2nd |+1        |+0  |+0  |+3  |[Bond senses]                   |
++----+----------+----+----+----+--------------------------------+
+|3rd |+2        |+1  |+1  |+3  |*[Summon monster II]*           |
++----+----------+----+----+----+--------------------------------+
+|4th |+3        |+1  |+1  |+4  |[Shield ally]                   |
++----+----------+----+----+----+--------------------------------+
+|5th |+3        |+1  |+1  |+4  | [Summon monster III]*          |
++----+----------+----+----+----+--------------------------------+
+|6th |+4        |+2  |+2  |+5  |[Maker's call]                  |
++----+----------+----+----+----+--------------------------------+
+|7th |+5        |+2  |+2  |+5  |*[Summon monster IV]*           |
++----+----------+----+----+----+--------------------------------+
+|8th |+6/+1     |+2  |+2  |+6  |[Transposition]                 |
++----+----------+----+----+----+--------------------------------+
+|9th |+6/+1     |+3  |+3  |+6  |*[Summon monster V]*            |
++----+----------+----+----+----+--------------------------------+
+|10th|+7/+2     |+3  |+3  |+7  |[Aspect]                        |
++----+----------+----+----+----+--------------------------------+
+|11th|+8/+3     |+3  |+3  |+7  |*[Summon monster VI]*           |
++----+----------+----+----+----+--------------------------------+
+|12th|+9/+4     |+4  |+4  |+8  |[Greater shield ally]           |
++----+----------+----+----+----+--------------------------------+
+|13th|+9/+4     |+4  |+4  |+8  |*[Summon monster VII]*          |
++----+----------+----+----+----+--------------------------------+
+|14th|+10/+5    |+4  |+4  |+9  |[Life bond]                     |
++----+----------+----+----+----+--------------------------------+
+|15th|+11/+6/+1 |+5  |+5  |+9  |*[Summon monster VIII]*         |
++----+----------+----+----+----+--------------------------------+
+|16th|+12/+7/+2 |+5  |+5  |+10 |[Merge forms]                   |
++----+----------+----+----+----+--------------------------------+ 
+|17th|+12/+7/+2 |+5  |+5  |+10 |*[Summon monster IX]*           |
++----+----------+----+----+----+--------------------------------+
+|18th|+13/+8/+3 |+6  |+6  |+11 |[Greater aspect]                |
++----+----------+----+----+----+--------------------------------+
+|19th|+14/+9/+4 |+6  |+6  |+11 |*[Gate]*                        |
++----+----------+----+----+----+--------------------------------+
+|20th|+15/+10/+5|+6  |+6  |+12 |[Twin eidolon]                  |
++----+----------+----+----+----+--------------------------------+
 
 Table: Spells per Day
+
 +-----+----+----+----+----+----+----+
 |Level|1st |2nd |3rd |4th |5th |6th |
 +-----+----+----+----+----+----+----+
@@ -3351,9 +3351,6 @@ Table: Spells per Day
 +-----+----+----+----+----+----+----+
 |20th |5   |5   |5   |5   |5   |5   |
 +-----+----+----+----+----+----+----+
-
-Table: Summoner
-
 
 Table: Summoner Spells Known
 +-----+-----+-----+-----+-----+-----+-----+-----+
@@ -3522,27 +3519,27 @@ in this way are not restored when the eidolon gets closer to its
 summoner, but its maximum hit point total does return to normal.
 
 ***Summon Monster I* (Sp)**: Starting at 1st level, a summoner
-*can cast [summon monster I]* as a spell-like ability a number of
-*times per day equal to 3 + his Charisma modifier. Drawing upon
-*this ability uses up the same power as the summoner uses to call
-*his eidolon. As a result, he can only use this ability when his
-*eidolon is not summoned. He can cast this spell as a standard
-*action and the creatures remain for 1 minute per level (instead
-*of 1 round per level). At 3rd level, and every 2 levels
-*thereafter, the power of this ability increases by one spell
-*level, allowing him to summon more powerful creatures (to a
-*maximum of *[summon monster IX]* at 17th level).  At 19th level,
-*this ability can be used as [gate]* or *[summon monster IX]*. If
-*used as [gate]*, the summoner must pay any required material
-*components. A summoner cannot have more than one summon monster*
-*or *[gate]*spell active in this way at one time. If this ability
-*is used again, any existing summon monster* or *[gate]*
-*immediately ends. These summon spells are considered to be part
-*of his spell list for the purposes of spell trigger and spell
-*completion items. In addition, he can expend uses of this
-*ability to fufill the construction requirements of any magic
-*item he creates, so long as he can use this ability to cast the
-*required spell.
+can cast *[summon monster I]* as a spell-like ability a number of
+times per day equal to 3 + his Charisma modifier. Drawing upon
+this ability uses up the same power as the summoner uses to call
+his eidolon. As a result, he can only use this ability when his
+eidolon is not summoned. He can cast this spell as a standard
+action and the creatures remain for 1 minute per level (instead
+of 1 round per level). At 3rd level, and every 2 levels
+thereafter, the power of this ability increases by one spell
+level, allowing him to summon more powerful creatures (to a
+maximum of *[summon monster IX]* at 17th level).  At 19th level,
+this ability can be used as *[gate]* or *[summon monster IX]*. If
+used as *[gate]*, the summoner must pay any required material
+components. A summoner cannot have more than one summon monster*
+or *[gate]*spell active in this way at one time. If this ability
+is used again, any existing summon monster* or *[gate]*
+immediately ends. These summon spells are considered to be part
+of his spell list for the purposes of spell trigger and spell
+completion items. In addition, he can expend uses of this ability
+to fufill the construction requirements of any magic item he
+creates, so long as he can use this ability to cast the required
+spell.
 
 **Bond Senses (Su)**: Starting at 2nd level, a summoner can, as a
 standard action, share the senses of his eidolon, hearing,
@@ -3773,6 +3770,7 @@ gains [Multiattack].
 a Reflex saving throw for half damage, an eidolon takes no damage
 if it makes a successful saving throw and only half damage if the
 saving throw fails.
+
 +-----+--+---+-----+----+------+-----+-----+-------+
 |Class|HD|BAB|Good |Bad |Skills|Feats|Armor|Str/Dex|
 |Level|  |   |Saves|Save|      |     |Bonus|Bonus  |
@@ -4529,55 +4527,53 @@ The witch's class skills are [Craft] (Int), [Fly] (Dex), [Heal]
 
 Table: Witch
 
-+-----+------+-----+-----+-----+----------------------------+
-|Level|Base  |Fort |Ref  |Will |Special                     |
-|     |Attack|Save |Save |Save |                            |
-|     |Bonus |     |     |     |                            |
-+-----+------+-----+-----+-----+----------------------------+
-|1st  |+0    |+0   |+0   |+2   |[Cantrips],                 |
-|     |      |     |     |     |[hex], [witch's             |
-|     |      |     |     |     |familiar]                   |
-+-----+------+-----+-----+-----+----------------------------+
-|2nd  |+1    |+0   |+0   |+3   |[Hex]                       |
-+-----+------+-----+-----+-----+----------------------------+
-|3rd  |+1    |+1   |+1   |+3   |                            |
-+-----+------+-----+-----+-----+----------------------------+
-|4th  |+2    |+1   |+1   |+4   |[Hex]                       |
-+-----+------+-----+-----+-----+----------------------------+
-|5th  |+2    |+1   |+1   |+4   |                            |
-+-----+------+-----+-----+-----+----------------------------+
-|6th  |+3    |+2   |+2   |+5   |[Hex]                       |
-+-----+------+-----+-----+-----+----------------------------+
-|7th  |+3    |+2   |+2   |+5   |                            |
-+-----+------+-----+-----+-----+----------------------------+
-|8th  |+4    |+2   |+2   |+6   |[Hex]                       |
-+-----+------+-----+-----+-----+----------------------------+
-|9th  |+4    |+3   |+3   |+6   |                            |
-+-----+------+-----+-----+-----+----------------------------+
-|10th |+5    |+3   |+3   |+7   |[Hex], [major               |
-|     |      |     |     |     |hex]                        |
-+-----+------+-----+-----+-----+----------------------------+
-|11th |+5    |+3   |+3   |+7   |                            |
-+-----+------+-----+-----+-----+----------------------------+
-|12th |+6/+1 |+4   |+4   |+8   |[Hex]                       |
-+-----+------+-----+-----+-----+----------------------------+
-|13th |+6/+1 |+4   |+4   |+8   |                            |
-+-----+------+-----+-----+-----+----------------------------+
-|14th |+7/+2 |+4   |+4   |+9   |[Hex]                       |
-+-----+------+-----+-----+-----+----------------------------+
-|15th |+7/+2 |+5   |+5   |+9   |                            |
-+-----+------+-----+-----+-----+----------------------------+
-|16th |+8/+3 |+5   |+5   |+10  |[Hex]                       |
-+-----+------+-----+-----+-----+----------------------------+
-|17th |+8/+3 |+5   |+5   |+10  |                            |
-+-----+------+-----+-----+-----+----------------------------+
-|18th |+9/+4 |+6   |+6   |+11  |[Hex], [grand               |
-|     |      |     |     |     |hex]                        |
-+-----+------+-----+-----+-----+----------------------------+
-|19th |+9/+4 |+6   |+6   |+11  |                            |
-+-----+------+-----+-----+-----+----------------------------+
-|20th |+10/+5|+6   |+6   |+12  |[Hex]                       |
-+-----+------+-----+-----+-----+----------------------------+
++----+------+----+----+----+-----------------------------------+
+|Lvl |BAB   |Fort|Ref |Will|Special                            |
+|    |      |Save|Save|Save|                                   |
+|    |      |    |    |    |                                   |
++----+------+----+----+----+-----------------------------------+
+|1st |+0    |+0  |+0  |+2  |[Cantrips], [hex], [witch's        |
+|    |      |    |    |    |familiar]                          |
++----+------+----+----+----+-----------------------------------+
+|2nd |+1    |+0  |+0  |+3  |[Hex]                              |
++----+------+----+----+----+-----------------------------------+
+|3rd |+1    |+1  |+1  |+3  |                                   |
++----+------+----+----+----+-----------------------------------+
+|4th |+2    |+1  |+1  |+4  |[Hex]                              |
++----+------+----+----+----+-----------------------------------+
+|5th |+2    |+1  |+1  |+4  |                                   |
++----+------+----+----+----+-----------------------------------+
+|6th |+3    |+2  |+2  |+5  |[Hex]                              |
++----+------+----+----+----+-----------------------------------+
+|7th |+3    |+2  |+2  |+5  |                                   |
++----+------+----+----+----+-----------------------------------+
+|8th |+4    |+2  |+2  |+6  |[Hex]                              |
++----+------+----+----+----+-----------------------------------+
+|9th |+4    |+3  |+3  |+6  |                                   |
++----+------+----+----+----+-----------------------------------+
+|10th|+5    |+3  |+3  |+7  |[Hex], [major hex]                 |
+|    |      |    |    |    |                                   |
++----+------+----+----+----+-----------------------------------+
+|11th|+5    |+3  |+3  |+7  |                                   |
++----+------+----+----+----+-----------------------------------+
+|12th|+6/+1 |+4  |+4  |+8  |[Hex]                              |
++----+------+----+----+----+-----------------------------------+
+|13th|+6/+1 |+4  |+4  |+8  |                                   |
++----+------+----+----+----+-----------------------------------+
+|14th|+7/+2 |+4  |+4  |+9  |[Hex]                              |
++----+------+----+----+----+-----------------------------------+
+|15th|+7/+2 |+5  |+5  |+9  |                                   |
++----+------+----+----+----+-----------------------------------+
+|16th|+8/+3 |+5  |+5  |+10 |[Hex]                              |
++----+------+----+----+----+-----------------------------------+
+|17th|+8/+3 |+5  |+5  |+10 |                                   |
++----+------+----+----+----+-----------------------------------+
+|18th|+9/+4 |+6  |+6  |+11 |[Hex], [grand hex]                 |
++----+------+----+----+----+-----------------------------------+
+|19th|+9/+4 |+6  |+6  |+11 |                                   |
++----+------+----+----+----+-----------------------------------+
+|20th|+10/+5|+6  |+6  |+12 |[Hex]                              |
++----+------+----+----+----+-----------------------------------+
 
 +-----+----+----+----+----+----+----+----+----+----+----+
 |Level|0   |1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
@@ -4962,7 +4958,7 @@ Witches can add new spells to their familiars through several
 methods. A witch can only add spells to her familiar if those
 spells belong to the witch's spell list.
 
-**[Spells] Gained at a New Level**: A [witch's familiar] learns a
+**Spells Gained at a New Level**: A [witch's familiar] learns a
   certain amount of lore and magic as the witch
   adventures. Whenever a witch gains a level, she may add two
   [spells] from the witch spell list to her familiar. The two
