@@ -2589,7 +2589,7 @@ Minor    Medium Major  Specific Weapon            Market Price
 —        —      89-94  *[Spirit blade]*           48,502 gp
 —        —      95-100 *[Guarding blade]*         65,310 gp
 
-  : Table: Specific Weapons
+: Table Specific Weapons
 
 **Beaststrike Club**
 
