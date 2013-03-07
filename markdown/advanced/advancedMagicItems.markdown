@@ -1,14 +1,3 @@
-- [Armor
-- [Weapons]
-- [Rings]
-- [Rods]
-- [Staves]
-- [Wondrous Items]
-- [Cursed Items]
-- [Minor Artifacts]
-- [Major Artifacts]
-
-
 # Magic Items
 
 Beyond well-known magic items, from ubiquitous *potions of [cure
