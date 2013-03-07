@@ -1,5 +1,5 @@
 BUILDDIR = ./build
-FILES_MAIN = advancedIntro.markdown advancedRaces.markdown advancedBaseClasses.markdown advancedBaseClassesDetails.markdown advancedCoreClasses.markdown advancedCoreClassesDetails.markdown advancedPrestigeClasses.markdown advancedPrestigeClassesDetails.markdown advancedFeats.markdown advancedGear.markdown advancedSpellLists.markdown advancedSpellIndex.markdown advancedSpellDetails.markdown advancedMagicItems.markdown advancedMagicItemsDetails.markdown advancedNewRules.markdown # To make sure they're in order
+FILES_MAIN = advancedIntro.markdown openGameLicense.markdown advancedRaces.markdown advancedBaseClasses.markdown advancedBaseClassesDetails.markdown advancedCoreClasses.markdown advancedCoreClassesDetails.markdown advancedPrestigeClasses.markdown advancedPrestigeClassesDetails.markdown advancedFeats.markdown advancedGear.markdown advancedSpellLists.markdown advancedSpellIndex.markdown advancedSpellDetails.markdown advancedMagicItems.markdown advancedMagicItemsDetails.markdown advancedNewRules.markdown # To make sure they're in order
 FILES_ALL = $(FILES_MAIN) 
 
 all: html epub
