@@ -1241,6 +1241,7 @@ discordant sounds, making it hard for the target to act and
 concentrate. The creature gains the nauseated condition for the
 duration of the spell if it fails its Will save.
 
+## Cacophonus Call, Mass
 
 **School**enchantment (compulsion) [mind-affecting]; **Level**
   bard 5
@@ -1389,11 +1390,9 @@ You compel the target to beg for forgiveness. On a failed save,
 the target cowers with fear. On a successful save, it is shaken
 for 1 round.  Each round on its turn, a cowering subject may
 attempt a new save to end the effect. A creature who worships the
-same god as you takes a -2
+same god as you takes a -2 penalty on its saving throw.
 
-
-## penalty on its saving throw.
-
+## Castigate, Mass
 
 **School** enchantment (compulsion) [fear, language-dependent,
 mind-affecting]; **Level** inquisitor 5
@@ -3447,6 +3446,8 @@ while this spell is in effect.
 **Saving Throw** Will negates (harmless); **Spell Resistance**
 yes (harmless)
 
+## Fly, Mass
+
 This spell functions as *[fly]* (*Core Rulebook* 284), save that
 it can target numerous creatures and lasts longer.
 
@@ -3746,11 +3747,9 @@ that's smaller than what would be created by a full-height
 The target coalesces into a semi-physical form for a short period
 of time. While subject to the spell, the incorporeal creature
 takes half damage (50%) from nonmagical attack forms, and full
-damage from magic
+damage from magic weapons, spells, spell-like effects, and supernatural effects.
 
-
-## weapons, spells, spell-like effects, and supernatural effects.
-
+## Ghostbane Dirge, Mass
 
 **School** transmutation; **Level** bard 4, cleric 5, inquisitor
 5, paladin 3
@@ -4382,6 +4381,7 @@ can be under the effects of only one *[invigorate]* spell at a
 time; if it is cast a second time on that creature, the first
 effect immediately ends.
 
+## Invigorate, Mass
 
 **School**illusion [figment]; **Level**bard 3
 
@@ -4982,12 +4982,13 @@ no effect.
 
 **Saving Throw**Fortitude negates; **Spell Resistance**yes
 
-*[Pain strike]*racks the targeted creature with agony, inflicting
+*[Pain strike]* racks the targeted creature with agony, inflicting
 1d6 points of nonlethal damage per round for 1 round per level
 (maximum 10 rounds). Additionally, the affected creature is
 sickened for the spell's duration, and the caster gains a +4
 circumstance bonus on [Intimidate] checks against the target.
 
+## Pain Strike, Mass
 
 **School**evocation [evil]; **Level**sorcerer/wizard 5, witch 5
 
@@ -6940,7 +6941,6 @@ saving throw, a target is staggered for 1 round.
 
 ## Suffocation
 
-
 **School** necromancy; **Level** sorcerer/wizard 5, witch 5
 
 **Casting Time** 1 standard action
@@ -6970,11 +6970,9 @@ each time a target fails his Fortitude save, he moves one step
 further along the track to suffocation. This spell only affects
 living creatures that must breathe. It is impossible to defeat
 the effects of this spell by simply holding one's breath—if the
-victim fails the
+victim fails the initial saving throw, the air in his lungs is extracted.
 
-
-## initial saving throw, the air in his lungs is extracted.
-
+## Suffocation, Mass
 
 **School** necromancy; **Level** sorcerer/wizard 9, witch 9
 
