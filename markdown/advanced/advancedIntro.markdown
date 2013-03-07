@@ -16,3 +16,6 @@ report it as a bug.
 
 Please report any bugs to
 [https://github.com/nasfarley88/pathfinder-prd-markdown].
+
+This document is produced in compliance with the Open Game
+License which follows.
