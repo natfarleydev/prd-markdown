@@ -1,6 +1,12 @@
 # pathfinder-prd-markdown
 
-## Note: this project is not _yet_ ready to accept submissions, but should soon!
+## Note: this project is ready to accept submissions!
+Subissions of content should follow the guidelines laid out on the wiki. It 
+basically boils down to three things:
+
+1) use the pandoc method outlined in this README
+2) Implicit links should be used where possible.
+3) Word wrap all files to 65 chars 'manually' (I use emacs M-q shortcut).
 
 A project to convert the pathfinder prd into markdown for the purpose of making
 an ebook (or collection of ebooks)
