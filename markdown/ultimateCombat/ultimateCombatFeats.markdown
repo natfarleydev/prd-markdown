@@ -1,4 +1,4 @@
-# Feats
+## Feats
 
 Feats represent special tricks or abilities a character has
 acquired through training, luck, or as a quirk of his birth. They
@@ -11,7 +11,7 @@ gunslinger's ability to use grit and deeds, while style feats
 each grant a style of martial arts that can be used by monks and
 other characters who learn the style.
 
-# Types of Feats
+## Types of Feats
 
 While most of the feats presented here are general and have no
 special rules governing them, some feats belong to a type or
@@ -19,13 +19,13 @@ types of feats that feature special shared rules. The type or
 types a feat belongs to appear in parentheses after the feat
 name. This chapter features the following types of feats.
 
-## Combat Feats
+### Combat Feats
 
 Fighters and gunslingers can select combat feats as bonus
 feats. Member of other classes can take these feats as long as
 they meet the prerequisites.
 
-## Critical Feats
+### Critical Feats
 
 Critical feats modify the effects of a critical hit by inflicting
 an additional condition on the victim. Characters without the
@@ -35,7 +35,7 @@ can only apply the effects of one critical feat to an individual
 critical hit. Characters with multiple critical feats can decide
 which feat to apply after confirming a critical hit.
 
-## [Grit Feats]
+### [Grit Feats]
 
 Grit feats interact with the gunslinger's grit class ability or
 the grit granted by the [Amateur Gunslinger] feat, usually by
@@ -44,14 +44,14 @@ number of grit points a character has or how that character
 regains grit points. Gunslingers can take grit feats as bonus
 feats.
 
-## Metamagic Feats
+### Metamagic Feats
 
 Metamagic feats allow spellcasters to modify their spells,
 granting the spells new powers and effects. Such spells generally
 take up a higher-level spell slot than the normal spell. For
 complete rules on how to apply metamagic feats to spells.
 
-## [Performance Feats]
+### [Performance Feats]
 
 Performance feats are used when you make a performance combat
 check, typically granting a special action that occurs when you
@@ -59,7 +59,7 @@ make that check. Unless you have the Masterful Display feat, you
 can only apply the effect of one performance feat to each
 performance combat check you make.
 
-## [Style Feats]
+### [Style Feats]
 
 For centuries, great warriors have looked to nature and the
 multiverse to find inspiration in battle. Countless monastic and
@@ -228,7 +228,7 @@ that complement each style.
  Claws], [Tiger Pounce].
 
 
-## [Teamwork Feats]
+### [Teamwork Feats]
 
 Teamwork grant significant bonuses but only function under
 specific circumstances. In most cases, these feats require an
@@ -240,7 +240,7 @@ the purposes of these feats. Inquisitors and cavaliers have
 special class abilities that allow them to use teamwork feats
 even when their allies do not have the feats.
 
-# Feats Tables
+## Feats Tables
 
 Table: Feats
 
@@ -1505,7 +1505,7 @@ Table: Feats
 
 
 
-# Feat Descriptions
+## Feat Descriptions
 
 All the feat descriptions in this chapter utilize the following
 format.
@@ -1536,7 +1536,7 @@ format.
   more than once, or whether the feat allows members of specific
   classes to gain additional benefits.
 
-## Adder Strike (Combat) {#adder-strike}
+### Adder Strike (Combat) {#adder-strike}
 
 You can quickly apply poison to gloved hands, protected feet, or
 other protected body parts, delivering the poison with your
@@ -1553,7 +1553,7 @@ unarmed strikes.
 **Normal**: Applying poison to a weapon or single piece of
   ammunition is a standard action.
 
-## Adept Champion
+### Adept Champion
 
 You can alter your smite ability, channeling the power of your
 deity into divine inspiration that grants you greater aptitude
@@ -1569,7 +1569,7 @@ for performing combat maneuvers.
   effects of your smite evil feature return to normal at the
   start of your next turn.
 
-## Amateur Gunslinger (Combat) {#amateur-gunslinger}
+### Amateur Gunslinger (Combat) {#amateur-gunslinger}
 
 Although you are not a gunslinger, you have and can use grit.
 
@@ -1590,7 +1590,7 @@ Although you are not a gunslinger, you have and can use grit.
   class feature, you can immediately trade this feat for the
   [Extra Grit] feat.
 
-## Arc Slinger (Combat) {#arc-slinger}
+### Arc Slinger (Combat) {#arc-slinger}
 
 You can twirl your sling in a way that maximizes its
 effectiveness.
@@ -1603,7 +1603,7 @@ effectiveness.
   Shot]'s damage bonus applies within the first normal range
   increment of your sling (50 feet) or sling staff (80 feet).
 
-## Back to Back (Teamwork) {#back-to-back}
+### Back to Back (Teamwork) {#back-to-back}
 
 Your ally's eyes are your own, and yours are his.
 
@@ -1613,7 +1613,7 @@ Your ally's eyes are your own, and yours are his.
   this feat, you receive a +2 circumstance bonus to AC against
   attacks from opponents flanking you.
 
-## Betrayer
+### Betrayer
 
 You can charm people into lowering their defenses, allowing you
 to ambush them more effectively.
@@ -1631,7 +1631,7 @@ to ambush them more effectively.
 
 Once you attack a creature, its attitude becomes hostile.
 
-## Binding Throw (Combat) {#binding-throw}
+### Binding Throw (Combat) {#binding-throw}
 
 You can strike your enemy and use the blow as an opportunity to
 grab and hold him.
@@ -1648,7 +1648,7 @@ grab and hold him.
 **Special**: A monk can gain [Binding Throw] as a bonus feat
   starting at 14th level.
 
-## Bludgeoner (Combat) {#bludgeoner}
+### Bludgeoner (Combat) {#bludgeoner}
 
 You can knock foes out cold with just about any blunt instrument.
 
@@ -1662,7 +1662,7 @@ You can knock foes out cold with just about any blunt instrument.
 **Special**: A rogue with this feat can use a lethal bludgeoning
   weapon to deal nonlethal damage with a sneak attack.
 
-## Boar Ferocity (Combat) {#boar-ferocity}
+### Boar Ferocity (Combat) {#boar-ferocity}
 
 Your flesh-ripping unarmed strikes terrify your victims.
 
@@ -1676,7 +1676,7 @@ Your flesh-ripping unarmed strikes terrify your victims.
   free action to make an [Intimidate] check to demoralize that
   opponent.
 
-## Boar Shred (Combat) {#boar-shred}
+### Boar Shred (Combat) {#boar-shred}
 
 The wounds you inflict with your unarmed strikes bleed, giving
 you renewed vigor.
@@ -1691,7 +1691,7 @@ you renewed vigor.
   dealt while using Boar Style persist even if you later switch
   to a different style.
 
-## Boar Style (Combat, Style) {#boar-style}
+### Boar Style (Combat, Style) {#boar-style}
 
 Your sharp teeth and nails rip your foes open.
 
@@ -1704,7 +1704,7 @@ Your sharp teeth and nails rip your foes open.
   single foe with two or more unarmed strikes, you can tear
   flesh. When you do, you deal 2d6 bleed damage with the attack.
 
-## Body Shield (Combat) {#body-shield}
+### Body Shield (Combat) {#body-shield}
 
 With a sly maneuver, you force a grappled opponent into the path
 of an incoming attack.
@@ -1721,7 +1721,7 @@ of an incoming attack.
   you, and the cover you gain ends after the attack you gained
   cover against is resolved.
 
-## Bolstered Resilience
+### Bolstered Resilience
 
 You can dramatically increase your damage reduction in exchange
 for its temporary loss.
@@ -1737,7 +1737,7 @@ for its temporary loss.
   you become fatigued. You cannot use this feat while you are
   fatigued.
 
-## Bonebreaker (Combat) {#bonebreaker}
+### Bonebreaker (Combat) {#bonebreaker}
 
 When your opponent is unable to adequately defend against them,
 your precise unarmed strikes break bone and tear tissue.
@@ -1750,7 +1750,7 @@ your precise unarmed strikes break bone and tear tissue.
   can forgo any other [Stunning Fist] effect to deal 1d6 Strength
   or Dexterity damage to that opponent.
 
-## Branded for Retribution
+### Branded for Retribution
 
 You brand an enemy with your bane weapon, making it more
 vulnerable to your allies' attacks.
@@ -1765,7 +1765,7 @@ vulnerable to your allies' attacks.
   ability with which your weapon is imbued when they attack the
   branded creature.
 
-## Break Guard (Combat) {#break-guard}
+### Break Guard (Combat) {#break-guard}
 
 You can use one of your two weapons to occupy your opponent's
 defenses while attacking with the other.
@@ -1778,7 +1778,7 @@ defenses while attacking with the other.
   spend a swift action to attack the opponent you attempted to
   disarm using your other weapon.
 
-## Broken Wing Gambit (Combat, Teamwork) {#broken-wing-gambit}
+### Broken Wing Gambit (Combat, Teamwork) {#broken-wing-gambit}
 
 You feign weakness, making yourself a tempting and distracting
 target.
@@ -1793,7 +1793,7 @@ target.
   provokes attacks of opportunity from your allies who have this
   feat.
 
-## Cartwheel [Dodge]
+### Cartwheel [Dodge]
 
 You use your knack for avoiding damage to reposition yourself in
 combat.
@@ -1806,7 +1806,7 @@ combat.
   immediate action. This movement provokes attacks of opportunity
   as normal.
 
-## Cavalry Formation (Combat, Teamwork) {#cavalry-formation}
+### Cavalry Formation (Combat, Teamwork) {#cavalry-formation}
 
 You are skilled at riding in close formation with your mounted
 allies without impeding your effectiveness on the battlefield.
@@ -1821,7 +1821,7 @@ allies without impeding your effectiveness on the battlefield.
   your charge attack must comply with this feat's other benefit
   or be unoccupied.
 
-## Channeled Revival
+### Channeled Revival
 
 You can expend a large portion of your channeling power to
 reverse death itself.
@@ -1833,7 +1833,7 @@ reverse death itself.
   class feature to restore a dead creature to life as if you had
   cast the *[breath of life]* spell (*Core Rulebook* 251).
 
-## Channeling Scourge
+### Channeling Scourge
 
 Your zeal for hunting your faith's enemies empowers your ability
 to channel divine energy, as long as you channel that energy for
@@ -1845,7 +1845,7 @@ harm.
   inquisitor levels count as cleric levels for determining the
   number of damage dice and the saving throw DC.
 
-## Charging Hurler (Combat) {#charging-hurler}
+### Charging Hurler (Combat) {#charging-hurler}
 
 You know how to use your momentum to enhance your thrown weapon
 attacks.
@@ -1860,7 +1860,7 @@ attacks.
   gaining the +2 bonus on the attack roll and taking a –2 penalty
   to your AC until the start of your next turn.
 
-## Chokehold (Combat) {#chokehold}
+### Chokehold (Combat) {#chokehold}
 
 While grappling, you can cut off an opponent's air and blood
 supply.
@@ -1881,7 +1881,7 @@ supply.
   to the effects of your chokehold. When the grapple is ended, so
   is the chokehold.
 
-## Cleaving Finish (Combat) {#cleaving-finish}
+### Cleaving Finish (Combat) {#cleaving-finish}
 
 When you strike down an opponent, you can continue your swing
 into another target.
@@ -1894,7 +1894,7 @@ into another target.
   against another opponent within reach. You can make only one
   extra attack per round with this feat.
 
-## Close-Quarters Thrower (Combat) {#close-quarters-thrower}
+### Close-Quarters Thrower (Combat) {#close-quarters-thrower}
 
 You are agile enough to avoid melee attacks while throwing
 weapons or bombs.
@@ -1912,7 +1912,7 @@ weapons or bombs.
 **Normal**: Making a ranged attack provokes attacks of
   opportunity.
 
-## Clustered Shots (Combat) {#clustered-shots}
+### Clustered Shots (Combat) {#clustered-shots}
 
 You take a moment to carefully aim your shots, causing them all
 to strike nearly the same spot.
@@ -1931,7 +1931,7 @@ to strike nearly the same spot.
   opponent's full normal hit points (minimum 50 points of
   damage).
 
-## Combat Medic (Teamwork) {#combat-medic}
+### Combat Medic (Teamwork) {#combat-medic}
 
 You know the urgency of treating wounds in the heat of battle,
 applying first aid to your allies with such speed that you assure
@@ -1944,7 +1944,7 @@ no one gets left behind.
   feat, you provoke no attacks of opportunity, and can take 10 on
   the check.
 
-## Combat Style Master (Combat) {#combat-style-master}
+### Combat Style Master (Combat) {#combat-style-master}
 
 You shift between combat styles, combining them to increased
 effect.
@@ -1959,7 +1959,7 @@ effect.
 **Normal**: It takes a swift action to begin or switch your
   styles.
 
-## Contingent Channeling
+### Contingent Channeling
 
 You can imbue others with your healing energy so that they can
 use it at the moment of greatest need.
@@ -1978,7 +1978,7 @@ use it at the moment of greatest need.
   negative hit points, the repository triggers, allowing the ally
   to heal without using an action.
 
-## Coordinated Charge (Combat, Teamwork) {#coordinated-charge}
+### Coordinated Charge (Combat, Teamwork) {#coordinated-charge}
 
 You are an expert at leading your allies into the fray.
 
@@ -1990,7 +1990,7 @@ You are an expert at leading your allies into the fray.
   immediate action, charge that creature. You must be able to
   follow all of the normal charge rules.
 
-## Crane Riposte (Combat) {#crane-riposte}
+### Crane Riposte (Combat) {#crane-riposte}
 
 You use your defensive abilities to make overpowering
 counterattacks.
@@ -2003,7 +2003,7 @@ counterattacks.
   an opponent's attack, you can make an attack of opportunity
   against that opponent after the attack is deflected.
 
-## Crane Style (Combat, Style) {#crane-style}
+### Crane Style (Combat, Style) {#crane-style}
 
 Your unarmed fighting techniques blend poise with graceful
 defense.
@@ -2016,7 +2016,7 @@ defense.
   defensively or using the total defense action, you gain an
   additional +1 dodge bonus to your Armor Class.
 
-## Crane Wing (Combat) {#crane-wing}
+### Crane Wing (Combat) {#crane-wing}
 
 You move with the speed and finesse of an avian hunter, your
 sweeping blocks and graceful motions allowing you to deflect
@@ -2032,7 +2032,7 @@ melee attacks with ease.
   to deflect the attack, but you must be aware of it and not
   flat-footed. An attack so deflected deals no damage to you.
 
-## Crusader's Fist (Combat) {#crusader's-fist}
+### Crusader's Fist (Combat) {#crusader's-fist}
 
 You pour divine energy into the enemy you strike.
 
@@ -2047,7 +2047,7 @@ You pour divine energy into the enemy you strike.
   had hit with the feature's normal touch attack. This extra
   damage is not multiplied if you scored a critical hit.
 
-## Crusader's Flurry {#crusader's-flurry}
+### Crusader's Flurry {#crusader's-flurry}
 
 You learned to use your deity's favored weapon as part of your
 martial arts form.
@@ -2059,7 +2059,7 @@ martial arts form.
 **Benefit**: You can use your deity's favored weapon as if it
   were a monk weapon.
 
-## Crushing Blow (Combat) {#crushing-blow}
+### Crushing Blow (Combat) {#crushing-blow}
 
 Your focus allows you to smash your enemy's defenses.
 
@@ -2071,7 +2071,7 @@ Your focus allows you to smash your enemy's defenses.
   Wisdom modifier for 1 minute. This penalty does not stack with
   other penalties applied due to [Crushing Blow].
 
-## Deadly Finish (Combat) {#deadly-finish}
+### Deadly Finish (Combat) {#deadly-finish}
 
 Your attacks don't just fell your opponents—they kill them
 outright.
@@ -2083,7 +2083,7 @@ outright.
   to succeed at a Fortitude save (DC 15 + the damage your attack
   dealt) or die.
 
-## Death from Above (Combat) {#death-from-above}
+### Death from Above (Combat) {#death-from-above}
 
 You allow gravity to add extra force to your charges.
 
@@ -2092,7 +2092,7 @@ You allow gravity to add extra force to your charges.
   in place of the bonuses from charging and being on higher
   ground.
 
-## Death or Glory (Combat) {#death-or-glory}
+### Death or Glory (Combat) {#death-or-glory}
 
 Even when facing a larger foe, you aren't afraid to take great
 risks in order to finish the fight.
@@ -2112,7 +2112,7 @@ risks in order to finish the fight.
   feat allows with the benefit of [Vital Strike], [Improved Vital
   Strike], or [Greater Vital Strike].
 
-## Deathless Initiate (Combat) {#deathless-initiate}
+### Deathless Initiate (Combat) {#deathless-initiate}
 
 For you, impending death is a call to wrath.
 
@@ -2125,7 +2125,7 @@ For you, impending death is a call to wrath.
   take 1 point of damage. Further, while using the [Diehard]
   feat, you gain a +2 bonus on melee attacks and damage rolls.
 
-## Deathless Master (Combat) {#deathless-master}
+### Deathless Master (Combat) {#deathless-master}
 
 Even if you suffer a grievous wound, you can shrug off the damage
 and continue your relentless assault.
@@ -2137,7 +2137,7 @@ and continue your relentless assault.
 **Benefit**: When you are at 0 or fewer hit points, you do not
   lose 1 hit point when you take an action.
 
-## Deathless Zealot (Combat) {#deathless-zealot}
+### Deathless Zealot (Combat) {#deathless-zealot}
 
 Only the most serious wounds can stop you.
 
@@ -2148,7 +2148,7 @@ Only the most serious wounds can stop you.
 **Benefit**: Whenever a creature rolls to confirm a critical hit
   against you, it must roll twice and take the lowest result.
 
-## Deceptive Exchange
+### Deceptive Exchange
 
 You trick an adversary into grabbing an object you hand them,
 even in the midst of combat.
@@ -2169,7 +2169,7 @@ even in the midst of combat.
   end of the alchemist's turn, the bomb deals that creature a
   direct hit.
 
-## Defensive Weapon Training (Combat)
+### Defensive Weapon Training (Combat)
    {#defensive-weapon-training}
 
 You know how to defend yourself against a certain class of
@@ -2188,7 +2188,7 @@ weaponry.
   do not stack. Each time you select this feat, it applies to a
   different weapon group.
 
-## Deft Shootist Deed (Grit) {#deft-shootist-deed}
+### Deft Shootist Deed (Grit) {#deft-shootist-deed}
 
 You keep an eye out while focusing on your weapon, allowing you
 to avoid attacks while shooting and reloading firearms.
@@ -2200,7 +2200,7 @@ to avoid attacks while shooting and reloading firearms.
   not provoke attacks of opportunity when shooting or reloading a
   firearm.
 
-## Destructive Dispel
+### Destructive Dispel
 
 When you dispel an enemy's magical defenses, those defenses crash
 down with debilitating effects.
@@ -2215,7 +2215,7 @@ down with debilitating effects.
   succeeds, the opponent is instead sickened until the start of
   your next turn.
 
-## Devastating Strike (Combat) {#devastating-strike}
+### Devastating Strike (Combat) {#devastating-strike}
 
 Pitting all of your strength and resolve against your enemy, you
 deliver a strike that is impossible to ignore.
@@ -2227,7 +2227,7 @@ deliver a strike that is impossible to ignore.
   extra weapon damage dice roll those feats grant (+6
   maximum). This bonus damage is multiplied on a critical hit.
 
-## Dimensional Agility
+### Dimensional Agility
 
 Teleportation does not faze you.
 
@@ -2239,7 +2239,7 @@ Teleportation does not faze you.
   your turn. You also gain a +4 bonus on Concentration checks
   when casting teleportation spells.
 
-## Dimensional Assault
+### Dimensional Assault
 
 You have been trained to use magical movement as part of your
 combat tactics.
@@ -2253,7 +2253,7 @@ combat tactics.
   maximum distance allowed by the spell or ability) and to make
   the attack normally allowed on a charge.
 
-## Dimensional Dervish
+### Dimensional Dervish
 
 You teleport with a mere thought, savaging your opponents as you
 flash in and out of reality.
@@ -2275,7 +2275,7 @@ flash in and out of reality.
   to increase his speed before determining the total speed for
   this teleportation.
 
-## Dimensional Maneuvers
+### Dimensional Maneuvers
 
 Your rapid teleportation makes your combat maneuvers more
 difficult to avoid.
@@ -2288,7 +2288,7 @@ difficult to avoid.
   a +4 bonus on combat maneuver checks to bull rush, disarm,
   reposition, or trip an opponent.
 
-## Dimensional Savant
+### Dimensional Savant
 
 You flash into and out of reality so quickly it is impossible to
 tell exactly where you are at any given time.
@@ -2303,7 +2303,7 @@ tell exactly where you are at any given time.
   your next turn. You can effectively flank with yourself and
   with multiple allies when using this feat.
 
-## Discordant Voice
+### Discordant Voice
 
 By singing out a precise tone, you cause discordant vibrations to
 run through allies' weapons.
@@ -2319,7 +2319,7 @@ run through allies' weapons.
   on their ammunition, but the extra damage is dealt only if the
   projectile hits a target within 30 feet of you.
 
-## Disengaging Feint (Combat) {#disengaging-feint}
+### Disengaging Feint (Combat) {#disengaging-feint}
 
 You can feint to disengage from combat.
 
@@ -2331,7 +2331,7 @@ You can feint to disengage from combat.
   speed without provoking an attack of opportunity from the
   opponent you feinted for leaving the square you start in.
 
-## Disengaging Flourish (Combat) {#disengaging-flourish}
+### Disengaging Flourish (Combat) {#disengaging-flourish}
 
 Distracting your opponents gives you the opportunity to make a
 swift retreat.
@@ -2345,7 +2345,7 @@ swift retreat.
   speed. This movement does not provoke attacks of opportunity
   from any opponent you succeeded at feinting against.
 
-## Disengaging Shot (Combat) {#disengaging-shot}
+### Disengaging Shot (Combat) {#disengaging-shot}
 
 You make one last attack before beating a hasty retreat.
 
@@ -2357,7 +2357,7 @@ You make one last attack before beating a hasty retreat.
   opponent you succeeded at feinting against. That opponent is
   denied his Dexterity bonus to AC against this attack.
 
-## Disorienting Maneuver
+### Disorienting Maneuver
 
 Your erratic movements disorient your opponent.
 
@@ -2371,7 +2371,7 @@ Your erratic movements disorient your opponent.
   maneuver check. This bonus on trip also lasts until the start
   of your next turn.
 
-## Dispel Synergy
+### Dispel Synergy
 
 By tearing away an opponent's magical defenses, you leave your
 enemy vulnerable, making it difficult for him to resist your
@@ -2383,7 +2383,7 @@ spells.
   on an opponent, that opponent takes a –2 penalty on saving
   throws against your spells until the end of your next turn.
 
-## Dispelling Critical (Critical) {#dispelling-critical}
+### Dispelling Critical (Critical) {#dispelling-critical}
 
 Your blows attack the physical and arcane forms of your enemies
 at the same time.
@@ -2396,7 +2396,7 @@ at the same time.
   opponent, you may use a swift action to cast *[dispel magic]*
   to make a targeted dispel against that opponent.
 
-## Dispelling Fist
+### Dispelling Fist
 
 By focusing on your knowledge of magic and spells that negate its
 powers, you use your bare hands to rip magical defenses from your
@@ -2410,7 +2410,7 @@ enemy.
   an opponent with an unarmed strike. Treat this as a targeted
   dispel against the opponent you hit.
 
-## Disposable Weapon
+### Disposable Weapon
 
 You ignore the limitations of your equipment, striking harder
 despite the damage it does to your weapon.
@@ -2422,7 +2422,7 @@ despite the damage it does to your weapon.
   against an opponent, you can give your weapon the broken
   condition to automatically confirm the critical hit.
 
-## Disruptive Recall
+### Disruptive Recall
 
 You can disrupt an enemy caster's spells to fuel your own arcane
 power.
@@ -2438,7 +2438,7 @@ power.
   the spell you disrupted, up to the maximum level spell you can
   cast.
 
-## Distance Thrower (Combat) {#distance-thrower}
+### Distance Thrower (Combat) {#distance-thrower}
 
 You are accurate with thrown weapons at longer ranges than
 normal.
@@ -2448,7 +2448,7 @@ normal.
 **Benefit**: With a thrown weapon, you reduce your penalty on
   ranged attack rolls due to range by 2.
 
-## Djinni Spin (Combat) {#djinni-spin}
+### Djinni Spin (Combat) {#djinni-spin}
 
 You can surround yourself with the power of the storm, spinning
 like a hurricane to unleash a violent blast of electrical energy.
@@ -2466,7 +2466,7 @@ like a hurricane to unleash a violent blast of electrical energy.
   1/2 your character level + your Wis modifier) reduces the
   damage by half and prevents a target from being deafened.
 
-## Djinni Spirit (Combat) {#djinni-spirit}
+### Djinni Spirit (Combat) {#djinni-spirit}
 
 By calling upon the spirits of storms, you can manipulate
 lightning to protect yourself and buffet your enemies with peals
@@ -2487,7 +2487,7 @@ of thunder.
   take damage from your [Djinni Spin] are deafened, even on a
   successful saving throw.
 
-## Djinni Style (Combat, Style) {#djinni-style}
+### Djinni Style (Combat, Style) {#djinni-style}
 
 Your hands sheathed in an auras of lightning, you move like the
 wind.
@@ -2505,7 +2505,7 @@ wind.
   condition that makes you lose your Dexterity bonus to AC also
   makes you lose this dodge bonus.
 
-## Domain Strike (Combat) {#domain-strike}
+### Domain Strike (Combat) {#domain-strike}
 
 You unleash a domain power upon your enemy as part of your
 unarmed strike.
@@ -2523,7 +2523,7 @@ unarmed strike.
 **Special**: You can take this feat multiple times. Each time you
   take it, you apply it to a different qualifying domain power.
 
-## Double Bane
+### Double Bane
 
 You extend your bane effect to two weapons.
 
@@ -2536,7 +2536,7 @@ You extend your bane effect to two weapons.
   round you apply your bane class feature to two weapons, you
   expend 2 rounds of that feature.
 
-## Drag Down (Combat) {#drag-down}
+### Drag Down (Combat) {#drag-down}
 
 When you are knocked prone, you are skilled at bringing your
 opponent down with you.
@@ -2546,7 +2546,7 @@ opponent down with you.
 **Benefit**: Whenever an opponent successfully trips you, you can
   attempt to trip that opponent as an immediate action.
 
-## Dragon Ferocity (Combat) {#dragon-ferocity}
+### Dragon Ferocity (Combat) {#dragon-ferocity}
 
 You attack with the strength of a dragon, your telling blows
 striking fear into your enemies.
@@ -2571,7 +2571,7 @@ striking fear into your enemies.
   Fist] as if he were a monk of the four winds (*Advanced
   Player's Guide* 112).
 
-## Dragon Roar (Combat) {#dragon-roar}
+### Dragon Roar (Combat) {#dragon-roar}
 
 The spirit of the dragon wells up inside you and bursts forth in
 a mighty roar.
@@ -2593,7 +2593,7 @@ a mighty roar.
   to deal your [Elemental Fist] damage to those caught in the
   cone. This damage is not halved even on a save.
 
-## Dragon Style (Combat, Style) {#dragon-style}
+### Dragon Style (Combat, Style) {#dragon-style}
 
 You call upon the spirit of dragonkind, gaining greater
 resilience, mobility, and fierceness from the blessing of these
@@ -2615,7 +2615,7 @@ great beings.
   ally. With an unarmed strike, you usually add your Strength
   bonus on damage rolls.
 
-## Dramatic Display (Combat, Performance) {#dramatic-display}
+### Dramatic Display (Combat, Performance) {#dramatic-display}
 
 Your skill with your weapon is obvious to enemies and onlookers
 alike.
@@ -2628,7 +2628,7 @@ alike.
   attack rolls and combat maneuver checks until the end of your
   next turn.
 
-## Earth Child Binder (Combat) {#earth-child-binder}
+### Earth Child Binder (Combat) {#earth-child-binder}
 
 Even the greatest giants fear your technique.
 
@@ -2648,7 +2648,7 @@ Even the greatest giants fear your technique.
 **Normal**: You can only trip opponents who are one size category
   larger than you.
 
-## Earth Child Style (Combat, Style) {#earth-child-style}
+### Earth Child Style (Combat, Style) {#earth-child-style}
 
 Your martial training makes you a dangerous and elusive target
 for giants.
@@ -2661,7 +2661,7 @@ for giants.
   of the giant subtype, you can add your Wisdom bonus on your
   unarmed strike damage rolls.
 
-## Earth Child Topple (Combat) {#earth-child-topple}
+### Earth Child Topple (Combat) {#earth-child-topple}
 
 Your mastery of balance and momentum allows you to bring down
 giants with your bare hands.
@@ -2679,7 +2679,7 @@ giants with your bare hands.
 **Normal**: You can trip only those opponents that are one size
   category larger than you.
 
-## Efreeti Stance (Combat) {#efreeti-stance}
+### Efreeti Stance (Combat) {#efreeti-stance}
 
 Calling upon the burning spirits of incarnate flame, you can
 manipulate fire to protect yourself and immolate your foes.
@@ -2698,7 +2698,7 @@ manipulate fire to protect yourself and immolate your foes.
   [Elemental Fist] attack must succeed at a Reflex save (DC 10 +
   1/2 your character level + your Wis modifier) or catch on fire.
 
-## Efreeti Style (Combat, Style) {#efreeti-style}
+### Efreeti Style (Combat, Style) {#efreeti-style}
 
 Your mastery of the unpredictable power of flames allows you to
 unleash scorching strikes that burn your enemies even when you
@@ -2715,7 +2715,7 @@ fail to make contact.
   deal fire damage, you still deal 1d6 points of fire damage to
   your target.
 
-## Efreeti Touch (Combat) {#efreeti-touch}
+### Efreeti Touch (Combat) {#efreeti-touch}
 
 Your knowledge of the secrets of the burning wind and blazing sun
 allows you to collect flames into your hands and unleash them in
@@ -2734,7 +2734,7 @@ a gout of elemental fire.
   character level + your Wis modifier) reduces the damage by half
   and prevents a target from catching on fire.
 
-## Elusive Redirection
+### Elusive Redirection
 
 You can redirect an attack back at your assailant or into an
 adjacent enemy.
@@ -2750,7 +2750,7 @@ adjacent enemy.
   attack roll as the original attack, but it targets the opponent
   you choose.
 
-## Enfilading Fire (Combat, Teamwork) {#enfilading-fire}
+### Enfilading Fire (Combat, Teamwork) {#enfilading-fire}
 
 Your ranged attacks take advantage of the flanking maneuvers of
 allies.
@@ -2761,7 +2761,7 @@ allies.
 **Benefit**: You receive a +2 bonus on ranged attacks made
   against a foe flanked by 1 or more allies with this feat.
 
-## Escape Route (Teamwork) {#escape-route}
+### Escape Route (Teamwork) {#escape-route}
 
 You have trained to watch your allies' backs, covering them as
 they make tactical withdraws.
@@ -2770,7 +2770,7 @@ they make tactical withdraws.
   of opportunity for moving through squares adjacent to you or
   within your space.
 
-## Expert Driver
+### Expert Driver
 
 When driving a chosen type of vehicle, you exhibit incredible
 control, maneuvering the vehicle with greater ease and stopping
@@ -2785,7 +2785,7 @@ with uncanny precision.
   feet from the roll to determine how many feet the vehicle moves
   forward before it stops.
 
-## Extra Bane
+### Extra Bane
 
 You can use your bane ability more often than normal.
 
@@ -2794,7 +2794,7 @@ You can use your bane ability more often than normal.
 **Benefit**: You can use your bane ability for 3 additional
   rounds per day.
 
-## Extra Grit (Grit) {#extra-grit}
+### Extra Grit (Grit) {#extra-grit}
 
 You have more grit than the ordinary gunslinger.
 
@@ -2813,7 +2813,7 @@ You have more grit than the ordinary gunslinger.
 **Special**: If you possess levels in the gunslinger class, you
   can take this feat multiple times.
 
-## False Opening (Combat) {#false-opening}
+### False Opening (Combat) {#false-opening}
 
 When you make a ranged attack while threatened, you can fool your
 opponent into thinking he has an opening.
@@ -2829,7 +2829,7 @@ opponent into thinking he has an opening.
   loses his Dexterity bonus to AC against you until the end of
   your turn.
 
-## Feint Partner (Combat, Teamwork) {#feint-partner}
+### Feint Partner (Combat, Teamwork) {#feint-partner}
 
 A little diversion is all you need to slip through your foe's
 defenses.
@@ -2841,7 +2841,7 @@ defenses.
   bonus to AC against the next attack you make against him before
   the end of the feinting ally's next turn.
 
-## Felling Escape (Combat) {#felling-escape}
+### Felling Escape (Combat) {#felling-escape}
 
 Through the use of fluid contortions and manipulations of
 leverage, you can throw your opponent to the ground after
@@ -2853,7 +2853,7 @@ escaping a grapple.
   maneuver check or [Escape Artist] check, you can spend a swift
   action to make a trip attempt against that opponent.
 
-## Felling [Smash] (Combat) {#felling-smash}
+### Felling [Smash] (Combat) {#felling-smash}
 
 You commit all your focus to a devastating blow, trying to crush
 your opponent to the ground.
@@ -2866,7 +2866,7 @@ your opponent to the ground.
   Attack] and you hit an opponent, you can spend a swift action
   to attempt a trip combat maneuver against that opponent.
 
-## Feral Combat Training (Combat) {#feral-combat-training}
+### Feral Combat Training (Combat) {#feral-combat-training}
 
 You were taught a style of martial arts that relies on the
 natural weapons from your racial ability or class feature.
@@ -2882,7 +2882,7 @@ natural weapons from your racial ability or class feature.
 **Special**: If you are a monk, you can use the selected natural
   weapon with your flurry of blows class feature.
 
-## Field Repair
+### Field Repair
 
 You can repair your broken weapon or armor to serviceability even
 without the benefits of artisan tools.
@@ -2919,7 +2919,7 @@ without the benefits of artisan tools.
 
   : Table: New Item Craft DCs
 
-## Final Embrace (Combat) {#final-embrace}
+### Final Embrace (Combat) {#final-embrace}
 
 Your coils are particularly deadly, allowing you to constrict
 opponents of your size or smaller.
@@ -2935,7 +2935,7 @@ opponents of your size or smaller.
 **Normal**: You can grab and constrict creatures one size smaller
   than you.
 
-## Final Embrace Horror (Combat) {#final-embrace-horror}
+### Final Embrace Horror (Combat) {#final-embrace-horror}
 
 Your constricting attack has become stronger and more lethal.
 
@@ -2946,7 +2946,7 @@ Your constricting attack has become stronger and more lethal.
 **Benefit**: A creature that takes damage from your constrict
   attack is also shaken until the start of your next turn.
 
-## Final Embrace Master (Combat) {#final-embrace-master}
+### Final Embrace Master (Combat) {#final-embrace-master}
 
 Few creatures can survive the crushing horror of your [Final
 Embrace].
@@ -2959,7 +2959,7 @@ Embrace].
 **Benefit**: Double the number of damage dice for your constrict
   special attack.
 
-## Flanking Foil (Combat) {#flanking-foil}
+### Flanking Foil (Combat) {#flanking-foil}
 
 Fighting multiple foes is easy for you.
 
@@ -2969,7 +2969,7 @@ Fighting multiple foes is easy for you.
   flanking you and cannot deal sneak attack damage to you. It can
   still provide a flank for its allies.
 
-## Fortified Armor Training (Combat) {#fortified-armor-training}
+### Fortified Armor Training (Combat) {#fortified-armor-training}
 
 You have learned to let your armor bear the brunt of the worst
 attacks.
@@ -2981,7 +2981,7 @@ attacks.
   either your armor or your shield gains the broken condition
   (your choice).
 
-## Furious Finish
+### Furious Finish
 
 You channel all of your rage into one massive blow to crush your
 enemy.
@@ -2995,7 +2995,7 @@ enemy.
   dice. If you do, your rage immediately ends, and you are
   fatigued (even if you would not normally be).
 
-## Gory Finish (Combat) {#gory-finish}
+### Gory Finish (Combat) {#gory-finish}
 
 By drawing upon wells of savagery, you can slay your foe in
 creative and horrifyingly gruesome manners, intimidating nearby
@@ -3010,7 +3010,7 @@ foes.
   [Intimidate] check to demoralize all foes within 30 feet who
   could see your attack.
 
-## Greater Channel Smite
+### Greater Channel Smite
 
 You empower your weapon with the might of your deity, which you
 discharge as you strike your foes.
@@ -3032,7 +3032,7 @@ discharge as you strike your foes.
   in your pool, but any dice left unexpended at the end of your
   turn are wasted.
 
-## Greater Rending Fury (Combat) {#greater-rending-fury}
+### Greater Rending Fury (Combat) {#greater-rending-fury}
 
 When your claws latch on to an opponent, the effect is bloody and
 horrific.
@@ -3044,7 +3044,7 @@ horrific.
   damage to that opponent. This is an addition to the effects of
   the rend.
 
-## Greater Snap Shot (Combat) {#greater-snap-shot}
+### Greater Snap Shot (Combat) {#greater-snap-shot}
 
 You can prey on any gap in your foe's guard with impunity, and
 with even greater range.
@@ -3058,7 +3058,7 @@ with even greater range.
   attack. These bonuses increase to +4 when you have base attack
   bonus +16, and to +6 when you have base attack bonus +20.
 
-## Greater Whip Mastery (Combat) {#greater-whip-mastery}
+### Greater Whip Mastery (Combat) {#greater-whip-mastery}
 
 You can use a whip to make combat maneuvers with ease.
 
@@ -3097,7 +3097,7 @@ You can use a whip to make combat maneuvers with ease.
  grappled rather than pinned, you take only a –5 penalty on the
  combat maneuver check rather than the normal –10.
 
-## Guided Hand
+### Guided Hand
 
 Your deity blesses any strike you make with that deity's favored
 weapon.
@@ -3109,7 +3109,7 @@ weapon.
   Wisdom modifier instead of your Strength or Dexterity modifier
   on attack rolls.
 
-## Gunsmithing
+### Gunsmithing
 
 You know the secrets of repairing and restoring firearms.
 
@@ -3147,7 +3147,7 @@ You know the secrets of repairing and restoring firearms.
   1 day of work to upgrade it to a masterwork firearm of its
   type.
 
-## Hammer the Gap (Combat) {#hammer-the-gap}
+### Hammer the Gap (Combat) {#hammer-the-gap}
 
 You repeatedly strike the same location, causing increasing
 amounts of damage.
@@ -3160,7 +3160,7 @@ amounts of damage.
   opponent this turn. This damage is multiplied on a critical
   hit.
 
-## Harmonic Sage
+### Harmonic Sage
 
 Your thorough understanding of acoustics in artificial
 surroundings allows you to improve the power of your bardic
@@ -3187,7 +3187,7 @@ performance.
 **Normal**: A bardic performance lasts only as long as you
   maintain it.
 
-## Haunted Gnome (Combat) {#haunted-gnome}
+### Haunted Gnome (Combat) {#haunted-gnome}
 
 You use your gnome magic to take on an eerie illusory appearance.
 
@@ -3198,7 +3198,7 @@ You use your gnome magic to take on an eerie illusory appearance.
   list of gnome magic spell-like abilities, and you can use this
   spell-like ability twice per day.
 
-## Haunted Gnome Assault (Combat) {#haunted-gnome-assault}
+### Haunted Gnome Assault (Combat) {#haunted-gnome-assault}
 
 Discharging your disturbing glamer as you strike a telling blow,
 you haunt a foe with lingering fear.
@@ -3218,7 +3218,7 @@ you hit an opponent with a charge attack or score a critical hit
 against an opponent. If you do, that opponent becomes shaken for
 1 round.
 
-## Haunted Gnome Shroud (Combat) {#haunted-gnome-shroud}
+### Haunted Gnome Shroud (Combat) {#haunted-gnome-shroud}
 
 Your disturbing glamer expands to make your exact location hard
 to pinpoint.
@@ -3232,7 +3232,7 @@ to pinpoint.
   have concealment (20% miss chance) against an opponent until
   that opponent deals you damage.
 
-## Hero's Display (Combat, Performance) {#hero's-display}
+### Hero's Display (Combat, Performance) {#hero's-display}
 
 With a dramatic flourish you display your weapons to the
 crowd. Onlookers are elated, and your enemies are demoralized.
@@ -3246,7 +3246,7 @@ crowd. Onlookers are elated, and your enemies are demoralized.
   performance combat check and make an [Intimidate] check to
   demoralize all foes within 30 feet who can see your display.
 
-## Hex Strike (Combat) {#hex-strike}
+### Hex Strike (Combat) {#hex-strike}
 
 Chanting and cursing, you put a hex on your enemy as part of your
 unarmed strike.
@@ -3263,7 +3263,7 @@ unarmed strike.
 **Special**: You can take this feat multiple times. Each time you
   take it, you apply it to a different qualifying hex.
 
-## Horse Master (Combat) {#horse-master}
+### Horse Master (Combat) {#horse-master}
 
 You blend horsemanship skills from disparate traditions into a
 seamless mounted combat technique.
@@ -3279,7 +3279,7 @@ seamless mounted combat technique.
   effective druid level for determining the powers and abilities
   of your mount.
 
-## Impact Critical Shot (Combat, Critical)
+### Impact Critical Shot (Combat, Critical)
    {#impact-critical-shot}
 
 With a series of ranged attacks, you bring your foes to their
@@ -3301,7 +3301,7 @@ knees or force them to move.
   rush an opponent, and you must perform a trip combat maneuver
   to trip an opponent.
 
-## Impaling Critical (Combat, Critical) {#impaling-critical}
+### Impaling Critical (Combat, Critical) {#impaling-critical}
 
 Your critical hits can skewer your foes.
 
@@ -3322,7 +3322,7 @@ Your critical hits can skewer your foes.
   you impale your opponent with your weapon, you cannot use it to
   attack, and you must hold on to it.
 
-## Improved Back to Back (Teamwork) {#improved-back-to-back}
+### Improved Back to Back (Teamwork) {#improved-back-to-back}
 
 After much practice, you and an ally have become adept at
 fighting in close proximity to one another.
@@ -3334,7 +3334,7 @@ fighting in close proximity to one another.
   bonus to AC against all flankers until the start of your next
   turn.
 
-## Improved Charging Hurler (Combat) {#improved-charging-hurler}
+### Improved Charging Hurler (Combat) {#improved-charging-hurler}
 
 Every muscle in your body adds its force to your thrown weapons.
 
@@ -3347,7 +3347,7 @@ Every muscle in your body adds its force to your thrown weapons.
 **Normal**: Using [Charging Hurler] requires you to end your
   movement within 30 feet of your opponent.
 
-## Improved Cleaving Finish (Combat) {#improved-cleaving-finish}
+### Improved Cleaving Finish (Combat) {#improved-cleaving-finish}
 
 You can cut down many opponents in a single strike.
 
@@ -3357,7 +3357,7 @@ You can cut down many opponents in a single strike.
 **Benefit**: You can use [Cleaving Finish] any number of times
   per round.
 
-## Improved Devastating Strike (Combat)
+### Improved Devastating Strike (Combat)
    {#improved-devastating-strike}
 
 The fury and power channeled through your attack is enough to
@@ -3371,7 +3371,7 @@ kill a lesser being outright.
   rolls to confirm a critical hit equal to the bonus on damage
   rolls you gain from [Devastating Strike].
 
-## Improved Feint Partner (Combat, Teamwork)
+### Improved Feint Partner (Combat, Teamwork)
    {#improved-feint-partner}
 
 [Knowledge] of your companions' tricks and techniques allow you
@@ -3384,7 +3384,7 @@ to take even greater advantage of your allies' feints.
   feints against an opponent, that opponent provokes an attack of
   opportunity from you.
 
-## Improved Impaling Critical (Combat, Critical)
+### Improved Impaling Critical (Combat, Critical)
    {#improved-impaling-critical}
 
 When you impale a target, you hinder its movement and can cause
@@ -3406,7 +3406,7 @@ severe bleeding.
   bleed damage equal to your weapon's damage dice result once per
   round at the start of that opponent's turn.
 
-## Improved Rending Fury (Combat) {#improved-rending-fury}
+### Improved Rending Fury (Combat) {#improved-rending-fury}
 
 Honing the deadliness of your claws, you are a living hurricane
 of rending fury.
@@ -3418,7 +3418,7 @@ of rending fury.
   an extra 1d6 damage. This damage is not multiplied on a
   critical hit.
 
-## Improved Snap Shot (Combat) {#improved-snap-shot}
+### Improved Snap Shot (Combat) {#improved-snap-shot}
 
 You can take advantage of your opponent's vulnerabilities from a
 greater distance, and without exposing yourself.
@@ -3431,7 +3431,7 @@ greater distance, and without exposing yourself.
 **Normal**: Making a ranged attack provokes attacks of
   opportunity.
 
-## Improved Stalwart
+### Improved Stalwart
 
 You can roll with the punches while simultaneously striking back
 at your attackers.
@@ -3442,7 +3442,7 @@ at your attackers.
 **Benefit**: Double the DR you gain from [Stalwart], to a maximum
   of DR 10/—.
 
-## Improved Two-Weapon Feint (Combat)
+### Improved Two-Weapon Feint (Combat)
    {#improved-two-weapon-feint}
 
 Your primary weapon keeps a foe off balance, allowing you to slip
@@ -3458,7 +3458,7 @@ your off-hand weapon past his defenses.
   feint, that opponent is denied his Dexterity bonus to AC until
   the end of your turn.
 
-## Improved Whip Mastery (Combat) {#improved-whip-mastery}
+### Improved Whip Mastery (Combat) {#improved-whip-mastery}
 
 You are able to entangle opponents with the coils of your whip.
 
@@ -3477,7 +3477,7 @@ You are able to entangle opponents with the coils of your whip.
   you cannot use the whip to attack while the whip is grasping an
   object.
 
-## Instant Judgment
+### Instant Judgment
 
 Your hastiest condemnations can have power.
 
@@ -3489,7 +3489,7 @@ Your hastiest condemnations can have power.
 **Normal**: Pronouncing or changing a judgment requires a swift
   action.
 
-## Intimidating Bane
+### Intimidating Bane
 
 Your bane weapon strikes fear into your enemies.
 
@@ -3503,7 +3503,7 @@ Your bane weapon strikes fear into your enemies.
   shaken while your bane feature is still active and effective
   against their creature type.
 
-## Janni Rush (Combat) {#janni-rush}
+### Janni Rush (Combat) {#janni-rush}
 
 When you leap to the attack, your blows are like bolts from on
 high.
@@ -3521,7 +3521,7 @@ high.
   extra damage dice are not multiplied on a successful critical
   hit.
 
-## Janni Style (Combat, Style) {#janni-style}
+### Janni Style (Combat, Style) {#janni-style}
 
 Your whirling fighting technique makes you difficult to hit.
 
@@ -3532,7 +3532,7 @@ Your whirling fighting technique makes you difficult to hit.
   to AC for charging. Further, opponents that flank you gain only
   a +1 bonus on attack rolls against you.
 
-## Janni Tempest (Combat) {#janni-tempest}
+### Janni Tempest (Combat) {#janni-tempest}
 
 Your gale of attacks easily throws your opponents off balance.
 
@@ -3546,7 +3546,7 @@ Your gale of attacks easily throws your opponents off balance.
   your turn. You do not provoke an attack of opportunity from the
   target of the maneuver.
 
-## Jawbreaker (Combat) {#jawbreaker}
+### Jawbreaker (Combat) {#jawbreaker}
 
 You deliver a powerful strike to the mouth, breaking teeth and
 bone.
@@ -3564,7 +3564,7 @@ bone.
   immune to critical hits or that has no discernible mouth is
   immune to the effects of this feat.
 
-## Kirin Path (Combat) {#kirin-path}
+### Kirin Path (Combat) {#kirin-path}
 
 You turn knowledge of your enemy into a flawless defense.
 
@@ -3583,7 +3583,7 @@ You turn knowledge of your enemy into a flawless defense.
   in a square threatened by the creature. This move does not
   provoke attacks of opportunity.
 
-## Kirin Strike (Combat) {#kirin-strike}
+### Kirin Strike (Combat) {#kirin-strike}
 
 You have read the texts of the perfect way, and know how identify
 to your enemies' weak spot.
@@ -3599,7 +3599,7 @@ to your enemies' weak spot.
   hit a creature with a melee or ranged attack, you can add twice
   your Intelligence modifier in damage (minimum 2).
 
-## Kirin Style (Combat, Style) {#kirin-style}
+### Kirin Style (Combat, Style) {#kirin-style}
 
 Your study and your grace allows you to exploit your enemies'
 weaknesses.
@@ -3618,7 +3618,7 @@ weaknesses.
   style. If you cease combat with the creature during this time
   and resume it later, you can attempt the check again.
 
-## Knockout Artist
+### Knockout Artist
 
 You can throw devastating knockout punches.
 
@@ -3630,7 +3630,7 @@ You can throw devastating knockout punches.
   Dexterity bonus to AC, you gain a +1 bonus on the damage roll
   per each sneak attack damage die you roll.
 
-## Landing Roll (Combat) {#landing-roll}
+### Landing Roll (Combat) {#landing-roll}
 
 You have learned the technique of rolling safely away when an
 enemy trips you.
@@ -3642,7 +3642,7 @@ enemy trips you.
   opportunity. This does not count as taking a 5-foot step. You
   fall prone after this movement.
 
-## Leaping Shot Deed (Grit) {#leaping-shot-deed}
+### Leaping Shot Deed (Grit) {#leaping-shot-deed}
 
 You leap through the air, guns blazing.
 
@@ -3658,7 +3658,7 @@ You leap through the air, guns blazing.
   points during the movement. At the end of this movement, you
   fall prone. This deed costs 1 grit point to perform.
 
-## Mantis Style (Combat, Style) {#mantis-style}
+### Mantis Style (Combat, Style) {#mantis-style}
 
 You have learned to target vital areas with crippling accuracy.
 
@@ -3669,7 +3669,7 @@ You have learned to target vital areas with crippling accuracy.
   day. While using this style, you gain a +2 bonus to the DC of
   effects you deliver with your [Stunning Fist].
 
-## Mantis Torment (Combat) {#mantis-torment}
+### Mantis Torment (Combat) {#mantis-torment}
 
 Your knowledge of the mysteries of anatomy allows you to cause
 debilitating pain with a simple touch.
@@ -3685,7 +3685,7 @@ debilitating pain with a simple touch.
   pain until the start of your next turn, and at that point the
   opponent becomes fatigued.
 
-## Mantis Wisdom (Combat) {#mantis-wisdom}
+### Mantis Wisdom (Combat) {#mantis-wisdom}
 
 Your knowledge of vital areas allows you to land debilitating
 strikes with precision.
@@ -3703,7 +3703,7 @@ strikes with precision.
 While using Mantis Style, you gain a +2 bonus on unarmed attack
 rolls with which you are using [Stunning Fist] attempts.
 
-## Marid Coldsnap (Combat) {#marid-coldsnap}
+### Marid Coldsnap (Combat) {#marid-coldsnap}
 
 You can summon a torrent of water to blast your enemies, chilling
 them to the bone.
@@ -3722,7 +3722,7 @@ them to the bone.
   the damage by half and prevents a target from becoming
   entangled.
 
-## Marid Spirit (Combat) {#marid-spirit}
+### Marid Spirit (Combat) {#marid-spirit}
 
 You can manipulate cold energy to protect yourself and freeze
 your foes.
@@ -3746,7 +3746,7 @@ your foes.
   monk level, whichever is higher. Destroying or breaking the ice
   ends the entangled condition.
 
-## Marid Style (Combat, Style) {#marid-style}
+### Marid Style (Combat, Style) {#marid-style}
 
 You conjure tendrils of icy water to strike your enemies from a
 distance.
@@ -3760,7 +3760,7 @@ distance.
   cold damage rolls equal to your Wisdom modifier, and your reach
   with your unarmed strike increases by 5 feet.
 
-## Master Combat Performer (Combat) {#master-combat-performer}
+### Master Combat Performer (Combat) {#master-combat-performer}
 
 You are a master of the techniques and weapons of the arena and
 the stage.
@@ -3772,7 +3772,7 @@ the stage.
   action. You are proficient in all weapons with the performance
   special quality.
 
-## Master Siege Engineer (Combat) {#master-siege-engineer}
+### Master Siege Engineer (Combat) {#master-siege-engineer}
 
 You are significantly faster at loading a siege engine, as well
 as a better shot.
@@ -3789,7 +3789,7 @@ as a better shot.
 **Normal**: Full-round actions are required to load and aim siege
   engines.
 
-## Masterful Display (Combat, Performance) {#masterful-display}
+### Masterful Display (Combat, Performance) {#masterful-display}
 
 You craft a special victory performance that causes the crowd to
 go wild.
@@ -3801,7 +3801,7 @@ go wild.
   benefits of those two feats, but you only gain a +2 bonus on
   the performance combat check.
 
-## Maximized Spellstrike
+### Maximized Spellstrike
 
 You deal brutal damage against opponents caught unawares.
 
@@ -3814,7 +3814,7 @@ You deal brutal damage against opponents caught unawares.
   pool to maximize the spell delivered through your spellstrike
   as if using the [Maximize Spell] metamagic feat.
 
-## Menacing Bane
+### Menacing Bane
 
 You are deadly when you team up with allies against a single foe.
 
@@ -3831,7 +3831,7 @@ You are deadly when you team up with allies against a single foe.
   each weapon you wield with either bane or menacing. No single
   weapon can have both.
 
-## Merciful Bane
+### Merciful Bane
 
 You can use your bane ability to inflict nonlethal damage.
 
@@ -3847,7 +3847,7 @@ You can use your bane ability to inflict nonlethal damage.
 **Normal**: When using a lethal weapon to deal nonlethal damage,
   you take a –4 penalty on attack rolls.
 
-## Mocking Dance (Combat, Performance) {#mocking-dance}
+### Mocking Dance (Combat, Performance) {#mocking-dance}
 
 You do a little dance that mocks your foe and entertains the
 crowd.
@@ -3863,7 +3863,7 @@ crowd.
   move at least 5 feet, you gain a +2 bonus on the performance
   combat check.
 
-## Monastic Legacy (Combat) {#monastic-legacy}
+### Monastic Legacy (Combat) {#monastic-legacy}
 
 Your formal unarmed training continues to bolster your training
 in other areas.
@@ -3877,7 +3877,7 @@ in other areas.
   levels in classes other than monk count toward any other monk
   class features.
 
-## Monkey Moves (Combat) {#monkey-moves}
+### Monkey Moves (Combat) {#monkey-moves}
 
 You scramble around your foes, moving and striking in an erratic
 fashion.
@@ -3899,7 +3899,7 @@ fashion.
   made using your normal movement modes, and you can take one
   only if you have not otherwise moved this round.
 
-## Monkey Shine (Combat) {#monkey-shine}
+### Monkey Shine (Combat) {#monkey-shine}
 
 You combine acrobatics and opportunity to devastating effect
 against your opponent.
@@ -3922,7 +3922,7 @@ against your opponent.
 
 **Normal**: You cannot enter an opponent's space.
 
-## Monkey Style (Combat, Style) {#monkey-style}
+### Monkey Style (Combat, Style) {#monkey-style}
 
 Your unarmed fighting style is nimble and unpredictable, full of
 ground rolls and short leaps.
@@ -3941,7 +3941,7 @@ ground rolls and short leaps.
   melee attacks while prone. Standing up is a standard action
   that provokes attacks of opportunity.
 
-## Moonlight Stalker (Combat) {#moonlight-stalker}
+### Moonlight Stalker (Combat) {#moonlight-stalker}
 
 You are adept at using shadows to conceal your attacks.
 
@@ -3952,7 +3952,7 @@ You are adept at using shadows to conceal your attacks.
   gain a +2 bonus on attack and damage rolls against that
   opponent.
 
-## Moonlight Stalker Feint (Combat) {#moonlight-stalker-feint}
+### Moonlight Stalker Feint (Combat) {#moonlight-stalker-feint}
 
 You strike through the shadows so quickly that your opponent can
 barely react to your attacks.
@@ -3967,7 +3967,7 @@ barely react to your attacks.
 
 **Normal**: Feinting is a standard action.
 
-## Moonlight Stalker Master (Combat) {#moonlight-stalker-master}
+### Moonlight Stalker Master (Combat) {#moonlight-stalker-master}
 
 You leave your opponents swinging at shadows while you slide
 elusively through the darkness.
@@ -3983,7 +3983,7 @@ elusively through the darkness.
   move 5 feet, this movement does not provoke attacks of
   opportunity and does not count as a 5-foot step.
 
-## Murderer's Circle (Combat, Performance) {#murderer's-circle}
+### Murderer's Circle (Combat, Performance) {#murderer's-circle}
 
 After savaging your foe, you circle like a hunter ready for the
 kill.
@@ -4000,7 +4000,7 @@ kill.
   this move in any space other than the one where you started,
   you gain a +2 bonus on the performance combat check.
 
-## Neckbreaker (Combat) {#neckbreaker}
+### Neckbreaker (Combat) {#neckbreaker}
 
 With a quick jerk, you snap an enemy's neck.
 
@@ -4018,7 +4018,7 @@ With a quick jerk, you snap an enemy's neck.
   to critical hits or that has no discernible head and neck is
   immune to the effects of this feat.
 
-## Net Adept (Combat) {#net-adept}
+### Net Adept (Combat) {#net-adept}
 
 You have trained to use the net as a melee weapon.
 
@@ -4034,7 +4034,7 @@ You have trained to use the net as a melee weapon.
   ranged attack rolls if it is unfolded. Folding a net takes a
   proficient user 2 rounds.
 
-## Net and Trident (Combat) {#net-and-trident}
+### Net and Trident (Combat) {#net-and-trident}
 
 Your skill with lighter weapons allows you to wield one alongside
 your net.
@@ -4051,7 +4051,7 @@ your net.
 
 **Normal**: A net is a two-handed ranged weapon.
 
-## Net Maneuvering (Combat) {#net-maneuvering}
+### Net Maneuvering (Combat) {#net-maneuvering}
 
 With sweeping movements and brute force, you can use your net to
 put foes at a disadvantage.
@@ -4066,7 +4066,7 @@ put foes at a disadvantage.
   or reposition that opponent as long as he is within your net's
   reach or you control the trailing rope on your net.
 
-## Net Trickery (Combat) {#net-trickery}
+### Net Trickery (Combat) {#net-trickery}
 
 You have become very proficient at using your net to hinder your
 enemies.
@@ -4083,7 +4083,7 @@ enemies.
   on drag and reposition combat maneuver checks you make using
   your net.
 
-## Nightmare Fist (Combat) {#nightmare-fist}
+### Nightmare Fist (Combat) {#nightmare-fist}
 
 You are even more deadly in magical darkness.
 
@@ -4096,7 +4096,7 @@ You are even more deadly in magical darkness.
   panicked. You also gain a +2 morale bonus on [Acrobatics] and
   [Intimidate] checks.
 
-## Nightmare Striker (Combat) {#nightmare-striker}
+### Nightmare Striker (Combat) {#nightmare-striker}
 
 Your *[faerie fire]* not only illuminates your foes, but it also
 shows you their weaknesses.
@@ -4113,7 +4113,7 @@ shows you their weaknesses.
   throw, you can render the target shaken for 1d2 rounds plus 1
   round for every 5 by which the opponent failed her save.
 
-## Nightmare Weaver (Combat) {#nightmare-weaver}
+### Nightmare Weaver (Combat) {#nightmare-weaver}
 
 You can use your ability to create magical darkness to terrorize
 enemies.
@@ -4128,7 +4128,7 @@ enemies.
 **Special**: This feat counts as [Dazzling Display] for purposes
   of qualifying for [Deadly Stroke] and [Shatter Defenses].
 
-## No Name (Grit) {#no-name}
+### No Name (Grit) {#no-name}
 
 You don't need an elaborate disguise to keep your identity under
 wraps.
@@ -4143,7 +4143,7 @@ wraps.
   minutes). This deed does not actually change your appearance,
   but rather allows you to hide your identity in other ways.
 
-## Opening Volley (Combat) {#opening-volley}
+### Opening Volley (Combat) {#opening-volley}
 
 Your ranged assault leaves your foe disoriented and vulnerable to
 your melee attack.
@@ -4153,7 +4153,7 @@ your melee attack.
   make against the opponent. This attack must occur before the
   end of your next turn.
 
-## Pack Attack (Combat, Teamwork) {#pack-attack}
+### Pack Attack (Combat, Teamwork) {#pack-attack}
 
 You are skilled at surrounding your enemies.
 
@@ -4167,7 +4167,7 @@ You are skilled at surrounding your enemies.
 **Normal**: You can take a 5-foot step only if you have not
   otherwise moved in a round.
 
-## Panther Claw (Combat) {#panther-claw}
+### Panther Claw (Combat) {#panther-claw}
 
 You unleash a rapid series of blows on foes that attempt to
 attack you when you move.
@@ -4181,7 +4181,7 @@ attack you when you move.
   retaliatory unarmed strikes on your turn equal to your Wisdom
   modifier.
 
-## Panther Parry (Combat) {#panther-parry}
+### Panther Parry (Combat) {#panther-parry}
 
 Your vicious strikes impair your foe's ability to attack you when
 you move.
@@ -4195,7 +4195,7 @@ you move.
   opponent takes a –2 penalty on attack and damage rolls with the
   triggering attack of opportunity.
 
-## Panther Style (Combat, Style) {#panther-style}
+### Panther Style (Combat, Style) {#panther-style}
 
 You can strike back at enemies who attack you when you move.
 
@@ -4208,7 +4208,7 @@ You can strike back at enemies who attack you when you move.
   retaliatory unarmed strike attack against that opponent. Your
   attack is resolved after the triggering attack of opportunity.
 
-## Passing Trick (Combat) {#passing-trick}
+### Passing Trick (Combat) {#passing-trick}
 
 Slipping past a foe gives you the chance to feint.
 
@@ -4224,7 +4224,7 @@ Slipping past a foe gives you the chance to feint.
   larger than you, you gain a +2 bonus on the [Bluff] check this
   feat allows.
 
-## Performance Weapon Mastery (Combat)
+### Performance Weapon Mastery (Combat)
    {#performance-weapon-mastery}
 
 You wield all your weapons with the flair of a performer.
@@ -4232,7 +4232,7 @@ You wield all your weapons with the flair of a performer.
 **Benefit**: You treat all weapons you are proficient in as if
   they had the performance weapon quality (page 144).
 
-## Performing Combatant (Combat) {#performing-combatant}
+### Performing Combatant (Combat) {#performing-combatant}
 
 You treat every combat as a performance, bringing flare and
 showmanship.
@@ -4247,7 +4247,7 @@ showmanship.
   check. On a success, you gain the full effect of the
   performance feat you chose.
 
-## Pin Down (Combat) {#pin-down}
+### Pin Down (Combat) {#pin-down}
 
 You easily block enemy escapes.
 
@@ -4260,7 +4260,7 @@ You easily block enemy escapes.
   move action that granted a 5-foot step or the withdraw action
   and does not move.
 
-## Pinning Knockout (Combat) {#pinning-knockout}
+### Pinning Knockout (Combat) {#pinning-knockout}
 
 An opponent you have pinned is easy for you to knock out.
 
@@ -4275,7 +4275,7 @@ An opponent you have pinned is easy for you to knock out.
   is immune to critical hits is immune to the effects of this
   feat.
 
-## Pinning Rend (Combat) {#pinning-rend}
+### Pinning Rend (Combat) {#pinning-rend}
 
 You tear flesh when you damage an opponent that you have pinned.
 
@@ -4290,7 +4290,7 @@ You tear flesh when you damage an opponent that you have pinned.
   or weapon damage dice. Any creature that is immune to critical
   hits is immune to the effects of this feat.
 
-## Pinpoint Poisoner (Combat) {#pinpoint-poisoner}
+### Pinpoint Poisoner (Combat) {#pinpoint-poisoner}
 
 You deftly use specially prepared needles to apply poison for
 maximum effect.
@@ -4313,7 +4313,7 @@ maximum effect.
 **Normal**: Applying poison to a weapon or single piece of
   ammunition is a standard action.
 
-## Planar Wild Shape
+### Planar Wild Shape
 
 You can infuse your wild shape with planar strength.
 
@@ -4332,7 +4332,7 @@ You can infuse your wild shape with planar strength.
   your form has the fiendish template and you score a critical
   threat against a good creature.
 
-## Prone Shooter (Combat) {#prone-shooter}
+### Prone Shooter (Combat) {#prone-shooter}
 
 While prone, you use the ground to stabilize your aim while using
 a crossbow or firearm.
@@ -4350,7 +4350,7 @@ a crossbow or firearm.
   you can apply this feat's benefit to attack rolls you make
   using a sling with which you have [Weapon Focus].
 
-## Prone Slinger (Combat) {#prone-slinger}
+### Prone Slinger (Combat) {#prone-slinger}
 
 Your sideways sling release allows you to launch bullets and
 stones even while prone.
@@ -4361,7 +4361,7 @@ stones even while prone.
 **Normal**: Crossbows and firearms are the only ranged weapons
   that can be used while prone.
 
-## Quick Bull Rush (Combat) {#quick-bull-rush}
+### Quick Bull Rush (Combat) {#quick-bull-rush}
 
 You can barrel into your opponent and follow this with an attack.
 
@@ -4375,7 +4375,7 @@ You can barrel into your opponent and follow this with an attack.
 
 **Normal**: A bull rush combat maneuver is a standard action.
 
-## Quick Dirty Trick (Combat) {#quick-dirty-trick}
+### Quick Dirty Trick (Combat) {#quick-dirty-trick}
 
 You can perpetrate a dirty trick and deliver an attack before
 your opponent is the wiser.
@@ -4391,7 +4391,7 @@ your opponent is the wiser.
 
 **Normal**: A dirty trick combat maneuver is a standard action.
 
-## Quick Drag (Combat) {#quick-drag}
+### Quick Drag (Combat) {#quick-drag}
 
 You drag your enemy and deliver a punishing blow.
 
@@ -4405,7 +4405,7 @@ You drag your enemy and deliver a punishing blow.
 
 **Normal**: A drag combat maneuver is a standard action.
 
-## Quick Reposition (Combat) {#quick-reposition}
+### Quick Reposition (Combat) {#quick-reposition}
 
 Your opponent becomes an unwitting dance partner, following your
 lead while you fight.
@@ -4420,7 +4420,7 @@ lead while you fight.
 
 **Normal**: A reposition combat maneuver is a standard action.
 
-## Quick Steal (Combat) {#quick-steal}
+### Quick Steal (Combat) {#quick-steal}
 
 You are adept at relieving foes of their belongings even while
 you strike.
@@ -4435,7 +4435,7 @@ you strike.
 
 **Normal**: A steal combat maneuver is a standard action.
 
-## Raging Brutality
+### Raging Brutality
 
 You expend some of your rage to strike your opponents with a more
 powerful weapon blow.
@@ -4450,7 +4450,7 @@ powerful weapon blow.
   weapon two-handed, instead add 1-1/2 times your Constitution
   bonus. This bonus damage is not multiplied on a critical hit.
 
-## Raging Deathblow
+### Raging Deathblow
 
 Every killing blow gives you a surge of vitality, further fueling
 your rage.
@@ -4464,7 +4464,7 @@ your rage.
   rest to renew your total number of rounds of rage per day, any
   extra rounds you still have from this feat are lost.
 
-## Raging Hurler
+### Raging Hurler
 
 An opponent can do little to evade your wrathful pitching of
 weapons and objects.
@@ -4479,7 +4479,7 @@ weapons and objects.
   can use as a improvised weapon within your reach as part of the
   attack action to throw that item.
 
-## Raging Throw
+### Raging Throw
 
 You expend some of your rage to throw one opponent at another.
 
@@ -4495,7 +4495,7 @@ You expend some of your rage to throw one opponent at another.
   bludgeoning damage equal to your Strength modifier + your
   Constitution modifier.
 
-## Rapid Grappler (Combat) {#rapid-grappler}
+### Rapid Grappler (Combat) {#rapid-grappler}
 
 You are a quick hand at grappling.
 
@@ -4507,7 +4507,7 @@ You are a quick hand at grappling.
   maintain a grapple as a move action, you can then spend a swift
   action to make a grapple combat maneuver check.
 
-## Rapid Reload (Combat) {#rapid-reload}
+### Rapid Reload (Combat) {#rapid-reload}
 
 Choose a type of crossbow (hand, light, heavy) or a single type
 of one-handed or two-handed firearm that you are proficient
@@ -4535,7 +4535,7 @@ action as you could attack if you were using a bow.
   time you take the feat, it applies to a new type of crossbow or
   a new type of firearm.
 
-## Rebounding Leap (Combat) {#rebounding-leap}
+### Rebounding Leap (Combat) {#rebounding-leap}
 
 Your riding and lancing expertise allows you to enter and leave
 the saddle with great speed.
@@ -4547,7 +4547,7 @@ the saddle with great speed.
   as part of your leaping lance class feature, you can remount
   your steed as a swift action.
 
-## Rebuffing Reduction (Combat) {#rebuffing-reduction}
+### Rebuffing Reduction (Combat) {#rebuffing-reduction}
 
 Your damage reduction can turn the force of blows back on your
 enemies.
@@ -4563,7 +4563,7 @@ enemies.
 
 **Normal**: A bull rush combat maneuver is a standard action.
 
-## Rending Fury (Combat) {#rending-fury}
+### Rending Fury (Combat) {#rending-fury}
 
 You easily tear your enemies limb from limb with your natural
 attacks.
@@ -4577,7 +4577,7 @@ attacks.
   attacks to rend. You can only make this rend attack once per
   round.
 
-## Revelation Strike (Combat) {#revelation-strike}
+### Revelation Strike (Combat) {#revelation-strike}
 
 Your unarmed strike brings a revelation down upon your foe.
 
@@ -4594,7 +4594,7 @@ Your unarmed strike brings a revelation down upon your foe.
 **Special**: You can take this feat multiple times. Each time you
   take it, you apply it to a different qualifying revelation.
 
-## Rhetorical Flourish
+### Rhetorical Flourish
 
 You rapidly change topics and employ confusing rhetoric to
 distract people from your true intent.
@@ -4617,7 +4617,7 @@ way. If you succeed, rather than gaining this feat's normal
 bonus, you can retry your last [Diplomacy] check against the
 creature if that check was made in the past minute.
 
-## Ricochet Shot Deed (Grit) {#ricochet-shot-deed}
+### Ricochet Shot Deed (Grit) {#ricochet-shot-deed}
 
 You can ricochet a firearm shot off the wall and still hit your
 target.
@@ -4637,7 +4637,7 @@ target.
   or concealment. You must choose to spend the grit point before
   you make the attack roll.
 
-## Righteous Healing
+### Righteous Healing
 
 Your healing spells are more potent when you have a judgment
 active.
@@ -4648,7 +4648,7 @@ active.
   active, each target regains 1 extra hit point from the *cure*
   spell + 1 hit point per three inquisitor levels you possess.
 
-## Sap Adept (Combat) {#sap-adept}
+### Sap Adept (Combat) {#sap-adept}
 
 You know just where to hit to knock the sense out of your foe.
 
@@ -4659,7 +4659,7 @@ You know just where to hit to knock the sense out of your foe.
   roll equal to twice the number of sneak attack damage dice you
   rolled.
 
-## Sap Master (Combat) {#sap-master}
+### Sap Master (Combat) {#sap-master}
 
 You knock the sense out of foes with a well-timed surprise
 attack.
@@ -4671,7 +4671,7 @@ attack.
   your sneak attack dice twice, totaling the results as your
   nonlethal sneak attack damage for that attack.
 
-## Savage Display (Combat, Performance) {#savage-display}
+### Savage Display (Combat, Performance) {#savage-display}
 
 With your victory and a roar, you push yourself on with increased
 savagery.
@@ -4683,7 +4683,7 @@ savagery.
   check and gain a +1d6 bonus on damage rolls until the end of
   your next turn. This extra damage is not precision damage.
 
-## School Strike (Combat) {#school-strike}
+### School Strike (Combat) {#school-strike}
 
 You focus the secrets of your school of wizardry into your
 unarmed strike.
@@ -4702,7 +4702,7 @@ unarmed strike.
   take it, you apply it to a different qualifying arcane school
   power.
 
-## Sea Legs
+### Sea Legs
 
 You have a sailor's instincts for moving about while aboard
 seagoing vessels.
@@ -4712,7 +4712,7 @@ seagoing vessels.
 **Benefit**: You gain a +2 bonus on [Acrobatics], [Climb], and
   [Swim] checks.
 
-## Secret Stash Deed (Grit) {#secret-stash-deed}
+### Secret Stash Deed (Grit) {#secret-stash-deed}
 
 You are so skilled at stashing small packets of firearm
 ammunition and black powder on your person that you sometimes
@@ -4734,7 +4734,7 @@ surprise yourself when you find them.
   grit points you spend to use a deed. You also gain a +4 bonus
   on any [Sleight of Hand] checks made while gambling.
 
-## Seize the Moment (Combat, Teamwork) {#seize-the-moment}
+### Seize the Moment (Combat, Teamwork) {#seize-the-moment}
 
 You and your allies are poised to pounce whenever one of you
 scores a telling blow.
@@ -4745,7 +4745,7 @@ scores a telling blow.
   critical hit against an opponent that you also threaten, you
   can make an attack of opportunity against that opponent.
 
-## Shaitan Earthblast (Combat) {#shaitan-earthblast}
+### Shaitan Earthblast (Combat) {#shaitan-earthblast}
 
 With a forceful stomp you release a blast of acid from the earth
 to burn your enemies.
@@ -4764,7 +4764,7 @@ to burn your enemies.
   + 1/2 your character level + your Wis modifier) reduces the
   damage by half and prevents a target from being staggered.
 
-## Shaitan Skin (Combat) {#shaitan-skin}
+### Shaitan Skin (Combat) {#shaitan-skin}
 
 You can manipulate acid to shield yourself and disable your
 enemies.
@@ -4784,7 +4784,7 @@ enemies.
   1/2 your character level + your Wis modifier) or be staggered
   for 1 round.
 
-## Shaitan Style (Combat, Style) {#shaitan-style}
+### Shaitan Style (Combat, Style) {#shaitan-style}
 
 You strike with the caustic forces from within the earth.
 
@@ -4799,7 +4799,7 @@ You strike with the caustic forces from within the earth.
   while you are using it to deal acid damage, you still deal 1d6
   points of acid damage to your target.
 
-## Shake It Off (Teamwork) {#shake-it-off}
+### Shake It Off (Teamwork) {#shake-it-off}
 
 You support your allies and help them recover from crippling
 effects.
@@ -4808,7 +4808,7 @@ effects.
   have this feat, you gain a +1 bonus on saving throws per such
   ally (maximum +4).
 
-## Shapeshifter Foil
+### Shapeshifter Foil
 
 Your command of shapeshifting magic can disrupt similar effects
 in others.
@@ -4826,7 +4826,7 @@ in others.
   form. If you score a critical hit against such an opponent, no
   saving throw is allowed.
 
-## Shapeshifting Hunter
+### Shapeshifting Hunter
 
 You blend your knowledge of foes and your shapeshifting abilities
 together.
@@ -4840,7 +4840,7 @@ together.
   the number of times per day you can use your wild shape class
   feature, up to a maximum of eight times per day.
 
-## Shared Judgment
+### Shared Judgment
 
 You extend the benefits of your judgment to an ally.
 
@@ -4861,7 +4861,7 @@ You extend the benefits of your judgment to an ally.
   is suspended for you, it is suspended for all allies, but when
   it resumes, it does so for all allies.
 
-## Siege Commander (Combat) {#siege-commander}
+### Siege Commander (Combat) {#siege-commander}
 
 Under your leadership, the time required to assemble and move a
 siege engine is greatly reduced.
@@ -4874,7 +4874,7 @@ siege engine is greatly reduced.
   assemble or move the weapon. You also halve the time required
   to assemble a siege engine.
 
-## Siege Engineer (Combat) {#siege-engineer}
+### Siege Engineer (Combat) {#siege-engineer}
 
 You are proficient with all siege weaponry.
 
@@ -4888,7 +4888,7 @@ You are proficient with all siege weaponry.
 
 **Normal**: Each siege engine is an exotic weapon.
 
-## Siege Gunner (Combat) {#siege-gunner}
+### Siege Gunner (Combat) {#siege-gunner}
 
 Aiming outsized siege weapons poses little difficulty for you.
 
@@ -4905,7 +4905,7 @@ Aiming outsized siege weapons poses little difficulty for you.
   creature aiming it. An indirect-fire weapon that misses
   misdirects fire by 1d4 squares per range increment.
 
-## Signature Deed (Grit) {#signature-deed}
+### Signature Deed (Grit) {#signature-deed}
 
 You are known for performing a particular deed, and can perform
 it with greater ease.
@@ -4919,7 +4919,7 @@ it with greater ease.
   the normal action cost as long as you have at least 1 grit
   point.
 
-## Skilled Driver
+### Skilled Driver
 
 Choose a type a type of vehicle (either air, land, or water). You
 are more skilled when driving that vehicle.
@@ -4927,7 +4927,7 @@ are more skilled when driving that vehicle.
 **Benefit**: You gain a +4 bonus on driving checks with your
   chosen vehicle.
 
-## Slayer's Knack {#slayer's-knack}
+### Slayer's Knack {#slayer's-knack}
 
 You know how to battle your favored enemies with such efficacy
 that any weapon you wield against them becomes more deadly.
@@ -4943,7 +4943,7 @@ that any weapon you wield against them becomes more deadly.
 **Special**: You can take this feat multiple times. Each time you
   take it, you choose a different favored enemy type.
 
-## Sling Flail (Combat) {#sling-flail}
+### Sling Flail (Combat) {#sling-flail}
 
 You can use your loaded sling to effectively strike at nearby
 foes.
@@ -4959,7 +4959,7 @@ foes.
 **Special**: Any feats you have that apply when you use a flail
   also apply when you use a loaded sling as a melee weapon.
 
-## Snake Fang (Combat) {#snake-fang}
+### Snake Fang (Combat) {#snake-fang}
 
 You can unleash attacks against an opponent that has dropped its
 guard.
@@ -4974,7 +4974,7 @@ guard.
   opportunity hits, you can spend an immediate action to make
   another unarmed strike against the same opponent.
 
-## Snake Sidewind (Combat) {#snake-sidewind}
+### Snake Sidewind (Combat) {#snake-sidewind}
 
 Your sensitive twisting movements make you difficult to
 anticipate combat.
@@ -4994,7 +4994,7 @@ anticipate combat.
 **Normal**: You can take a 5-foot step only if you have not
   otherwise moved this round.
 
-## Snake Style (Combat, Style) {#snake-style}
+### Snake Style (Combat, Style) {#snake-style}
 
 You watch your foe's every movement and then punch through its
 defense.
@@ -5012,7 +5012,7 @@ defense.
 
 **Normal**: An unarmed strike deals bludgeoning damage.
 
-## Snap Shot (Combat) {#snap-shot}
+### Snap Shot (Combat) {#snap-shot}
 
 With a ranged weapon, you can take advantage of any opening in
 your opponent's defenses.
@@ -5030,7 +5030,7 @@ your opponent's defenses.
   squares and can make no attacks of opportunity with that
   weapon.
 
-## Snapping Turtle Clutch (Combat) {#snapping-turtle-clutch}
+### Snapping Turtle Clutch (Combat) {#snapping-turtle-clutch}
 
 Your unarmed style allows you to turn your opponent's attack into
 an opportunity.
@@ -5046,7 +5046,7 @@ an opportunity.
   can use an immediate action to attempt a grapple combat
   maneuver against that opponent, but with a –2 penalty.
 
-## Snapping Turtle Shell (Combat) {#snapping-turtle-shell}
+### Snapping Turtle Shell (Combat) {#snapping-turtle-shell}
 
 Your guarding hand is almost magical in its skill at deflecting
 incoming blows.
@@ -5060,7 +5060,7 @@ incoming blows.
   and your enemies take a –4 penalty on critical confirmation
   rolls against you.
 
-## Snapping Turtle Style (Combat, Style) {#snapping-turtle-style}
+### Snapping Turtle Style (Combat, Style) {#snapping-turtle-style}
 
 Your deft unarmed style allows you to shield your body from harm.
 
@@ -5070,7 +5070,7 @@ Your deft unarmed style allows you to shield your body from harm.
 **Benefit**: While using the Snapping Turtle Style feat with at
   least one hand free, you gain a +1 shield bonus to AC.
 
-## Sneaking Precision
+### Sneaking Precision
 
 Your knowledge of your enemies' vulnerable spots is especially
 punishing.
@@ -5083,7 +5083,7 @@ punishing.
   apply the effects of one critical feat you know to that
   opponent.
 
-## Sorcerous Strike (Combat) {#sorcerous-strike}
+### Sorcerous Strike (Combat) {#sorcerous-strike}
 
 The power flowing through your veins also flows through your
 unarmed strike.
@@ -5102,7 +5102,7 @@ unarmed strike.
   take it, you apply it to a different qualifying bloodline
   power.
 
-## Spell Bane
+### Spell Bane
 
 While your bane weapon is active, creatures that your bane
 affects find it more difficult to resist your spells.
@@ -5113,7 +5113,7 @@ affects find it more difficult to resist your spells.
   creature type, the saving throw's DCs for your spells increase
   by +2 for creatures of that type.
 
-## Spinning Throw (Combat) {#spinning-throw}
+### Spinning Throw (Combat) {#spinning-throw}
 
 You whirl your foe around and then let go.
 
@@ -5137,7 +5137,7 @@ Improved *Ki* Throw feat to throw the opponent into that space.
 **Special**: Per the *Ki* Throw feat, a monk can use *ki*to
   affect creatures larger than himself with this feat.
 
-## Splintering Weapon
+### Splintering Weapon
 
 Your fragile weapon works to your advantage, breaking off
 fragments in wounds you inflict.
@@ -5150,7 +5150,7 @@ fragments in wounds you inflict.
   opponent, you can give your weapon the broken condition to deal
   that opponent 1d4 points of bleed damage.
 
-## Stage Combatant (Combat) {#stage-combatant}
+### Stage Combatant (Combat) {#stage-combatant}
 
 You are a master of stage and nonlethal combats.
 
@@ -5164,7 +5164,7 @@ You are a master of stage and nonlethal combats.
 **Normal**: When making attacks that deal no damage or nonlethal
   damage, you take a –4 penalty on attack rolls.
 
-## Stalwart
+### Stalwart
 
 You adopt a defensive stance that allows you to absorb and
 redirect hits.
@@ -5180,7 +5180,7 @@ redirect hits.
   with DR from any other source. If you are denied your Dexterity
   bonus to AC, you are also denied this DR.
 
-## Stealth Synergy (Teamwork) {#stealth-synergy}
+### Stealth Synergy (Teamwork) {#stealth-synergy}
 
 Working closely with an ally, you are able to move like twin
 shadows.
@@ -5190,7 +5190,7 @@ shadows.
   you all take the highest roll and add all your modifiers to
   [Stealth].
 
-## Strangler (Combat) {#strangler}
+### Strangler (Combat) {#strangler}
 
 Throttling the life out of enemies is second nature to you.
 
@@ -5201,7 +5201,7 @@ Throttling the life out of enemies is second nature to you.
   choose to deal damage, you can spend a swift action to deal
   your sneak attack damage to the creature you are grappling.
 
-## Strong Comeback
+### Strong Comeback
 
 You learn quickly from past mistakes.
 
@@ -5209,7 +5209,7 @@ You learn quickly from past mistakes.
   a skill check, or a saving throw, you gain a +2 circumstance
   bonus on the reroll.
 
-## Stunning Pin (Combat) {#stunning-pin}
+### Stunning Pin (Combat) {#stunning-pin}
 
 You can render a pinned foe temporarily incapacitated.
 
@@ -5219,7 +5219,7 @@ You can render a pinned foe temporarily incapacitated.
 **Benefit**: Whenever you pin an opponent, you can spend a swift
   action to make a [Stunning Fist] attempt against that opponent.
 
-## Sure Grasp
+### Sure Grasp
 
 Your quick reflexes and skill at climbing keep you from falling
 to your doom.
@@ -5229,7 +5229,7 @@ to your doom.
 **Benefit**: Roll twice while climbing or when making a Reflex
   save to avoid falling, and take the higher result.
 
-## Sword and Pistol (Combat) {#sword-and-pistol}
+### Sword and Pistol (Combat) {#sword-and-pistol}
 
 You effortlessly pair melee and ranged weaponry.
 
@@ -5244,7 +5244,7 @@ You effortlessly pair melee and ranged weaponry.
 **Normal**: Making a ranged attack provokes attacks of
   opportunity.
 
-## Tandem Trip (Combat, Teamwork) {#tandem-trip}
+### Tandem Trip (Combat, Teamwork) {#tandem-trip}
 
 You know how to work together to trip your foes.
 
@@ -5252,7 +5252,7 @@ You know how to work together to trip your foes.
   an enemy threatened by an ally with this feat, you roll twice
   and take the better result.
 
-## Target of Opportunity (Combat, Teamwork)
+### Target of Opportunity (Combat, Teamwork)
    {#target-of-opportunity}
 
 You and your allies pelt your enemies with a deadly barrage of
@@ -5267,7 +5267,7 @@ missiles.
   loaded, and ready to be fired or thrown for you to make the
   ranged attack.
 
-## Team Pickpocketing (Teamwork) {#team-pickpocketing}
+### Team Pickpocketing (Teamwork) {#team-pickpocketing}
 
 You distract a mark with friendly conversation while your partner
 robs the victim blind.
@@ -5280,7 +5280,7 @@ robs the victim blind.
   of Hand] check to pickpocket that opponent and gain a +4 bonus
   on that attempt.
 
-## Tiger Claws (Combat) {#tiger-claws}
+### Tiger Claws (Combat) {#tiger-claws}
 
 You can sacrifice multiple attacks to make a single devastating
 strike.
@@ -5300,7 +5300,7 @@ strike.
   attack of opportunity from your opponent, but you cannot move
   with that opponent if your bull rush is successful.
 
-## Tiger Pounce (Combat) {#tiger-pounce}
+### Tiger Pounce (Combat) {#tiger-pounce}
 
 Your unarmed strikes are as precise as they are powerful, but
 they leave you open and you can pursue foes with blinding speed.
@@ -5316,7 +5316,7 @@ they leave you open and you can pursue foes with blinding speed.
   unarmed strike or made a successful combat maneuver against on
   this turn or your last turn.
 
-## Tiger Style (Combat, Style) {#tiger-style}
+### Tiger Style (Combat, Style) {#tiger-style}
 
 Your unarmed fighting style emulates the strength and ferocity of
 a tiger.
@@ -5333,7 +5333,7 @@ a tiger.
 
 **Normal**: Unarmed strikes deal bludgeoning damage.
 
-## Trapper's Setup {#trapper's-setup}
+### Trapper's Setup {#trapper's-setup}
 
 You have an instinct for waiting until just the right moment to
 spring a hazard or trap.
@@ -5344,7 +5344,7 @@ spring a hazard or trap.
   that trap receives either a +2 circumstance bonus on melee
   attack rolls or a +2 circumstance bonus to its saving throw DC.
 
-## Twin Thunders (Combat) {#twin-thunders}
+### Twin Thunders (Combat) {#twin-thunders}
 
 When you fight giants, your powerful blows combine with skills
 learned from generations of your people to quickly even the odds.
@@ -5361,7 +5361,7 @@ learned from generations of your people to quickly even the odds.
   bonuses. Such extra weapon damage dice are not multiplied on a
   critical hit.
 
-## Twin Thunders Flurry (Combat) {#twin-thunders-flurry}
+### Twin Thunders Flurry (Combat) {#twin-thunders-flurry}
 
 Your dual bludgeoning strikes are especially deadly when you are
 fighting giants.
@@ -5378,7 +5378,7 @@ fighting giants.
   you hit that creature with your primary weapon, you can deal
   the extra off-hand weapon damage [Twin Thunders] grants you.
 
-## Twin Thunders Master (Combat) {#twin-thunders-master}
+### Twin Thunders Master (Combat) {#twin-thunders-master}
 
 With thunderous simultaneous strikes, you can batter a mighty
 giant into submission.
@@ -5398,7 +5398,7 @@ giant into submission.
   instead. In a similar way, you can stun an opponent that is
   already dazed.
 
-## Two-Handed Thrower (Combat) {#two-handed-thrower}
+### Two-Handed Thrower (Combat) {#two-handed-thrower}
 
 You hurl weapons with both hands and with great force, sometimes
 using a whirling technique to send your weapon flying through the
@@ -5417,7 +5417,7 @@ air at tremendous speeds.
   regardless of available hands. Throwing a two-handed weapon is
   a full-round action.
 
-## Two-Weapon Feint (Combat) {#two-weapon-feint}
+### Two-Weapon Feint (Combat) {#two-weapon-feint}
 
 You use one weapon to distract your enemy while slipping another
 past his defenses.
@@ -5429,7 +5429,7 @@ past his defenses.
   attacks, you can forgo your first primary-hand melee attack to
   make a [Bluff] check to feint an opponent.
 
-## Vicious Stomp (Combat) {#vicious-stomp}
+### Vicious Stomp (Combat) {#vicious-stomp}
 
 You take advantage of the moment to brutally kick an enemy when
 he is down.
@@ -5440,7 +5440,7 @@ he is down.
   that opponent provokes an attack of opportunity from you. This
   attack must be an unarmed strike.
 
-## Wave Strike (Combat) {#wave-strike}
+### Wave Strike (Combat) {#wave-strike}
 
 You present a serene facade until you unsheathe your weapon and
 strike in one fluid motion.
@@ -5453,7 +5453,7 @@ strike in one fluid motion.
   swift action to make a [Bluff] check to feint against that
   opponent.
 
-## Whip Mastery (Combat) {#whip-mastery}
+### Whip Mastery (Combat) {#whip-mastery}
 
 Your superior expertise with this weapon does not provoke attacks
 of opportunity from your enemies.
