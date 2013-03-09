@@ -14,7 +14,7 @@ customize your barbarian, as well as several classic barbarian
 archetypes to help you in building your character, each one
 including a number of suggested rage powers that, while not
 mandatory, work to flesh out the character concept. Rage powers
-marked with an asterisk (\*) can be found in the *Pathfinder RPG
+marked with an asterisk (\*) can be found in the *PF RPG
 Core Rulebook*.
 
 **Rage Powers (Ex)**: The following new rage powers can be taken
@@ -178,7 +178,7 @@ ferocious mount rage power to select this rage power. A barbarian
 must be at least 8th level to select this rage power.
 
 *Ferocious [Trample] (Ex)*: While raging and mounted, the
-barbarian's mount gains the trample special attack (*Pathfinder
+barbarian's mount gains the trample special attack (*PF
 RPG Bestiary* 305). This attack inflicts 1d8 points of damage for
 a Medium mount, 2d6 for a Large mount, or 2d8 for a Huge mount,
 plus 1-1/2 times the mount's Strength modifier. A successful
@@ -5236,7 +5236,7 @@ levels thereafter, for a total of four times per day at 17th
 level.
 
 At 11th level, the servant gains the advanced template (see the
-*Pathfinder RPG Bestiary*). At 15th level, an antipaladin's
+*PF RPG Bestiary*). At 15th level, an antipaladin's
 servant gains spell resistance equal to the antipaladin's level +
 11.
 
@@ -6001,7 +6001,7 @@ more class features that must be taken. In addition, each
 archetype includes a number of new rogue talent suggestions that,
 while not mandatory, help to flesh out the character. Rogue
 talents and advanced rogue talents marked with an asterisk (\*)
-in the archetype sections can be found in the *Pathfinder RPG
+in the archetype sections can be found in the *PF RPG
 Core Rulebook*.
 
 **Rogue Talents**: The following new rogue talents can be taken

@@ -6,7 +6,7 @@ birth. They grant characters abilities others lack, giving them
 an edge in the right situation. While some specifically interact
 with a PC's race or class, most can be taken by anyone who meets
 the prerequisites. The feats in this book expand upon those in
-the *Pathfinder Roleplaying Game Core Rulebook,*including a host
+the *PF Roleplaying Game Core Rulebook,*including a host
 of new combat feats and metamagic feats. In addition, this
 chapter also introduces teamwork feats, which function only when
 two characters with the same feat work together.

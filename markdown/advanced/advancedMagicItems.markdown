@@ -5,7 +5,7 @@ light wounds]* to prized relics like *[holy] avengers*, stretch
 troves of legendary treasures, rare masterworks discovered in the
 depths of the deadliest dungeons or groundbreaking discoveries
 crafted by geniuses and madmen. This chapter reaches past the
-familiar items of the *Pathfinder RPG Core Rulebook*, revealing a
+familiar items of the *PF RPG Core Rulebook*, revealing a
 wealth of magical masterpieces, some long renowned, others
 entirely new. GMs who wish to incorporate these new magical items
 should feel free to make these treasures just as pervasive and

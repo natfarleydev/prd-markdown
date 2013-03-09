@@ -7,18 +7,18 @@ racial archetypes can be achieved with a bit of
 roleplaying—whether developing a unique personality and style for
 every character or adopting one as clichéd as a surly dwarf
 fighter with a huge axe and a tankard of ale. The seven player
-character races in the Pathfinder RPG—dwarves, elves, gnomes,
+character races in the PF RPG—dwarves, elves, gnomes,
 half-elves, half-orcs, halflings, and humans—are no more uniform
 than are humans in the real world. This chapter is meant to offer
 game rules and options for how to reflect that diversity of
 attitude, heritage, and experience and how it affects the way the
 races interact with the various adventuring careers presented in
-the Pathfinder RPG core rules.
+the PF RPG core rules.
 
 ## Racial Attitudes
 
 The following race discussions describe the general attitudes
-held by each race toward the 11 base classes in the *Pathfinder
+held by each race toward the 11 base classes in the *PF
 RPG Core Rulebook* and the six new base classes introduced here
 in the *Advanced Player's Guide*. Humans tend to fit easily into
 every class, while other races favor some occupations much more
@@ -47,7 +47,7 @@ these typical attitudes about their class with a DC 10
 The following race discussions also describe alternate racial
 traits for each character race. It is important to note that
 these racial traits are not the same as the trait rules found in
-Chapter 8 of this book (and originating in other Pathfinder
+Chapter 8 of this book (and originating in other PF
 products). Those traits are effectively half-feats, intended to
 tie characters to the specific nations, cultures, regions, and
 races of the Golarion campaign world. Racial traits, on the other

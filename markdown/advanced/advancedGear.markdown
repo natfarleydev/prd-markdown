@@ -410,7 +410,7 @@ half as much, and a Large weapon weighs twice as much.
 ## Armor
 
 These armors follow the same rules as the armors presented in the
-*Pathfinder RPG Core Rulebook*.
+*PF RPG Core Rulebook*.
 
 **Agile Breastplate**: This breastplate is specially crafted in a
 manner that allows extra maneuverability for some physical
@@ -668,7 +668,7 @@ advantage—their very survival depends on it.
 ## Adventuring Gear
 
 The following special gear supplements that listed in the
-*Pathfinder RPG Core Rulebook*.
+*PF RPG Core Rulebook*.
 
 **Backpack, Masterwork**: This backpack has numerous pockets for
 storing various items that might be needed while

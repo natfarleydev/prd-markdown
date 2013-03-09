@@ -1470,7 +1470,7 @@ level + the inquisitor's Wisdom modifier.
 An inquisitor can cast only a certain number of spells of each
 spell level each day. Her base daily spell allotment is given on
 Table 2-3. In addition, she receives bonus spells per day if she
-has a high Wisdom score (see Table 1-3 of the *Pathfinder RPG
+has a high Wisdom score (see Table 1-3 of the *PF RPG
 Core Rulebook*).
 
 An inquisitor's selection of spells is extremely limited. An
@@ -2015,7 +2015,7 @@ Like other spellcasters, an oracle can cast only a certain number
 of spells per day of each spell level. Her base daily spell
 allotment is given on Table 2-5. In addition, she receives bonus
 spells per day if she has a high Charisma score (see Table 1-3 of
-the *Pathfinder RPG Core Rulebook*).
+the *PF RPG Core Rulebook*).
 
 Unlike other divine spellcasters, an oracle's selection of spells
 is extremely limited. An oracle begins play knowing four 0-level
@@ -2898,7 +2898,7 @@ an organic cocoon as a full-round action. While enclosed in the
 cocoon, you are considered helpless. Eight hours later, you
 emerge having changed your type to plant, animal, or humanoid,
 gaining superficial physical characteristics as appropriate (see
-the *Pathfinder RPG Bestiary*). This change does not alter your
+the *PF RPG Bestiary*). This change does not alter your
 Hit Dice, hit points, saving throws, skill points, class skills,
 or proficiencies. Each time the transformation is made, you are
 cleansed of all poisons or diseases, are restored to full hit
@@ -3426,7 +3426,7 @@ a saving throw against a summoner's spell is 10 + the spell level
 A summoner can cast only a certain number of spells of each spell
 level each day. His base daily spell allotment is given on Table
 2-7. In addition, he receives bonus spells per day if he has a
-high Charisma score (see Table 1-3 of the *Pathfinder RPG Core
+high Charisma score (see Table 1-3 of the *PF RPG Core
 Rulebook*).
 
 A summoner's selection of spells is extremely limited. A summoner
@@ -4648,7 +4648,7 @@ the witch's Intelligence modifier.
 A witch can cast only a certain number of spells of each spell
 level per day. Her base daily spell allotment is given on Table
 2-10. In addition, she receives bonus spells per day if she has a
-high Intelligence score (see Table 1-3 of the *Pathfinder RPG
+high Intelligence score (see Table 1-3 of the *PF RPG
 Core Rulebook*).
 
 A witch may know any number of spells. She must choose and
@@ -5038,7 +5038,7 @@ ability.
 
 #### New Familiars
 
-In addition to the familiars presented in the *Pathfinder RPG
+In addition to the familiars presented in the *PF RPG
 Core Rulebook*, witches might select any of the following animals
 as their familiar. Sorcerers and wizards might also adopt these
 new familiars, utilizing the same rules as for any other

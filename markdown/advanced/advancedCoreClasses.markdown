@@ -1,7 +1,7 @@
 # Core Classes
 
 From the noble paladin to the skillful rogue, each core class in
-the *Pathfinder Roleplaying Game* draws upon a central
+the *PF Roleplaying Game* draws upon a central
 archetype. Yet, beyond that basic concept exists the potential
 for innumerable interpretations, details, and refinements. The
 fighter class, for example, might easily be sculpted into a

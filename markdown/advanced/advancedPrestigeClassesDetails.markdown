@@ -38,11 +38,10 @@ The battle herald's class skills are [Bluff] (Cha), [Craft]
 **Skill Ranks per Level**: 4 + Int modifier.
 
 Level BAB Fort  Ref  Will Special
-          Save  Save Save
 ----- --- ----- ---- ---- -----------------------------------
 1st   +1  +1    +0   +1   1st [inspiring command] (+1),
                           [improved leadership],
-			  [voice of authority]
+                          [voice of authority]
 2nd   +2  +1    +1   +1   [Easy march]
 3rd   +3  +2    +1   +2   2nd [inspiring command]
 4th   +4  +2    +1   +2   [Inspiring command] (+2),
@@ -57,7 +56,7 @@ Level BAB Fort  Ref  Will Special
 10th  +10 +5    +3   +5   [Complex commands],
                           [inspiring command] (+4)
 
-  : Table: Battle Herald
+  : Table Battle Herald
 
 ### Class Features
 
@@ -300,7 +299,6 @@ The vindicator's class skills are [Climb] (Str), [Heal] (Wis),
 **Skill Ranks per Level**: 2 + Int modifier.
 
 Level   BAB Fort Ref  Will   Special                      Spells per Day
-            Save Save Save
 ------- --- ---- ---- ----- ----------------------------- ----------------
 1st     +1  +1   +0   +1    [Channel energy],             —
                             [vindicator's shield]         
@@ -480,7 +478,6 @@ The horizon walker's class skills are [Climb] (Str), [Diplomacy]
 **Skill Ranks at Each Level**: 6 + Int modifier.
 
 Level BAB Fort Ref  Will Special
-          Save Save Save
 ----- --- ---- ---- ---- ------------------------------------
 1st   +1  +1   +0   +0   [Favored terrain]
 2nd   +2  +1   +1   +1   [Favored terrain], [terrain mastery]
@@ -505,7 +502,7 @@ proficiency with any weapon or armor.
 
 **Favored Terrain**: At 1st level, a horizon walker may select a
 favored terrain from the ranger Favored Terrains table
-(*Pathfinder RPG Core Rulebook* 65). This works exactly like the
+(*PF RPG Core Rulebook* 65). This works exactly like the
 ranger favored terrain ability. The horizon walker gains an
 additional favored terrain at 2nd, 4th, 5th, 7th, 8th and 10th
 level, and he can increase the bonus from an existing favored
@@ -750,7 +747,6 @@ The master chymist's class skills are [Acrobatics] (Dex), [Climb]
 **Skill Ranks at Each Level**: 2 + Int modifier.
 
 Lvl  BAB Fort Ref  Will Special                            Extracts 
-         Save Save Save                                    per Day
 ---- --- ---- ---- ---- ---------------------------------- -------
 1st  +1  +1   +1   +0   [Bomb-thrower], [mutagenic form],  —
                         [mutate] 2/day                     
@@ -764,7 +760,7 @@ Lvl  BAB Fort Ref  Will Special                            Extracts
 9th  +9  +5   +5   +3   [Brutality] (+6)                   \*
 10th +10 +5   +5   +3   [Advanced mutagen], [mutate] 5/day \*
 
-\* means +1 level of alchemist
+\* means +1 extract per day per level of alchemist 
 
   : Table: Master Chymist
 
@@ -1027,7 +1023,6 @@ The master spy's class skills are [Bluff] (Cha), [Diplomacy]
 **Skill Ranks per Level**: 6 + Int modifier.
 
 Lvl  BAB Fort Ref  Will Special
-         Save Save Save
 ---- --- ---- ---- ---- -----------------------------------------
 1st  +0  +0   +1   +1   [Art of deception], [master of disguise],
                         [sneak attack] +1d6
@@ -1244,7 +1239,6 @@ Animal] (Cha), [Heal] (Wis), [Knowledge] (geography) (Int),
 **Skill Ranks at Each Level**: 4 + Int modifier.
 
 Lvl  BAB Fort Ref  Will Special                             Spells 
-         Save Save Save                                     per Day
 ---- --- ---- ---- ---- ----------------------------------- -------
 1st  +0  +1   +0   +1   [Companion bond], [natural empathy] —
 2nd  +1  +1   +1   +1   [Mystic harmony], [wild stride]     \*
@@ -1259,7 +1253,7 @@ Lvl  BAB Fort Ref  Will Special                             Spells
 
   : Table: Nature Warden
 
-\* means +1 level of divine spellcasting class
+\* means +1 spells per day per level of divine spellcasting class
 
 ### Class Features
 
@@ -1476,7 +1470,6 @@ The rage prophet's class skills are [Climb] (Str), [Heal] (Wis),
 **Skill Ranks at Each Level**: 4 + Int modifier.
 
 Lvl  BAB Fort Ref  Will Special                       Spells 
-         Save Save Save                               per Day
 ---- --- ---- ---- ---- ----------------------------- -------
 1st  +0  +1   +0   +1   [Savage seer], [spirit guide] —
 2nd  +1  +1   +1   +1   [Rage prophet mystery],       \*
@@ -1494,7 +1487,8 @@ Lvl  BAB Fort Ref  Will Special                       Spells
 10th +7  +5   +3   +5   [Greater rage],               \*
                         [rage prophet mystery]        
 
-\* means +1 level of divine spellcasting class
+\* means +1 spell per day per level of divine spellcasting class
+
   : Table: Rage Prophet
 
 ### Class Features
@@ -1652,7 +1646,6 @@ Motive] (Wis).
 **Skill Ranks per Level**: 2 + Int modifier.
 
 Lvl  BAB Fort Ref  Will AC    Special
-         Save Save Save Bonus
 ---- --- ---- ---- ---- ----- ----------------------------------
 1st  +1  +1   +0   +1   +1    [Defensive stance]
 2nd  +2  +1   +1   +1   +1    [Defensive power]

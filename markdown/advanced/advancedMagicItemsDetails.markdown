@@ -1,7 +1,7 @@
 # Armor
 
 The following armor and shield properties add to those presented
-in the *Pathfinder RPG Core Rulebook*.
+in the *PF RPG Core Rulebook*.
 
 ## Magic Armor and Shield Ability Descriptions
 
@@ -1377,7 +1377,7 @@ Minor  Medium Major Ring                          Market Price
   : Table: Rings
 
 These rings follow the normal rules for magic rings as described
-in the *Pathfinder RPG Core Rulebook*.
+in the *PF RPG Core Rulebook*.
 
 **Dungeon Ring**
 
@@ -1899,7 +1899,7 @@ Medium   Major  Staff              Market Price
 : Table: Staves
 
 The staves in this chapter follow the normal rules for magical
-staves as described in the *Pathfinder RPG Core Rulebook*.
+staves as described in the *PF RPG Core Rulebook*.
 
 **Staff of Bolstering**
 
@@ -2316,7 +2316,7 @@ following spells:
 # Weapons
 
 The following armor and shield properties add to those presented
-in the *Pathfinder RPG Core Rulebook*.
+in the *PF RPG Core Rulebook*.
 
 ## Magic Weapon Special Ability Descriptions
 
@@ -3179,7 +3179,7 @@ These linen bandages have the same color and softness as the
 feathers of a dove, but their antiseptic smell suggests a less
 natural origin. Any creature wrapped in these bandages recovers
 from wounds and ability damage each day as if receiving complete
-bed rest regardless of activity (*Pathfinder RPG Core
+bed rest regardless of activity (*PF RPG Core
 Rulebook*191). A creature actually receiving long-term care (from
 the [Heal] skill) or complete bed rest while wearing the bandages
 gains a +4 bonus to its effective level or Hit Dice when

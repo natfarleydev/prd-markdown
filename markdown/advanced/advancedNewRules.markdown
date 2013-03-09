@@ -1,6 +1,6 @@
 # New Rules
 
-Although the *Pathfinder RPG Core Rulebook* provides a complete
+Although the *PF RPG Core Rulebook* provides a complete
 game, along with guidelines and examples to aid GMs in creation
 of any new rules components their adventures might require, the
 open-ended nature of the rules allows for endless expansion and
@@ -10,7 +10,7 @@ adopt, even invent, additional elements if doing so helps make
 battle feel more cinematic, increases players' investments in
 their characters, or simply make the game more fun. This chapter
 presents three new rules subsystems designed explicitly to
-improve Pathfinder games in those three ways. Although the
+improve PF games in those three ways. Although the
 majority of this book is designed to provide new rules for
 players, any new content herein should be approved by their GM
 before it sees use. In the case of this chapter's content, these
@@ -35,7 +35,7 @@ battlefield and open the door for additional uses of various
 debilitating conditions and colorful effects.
 
 **[Hero Points]**: A common house rule standardized and expanded
-for the Pathfinder RPG, this system allows players a measure of
+for the PF RPG, this system allows players a measure of
 control over fate and random dice rolls. Rather than having the
 outcome of an adventure's worth of effort come down to or be
 thwarted by simple bad luck, hero points grant the PCs a resource
@@ -54,7 +54,7 @@ campaign.
 There's much more nuance to the ebb and flow of battle then
 merely charging into the fray and hacking away, or tumbling under
 an opponent's guard to attack from a more advantageous
-position. The Pathfinder RPG's combat rules, while both detailed
+position. The PF RPG's combat rules, while both detailed
 and flexible, are meant to provide a simulation of battle, not
 necessarily an exacting blow by blow representation of combat's
 every moment. An attack roll that doesn't deal damage, for
@@ -71,7 +71,7 @@ conflict.
 
 Combat maneuvers allow a character to perform special actions in
 combat, other than just attacking with a weapon or casting a
-spell. While the *Pathfinder RPG Core Rulebook* covers the most
+spell. While the *PF RPG Core Rulebook* covers the most
 common sorts of combat maneuvers that a character might perform,
 the combat maneuver mechanics can be used for a wide variety of
 tricks and stunts.
@@ -731,7 +731,7 @@ There are five types of character traits to choose from: basic
 (split among four categories: Combat, Faith, Magic, and Social),
 campaign, race, regional, and religion. Only a selection of
 character traits is listed here—more traits from all categories
-can be found in Pathfinder Player Companions, available at your
+can be found in PF Player Companions, available at your
 local game store or from **paizo.com**.
 
 **Basic Traits**: There are a total of 40 basic traits, which are
@@ -745,7 +745,7 @@ minimum of customization.
 
 **Campaign Traits**: These traits are specifically tailored to
 give new characters an instant hook into a new campaign. Campaign
-traits tailored to a specific Pathfinder Adventure Path can
+traits tailored to a specific PF Adventure Path can
 always be found in that Adventure Path's Player's Guide,
 available at **paizo.com**.
 

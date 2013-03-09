@@ -1518,7 +1518,7 @@ check to burst through the barrier and continue unimpeded to the
 target.  A creature struck by the *[clashing rocks]* takes 20d6
 points of bludgeoning damage and is knocked prone. If the target
 fails a Reflex saving throw, it is also buried under the
-resulting rubble as if by a cave-in (see *Pathfinder RPG Core
+resulting rubble as if by a cave-in (see *PF RPG Core
 Rulebook* 415).
 
 If the *[clashing rocks]* miss the target, the target still takes
@@ -6219,7 +6219,7 @@ a successful DC 25 [Sense Motive] check.
 
 With this spell, you infuse your life force and psyche into your
 shadow, giving it independent life and movement as if it were an
-undead shadow (see *Pathfinder RPG Bestiary*245). Your physical
+undead shadow (see *PF RPG Bestiary*245). Your physical
 body lies comatose while you are projecting your shadow, and your
 body has no shadow or reflection while the spell is in effect.
 
@@ -7237,7 +7237,7 @@ above.
 
 You harden your body against the stresses of long travel. You
 halve the damage caused by hustling and forced marching (see
-*Pathfinder RPG Core Rulebook* 171). In addition, for the
+*PF RPG Core Rulebook* 171). In addition, for the
 duration of the spell you ignore any fatigue caused by such
 travel. Once the spell ends, if you still have any nonlethal
 damage caused by the hustling or forced march, you become

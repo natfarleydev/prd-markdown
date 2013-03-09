@@ -37,7 +37,7 @@ holding the line at all costs.
 Below are definitions of some common terms used here.
 
 **Core Class**: One of the standard eleven classes found in the
-*Pathfinder RPG Core Rulebook*.
+*PF RPG Core Rulebook*.
 
 **Base Class**: A class that progresses from level 1-20.
 

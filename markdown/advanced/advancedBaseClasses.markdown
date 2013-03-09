@@ -9,7 +9,7 @@ variety for a Game Master's cast of nonplayer characters.
 ## Base Classes
 
 The six new base classes presented in this book are equivalent in
-power to the 11 core classes in the *Pathfinder RPG Core
+power to the 11 core classes in the *PF RPG Core
 Rulebook*. Game Masters (also called GMs) are encouraged to allow
 players to choose freely from these classes and the other
 additional rules and options in this book, but each GM must make
