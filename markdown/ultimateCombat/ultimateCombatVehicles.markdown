@@ -179,8 +179,6 @@ vehicle's maximum speed depends on the speed of the current
 (often as high as 120 feet). The acceleration of a water-current
 vehicle is 30 feet.
 
-\
-
 *Air Current*: Air-current vehicles are rather diverse. They can
 be sailing ships, airships, land ships, or even gliders. A
 vehicle propelled by air with a crew of two or more creatures
@@ -196,8 +194,6 @@ are moving with the air current, and have an acceleration of 30
 feet. Larger vehicles can move at a speed of 90 feet, or twice
 that amount when they are moving with the air current, and have
 an acceleration of 30 feet.
-
-\
 
 *Weird Current*: Navigating currents of magical energy, burning
 magma, or the murky rivers of the Shadow Plane could use a number
@@ -244,8 +240,6 @@ accelerate its space in vehicle squares up to its speed. For
 instance, a single horse takes up 4 squares, and can pull a
 4-square cart 100 feet each round with an acceleration of 50
 feet.
-
-\
 
 *Pushed*: Pushed vehicles are the exact opposite of pulled
 vehicles—vehicles that are pushed by muscle, usually using some
@@ -377,8 +371,6 @@ using the device properly.
  swerve. A driver who fails her driving check can only move into
  squares directly in front of the vehicle's forward facing.
 
-\
-
 *Decelerate (standard action)*: With a successful driving check,
  the vehicle's current speed decreases by a rate up to its
  acceleration (in 5-foot increments; minimum 5 feet). On a failed
@@ -390,15 +382,11 @@ using the device properly.
  complete stop. Having the [Expert Driver] feat reduces this
  distance by 10 feet (minimum 0 feet).
 
-\
-
 *Keep It Going (move action)*: With a successful driving check,
  the driver can move the vehicle forward on its current facing at
  its current speed, and it can move forward diagonally. Failing
  the check keeps the speed constant, but you cannot move the
  vehicle forward diagonally.
-
-\
 
 *Reverse (standard action)*: A vehicle may only be moved in
  reverse if it is at a full stop (movement of 0 feet). On a
@@ -406,8 +394,6 @@ using the device properly.
  its acceleration, moving either directly backward (the reverse
  of its forward facing) or backward diagonally. On a failed
  check, it does not move backward.
-
-\
 
 *Turn (standard action)*: The driver takes this action to turn a
  vehicle's forward facing 90 degrees. The vehicle moves its
@@ -422,8 +408,6 @@ using the device properly.
  vehicle takes the place of the vehicle's former forward facing
  side. On a failed check, the vehicle does not turn, but can be
  moved forward diagonally during its movement.
-
-\
 
 *Uncontrolled (no action)*: When the driver does nothing or there
  is no driver, the vehicle is uncontrolled. An uncontrolled
@@ -587,14 +571,10 @@ occupant, propulsion, driving device, or conveyance (if any).
 *Attacking the Structure*: This is an attack against the vehicle
  itself. If successful, the vehicle takes damage normally.
 
-\
-
 *Attacking an Occupant*: This is a normal attack against an
  occupant creature. Occupants get partial cover or greater if the
  attack is coming from outside of the vehicle. Grappling the
  driver is one method for taking control of the vehicle.
-
-\
 
 *Attacking Propulsion*: Propulsion often has its own set of
 statistics, while creatures propelling a vehicle use their own
@@ -608,16 +588,12 @@ unconscious, the vehicle comes to a sudden stop. If a vehicle has
 a crew, and half or more of that crew is killed, dazed, stunned,
 or rendered unconscious, the vehicle can no longer be controlled.
 
-\
-
 *Attacking the Driving Device*: A driving device is its own
  object with its own statistics. When a driving device gains the
  broken condition or is disabled, all driving checks are
  increased by 10. When a driving device is destroyed, the vehicle
  can no longer be driven. Driving devices are typically objects
  with object immunities and resistances.
-
-\
 
 *Attacking Conveyance*: An attack against wheels, rudders, or
  similar forms of conveyance takes a –10 penalty on the attack
@@ -626,8 +602,6 @@ or rendered unconscious, the vehicle can no longer be controlled.
  maximum damage by the critical multiplier of the
  attack. Conveyances are typically objects with object immunities
  and resistances.
-
-\
 
 **Vehicle Combat Maneuvers**: Vehicles typically don't have
   attacks, though some can be fitted with siege weapons. A
@@ -640,8 +614,6 @@ or rendered unconscious, the vehicle can no longer be controlled.
   larger, or it hits a solid object (a wall or structure that is
   immobile and has a hardness of 5 or more), it makes a ramming
   maneuver.
-
-\
 
 *Vehicular Overrun*: Any time any part of a vehicle (including
 any creatures used as propulsion) enters the space of a creature
@@ -688,8 +660,6 @@ air vehicle must succeed at a DC 25 [Fly] check immediately to
 avoid falling. A vehicle equipped with a ram deals +2d8 points of
 damage with a vehicular overrun.
 
-\
-
 *Vehicular Bull Rush*: As a swift action, taken when the driver
 takes all but the “uncontrolled” action while driving the
 vehicle, a driver can choose to substitute all or some of her
@@ -714,8 +684,6 @@ make a combat maneuver check to bull rush that creature, taking a
 –4 penalty on this check for each creature being pushed beyond
 the first. If successful, the driver can continue to push the
 creature or vehicle a distance equal to the lesser result.
-
-\
 
 *Ramming*: Any time any part of a vehicle (including any
 creatures used as propulsion) enters the space of a creature or
@@ -766,8 +734,6 @@ depending on the type and intelligence of the creature. The
 driver makes this check as an immediate action when the creature
 tries to decelerate or swerve out of the way.
 
-\
-
   Vehicle Size         Damage
   -------------------- --------
   Large vehicle        1d8
@@ -802,8 +768,6 @@ material.
 
   : Table: Vehicle Hit Points by Material
 
-\
-
 *Broken Condition*: Vehicles, and sometimes their methods of
  propulsion, are objects, and like any other object, when they
  take damage in excess of half their hit points, they gain the
@@ -816,8 +780,6 @@ material.
  faster than its new maximum speed, it automatically decelerates
  to its new maximum speed.
 
-\
-
 *Wrecked Condition*: A vehicle gains the wrecked condition if its
 hit points are reduced to 0 or fewer. A wrecked vehicle cannot be
 driven and gains the sinking condition (if in the water) or falls
@@ -825,8 +787,6 @@ driven and gains the sinking condition (if in the water) or falls
 rate of half its maximum speed each round.\ If a means of
 propulsion is reduced to 0 or fewer hit points, it does not gain
 the wrecked condition. It is instead destroyed.
-
-\
 
 *Sinking*: A water vehicle that is reduced to 0 or fewer hit
  points or a vehicle that is not seaworthy that is plunged into
@@ -839,8 +799,6 @@ the wrecked condition. It is instead destroyed.
  round. Alternatively, when a water vehicle is reduced to a
  negative number of hit points equal to its number of squares, it
  sinks immediately.
-
-\
 
 *Destroyed*: A vehicle is destroyed when it is reduced to a
 number of negative hit points equal to its number of squares. A
