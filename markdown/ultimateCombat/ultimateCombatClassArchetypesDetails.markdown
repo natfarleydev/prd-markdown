@@ -172,7 +172,7 @@ infuse mutagen, tentacle, and vestigial arm.
 
 Barbarian
 
-# Barbarian {#-barbarian}
+# Barbarian {#barbarian}
 
 The barbarian is a creature of savagery and superstition. Whether
 tapping into totems of power or unleashing mighty reserves of
@@ -1321,14 +1321,14 @@ banner.
 
 **Mounted Acrobatics (Ex)**: At 9th level, an emissary is even
 more adept at hopping on and off his steed, and even dropping
-alongside its flanks mid-gallop. He gains [Trick Riding]) as a
+alongside its flanks mid-gallop. He gains [Trick Riding] as a
 bonus feat, even if he does not meet the prerequisites. The
 emissary can employ this feat even when wearing medium armor.
 This ability replaces greater tactician.
 
 **Mounted Dervish (Ex)**: At 14th level, an emissary becomes a
 fearsome, mobile foe on the battlefield. He gains [Mounted
-Skirmisher]) as a bonus feat, even if he does not meet the
+Skirmisher] as a bonus feat, even if he does not meet the
 prerequisites. In addition, whenever the emissary is mounted and
 takes the charge action, he adds 10 feet to his mount's
 speed. This ability replaces greater banner.
@@ -1394,7 +1394,7 @@ receives a +1 dodge bonus to AC. This modifies the challenge
 ability
 
 **Intercept (Ex)**: At 3rd level, an honor guard learns to better
-disrupt the attacks of his enemies. He gains [Bodyguard])
+disrupt the attacks of his enemies. He gains [Bodyguard]
 (*Advanced Player's Guide* 151) as a bonus feat, even if he does
 not meet the prerequisite. In addition, whenever the honor guard
 uses the aid another action to increase an ally's Armor Class,
@@ -1537,7 +1537,7 @@ crafted for him. During this 30-day period, the musketeer takes a
 standard cavalier's mount ability.
 
 **Swift Powder (Ex)**: At 4th level, the musketeer gains [Rapid
-Reload]) (musket) or [Rapid Reload]) (pistol) as a bonus feat. At
+Reload] (musket) or [Rapid Reload] (pistol) as a bonus feat. At
 14th level, each time the musketeer issues a challenge, he may
 reload a wielded firearm as a free action. This ability replaces
 expert trainer.
@@ -1656,14 +1656,14 @@ that level.
 again at 5th level and every five levels thereafter (to a maximum
 of six at 20th level). These bonus feats must be chosen from the
 following list: Heavy Armor Proficiency, [Improved Shield Bash],
-[Martial Weapon Proficiency], [Saving Shield]), [Shield Focus],
+[Martial Weapon Proficiency], [Saving Shield], [Shield Focus],
 [Tower Shield Proficiency], and [Weapon Focus\*]. At 10th level,
 a crusader may also choose from the following feats: [Exotic
 Weapon Proficiency], [Greater Shield Focus], [Greater Weapon
 Focus\*], [Improved Critical\*], [Shield Slam], [Shield
-Specialization]), and [Weapon Specialization\*].  At 20th level,
+Specialization], and [Weapon Specialization\*].  At 20th level,
 a crusader may also choose from the following feats: [Greater
-Shield Specialization]) and [Greater Weapon Specialization\*].
+Shield Specialization] and [Greater Weapon Specialization\*].
 Bonus feats marked with an asterisk (\*) must be applied to the
 favored weapon of the crusader's deity. A crusader need not meet
 the normal class- or level-based prerequisites for these bonus
@@ -1912,7 +1912,7 @@ ability functions as the ape shaman ability, but the druid may
 select from the following sets of bonuses and abilities: movement
 (fly speed 30 ft. [average]; the druid must be at least 5th level
 to select this bonus), natural weapons (bite [1d4 for a Medium
-shaman]), or senses (blindsense 20 ft.).
+shaman], or senses (blindsense 20 ft.).
 
 While using totem transformation, the bat shaman may speak
 normally and can cast *[speak with animals]* (mammals only) at
@@ -1931,7 +1931,7 @@ of a bat, she instead uses her druid level + 2.
 **Bonus Feat**: At 9th level and every four levels thereafter, a
 bat shaman gains one of the following bonus feats: [Acrobatic],
 [Agile Maneuvers], [Improved Initiative], [Lightning Reflexes],
-or [Skill Focus] ([Perception]).  She must meet the prerequisites
+or [Skill Focus] ([Perception].  She must meet the prerequisites
 for these bonus feats. This ability replaces venom immunity.
 
 ## Boar Shaman (Archetype) {#boar-shaman}
@@ -2191,7 +2191,7 @@ charge.
 with tower shields.
 
 **Skilled Rider (Ex)**: At 1st level, a dragoon gains both the
-[Mounted Combat] and [Skill Focus] ([Ride]) feats as bonus feats.
+[Mounted Combat] and [Skill Focus] ([Ride] feats as bonus feats.
 This ability replaces the 1st-level fighter bonus combat feat.
 
 **Spear Training (Ex)**: At 5th level, a dragoon must select
@@ -2252,7 +2252,7 @@ the crowd.
 
 **Weapon and Armor Proficiency**: A gladiator is not proficient
 with heavy armor or tower shields. Instead he gains the
-[Performance Weapon Mastery]) feat at 1st level as a bonus
+[Performance Weapon Mastery] feat at 1st level as a bonus
 feat. This bonus feat is in addition to the bonus feat a fighter
 gains at 1st level. Furthermore, a gladiator using piecemeal
 armor is considered to be wearing a suit of armor as long as he
@@ -2431,7 +2431,7 @@ monk weapons.
 [Improved Unarmed Strike] feat and any single style feat (see
 Chapter 3) as a bonus feat. The unarmed fighter need not meet all
 the prerequisites of the style feat he chooses, but style feats
-that grant additional uses of the [Elemental Fist]) feat cannot
+that grant additional uses of the [Elemental Fist] feat cannot
 be taken until the unarmed fighter has that feat.  This ability
 replaces the bonus feat at 1st level.
 
@@ -2753,7 +2753,7 @@ were a one-handed firearm. This deed replaces the utility shot
 deed.
 
 **Rapid Reloader**: At 1st level, a musket master gains [Rapid
-Reload]) (muskets) as a bonus feat.
+Reload] (muskets) as a bonus feat.
 
 **Musket Training (Ex)**: Starting at 5th level, a musket master
 increases her skill with two-handed firearms. She gains a bonus
@@ -2798,7 +2798,7 @@ half the damage that attack would have dealt if it were a hit
 (roll damage normally). She can decide to use this deed and spend
 the grit point after making the attack. This deed has no effect
 if the attack used the dead shot deed. The cost of using this
-deed cannot be reduced with the [Signature Deed]) feat, the true
+deed cannot be reduced with the [Signature Deed] feat, the true
 grit class feature, or any similar effect.
 
 **Lucky (Ex)**: Starting at 2nd level, a mysterious stranger
@@ -3506,14 +3506,14 @@ pressure of wind and water.
 
 **Bonus Feat**: A flowing monk replaces the normal monk bonus
 feats with the following: [Agile Maneuvers], [Combat Reflexes],
-[Deflect Arrows], [Dodge], [Improved Reposition]), [Improved
+[Deflect Arrows], [Dodge], [Improved Reposition], [Improved
 Trip], [Nimble Moves], and [Weapon Finesse]. At 6th level, the
 following feats are also available: [Acrobatic Steps],
-[Bodyguard]), [Improved Disarm], [Improved Feint], *Ki* Throw,
-[Mobility], [Second Chance]), and [Sidestep]).  At 10th level,
-the following feats are added: [In Harm's Way]), [Repositioning
-Strike]), [Snatch Arrows], [Spring Attack], and [Tripping
-Strike]).
+[Bodyguard], [Improved Disarm], [Improved Feint], *Ki* Throw,
+[Mobility], [Second Chance], and [Sidestep].  At 10th level,
+the following feats are added: [In Harm's Way], [Repositioning
+Strike], [Snatch Arrows], [Spring Attack], and [Tripping
+Strike].
 
 **Redirection (Ex)**: At 1st level, as an immediate action, a
 flowing monk can attempt a reposition or trip combat maneuver
@@ -3579,10 +3579,10 @@ simple damage-dealing strikes.
 
 **Bonus Feat**: In addition to normal monk bonus feats, a
 maneuver master may select any Improved combat maneuver feat
-(such as [Improved Overrun]) as a bonus feat. At 6th level and
+(such as [Improved Overrun] as a bonus feat. At 6th level and
 above, he may select any Greater combat maneuver feat (such as
-[Greater Grapple]) as a bonus feat. At 10th level and above, he
-may select any maneuver Strike feat (such as [Tripping Strike]))
+[Greater Grapple] as a bonus feat. At 10th level and above, he
+may select any maneuver Strike feat (such as [Tripping Strike])
 as a bonus feat.
 
 **Flurry of Maneuvers (Ex)**: At 1st level, as part of a
@@ -3704,10 +3704,10 @@ he seeks perfection through the fusion of styles.
 
 **Bonus Feat:** At 1st level, 2nd level, and every four levels
 thereafter, a master of many styles may select a bonus style feat
-or the [Elemental Fist]) feat. He does not have to meet the
-prerequisites of that feat, except the [Elemental Fist])
+or the [Elemental Fist] feat. He does not have to meet the
+prerequisites of that feat, except the [Elemental Fist]
 feat. Alternatively, a master of many styles may choose a feat in
-that style's feat path (such as [Earth Child Topple])) as one of
+that style's feat path (such as [Earth Child Topple]) as one of
 these bonus feats if he already has the appropriate style feat
 (such as Earth Child Style). The master of many styles does not
 need to meet any other prerequisite of the feat in the style's
@@ -4050,7 +4050,7 @@ down.
 all simple and martial weapons, firearms, and light armor.
 
 **Have Gun**: At 1st level, the holy gun gains the [Amateur
-Gunslinger]) feat and [Gunsmithing] as a bonus feat. She also
+Gunslinger] feat and [Gunsmithing] as a bonus feat. She also
 gains a battered gun identical to the one gained by the
 gunslinger. This ability replaces detect evil.
 
@@ -4510,7 +4510,7 @@ and their general behavior as compared to the norm. This ability
 replaces wild empathy.
 
 **Firearm Style**: At 2nd level, a trophy hunter gains the
-[Amateur Gunslinger]) feat, and can use any 1st-level gunslinger
+[Amateur Gunslinger] feat, and can use any 1st-level gunslinger
 deed (page 10). At every four levels thereafter, the trophy
 hunter can take a grit feat or select a gunslinger deed of his
 level or lower, ranger's choice. This ability replaces combat
@@ -4704,7 +4704,7 @@ Weapon Proficiency] (firearms).
 gains a +2 bonus on all driving checks.
 
 *Grit (Ex)*: A rogue with this talent gains the [Amateur
-Gunslinger]) feat and one grit feat of her choice. She must
+Gunslinger] feat and one grit feat of her choice. She must
 fulfill the prerequisites of the grit feat in order to choose
 it. A rogue must have the firearm training talent before choosing
 this one.
@@ -4905,7 +4905,7 @@ check, she can choose to put stealth points into the roll,
 gaining a bonus on [Stealth] checks equal to the number of
 stealth points she puts into the roll. If she gains a bonus on
 [Bluff] checks because of a feat (such as [Skill Focus]
-[[Bluff]]), she adds a number of points to her stealth pool equal
+[[Bluff]], she adds a number of points to her stealth pool equal
 to the bonus the feat grants. This ability replaces trapfinding.
 
 **Effortless Sneak (Sp)**: At 3rd level, the chameleon chooses a
@@ -5208,7 +5208,7 @@ The siege mage combines his arcane mastery with a supernatural
 link to siege engines.
 
 **Siege Engineer**: At 1st level, the siege mage gains [Siege
-Engineer]) as a bonus feat, even though he does not meet the
+Engineer] as a bonus feat, even though he does not meet the
 prerequisites for that feat. This ability replaces scribe scroll.
 
 **Siege Engine Bond (Su)**: At 1st level, a siege mage can bond
@@ -5325,8 +5325,8 @@ his spellbook. He can cast either of these as 1st-level spells.
 is so great that a spellslinger forsakes four schools of magic.
 These opposition schools are chosen at 1st level and cannot be
 changed later. A spellslinger who prepares a spell from his
-ppppppppppopposition school must use two spell slots of that level to
-prepare the spell. In addition, the spellslinger takes a –4
-penalty on any skill checks made when crafting a magic item that
-has a spell from one of his opposition schools as a prerequisite.
-This ability replaces arcane school.
+position school must use two spell slots of that level to prepare
+the spell. In addition, the spellslinger takes a –4 penalty on
+any skill checks made when crafting a magic item that has a spell
+from one of his opposition schools as a prerequisite.  This
+ability replaces arcane school.
