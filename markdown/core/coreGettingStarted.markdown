@@ -987,13 +987,15 @@ skills or checks.
 
 You apply your character's Strength modifier to:
 
-- [Melee attack] rolls.  [Damage] rolls when using a melee weapon
-- or a thrown weapon, including a sling. (Exceptions: Off-hand
-- attacks receive only half the character's Strength bonus, while
-- two-handed attacks receive 1–1/2 times the Strength bonus. A
-- Strength penalty, but not a bonus, applies to attacks made with
-- a bow that is not a composite bow.)  [Climb] and [Swim] checks.
-- Strength checks (for breaking down doors and the like).
+- [Melee attack] rolls.
+- [Damage] rolls when using a melee weapon or a thrown weapon,
+    including a sling. (Exceptions: Off-hand attacks receive only
+    half the character's Strength bonus, while two-handed attacks
+    receive 1–1/2 times the Strength bonus. A Strength penalty,
+    but not a bonus, applies to attacks made with a bow that is
+    not a composite bow.)
+- [Climb] and [Swim] checks.  Strength checks (for breaking down
+    doors and the like).
 
 ### Dexterity (Dex) {#dexterity}
 
