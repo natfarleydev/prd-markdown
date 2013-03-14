@@ -1,4 +1,4 @@
-# Barbarian
+## Barbarian
 
 For some, there is only rage. In the ways of their people, in the
 fury of their passion, in the howl of battle, conflict is all
@@ -26,7 +26,7 @@ battle and ruin all who would stand in their way.
 
 **Hit Die**: d12.
 
-## Class Skills
+### Barbarian Class Skills 
 
 The barbarian's class skills are [Acrobatics] ([Dex]), [Climb]
 ([Str]), [Craft] ([Int]), [Handle Animal] ([Cha]), [Intimidate]
@@ -61,7 +61,7 @@ The barbarian's class skills are [Acrobatics] ([Dex]), [Climb]
 
   : Table: Barbarian
 
-## Class Features
+### Barbarian Class Features 
 
 All of the following are class features of the barbarian.
 
@@ -335,15 +335,13 @@ longer becomes [fatigued] at the end of her rage.
 the morale bonus to her [Strength] and [Constitution] increases
 to +8 and the morale bonus on her [Will saves] increases to +4.
 
-## Ex-Barbarians
+### Ex-Barbarians
 
 A barbarian who becomes lawful loses the ability to rage and
 cannot gain more levels as a barbarian.  She retains all other
 benefits of the class.
 
-Bard
-
-# Bard
+## Bard
 
 Untold wonders and secrets exist for those skillful enough to
 discover them.  Through cleverness, talent, and magic, these
@@ -371,7 +369,7 @@ performances.
 
 **Hit Die**: d8.
 
-## Class Skills
+### Bard Class Skills {#class-skills-bard}
 
 The bard's class skills are [Acrobatics] ([Dex]), [Appraise]
 ([Int]), [Bluff] ([Cha]), [Climb] ([Str]), [Craft] ([Int]),
@@ -1227,7 +1225,7 @@ Spells Known
 
 5
 
-## Class Features
+### Bard Class Features {#class-features-bard}
 
 All of the following are class features of the bard.
 
@@ -1544,23 +1542,23 @@ is not normally allowed.
 
 Cleric
 
-# Cleric
+## Cleric
 
 In faith and the miracles of the divine, many find a greater
-purpose.  Called to serve powers beyond most mortal understanding,
-all priests preach wonders and provide for the spiritual needs of
-their people.  Clerics are more than mere priests, though; these
-emissaries of the divine work the will of their deities through
-strength of arms and the magic of their gods.  Devoted to the
-tenets of the religions and philosophies that inspire them, these
-ecclesiastics quest to spread the knowledge and influence of
-their faith.  Yet while they might share similar abilities,
-clerics prove as different from one another as the divinities
-they serve, with some offering healing and redemption, others
-judging law and truth, and still others spreading conflict and
-corruption.  The ways of the cleric are varied, yet all who tread
-these paths walk with the mightiest of allies and bear the arms
-of the gods themselves.
+purpose.  Called to serve powers beyond most mortal
+understanding, all priests preach wonders and provide for the
+spiritual needs of their people.  Clerics are more than mere
+priests, though; these emissaries of the divine work the will of
+their deities through strength of arms and the magic of their
+gods.  Devoted to the tenets of the religions and philosophies
+that inspire them, these ecclesiastics quest to spread the
+knowledge and influence of their faith.  Yet while they might
+share similar abilities, clerics prove as different from one
+another as the divinities they serve, with some offering healing
+and redemption, others judging law and truth, and still others
+spreading conflict and corruption.  The ways of the cleric are
+varied, yet all who tread these paths walk with the mightiest of
+allies and bear the arms of the gods themselves.
 
 **Role**: More than capable of upholding the honor of their
 deities in battle, clerics often prove stalwart and capable
@@ -1570,20 +1568,20 @@ and their allies' prowess in battle, to vex their foes with
 divine magic, or to lend healing to companions in need.
 
 As their powers are influenced by their faith, all clerics must
-focus their worship upon a divine source.  While the vast majority
-of clerics revere a specific deity, a small number dedicate
-themselves to a divine concept worthy of devotion—such as battle,
-death, justice, or knowledge—free of a deific abstraction.  (Work
-with your GM if you prefer this path to selecting a specific
-deity.)
+focus their worship upon a divine source.  While the vast
+majority of clerics revere a specific deity, a small number
+dedicate themselves to a divine concept worthy of devotion—such
+as battle, death, justice, or knowledge—free of a deific
+abstraction.  (Work with your GM if you prefer this path to
+selecting a specific deity.)
 
 **Alignment**: A cleric's [alignment] must be within one step of
 her deity's, along either the law/chaos axis or the good/evil
-axis ).
+axis.
 
 **Hit Die**: d8.
 
-## Class Skills
+### Cleric Class Skills
 
 The cleric's class skills are [Appraise] ([Int]), [Craft]
 ([Int]), [Diplomacy] ([Cha]), Heal ([Wis]), [Knowledge] (arcana)
@@ -2251,7 +2249,7 @@ Spells per Day
 
 Note: “+1” represents the domain spell slot
 
-## Class Features
+### Cleric Class Features
 
 The following are class features of the cleric.
 
@@ -2379,7 +2377,7 @@ evil, and lawful evil outsiders, respectively).  These choices are
 in addition to the bonus languages available to the character
 because of her race.
 
-## Ex-Clerics
+### Ex-Clerics
 
 A cleric who grossly violates the code of conduct required by her
 god loses all spells and class features, except for armor and
@@ -2387,13 +2385,13 @@ shield proficiencies and proficiency with [simple] weapons.  She
 cannot thereafter gain levels as a cleric of that god until she
 atones for her deeds (see the *[atonement]* spell description).
 
-## Domains {#domains-list}
+### Domains {#domains-list}
 
 Clerics may select any two of the domains granted by their deity.
 Clerics without a deity may select any two domains (choice are
 subject to GM approval).
 
-## Air Domain
+### Air Domain
 
 **Granted Powers**: You can manipulate lightning, mist, and wind,
 traffic with air creatures, and are resistant to electricity
@@ -2416,7 +2414,7 @@ winds],*6th—*[chain lightning],*7th—*[elemental body IV]* (air
 only)*,*8th—*[whirlwind],*9th—*[elemental swarm]* (air spell
 only).
 
-## Animal Domain
+### Animal Domain
 
 **Granted Powers**: You can speak with and befriend animals with
 ease.  In addition, you treat [Knowledge] as a class skill.
@@ -2438,7 +2436,7 @@ animal],*3rd—*[dominate animal],*4th—*[summon nature's ally IV]*
 shell],*7th—*[animal shapes],*8th—*[summon nature's ally
 VIII]*(animals only), 9th—*[shapechange].*
 
-## Artifice Domain
+### Artifice Domain
 
 **Granted Powers**: You can repair damage to objects, animate
 objects with life, and create objects from nothing.
@@ -2463,7 +2461,7 @@ shape],*3rd—*[stone shape],*4th—*[minor
 creation],*5th—*[fabricate],*6th—*[major creation],*7th—*[wall of
 iron],*8th—*[instant summons],*9th—*[prismatic sphere].*
 
-## Chaos Domain
+### Chaos Domain
 
 **Granted Powers**: Your touch infuses life and weapons with
 chaos, and you revel in all things anarchic.
@@ -2485,7 +2483,7 @@ weapon]*, 3rd—*[magic circle against law],*4th—*[chaos
 hammer],*5th—*[dispel law],*6th—*[animate objects],*7th—*[word of
 chaos],*8th—*[cloak of chaos],*9th—*[summon monster IX]* .
 
-## Charm Domain
+### Charm Domain
 
 **Granted Powers**: You can baffle and befuddle foes with a touch
 or a smile, and your beauty and grace are divine.
@@ -2506,18 +2504,18 @@ action.  Each attempt to use this ability consumes 1 round of its
 duration, whether or not the creature succeeds on its save to
 resist the effect.
 
-**Domain Spells**: 1st—*[charm person],*2nd—*[calm
-emotions],*3rd—*[suggestion],*4th—*[heroism],*5th—*[charm
-monster],*6th—*[geas/quest],*7th—*[insanity],*8th—*[demand],*9th—*[dominate
-monster]*.
+**Domain Spells**: 1st—*[charm person],*2nd—*[calm emotions],
+*3rd—*[suggestion], *4th—*[heroism], *5th—*[charm monster],
+**6th—*[geas/quest], *7th—*[insanity], *8th—*[demand],
+**9th—*[dominate monster]*.
 
-## Community Domain
+### Community Domain
 
 **Granted Powers**: Your touch can heal wounds, and your presence
 instills unity and strengthens emotional bonds.
 
-*Calming Touch*: You can touch a creature as a standard action
-to heal it of 1d6 points of nonlethal damage + 1 point per cleric
+*Calming Touch*: You can touch a creature as a standard action to
+heal it of 1d6 points of nonlethal damage + 1 point per cleric
 level.  This touch also removes the [fatigued], [shaken], and
 [sickened] conditions (but has no effect on more severe
 conditions).  You can use this ability a number of times per day
@@ -2538,7 +2536,7 @@ ability],*5th—*[telepathic bond],*6th—*[heroes'
 feast],*7th—*[refuge],*8th—*[mass cure critical
 wounds],*9th—*[miracle]*.
 
-## Darkness Domain
+### Darkness Domain
 
 **Granted Power**: You manipulate shadows and darkness.  In
 addition, you receive [Blind-Fight] as a bonus feat.
@@ -2563,7 +2561,7 @@ darkness],*4th—*[shadow conjuration],*5th—*[summon monster
 V]*(summons 1d3 shadows), 6th—*[shadow walk],*7th—*[power word
 blind],*8th—*[greater shadow evocation],*9th—*[shades].*
 
-## Death Domain
+### Death Domain
 
 **Granted Powers**: You can cause the living to bleed at a touch,
 and find comfort in the presence of the dead.
@@ -2585,7 +2583,7 @@ knell],*3rd—*[animate dead],*4th—*[death ward],*5th—*[slay
 living],*6th—*[create undead],*7th—*[destruction],*8th—*[create
 greater undead],*9th—*[wail of the banshee]*.
 
-## Destruction Domain
+### Destruction Domain
 
 **Granted Powers**: You revel in ruin and devastation, and can
 deliver particularly destructive attacks.
@@ -2609,7 +2607,7 @@ strike],*2nd—*[shatter],*3rd—*[rage],*4th—*[inflict critical
 wounds],*5th—*[shout]*,
 6th—*[harm],*7th—*[disintegrate],*8th—*[earthquake],*9th—*[implosion].*
 
-## Earth Domain
+### Earth Domain
 
 **Granted Powers**: You have mastery over earth, metal, and
 stone, can fire darts of acid, and command earth creatures.
@@ -2630,7 +2628,7 @@ stone],*6th—*[stoneskin],*7th—*[elemental body IV]*(earth
 only)*,*8th—*[earthquake],*9th—*[elemental swarm]*(earth spell
 only).
 
-## Evil Domain
+### Evil Domain
 
 **Granted Powers**: You are sinister and cruel, and have wholly
 pledged your soul to the cause of evil.
@@ -2654,7 +2652,7 @@ blight],*5th—*[dispel good],*6th—*[create
 undead],*7th—*[blasphemy],*8th—*[unholy aura],*9th—*[summon
 monster IX]* .
 
-## Fire Domain
+### Fire Domain
 
 **Granted Powers**: You can call forth fire, command creatures of
 the inferno, and your flesh does not burn.
@@ -2677,7 +2675,7 @@ shield],*6th—*[fire seeds],*7th—*[elemental body IV]*(fire
 only)*,*8th—*[incendiary cloud],*9th—*[elemental swarm]*(fire
 spell only).
 
-## Glory Domain
+### Glory Domain
 
 **Granted Powers**: You are infused with the glory of the divine,
 and are a true foe of the undead.  In addition, when you channel
@@ -2708,7 +2706,7 @@ weapon],*3rd—*[searing light],*4th—*[holy smite],*5th—*[righteous
 might],*6th—*[undeath to death],*7th—*[holy sword],*8th—*[holy
 aura],*9th—*[gate].*
 
-## Good Domain
+### Good Domain
 
 **Granted Powers**: You have pledged your life and soul to
 goodness and purity.
@@ -2731,7 +2729,7 @@ smite],*5th—*[dispel evil],*6th—*[blade barrier],*7th—*holy
 word,*8th—*[holy aura],*9th—*[summon monster IX]* (good spell
 only).
 
-## Healing Domain
+### Healing Domain
 
 **Granted Powers**: Your touch staves off pain and death, and
 your healing magic is particularly vital and potent.
@@ -2754,7 +2752,7 @@ wounds],*5th—*[breath of
 life],*6th—*[heal],*7th—*[regenerate],*8th—*[mass cure critical
 wounds],*9th—*[mass heal]*.
 
-## Knowledge Domain
+### Knowledge Domain
 
 **Granted Powers**: You are a scholar and a sage of legends.  In
 addition, you treat all [Knowledge] skills as class skills.
@@ -2776,7 +2774,7 @@ thoughts]*, 3rd—*[speak with dead],*4th—*[divination],*5th—*[true
 seeing],*6th—*[find the path],*7th—*[legend lore],*8th—*[discern
 location],*9th—*[foresight]*.
 
-## Law Domain
+### Law Domain
 
 **Granted Powers**: You follow a strict and ordered code of laws,
 and in so doing, achieve enlightenment.
@@ -2800,7 +2798,7 @@ wrath],*5th—*[dispel chaos],*6th—*[hold
 monster],*7th—*[dictum],*8th—*[shield of law],*9th—*[summon
 monster IX]* .
 
-## Liberation Domain
+### Liberation Domain
 
 **Granted Powers**: You are a spirit of freedom and a staunch foe
 against all who would enslave and oppress.
@@ -2826,7 +2824,7 @@ consecutive.
 enchantment],*6th—*[greater dispel
 magic],*7th—*[refuge],*8th—*[mind blank],*9th—*[freedom]*.
 
-## Luck Domain
+### Luck Domain
 
 **Granted Powers**: You are infused with luck, and your mere
 presence can spread good fortune.
@@ -2849,7 +2847,7 @@ per day for every six cleric levels beyond 6th.
 movement],*5th—*[break enchantment],*6th—*[mislead],*7th—*[spell
 turning],*8th—*[moment of prescience],*9th—*[miracle]*.
 
-## Madness Domain
+### Madness Domain
 
 **Granted Powers**: You embrace the madness that lurks deep in
 your heart, and can unleash it to drive your foes insane or to
@@ -2880,7 +2878,7 @@ idiocy],*
 killer,*7th—*[insanity],*8th—*[scintillating
 pattern],*9th—*[weird]*.
 
-## Magic Domain
+### Magic Domain
 
 **Granted Powers**: You are a true student of all things
 mystical, and see divinity in the purity of magic.
@@ -2906,7 +2904,7 @@ resistance],*6th—*[antimagic field],*7th—*[spell
 turning],*8th—*[protection from spells],*9th—*[mage's
 disjunction]*.
 
-## Nobility Domain
+### Nobility Domain
 
 **Granted Powers**: You are a great leader, an inspiration to all
 who follow the teachings of your faith.
@@ -2928,7 +2926,7 @@ if you do not venerate a deity).
 command],*6th—*[geas/quest],*7th—*[repulsion],*8th—*[demand],*9th—*[storm
 of vengeance]*.
 
-## Plant Domain
+### Plant Domain
 
 **Granted Powers**: You find solace in the green, can grow
 defensive thorns, and can communicate with plants.
@@ -2954,7 +2952,7 @@ growth],*4th—*[command plants],*5th—*[wall of
 thorns],*6th—*[repel wood],*7th—*[animate plants],*8th—*[control
 plants],*9th—*[shambler]*.
 
-## Protection Domain
+### Protection Domain
 
 **Granted Powers**: Your faith is your greatest source of
 protection, and you can use that faith to defend others.  In
@@ -2982,7 +2980,7 @@ consecutive.
 resistance],*6th—*[antimagic field],*7th—*[repulsion],*8th—*[mind
 blank],*9th—*[prismatic sphere]*.
 
-## Repose Domain
+### Repose Domain
 
 **Granted Powers**: You see death not as something to be feared,
 but as a final rest and reward for a life well spent.  The taint
@@ -3010,7 +3008,7 @@ to be consecutive.
 living],*6th—*[undeath to death],*7th—*[destruction],*8th—*[waves
 of exhaustion],*9th—*[wail of the banshee]*.
 
-## Rune Domain
+### Rune Domain
 
 **Granted Powers**: In strange and eldritch runes you find potent
 magic.  You gain [Scribe Scroll] as a bonus feat.
@@ -3043,7 +3041,7 @@ of warding],*4th—*[explosive runes],*5th—*[lesser planar
 binding],*6th—*[greater glyph of warding],*7th—*[instant
 summons],*8th—*[symbol of death],*9th—*[teleportation circle]*.
 
-## Strength Domain
+### Strength Domain
 
 **Granted Powers**: In strength and brawn there is truth—your
 faith gives you incredible might and power.
@@ -3068,7 +3066,7 @@ immunity],*5th—*[righteous
 might],*6th—*[stoneskin],*7th—*[grasping hand],*8th—*[clenched
 fist],*9th—*[crushing hand].*
 
-## Sun Domain
+### Sun Domain
 
 **Granted Powers**: You see truth in the pure and burning light
 of the sun, and can call upon its blessing or wrath to work great
@@ -3094,7 +3092,7 @@ strike],*6th—*[fire
 seeds],*7th—*[sunbeam],*8th—*[sunburst],*9th—*[prismatic
 sphere].*
 
-## Travel Domain
+### Travel Domain
 
 **Granted Powers**: You are an explorer and find enlightenment in
 the simple joy of travel, be it by foot or conveyance or magic.
@@ -3119,7 +3117,7 @@ amount of distance for each creature brought.
 the path],*7th—*[greater teleport],*8th—*[phase
 door],*9th—*[astral projection].*
 
-## Trickery Domain
+### Trickery Domain
 
 **Granted Powers**: You are a master of illusions and deceptions.
 [Bluff], [Disguise], and [Stealth] are class skills.
@@ -3144,7 +3142,7 @@ your Wisdom modifier.  The rounds do not need to be consecutive.
 vision],*6th—*[mislead],*7th—*[screen],*8th—*[mass
 invisibility],*9th—*[time stop].*
 
-## War Domain
+### War Domain
 
 **Granted Powers**: You are a crusader for your god, always ready
 and willing to fight to defend your faith.
@@ -3165,7 +3163,7 @@ ability.  You must meet the prerequisites to use this feat.
 strike],*6th—*[blade barrier],*7th—*[power word
 blind],*8th—*[power word stun],*9th—*[power word kill].*
 
-## Water Domain
+### Water Domain
 
 **Granted Powers**: You can manipulate water and mist and ice,
 conjure creatures of water, and resist cold.
@@ -3186,7 +3184,7 @@ storm],*6th—*[cone of cold],*7th—*[elemental body IV]*(water
 only)*,*8th—*[horrid wilting],*9th—*[elemental swarm]*(water
 spell only).
 
-## Weather Domain
+### Weather Domain
 
 **Granted Powers**: With power over storm and sky, you can call
 down the wrath of the gods upon the world below.
@@ -3213,7 +3211,7 @@ weather],*8th—*[whirlwind],*9th—*[storm of vengeance]*.
 
 Druid
 
-# Druid
+## Druid
 
 Within the purity of the elements and the order of the wilds
 lingers a power beyond the marvels of civilization.  Furtive yet
@@ -3242,7 +3240,7 @@ demigods, or even specific awe-inspiring natural wonders.
 
 **Hit Die**: d8.
 
-## Class Skills
+### Druid Class Skills
 
 The druid's class skills are [Climb] ([Str]), [Craft] ([Int]),
 [Fly] ([Dex]), [Handle Animal] ([Cha]), Heal ([Wis]), [Knowledge]
@@ -3918,7 +3916,7 @@ Spells per Day
 
 4
 
-## Class Features
+### Druid Class Features
 
 All of the following are class features of the druid.
 
@@ -4123,7 +4121,7 @@ magically aged.  Any penalties she may have already incurred,
 however, remain in place.  Bonuses still accrue, and the druid
 still dies of old age when her time is up.
 
-## Ex-Druids
+### Ex-Druids
 
 A druid who ceases to revere nature, changes to a prohibited
 [alignment], or teaches the Druidic language to a nondruid loses
@@ -4132,7 +4130,7 @@ but not including weapon, armor, and shield proficiencies).  She
 cannot thereafter gain levels as a druid until she atones (see
 the *[atonement]* spell description).
 
-## Animal Companions {#animal-companions-184}
+### Animal Companions {#animal-companions-184}
 
 An animal companion's abilities are determined by the druid's
 level and its animal racial traits.  Table: Animal Companion Base
@@ -4254,7 +4252,7 @@ attack with one of its natural weapons, albeit at a –5 penalty.
 takes no damage if it makes a successful [saving throw] and only
 half damage if the [saving throw] fails.
 
-## Animal Skills {#animal-companions-animal-skills}
+### Animal Skills {#animal-companions-animal-skills}
 
 Animal companions can have ranks in any of the following skills:
 [Acrobatics]\* ([Dex]), [Climb]\* ([Str]), [Escape Artist]
@@ -4264,7 +4262,7 @@ Animal companions can have ranks in any of the following skills:
 for animal companions.  Animal companions with an [Intelligence]
 of 3 or higher can put ranks into any skill.
 
-## Animal Feats {#animal-companions-animal-feats}
+### Animal Feats {#animal-companions-animal-feats}
 
 Animal companions can select from the following feats:
 [Acrobatic], [Agile Maneuvers], [Armor Proficiency] (light,
@@ -4279,7 +4277,7 @@ companions with an [Intelligence] of 3 or higher can select any
 feat they are physically capable of using.  GMs might expand this
 list to include feats from other sources.
 
-## Animal Choices {#animal-companions-animal-choices}
+### Animal Choices {#animal-companions-animal-choices}
 
 Each animal companion has different starting sizes, speed,
 attacks, ability scores, and special qualities.  All animal
@@ -4483,7 +4481,7 @@ plus poison); **Ability Scores**[Str] +4, [Dex] –2, Con +2.
 
 Fighter
 
-# Fighter
+## Fighter
 
 Some take up arms for glory, wealth, or revenge.  Others do battle
 to prove themselves, to protect others, or because they know
@@ -4510,7 +4508,7 @@ prowess.
 
 **Hit Die**: d10.
 
-## Class Skills
+### Fighter Class Skills
 
 The fighter's class skills are [Climb] ([Str]), [Craft] ([Int]),
 [Handle Animal] ([Cha]), [Intimidate] ([Cha]), [Knowledge]
@@ -4520,31 +4518,31 @@ The fighter's class skills are [Climb] ([Str]), [Craft] ([Int]),
 **Skill Ranks per Level**: 2 + [Int] modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special
-  ------- ------------------- ----------- ---------- ----------- -----------------------------------------------------------------------
+  ------- ------------------- ----------- ---------- ----------- ------------------------------
   1st     +1                  +2          +0         +0          [Bonus feat]
-  2nd     +2                  +3          +0         +0          [Bonus feat], [bravery](#bravery) +1
+  2nd     +2                  +3          +0         +0          [Bonus feat], [bravery] +1
   3rd     +3                  +3          +1         +1          [Armor training] 1
   4th     +4                  +4          +1         +1          [Bonus feat]
   5th     +5                  +4          +1         +1          [Weapon training] 1
-  6th     +6/+1               +5          +2         +2          [Bonus feat], [bravery](#bravery) +2
+  6th     +6/+1               +5          +2         +2          [Bonus feat], [bravery] +2
   7th     +7/+2               +5          +2         +2          [Armor training] 2
   8th     +8/+3               +6          +2         +2          [Bonus feat]
   9th     +9/+4               +6          +3         +3          [Weapon training] 2
-  10th    +10/+5              +7          +3         +3          [Bonus feat], [bravery](#bravery) +3
+  10th    +10/+5              +7          +3         +3          [Bonus feat], [bravery] +3
   11th    +11/+6/+1           +7          +3         +3          [Armor training] 3
   12th    +12/+7/+2           +8          +4         +4          [Bonus feat]
   13th    +13/+8/+3           +8          +4         +4          [Weapon training] 3
-  14th    +14/+9/+4           +9          +4         +4          [Bonus feat], [bravery](#bravery) +4
+  14th    +14/+9/+4           +9          +4         +4          [Bonus feat], [bravery] +4
   15th    +15/+10/+5          +9          +5         +5          [Armor training] 4
   16th    +16/+11/+6/+1       +10         +5         +5          [Bonus feat]
   17th    +17/+12/+7/+2       +10         +5         +5          [Weapon training] 4
-  18th    +18/+13/+8/+3       +11         +6         +6          [Bonus feat], [bravery](#bravery) +5
+  18th    +18/+13/+8/+3       +11         +6         +6          [Bonus feat], [bravery] +5
   19th    +19/+14/+9/+4       +11         +6         +6          [Armor mastery]
   20th    +20/+15/+10/+5      +12         +6         +6          [Bonus feat], [weapon mastery]
 
   : Table: Fighter
 
-## Class Features
+### Fighter Class Features
 
 The following are class features of the fighter.
 
@@ -4665,7 +4663,7 @@ cannot be disarmed while wielding a weapon of this type.
 
 Monk
 
-# Monk
+## Monk
 
 For the truly exemplary, martial skill transcends the
 battlefield—it is a lifestyle, a doctrine, a state of mind.  These
@@ -4689,7 +4687,7 @@ wherever they are needed most.
 
 **Hit Die**: d8.
 
-## Class Skills
+### Monk Class Skills
 
 The monk's class skills are [Acrobatics] ([Dex]), [Climb]
 ([Str]), [Craft] ([Int]), [Escape Artist] ([Dex]), [Intimidate]
@@ -4724,7 +4722,7 @@ The monk's class skills are [Acrobatics] ([Dex]), [Climb]
 
   : Table: Monk
 
-## Class Features
+### Monk Class Features
 
 All of the following are class features of the monk.
 
@@ -4984,14 +4982,14 @@ natural attack made by a creature that doesn't have similar
 brought back from the dead as if he were a member of his previous
 creature type.
 
-## Ex-Monks
+### Ex-Monks
 
 A monk who becomes nonlawful cannot gain new levels as a monk but
 retains all monk abilities.
 
 Paladin
 
-# Paladin
+## Paladin
 
 Through a select, worthy few shines the power of the divine.
 Called paladins, these noble souls dedicate their swords and
@@ -5017,7 +5015,7 @@ blessing the fallen with the strength to continue fighting.
 
 **Hit Die**: d10.
 
-## Class Skills
+### Paladin Class Skills
 
 The paladin's class skills are [Craft] ([Int]), [Diplomacy]
 ([Cha]), [Handle Animal] ([Cha]), Heal ([Wis]), [Knowledge]
@@ -5140,7 +5138,7 @@ Spells per Day
 
 +4
 
-[Divine bond](#divine-bond)
+[Divine bond]
 
 1
 
@@ -5450,7 +5448,7 @@ Spells per Day
 
 3
 
-## Class Features
+### Paladin Class Features
 
 All of the following are class features of the paladin.
 
@@ -5749,7 +5747,7 @@ unusual alliance, and should end the alliance immediately should
 she feel it is doing more harm than good.  A paladin may accept
 only henchmen, followers, or cohorts who are lawful good.
 
-## Ex-Paladins
+### Ex-Paladins
 
 A paladin who ceases to be lawful good, who willfully commits an
 evil act, or who violates the code of conduct loses all paladin
@@ -5762,7 +5760,7 @@ Lists]), as appropriate.
 
 Ranger
 
-# Ranger
+## Ranger
 
 For those who relish the thrill of the hunt, there are only
 predators and prey.  Be they scouts, trackers, or bounty hunters,
@@ -5786,7 +5784,7 @@ enemies.
 
 **Hit Die**: d10.
 
-## Class Skills
+### Ranger Class Skills
 
 The ranger's class skills are [Climb] ([Str]), [Craft] ([Int]),
 [Handle Animal] ([Cha]), Heal ([Wis]), [Intimidate] ([Cha]),
@@ -6031,7 +6029,7 @@ Spells per Day
 
 +3
 
-[Quarry](#quarry)
+[Quarry]
 
 2
 
@@ -6221,7 +6219,7 @@ Spells per Day
 
 3
 
-## Class Features
+### Ranger Class Features
 
 All of the following are class features of the ranger.
 
@@ -6496,7 +6494,7 @@ possesses, but not against the same creature more than once in a
 
 Rogue
 
-# Rogue
+## Rogue
 
 Life is an endless adventure for those who live by their wits.
 Ever just one step ahead of danger, rogues bank on their cunning,
@@ -6527,7 +6525,7 @@ and conning dull-witted opponents.
 
 **Hit Die**: d8.
 
-## Class Skills
+### Rogue Class Skills
 
 The rogue's class skills are [Acrobatics] ([Dex]), [Appraise]
 ([Int]), [Bluff] ([Cha]), [Climb] ([Str]), [Craft] ([Int]),
@@ -6565,7 +6563,7 @@ The rogue's class skills are [Acrobatics] ([Dex]), [Appraise]
 
   : Table: Rogue
 
-## Class Features
+### Rogue Class Features
 
 The following are class features of the rogue.
 
@@ -6719,7 +6717,7 @@ cannot be caught [flat-footed], nor does she lose her Dex bonus
 to AC if the attacker is [invisible].  She still loses her
 [Dexterity] bonus to [AC] if immobilized.  A rogue with this
 ability can still lose her [Dexterity] bonus to [AC] if an
-opponent successfully uses the feint action ) against her.
+opponent successfully uses the feint action against her.
 
 If a rogue already has uncanny dodge from a different class, she
 automatically gains improved uncanny dodge instead.
@@ -6816,7 +6814,7 @@ sneak attack damage are also immune to this ability.
 
 Sorcerer
 
-# Sorcerer
+## Sorcerer
 
 Scions of innately magical bloodlines, the chosen of deities, the
 spawn of monsters, pawns of fate and destiny, or simply flukes of
@@ -6848,7 +6846,7 @@ are ever quite alike.
 
 **Hit Die**: d6.
 
-## Class Skills
+### Sorcerer Class Skills
 
 The sorcerer's class skills are [Appraise] ([Int]), [Bluff]
 ([Cha]), [Craft] ([Int]), [Fly] ([Dex]), [Intimidate] ([Cha]),
@@ -7939,7 +7937,7 @@ Spells Known
 
 3
 
-## Class Features
+### Sorcerer Class Features
 
 All of the following are class features of the sorcerer.
 
@@ -8019,13 +8017,13 @@ not consume any slots and may be used again.
 **Eschew Materials**: A sorcerer gains [Eschew Materials] as a
 bonus feat at 1st level.
 
-## Sorcerer Bloodlines {#sorcerer-bloodlines-list}
+### Sorcerer Bloodlines {#sorcerer-bloodlines-list}
 
 The following bloodlines represent only some of the possible
 sources of power that a sorcerer can draw upon.  Unless otherwise
 noted, most sorcerers are assumed to have the arcane bloodline.
 
-## Aberrant
+### Aberrant
 
 There is a taint in your blood, one that is alien and bizarre.
 You tend to think in odd ways, approaching problems from an angle
@@ -8077,7 +8075,7 @@ unnatural.  You are immune to critical hits and sneak attacks.  In
 addition, you gain blindsight with a range of 60 feet and [damage
 reduction] 5/—.
 
-## Abyssal
+### Abyssal
 
 Generations ago, a demon spread its filth into your heritage.
 While it does not manifest in all of your kin, for you it is
@@ -8136,7 +8134,7 @@ the same kind.
 *telepathy with a range of 60 feet (allowing you to communicate
 *with any creature that can speak a language).
 
-## Arcane
+### Arcane
 
 Your family has always been skilled in the eldritch art of magic.
 While many of your relatives were accomplished wizards, your
@@ -8199,7 +8197,7 @@ slots to power the item.  For every three levels of spell slots
 that you expend, you consume one less charge when using a magic
 item that expends charges.
 
-## Celestial
+### Celestial
 
 Your bloodline is blessed by a celestial power, either from a
 celestial ancestor or through divine intervention.  Although this
@@ -8262,7 +8260,7 @@ gain unlimited use of the wings of heaven ability.  Finally, you
 gain the ability to speak with any creature that has a language
 (as per the *[tongues]*spell).
 
-## Destined
+### Destined
 
 Your family is destined for greatness in some way.  Your birth
 could have been foretold in prophecy, or perhaps it occurred
@@ -8323,7 +8321,7 @@ increases by +1, to a maximum of +5 at 19th level.
 *made to overcome spell resistance.  You must use this ability
 *before making the roll.
 
-## Draconic
+### Draconic
 
 At some point in your family's history, a dragon interbred with
 your bloodline, and now its ancient power flows through your
@@ -8402,7 +8400,7 @@ action.
 *becomes manifest.  You gain immunity to paralysis, sleep, and
 *damage of your energy type.  You also gain blindsense 60 feet.
 
-## Elemental
+### Elemental
 
 The power of the elements resides in you, and at times you can
 hardly control its fury.  This influence comes from an elemental
@@ -8474,7 +8472,7 @@ element, as noted below.
 your body.  You gain immunity to sneak attacks, critical hits, and
 damage from your energy type.
 
-## Fey
+### Fey
 
 The capricious nature of the fey runs in your family due to some
 intermingling of fey blood or magic.  You are more emotional than
@@ -8530,7 +8528,7 @@ ability at will.
 *cast *[shadow walk]* as a spell-like ability using your sorcerer
 *level as your caster level.
 
-## Infernal
+### Infernal
 
 Somewhere in your family's history, a relative made a deal with a
 devil, and that pact has influenced your family line ever since.
@@ -8592,7 +8590,7 @@ three times per day.  This power has a range of 60 feet.
 *gain resistance to acid 10 and cold 10, and the ability to see
 *perfectly in darkness of any kind to a range of 60 feet.
 
-## Undead
+### Undead
 
 The taint of the grave runs through your family.  Perhaps one of
 your ancestors became a powerful lich or vampire, or maybe you
@@ -8665,7 +8663,7 @@ of times per day equal to 3 + your [Charisma] modifier.
 
 Wizard
 
-# Wizard
+## Wizard
 
 Beyond the veil of the mundane hide the secrets of absolute
 power.  The works of beings beyond mortals, the legends of realms
@@ -8693,7 +8691,7 @@ any danger.
 
 **Hit Die**: d6.
 
-## Class Skills
+### Wizard Class Skills
 
 The wizard's class skills are [Appraise] ([Int]), [Craft]
 ([Int]), [Fly] ([Dex]), [Knowledge] ([Int]), [Linguistics]
@@ -8747,7 +8745,7 @@ Spells per Day
 
 +2
 
-[Arcane bond](#arcane-bond), [arcane school],[cantrips], [Scribe
+[Arcane bond], [arcane school],[cantrips], [Scribe
 Scroll]
 
 3
@@ -9348,7 +9346,7 @@ Scroll]
 
 4
 
-## Class Features
+### Wizard Class Features
 
 The following are the class features of the wizard.
 
@@ -9501,14 +9499,14 @@ equal to his [Intelligence] modifier to add to the spellbook.  At
 each new wizard level, he gains two new spells of any spell level
 or levels that he can cast for his spellbook.  At any time, a
 wizard can also add spells found in other wizards' spellbooks to
-his own ).
+his own.
 
-## Arcane Schools {#arcane-schools-list}
+### Arcane Schools {#arcane-schools-list}
 
 The following descriptions detail each arcane school and its
 corresponding powers.
 
-## Abjuration School
+### Abjuration School
 
 The abjurer uses magic against itself, and masters the art of
 defensive and warding magics.
@@ -9534,7 +9532,7 @@ and resistance first and apply the rest to this absorption,
 reducing your daily total by that amount.  Any damage in excess of
 your absorption is applied to you normally.
 
-## Conjuration School
+### Conjuration School
 
 The conjurer focuses on the study of summoning monsters and magic
 alike to bend to his will.
@@ -9562,7 +9560,7 @@ can bring other willing creatures with you, but you must expend
 an equal amount of distance for each additional creature brought
 with you.
 
-## Divination School
+### Divination School
 
 Diviners are masters of remote viewing, prophecies, and using
 magic to explore the world.
@@ -9587,7 +9585,7 @@ scrying]*.  In addition, whenever you scry on a subject, treat the
 subject as one step more familiar to you.  Very familiar subjects
 get a –10 penalty on their save to avoid your scrying attempts.
 
-## Enchantment School
+### Enchantment School
 
 The enchanter uses magic to control and manipulate the minds of
 his victims.
@@ -9613,7 +9611,7 @@ checks, attack rolls, damage rolls, [saving throws], and [skill
 checks].  These rounds do not need to be consecutive.  This is a
 mind-affecting effect.
 
-## Evocation School
+### Evocation School
 
 Evokers revel in the raw power of magic, and can use it to create
 and destroy with shocking ease.
@@ -9642,7 +9640,7 @@ wall deals acid, cold, electricity, or fire damage, determined
 when you create it.  The elemental wall otherwise functions like
 *[wall of fire]*.
 
-## Illusion School
+### Illusion School
 
 Illusionists use magic to weave confounding images, figments, and
 phantoms to baffle and vex their foes.
@@ -9669,7 +9667,7 @@ equal to your wizard level.  These rounds do not need to be
 consecutive.  This otherwise functions as *[greater
 invisibility].*
 
-## Necromancy School
+### Necromancy School
 
 The dread and feared necromancer commands undead and uses the
 foul power of unlife against his enemies.
@@ -9703,7 +9701,7 @@ ability.  The range of this ability increases by 10 feet at 12th
 level, and by an additional 10 feet for every four levels beyond
 12th.  These rounds do not need to be consecutive.
 
-## Transmutation School
+### Transmutation School
 
 Transmuters use magic to change the world around them.
 
@@ -9729,7 +9727,7 @@ like *[beast shape II]* or *[elemental body I].* At 12th level,
 this ability functions like *[beast shape III]* or *[elemental
 body II]*.
 
-## Universalist School
+### Universalist School
 
 Wizards who do not specialize have the most diversity of all
 arcane spellcasters.
@@ -9758,7 +9756,7 @@ spell's actual level, you cannot use this ability to cast a spell
 whose modified spell level would be above the level of the
 highest-level spell that you are capable of casting.
 
-## Familiars
+### Familiars
 
 A familiar is an animal chosen by a spellcaster to aid him in his
 study of magic.  It retains the appearance, Hit Dice, base attack
@@ -9941,7 +9939,7 @@ familiar's spell resistance.
 may scry on his familiar (as if casting the *scrying*spell) once
 per day.
 
-## Arcane Spells and Armor
+### Arcane Spells and Armor
 
 Armor restricts the complicated gestures required while casting
 any spell that has a somatic component.  The [armor and shield
