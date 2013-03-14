@@ -33,7 +33,7 @@ knack for magic and has strange, eldritch powers.
 **[Wizard]**: The wizard masters magic through constant study
 that gives him incredible magical power.
 
-# Character Advancement
+## Character Advancement
 
 As player characters overcome challenges, they gain experience
 points. As these points accumulate, PCs advance in level and
@@ -45,7 +45,7 @@ end, it is up to your group to decide what rate fits you best.
 Characters advance in level according to Table: Character
 Advancement and Level-Dependent Bonuses.
 
-## Advancing Your Character
+### Advancing Your Character
 
 A character advances in level as soon as he earns enough
 experience points to do so—typically, this occurs at the end of a
@@ -330,7 +330,7 @@ Fast
 
 5th
 
-## Multiclassing
+### Multiclassing
 
 Instead of gaining the abilities granted by the next level in
 your character's current class, he can instead gain the 1st-level
@@ -357,7 +357,7 @@ is class abilities, most of which are based on the total number
 of class levels that a character possesses of that particular
 class.
 
-## Favored Class
+### Favored Class
 
 Each character begins play with a single favored class of his
 choosing—typically, this is the same class as the one he chooses

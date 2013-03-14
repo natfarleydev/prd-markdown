@@ -369,7 +369,7 @@ performances.
 
 **Hit Die**: d8.
 
-### Bard Class Skills {#class-skills-bard}
+### Bard Class Skills 
 
 The bard's class skills are [Acrobatics] ([Dex]), [Appraise]
 ([Int]), [Bluff] ([Cha]), [Climb] ([Str]), [Craft] ([Int]),
@@ -1225,7 +1225,7 @@ Spells Known
 
 5
 
-### Bard Class Features {#class-features-bard}
+### Bard Class Features 
 
 All of the following are class features of the bard.
 
@@ -1540,7 +1540,6 @@ skill, even if the skill normally requires him to be trained.  At
 19th level, the bard can take 10 on any skill check, even if it
 is not normally allowed.
 
-Cleric
 
 ## Cleric
 
@@ -2385,7 +2384,7 @@ shield proficiencies and proficiency with [simple] weapons.  She
 cannot thereafter gain levels as a cleric of that god until she
 atones for her deeds (see the *[atonement]* spell description).
 
-### Domains {#domains-list}
+### Domains 
 
 Clerics may select any two of the domains granted by their deity.
 Clerics without a deity may select any two domains (choice are
@@ -3209,7 +3208,6 @@ cloud],*3rd—*[call lightning],*4th—*[sleet storm],*5th—*[ice
 storm],*6th—*[control winds],*7th—*[control
 weather],*8th—*[whirlwind],*9th—*[storm of vengeance]*.
 
-Druid
 
 ## Druid
 
@@ -4130,7 +4128,7 @@ but not including weapon, armor, and shield proficiencies).  She
 cannot thereafter gain levels as a druid until she atones (see
 the *[atonement]* spell description).
 
-### Animal Companions {#animal-companions-184}
+### Animal Companions 
 
 An animal companion's abilities are determined by the druid's
 level and its animal racial traits.  Table: Animal Companion Base
@@ -4252,7 +4250,7 @@ attack with one of its natural weapons, albeit at a –5 penalty.
 takes no damage if it makes a successful [saving throw] and only
 half damage if the [saving throw] fails.
 
-### Animal Skills {#animal-companions-animal-skills}
+### Animal Skills 
 
 Animal companions can have ranks in any of the following skills:
 [Acrobatics]\* ([Dex]), [Climb]\* ([Str]), [Escape Artist]
@@ -4262,7 +4260,7 @@ Animal companions can have ranks in any of the following skills:
 for animal companions.  Animal companions with an [Intelligence]
 of 3 or higher can put ranks into any skill.
 
-### Animal Feats {#animal-companions-animal-feats}
+### Animal Feats 
 
 Animal companions can select from the following feats:
 [Acrobatic], [Agile Maneuvers], [Armor Proficiency] (light,
@@ -4277,7 +4275,7 @@ companions with an [Intelligence] of 3 or higher can select any
 feat they are physically capable of using.  GMs might expand this
 list to include feats from other sources.
 
-### Animal Choices {#animal-companions-animal-choices}
+### Druid Animal Choices 
 
 Each animal companion has different starting sizes, speed,
 attacks, ability scores, and special qualities.  All animal
@@ -4293,7 +4291,7 @@ Animal Companion Base Statistics.  Instead of taking the listed
 benefit at 4th or 7th level, you can instead choose to increase
 the companion's [Dexterity] and [Constitution] by 2.
 
-### Ape {#animal-companions-ape}
+#### Ape 
 
 **Starting Statistics**:**Size** Medium; **Speed** 30 ft., Climb
 30 ft.; **[AC]** +1 natural armor; **Attack** bite ; **Ability
@@ -4304,7 +4302,7 @@ Scores**[Str] 13, [Dex] 17, [Con] 10, [Int] 2, [Wis] 12, [Cha] 7;
 ****Attack** bite ; **Ability Scores**[Str] +8, [Dex] –2, [Con]
 **+4.
 
-### Badger {#animal-companions-badger-wolverine}
+#### Badger 
 
 **Starting Statistics**:**Size** Small; **Speed** 30 ft., burrow
 10 ft., climb 10 ft.; **[AC]** +2 natural armor; **Attack** bite
@@ -4315,7 +4313,7 @@ low-light vision, [scent].
 **4th-Level Advancement**: **Size**Medium; **Attack**bite (1d6),
 2 claws (1d4); **Ability Scores**[Str] +4, [Dex] –2, [Con] +2.
 
-### Bear {#animal-companions-bear}
+#### Bear 
 
 **Starting Statistics**:**Size** Small; **Speed** 40 ft.; [AC]**
 **+2 natural armor; Attack** bite ; **Ability Scores**[Str] 15,
@@ -4325,7 +4323,7 @@ low-light vision, [scent].
 **4th-Level Advancement**: **Size**Medium; **Attack** bite (1d6),
 2 claws (1d4); **Ability Scores**[Str] +4, [Dex] –2, [Con] +2.
 
-### Bird {#animal-companions-bird-eagle-hawk-owl}
+#### Bird 
 
 **Starting Statistics**:**Size** Small; **Speed** 10 ft., fly 80
 ft.  ; **[AC]** +1 natural armor; **Attack** bite ; **Ability
@@ -4334,7 +4332,7 @@ Scores**[Str] 10, [Dex] 15, [Con] 12, [Int] 2, [Wis] 14, [Cha] 6;
 
 **4th-Level Advancement**: **Ability Scores** [Str] +2, [Con] +2.
 
-### Boar {#animal-companions-boar}
+#### Boar 
 
 **Starting Statistics**:**Size** Small; **Speed** 40 ft.; [AC]**
 **+6 natural armor; Attack** gore (1d6); **Ability Scores**[Str]
@@ -4345,7 +4343,7 @@ Scores**[Str] 10, [Dex] 15, [Con] 12, [Int] 2, [Wis] 14, [Cha] 6;
 **Ability Scores**[Str] +4, [Dex] –2, [Con] +2; **Special
 **Attacks** ferocity.
 
-### Camel {#animal-companions-camel}
+#### Camel 
 
 **Starting Statistics**:**Size** Large; **Speed** 50 ft.; [AC]**
 **+1 natural armor; Attack** bite (1d4) or spit (ranged touch
@@ -4355,7 +4353,7 @@ Scores**[Str] 10, [Dex] 15, [Con] 12, [Int] 2, [Wis] 14, [Cha] 6;
 
 **4th-Level Advancement**: **Ability Scores**[Str] +2, [Con] +2.
 
-### Cat, Big {#animal-companions-cat-big-lion-tiger}
+#### Cat, Big 
 
 **Starting Statistics**:**Size** Medium; **Speed** 40 ft.; [AC]**
 **+1 natural armor; Attack** bite ; **Ability Scores**[Str] 13,
@@ -4367,7 +4365,7 @@ Scores**[Str] 10, [Dex] 15, [Con] 12, [Int] 2, [Wis] 14, [Cha] 6;
 ****Attack** bite ; **Ability Scores**[Str] +8, [Dex] –2, [Con]
 **+4; **Special Attacks** grab, pounce, rake (1d6) .
 
-### Cat, Small {#animal-companions-cat-small-cheetah-leopard}
+#### Cat, Small 
 
 **Starting Statistics**:**Size** Small; **Speed** 50 ft.; [AC]**
 **+1 natural armor; Attack** bite , 2 claws (1d2); **Ability
@@ -4378,7 +4376,7 @@ Scores**[Str] 10, [Dex] 15, [Con] 12, [Int] 2, [Wis] 14, [Cha] 6;
 plus trip), 2 claws (1d3); **Ability Scores**[Str] +4, [Dex] –2,
 [Con] +2; **Special Qualities** sprint.
 
-### Crocodile {#animal-companions-crocodile-alligator}
+#### Crocodile 
 
 **Starting Statistics**:**Size** Small; **Speed** 20 ft., swim 30
 ft.; **[AC]** +4 natural armor; **Attack** bite (1d6); **Ability
@@ -4389,8 +4387,7 @@ Scores**[Str] 15, [Dex] 14, [Con] 15, [Int] 1, [Wis] 12, [Cha] 2;
 or tail slap (1d12); **Ability Scores**[Str] +4, [Dex] –2, [Con]
 +2; **Special Attacks**death roll, grab, sprint.
 
-### Dinosaur
-    {#animal-companions-dinosaur-deinonychus-velociraptor}
+#### Dinosaur
 
 **Starting Statistics**:**Size** Small; **Speed** 60 ft.; [AC]**
 **+1 natural armor; Attack** 2 talons ; **Ability Scores**[Str]
@@ -4402,7 +4399,7 @@ or tail slap (1d12); **Ability Scores**[Str] +4, [Dex] –2, [Con]
 **Scores**[Str] +4, [Dex] –2, [Con] +2; **Special Attacks**
 **pounce.
 
-### Dog {#animal-companions-dog}
+#### Dog 
 
 **Starting Statistics**:**Size** Small; **Speed** 40 ft.; [AC]**
 **+2 natural armor; Attack** bite (1d4); **Ability Scores**[Str]
@@ -4412,7 +4409,7 @@ or tail slap (1d12); **Ability Scores**[Str] +4, [Dex] –2, [Con]
 **4th-Level Advancement**: **Size**Medium; **Attack** bite (1d6);
 **Ability Scores**[Str] +4, [Dex] –2, [Con] +2.
 
-### Horse {#animal-companions-horse}
+#### Horse 
 
 **Starting Statistics**:**Size** Large; **Speed** 50 ft.; [AC]**
 **+4 natural armor; Attack** bite ; **Ability Scores**[Str] 16,
@@ -4424,7 +4421,7 @@ or tail slap (1d12); **Ability Scores**[Str] +4, [Dex] –2, [Con]
 **4th-Level Advancement**: **Ability Scores**[Str] +2, [Con] +2;
 **Special Qualities**combat trained .
 
-### Pony {#animal-companions-pony}
+#### Pony 
 
 **Starting Statistics**:**Size** Medium; **Speed** 40 ft.; [AC]**
 **+2 natural armor; Attack** 2 hooves (1d3); **Ability
@@ -4434,7 +4431,7 @@ or tail slap (1d12); **Ability Scores**[Str] +4, [Dex] –2, [Con]
 **4th-Level Advancement**: **Ability Scores**[Str] +2, [Con] +2;
 **Special Qualities**combat trained .
 
-### Shark {#animal-companions-shark}
+#### Shark 
 
 **Starting Statistics**:**Size** Small; **Speed** swim 60 ft.;
 **[AC]** +4 natural armor; Attack** bite (1d4); **Ability
@@ -4445,7 +4442,7 @@ or tail slap (1d12); **Ability Scores**[Str] +4, [Dex] –2, [Con]
 **Ability Scores**[Str] +4, [Dex] –2, [Con] +2; **Special
 **Qualities** blindsense.
 
-### Snake, Constrictor {#animal-companions-snake-constrictor}
+#### Snake, Constrictor 
 
 **Starting Statistics**:**Size** Medium; **Speed** 20 ft., climb
 20 ft., swim 20 ft.; **[AC]** +2 natural armor; **Attack** bite
@@ -4457,7 +4454,7 @@ or tail slap (1d12); **Ability Scores**[Str] +4, [Dex] –2, [Con]
 **armor; Attack** bite (1d4); **Ability Scores**[Str] +8, [Dex]
 **–2, [Con] +4; **Special Attacks** constrict 1d4.
 
-### Snake, Viper {#animal-companions-snake-viper}
+#### Snake, Viper 
 
 **Starting Statistics**:**Size** Small; **Speed** 20 ft., climb
 20 ft., swim 20 ft.; **[AC]** +2 natural armor; **Attack** bite ;
@@ -4469,7 +4466,7 @@ vision], [scent].
 **4th-Level Advancement**: **Size**Medium; **Attack** bite (1d4
 plus poison); **Ability Scores**[Str] +4, [Dex] –2, Con +2.
 
-### Wolf {#animal-companions-wolf}
+#### Wolf 
 
 **Starting Statistics**:**Size** Medium; **Speed** 50 ft.; [AC]**
 **+2 natural armor; Attack** bite ; **Ability Scores**[Str] 13,
@@ -4478,8 +4475,6 @@ plus poison); **Ability Scores**[Str] +4, [Dex] –2, Con +2.
 
 **7th-Level Advancement**: **Size**Large; [AC]**+2 natural armor;
 ****Attack** bite ; **Ability Scores**[Str] +8, [Dex] –2, Con +4.
-
-Fighter
 
 ## Fighter
 
@@ -4661,7 +4656,6 @@ made with that weapon automatically confirm all critical threats
 and have their damage multiplier increased by 1 .  In addition, he
 cannot be disarmed while wielding a weapon of this type.
 
-Monk
 
 ## Monk
 
@@ -4987,7 +4981,6 @@ creature type.
 A monk who becomes nonlawful cannot gain new levels as a monk but
 retains all monk abilities.
 
-Paladin
 
 ## Paladin
 
@@ -5758,7 +5751,6 @@ abilities and advancement potential if she atones for her
 violations (see the *[atonement]* spell description in [Spell
 Lists]), as appropriate.
 
-Ranger
 
 ## Ranger
 
@@ -6492,7 +6484,6 @@ ability once per day against each favored enemy type he
 possesses, but not against the same creature more than once in a
 24-hour period.
 
-Rogue
 
 ## Rogue
 
@@ -6811,8 +6802,6 @@ creature has been the target of a master strike, regardless of
 whether or not the save is made, that creature is immune to that
 rogue's master strike for 24 hours.  Creatures that are immune to
 sneak attack damage are also immune to this ability.
-
-Sorcerer
 
 ## Sorcerer
 
@@ -8017,13 +8006,13 @@ not consume any slots and may be used again.
 **Eschew Materials**: A sorcerer gains [Eschew Materials] as a
 bonus feat at 1st level.
 
-### Sorcerer Bloodlines {#sorcerer-bloodlines-list}
+### Sorcerer Bloodlines 
 
 The following bloodlines represent only some of the possible
 sources of power that a sorcerer can draw upon.  Unless otherwise
 noted, most sorcerers are assumed to have the arcane bloodline.
 
-### Aberrant
+#### Aberrant
 
 There is a taint in your blood, one that is alien and bizarre.
 You tend to think in odd ways, approaching problems from an angle
@@ -8075,7 +8064,7 @@ unnatural.  You are immune to critical hits and sneak attacks.  In
 addition, you gain blindsight with a range of 60 feet and [damage
 reduction] 5/—.
 
-### Abyssal
+#### Abyssal
 
 Generations ago, a demon spread its filth into your heritage.
 While it does not manifest in all of your kin, for you it is
@@ -8134,7 +8123,7 @@ the same kind.
 *telepathy with a range of 60 feet (allowing you to communicate
 *with any creature that can speak a language).
 
-### Arcane
+#### Arcane
 
 Your family has always been skilled in the eldritch art of magic.
 While many of your relatives were accomplished wizards, your
@@ -8197,7 +8186,7 @@ slots to power the item.  For every three levels of spell slots
 that you expend, you consume one less charge when using a magic
 item that expends charges.
 
-### Celestial
+#### Celestial
 
 Your bloodline is blessed by a celestial power, either from a
 celestial ancestor or through divine intervention.  Although this
@@ -8260,7 +8249,7 @@ gain unlimited use of the wings of heaven ability.  Finally, you
 gain the ability to speak with any creature that has a language
 (as per the *[tongues]*spell).
 
-### Destined
+#### Destined
 
 Your family is destined for greatness in some way.  Your birth
 could have been foretold in prophecy, or perhaps it occurred
@@ -8321,7 +8310,7 @@ increases by +1, to a maximum of +5 at 19th level.
 *made to overcome spell resistance.  You must use this ability
 *before making the roll.
 
-### Draconic
+#### Draconic
 
 At some point in your family's history, a dragon interbred with
 your bloodline, and now its ancient power flows through your
@@ -8400,7 +8389,7 @@ action.
 *becomes manifest.  You gain immunity to paralysis, sleep, and
 *damage of your energy type.  You also gain blindsense 60 feet.
 
-### Elemental
+#### Elemental
 
 The power of the elements resides in you, and at times you can
 hardly control its fury.  This influence comes from an elemental
@@ -8472,7 +8461,7 @@ element, as noted below.
 your body.  You gain immunity to sneak attacks, critical hits, and
 damage from your energy type.
 
-### Fey
+#### Fey
 
 The capricious nature of the fey runs in your family due to some
 intermingling of fey blood or magic.  You are more emotional than
@@ -8528,7 +8517,7 @@ ability at will.
 *cast *[shadow walk]* as a spell-like ability using your sorcerer
 *level as your caster level.
 
-### Infernal
+#### Infernal
 
 Somewhere in your family's history, a relative made a deal with a
 devil, and that pact has influenced your family line ever since.
@@ -8590,7 +8579,7 @@ three times per day.  This power has a range of 60 feet.
 *gain resistance to acid 10 and cold 10, and the ability to see
 *perfectly in darkness of any kind to a range of 60 feet.
 
-### Undead
+#### Undead
 
 The taint of the grave runs through your family.  Perhaps one of
 your ancestors became a powerful lich or vampire, or maybe you
@@ -8661,7 +8650,6 @@ of times per day equal to 3 + your [Charisma] modifier.
 *on [saving throws] made against spells and spell-like abilities
 *cast by undead.
 
-Wizard
 
 ## Wizard
 
@@ -8691,7 +8679,7 @@ any danger.
 
 **Hit Die**: d6.
 
-### Wizard Class Skills
+#### Wizard Class Skills
 
 The wizard's class skills are [Appraise] ([Int]), [Craft]
 ([Int]), [Fly] ([Dex]), [Knowledge] ([Int]), [Linguistics]
@@ -9346,7 +9334,7 @@ Scroll]
 
 4
 
-### Wizard Class Features
+#### Wizard Class Features
 
 The following are the class features of the wizard.
 
@@ -9501,12 +9489,12 @@ or levels that he can cast for his spellbook.  At any time, a
 wizard can also add spells found in other wizards' spellbooks to
 his own.
 
-### Arcane Schools {#arcane-schools-list}
+#### Arcane Schools 
 
 The following descriptions detail each arcane school and its
 corresponding powers.
 
-### Abjuration School
+#### Abjuration School
 
 The abjurer uses magic against itself, and masters the art of
 defensive and warding magics.
@@ -9532,7 +9520,7 @@ and resistance first and apply the rest to this absorption,
 reducing your daily total by that amount.  Any damage in excess of
 your absorption is applied to you normally.
 
-### Conjuration School
+#### Conjuration School
 
 The conjurer focuses on the study of summoning monsters and magic
 alike to bend to his will.
@@ -9560,7 +9548,7 @@ can bring other willing creatures with you, but you must expend
 an equal amount of distance for each additional creature brought
 with you.
 
-### Divination School
+#### Divination School
 
 Diviners are masters of remote viewing, prophecies, and using
 magic to explore the world.
@@ -9585,7 +9573,7 @@ scrying]*.  In addition, whenever you scry on a subject, treat the
 subject as one step more familiar to you.  Very familiar subjects
 get a –10 penalty on their save to avoid your scrying attempts.
 
-### Enchantment School
+#### Enchantment School
 
 The enchanter uses magic to control and manipulate the minds of
 his victims.
@@ -9611,7 +9599,7 @@ checks, attack rolls, damage rolls, [saving throws], and [skill
 checks].  These rounds do not need to be consecutive.  This is a
 mind-affecting effect.
 
-### Evocation School
+#### Evocation School
 
 Evokers revel in the raw power of magic, and can use it to create
 and destroy with shocking ease.
@@ -9640,7 +9628,7 @@ wall deals acid, cold, electricity, or fire damage, determined
 when you create it.  The elemental wall otherwise functions like
 *[wall of fire]*.
 
-### Illusion School
+#### Illusion School
 
 Illusionists use magic to weave confounding images, figments, and
 phantoms to baffle and vex their foes.
@@ -9667,7 +9655,7 @@ equal to your wizard level.  These rounds do not need to be
 consecutive.  This otherwise functions as *[greater
 invisibility].*
 
-### Necromancy School
+#### Necromancy School
 
 The dread and feared necromancer commands undead and uses the
 foul power of unlife against his enemies.
@@ -9701,7 +9689,7 @@ ability.  The range of this ability increases by 10 feet at 12th
 level, and by an additional 10 feet for every four levels beyond
 12th.  These rounds do not need to be consecutive.
 
-### Transmutation School
+#### Transmutation School
 
 Transmuters use magic to change the world around them.
 
@@ -9727,7 +9715,7 @@ like *[beast shape II]* or *[elemental body I].* At 12th level,
 this ability functions like *[beast shape III]* or *[elemental
 body II]*.
 
-### Universalist School
+#### Universalist School
 
 Wizards who do not specialize have the most diversity of all
 arcane spellcasters.
@@ -9756,7 +9744,7 @@ spell's actual level, you cannot use this ability to cast a spell
 whose modified spell level would be above the level of the
 highest-level spell that you are capable of casting.
 
-### Familiars
+#### Familiars
 
 A familiar is an animal chosen by a spellcaster to aid him in his
 study of magic.  It retains the appearance, Hit Dice, base attack
@@ -9939,7 +9927,7 @@ familiar's spell resistance.
 may scry on his familiar (as if casting the *scrying*spell) once
 per day.
 
-### Arcane Spells and Armor
+#### Arcane Spells and Armor
 
 Armor restricts the complicated gestures required while casting
 any spell that has a somatic component.  The [armor and shield
