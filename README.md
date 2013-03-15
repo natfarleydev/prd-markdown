@@ -31,7 +31,7 @@ Simply go into the build folders of the markdown folder
 (i.e. markdown/<book of choice>/build) and get the epub. Feedback is welcome on 
 dodgy tables (tables that didn't render properly etc.), more logical layout for
 an ebook etc. If an issue is found, use github's built in issue tracking system
-to report it. IF there are many minor bugs (e.g. missing a space between two 
+to report it. If there are many minor bugs (e.g. missing a space between two 
 words) then just file one report with all of the bugs listed.
 
 In the future, the markdown will also be formatted to be 'prettier' but this is a
