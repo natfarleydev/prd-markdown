@@ -1,10 +1,12 @@
-# Adept
+# NPC Classes
+
+## Adept
 
 **Alignment**: Any.
 
 **Hit Die**: d6.
 
-## Class Skills
+### Adept Class Skills
 
 The adept's class skills (and the key ability for each skill) are
 [Craft], [Handle Animal], [Heal], [Knowledge] (all skills taken
@@ -482,7 +484,7 @@ Spells per Day
 
 2
 
-## Class Features
+### Adept Class Features
 
 All of the following are class features of the adept NPC class.
 
@@ -524,7 +526,7 @@ depending on the adept's magical tradition.
 **Summon Familiar**: At 2nd level, an adept can call a
 [familiar], just as a wizard can using the arcane bond ability.
 
-## Adept Spell List
+### Adept Spell List
 
 Adepts choose their spells from the following list.
 
@@ -555,13 +557,13 @@ darkness], [lightning bolt], [neutralize poison], [remove curse],
 [heal], [major creation], [raise dead], [true seeing], [wall of
 stone].*
 
-# Aristocrat
+## Aristocrat
 
 **Alignment**: Any.
 
 **Hit Die**: d8.
 
-## Class Skills
+### Aristocrat Class Skills
 
 The aristocrat's class skills (and the key ability for each
 skill) are [Appraise], [Bluff], [Craft], [Diplomacy], [Disguise],
@@ -596,7 +598,7 @@ individually), [Linguistics], [Perception], [Perform],
 
   : Table: Aristocrat
 
-## Class Features
+### Aristocrat Class Features
 
 The following is a class feature of the aristocrat NPC class.
 
@@ -604,13 +606,13 @@ The following is a class feature of the aristocrat NPC class.
 the use of all simple and martial weapons and with all types of
 armor and shields.
 
-# Commoner
+## Commoner
 
 **Alignment**: Any.
 
 **Hit Die**: d6.
 
-## Class Skills
+### Commoner Class Skills
 
 The commoner's class skills (and the key ability for each skill)
 are [Climb], [Craft], [Handle Animal], [Perception],
@@ -643,7 +645,7 @@ are [Climb], [Craft], [Handle Animal], [Perception],
 
   : Table: Commoner
 
-## Class Features
+### Commoner Class Features
 
 The following is a class feature of the commoner NPC class.
 
@@ -651,13 +653,13 @@ The following is a class feature of the commoner NPC class.
 one simple weapon. He is not proficient with any other weapons,
 nor is he proficient with any type of armor or shield.
 
-# Expert
+## Expert
 
 **Alignment**: Any.
 
 **Hit Die**: d8.
 
-## Class Skills
+### Expert Class Skills
 
 The expert can choose any 10 skills to be class skills.
 
@@ -688,7 +690,7 @@ The expert can choose any 10 skills to be class skills.
 
   : Table: Expert
 
-## Class Features
+### Expert Class Features
 
 The following is a class feature of the expert NPC class.
 
@@ -696,13 +698,13 @@ The following is a class feature of the expert NPC class.
 use of all simple weapons and with light armor, but not with any
 type of shield.
 
-# Warrior
+## Warrior
 
 **Alignment**: Any.
 
 **Hit Die**: d10.
 
-## Class Skills
+### Warrior Class Skills
 
 The warrior's class skills (and the key ability for each skill)
 are [Climb] , [Craft], [Handle Animal], [Intimidate],
@@ -735,7 +737,7 @@ are [Climb] , [Craft], [Handle Animal], [Intimidate],
 
   : Table: Warrior
 
-## Class Features
+### Warrior Class Features
 
 The following is a class feature of the warrior NPC class.
 
