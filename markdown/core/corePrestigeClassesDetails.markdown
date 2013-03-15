@@ -1,4 +1,6 @@
-# Arcane Archer
+
+
+## Arcane Archer
 
 Many who seek to perfect the use of the bow sometimes pursue the
 path of the arcane archer. Arcane archers are masters of ranged
@@ -31,7 +33,7 @@ pursued by good or neutral characters.
 
 **Hit Die**: d10.
 
-## Requirements
+### Arcane Archer Requirements
 
 To qualify to become an arcane archer, a character must fulfill
 all the following criteria.
@@ -44,7 +46,7 @@ Focus] (longbow or shortbow).
 
 **Spells**: Ability to cast 1st-level arcane spells.
 
-## Class Skills
+### Arcane Archer Class Skills
 
 The arcane archer's class skills (and the key ability for each
 skill) are [Perception]
@@ -74,7 +76,7 @@ skill) are [Perception]
 
   : Table: Arcane Archer
 
-## Class Features
+### Arcane Archer Class Features
 
 All of the following are class features of the arcane archer
 prestige class.
@@ -202,7 +204,7 @@ arrow in existence at a time.
 
 Arcane Trickster
 
-# Arcane Trickster
+## Arcane Trickster
 
 Few can match the guile and craftiness of arcane tricksters.
 These prodigious thieves blend the subtlest aspects of the arcane
@@ -238,7 +240,7 @@ chaotic alignment.
 
 **Hit Die**: d6.
 
-## Requirements
+### Arcane Trickster Requirements
 
 To qualify to become an arcane trickster, a character must
 fulfill all of the following criteria.
@@ -258,7 +260,7 @@ spell of 2nd level or higher.
 **Special**: [Sneak attack]
 +2d6.
 
-## Class Skills
+### Arcane Trickster Class Skills
 
 The arcane trickster's class skills (and the key ability for each
 skill) are [Acrobatics]
@@ -311,7 +313,7 @@ Hand]
 
   : Table: Arcane Trickster
 
-## Class Features
+### Arcane Trickster Class Features
 
 All of the following are class features of the arcane trickster
 prestige class.
@@ -393,7 +395,7 @@ damage, it also negates or halves the sneak attack damage.
 
 Assassin
 
-# Assassin
+## Assassin
 
 A mercenary undertaking his task with cold, professional
 detachment, the assassin is equally adept at espionage, bounty
@@ -426,7 +428,7 @@ evil alignment.
 
 **Hit Die**: d8.
 
-## Requirements
+### Assassin Requirements
 
 To qualify to become an assassin, a character must fulfill all
 the following criteria.
@@ -439,7 +441,7 @@ ranks, [Stealth] 5 ranks.
 **Special**: The character must kill someone for no other reason
 than to become an assassin.
 
-## Class Skills
+### Assassin Class Skills
 
 The assassin's class skills (and the key ability for each skill)
 are [Acrobatics]
@@ -491,7 +493,7 @@ Device]
 
   : Table: Assassin
 
-## Class Features
+### Assassin Class Features
 
 All of the following are class features of the assassin prestige
 class.
@@ -627,7 +629,7 @@ is wasted with no effect.
 
 Dragon Disciple
 
-# Dragon Disciple
+## Dragon Disciple
 
 As some of the most ancient, powerful, and capricious creatures
 in existence, dragons occasionally enter into trysts with
@@ -668,7 +670,7 @@ alignments.
 
 **Hit Die**: d12.
 
-## Requirements
+### Dragon Disciple Requirements
 
 To qualify to become a dragon disciple, a character must fulfill
 all the following criteria.
@@ -689,7 +691,7 @@ gains levels of [sorcerer]
 after taking this class, he must take the [draconic
 bloodline].
 
-## Class Skills
+### Dragon Disciple Class Skills
 
 The dragon disciple's class skills (and the key ability for each
 skill) are [Diplomacy]
@@ -724,7 +726,7 @@ taken individually)
 
   : Table: Dragon Disciple
 
-## Class Features
+### Dragon Disciple Class Features
 
 All of the following are class features of the dragon disciple
 prestige class.
@@ -837,7 +839,7 @@ bloodline, the dragon disciple's speed increases to 90 feet.
 
 Duelist
 
-# Duelist
+## Duelist
 
 Duelists represent the pinnacle of elegant swordplay. They move
 with a grace unmatched by most foes, parrying blows and
@@ -872,7 +874,7 @@ opponents.
 
 **Hit Die**: d10.
 
-## Requirements
+### Duelist Requirements
 
 To qualify to become a duelist, a character must fulfill all the
 following criteria.
@@ -886,7 +888,7 @@ ranks, [Perform] 2 ranks.
 [Mobility], [Weapon
 Finesse].
 
-## Class Skills
+### Duelist Class Skills
 
 The duelist's class skills (and the key ability for each skill)
 are [Acrobatics]
@@ -1042,7 +1044,7 @@ td\>
 
 [Crippling critical]
 
-## Class Features
+### Duelist Class Features
 
 All of the following are class features of the duelist prestige
 class.
@@ -1156,7 +1158,7 @@ continues until the target receives magic healing or a DC 15
 
 Eldritch Knight
 
-# Eldritch Knight
+## Eldritch Knight
 
 Fearsome warriors and spellcasters, eldritch knights are rare
 among magic-users in their ability to wade into battle alongside
@@ -1190,7 +1192,7 @@ for that reason many favor lawful alignments.
 
 **Hit Die**: d10.
 
-## Requirements
+### Eldritch Knight Requirements
 
 To qualify to become an eldritch knight, a character must fulfill
 all the following criteria.
@@ -1200,7 +1202,7 @@ weapons].
 
 **Spells**: Able to cast 3rd-level arcane spells.
 
-## Class Skills
+### Eldritch Knight Class Skills
 
 The eldritch knight's class skills (and the key ability for each
 skill) are [Climb]
@@ -1238,7 +1240,7 @@ Motive]
 
   : Table: Eldritch Knight
 
-## Class Features
+### Eldritch Knight Class Features
 
 All of the following are features of the eldritch knight prestige
 class.
@@ -1284,7 +1286,7 @@ failure if necessary.
 
 Loremaster
 
-# Loremaster
+## Loremaster
 
 The loremaster is a gatherer and keeper of secrets. He is often
 obsessed by the written word, with cryptic and arcane lore
@@ -1329,7 +1331,7 @@ tend to be neutral, neutral good, or neutral evil.
 
 **Hit Die**: d6.
 
-## Requirements
+### Loremaster Requirements
 
 To qualify to become a loremaster, a character must fulfill all
 the following criteria.
@@ -1346,7 +1348,7 @@ plus [Skill Focus]
 **Spells**: Able to cast seven different divination spells, one
 of which must be 3rd level or higher.
 
-## Class Skills
+### Loremaster Class Skills
 
 The loremaster's class skills (and the key ability for each
 skill) are [Appraise]
@@ -1387,7 +1389,7 @@ Device]
 
   : Table: Loremaster
 
-## Class Features
+### Loremaster Class Features
 
 All of the following are Class Features of the loremaster
 prestige class.
@@ -1511,7 +1513,7 @@ information is already known about the subject in question.
 
 Mystic Theurge
 
-# Mystic Theurge
+## Mystic Theurge
 
 Mystic theurges place no boundaries on their magical abilities
 and find no irreconcilable paradox in devotion to the arcane as
@@ -1545,7 +1547,7 @@ requires great personal discipline.
 
 **Hit Die**: d6.
 
-## Requirements
+### Mystic Theurge Requirements
 
 To qualify to become a mystic theurge, a character must fulfill
 all the following criteria.
@@ -1558,7 +1560,7 @@ ranks.
 **Spells**: Able to cast 2nd-level divine spells and 2nd-level
 arcane spells.
 
-## Class Skills
+### Mystic Theurge Class Skills
 
 The mystic theurge's class skills (and the key ability for each
 skill) are [Knowledge]
@@ -1609,7 +1611,7 @@ Motive]
 
   : Table: Mystic Theurge
 
-## Class Features
+### Mystic Theurge Class Features
 
 All of the following are features of the mystic theurge prestige
 class.
@@ -1669,7 +1671,7 @@ ability once per day.
 
 PF Chronicler
 
-# PF Chronicler {#PF-chronicler}
+## PF Chronicler {#PF-chronicler}
 
 Brave explorers and scavengers of lost or forgotten knowledge, PF
 chroniclers are quintessential adventurers, exploring the world
@@ -1700,7 +1702,7 @@ accumulate wealth and add to their own glory.
 
 **Hit Dice**: d8.
 
-## Requirements
+### PF Chronicler {#PF-chronicler} Requirements
 
 To qualify to become a PF chronicler, a character must fulfill
 all the following criteria.
@@ -1715,7 +1717,7 @@ ranks.
 a magical scroll or other device) for which another person (not a
 PC) paid at least 50 gp.
 
-## Class Skills
+### PF Chronicler {#PF-chronicler} Class Skills
 
 The PF chronicler's class skills (and the key ability for each
 skill) are [Appraise]
@@ -1768,7 +1770,7 @@ Device]
 
   : Table: PF Chronicler
 
-## Class Features
+### PF Chronicler {#PF-chronicler} Class Features
 
 The following are class features of the PF chronicler prestige
 class.
@@ -1939,7 +1941,7 @@ barbarian (DC 15 + the PF chronicler's
 
 Shadowdancer
 
-# Shadowdancer
+## Shadowdancer
 
 Civilized folk have always feared the night, barring themselves
 behind doors or comforting themselves with bonfires when the
@@ -1978,7 +1980,7 @@ of the usual moral connotations made by the unenlightened.
 
 **Hit Die**: d8.
 
-## Requirements
+### Shadowdancer Requirements
 
 To qualify to become a shadowdancer, a character must fulfill all
 the following criteria.
@@ -1990,33 +1992,19 @@ the following criteria.
 [Dodge],
 [Mobility].
 
-## Class Skills
+### Shadowdancer Class Skills
 
 The shadowdancer's class skills (and the key ability for each
-skill) are [Acrobatics]
-([Dex]),
-[Bluff]
-([Cha]),
-[Diplomacy]
-([Cha]),
-[Disguise]
-([Cha]), [Escape
-Artist]
-([Dex]),
-[Perception]
-([Wis]),
-[Perform]
-([Cha]), [Sleight of
-Hand]
-([Dex]), and
-[Stealth]
-([Dex]).
+skill) are [Acrobatics] ([Dex]), [Bluff] ([Cha]), [Diplomacy]
+([Cha]), [Disguise] ([Cha]), [Escape Artist] ([Dex]),
+[Perception] ([Wis]), [Perform] ([Cha]), [Sleight of Hand]
+([Dex]), and [Stealth] ([Dex]).
 
 **Skill Ranks at Each Level**: 6 +
 [Int] modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special
-  ------- ------------------- ----------- ---------- ----------- ---------------------------------------------------------------------------------------------------------------------------
+  ------- ------------------- ----------- ---------- ----------- -----------------------------------------------
   1st     +0                  +0          +1         +0          [Hide in plain sight]
   2nd     +1                  +1          +1         +1          [Evasion], [uncanny dodge]
   3rd     +2                  +1          +2         +1          [Rogue talent], [summon shadow]
@@ -2030,7 +2018,7 @@ Hand]
 
   : Table: Shadowdancer
 
-## Class Features
+### Shadowdancer Class Features
 
 All of the following are features of the shadowdancer prestige
 class.
