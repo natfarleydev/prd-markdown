@@ -7,8 +7,8 @@
 
 *This work is in early beta. Many of the tables are not formatted
 properly and the work has not been checked for accuracy (although
-the text is pretty much lifted from it's previous so should be
-usable). Bug reports and patches are very welcome!*
+the text is pretty much lifted from it's previous source so
+should be usable). Bug reports and patches are very welcome!*
 
 This has been converted into pandoc markdown by Nathanael Farley.
 
