@@ -1,6 +1,7 @@
-# pathfinder-prd-markdown
+# prd-markdown
 
 ## Note: this project is ready to accept submissions!
+
 Subissions of content should follow the guidelines laid out on the wiki. It 
 basically boils down to three things:
 
@@ -8,7 +9,7 @@ basically boils down to three things:
 2. Implicit links should be used where possible.
 3. Word wrap all files to 65 chars 'manually' (I use emacs M-q shortcut).
 
-A project to convert the pathfinder prd into markdown for the purpose of making
+A project to convert the PF prd into markdown for the purpose of making
 an ebook (or collection of ebooks)
 
 ## House Rules
@@ -17,11 +18,11 @@ For house rules, such as conventions and submissions, see the wiki.
 ## How to help!
 
 The easiest way to help is to start editing! If you're familiar with pandoc, to
-convert html into markdown, this project uses
+convert html into markdown, in general this project uses
 
     pandoc thing.html --atx-headers --no-wrap -o thing.markdown
     
-to start off with. The stripped html is found in the pathfinder folder (not the 
+to start off with. The stripped html is found in the PF folder (not the 
 markdown folder) and all markdown files should be placed in the markdown folder. 
 All links should be implicit, so compliation requires pandoc 1.10 ish.
 
