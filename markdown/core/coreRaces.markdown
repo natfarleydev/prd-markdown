@@ -1,4 +1,6 @@
-# Dwarves
+# Races
+
+## Dwarves
 
 Dwarves are a stoic but stern race, ensconced in cities carved
 from the hearts of mountains and fiercely determined to repel the
@@ -49,7 +51,7 @@ citadels from racial enemies. Dwarven warfare is often
 characterized by tunnel fighting and melee combat, and as such
 most dwarves tend toward classes such as fighters and barbarians.
 
-## Dwarf Racial Traits
+### Dwarf Racial Traits
 
 **+2 [Constitution], +2 [Wisdom], –2 [Charisma]**: Dwarves are
 both tough and wise, but also a bit gruff.
@@ -94,7 +96,7 @@ heavy picks, and warhammers, and treat any weapon with the word
 Dwarves with high [Intelligence] scores can choose from the
 following: Giant, Gnome, Goblin, Orc, Terran, and Undercommon.
 
-# Elves
+## Elves
 
 The long-lived elves are children of the natural world, similar
 in many superficial ways to fey creatures, yet different as well.
@@ -149,7 +151,7 @@ holds natural appeal. Elves generally eschew melee because of
 their frailty, preferring instead to pursue classes such as
 wizards and rangers.
 
-## Elf Racial Traits
+### Elf Racial Traits
 
 **+2 [Dexterity], +2 [Intelligence], –2 [Constitution]**: Elves
 are nimble, both in body and mind, but their form is frail.
@@ -183,7 +185,7 @@ with the word “elven” in its name as a martial weapon.
 with high [Intelligence] scores can choose from the following:
 Celestial, Draconic, Gnoll, Gnome, Goblin, Orc, and Sylvan.
 
-# Gnomes
+## Gnomes
 
 Gnomes trace their lineage back to the mysterious realm of the
 fey, a place where colors are brighter, the wildlands wilder, and
@@ -240,7 +242,7 @@ new aspects of life, for nothing is as novel as the uncounted
 dangers facing adventurers. Gnomes make up for their weakness
 with a proclivity for sorcery or bardic music.
 
-## Gnome Racial Traits
+### Gnome Racial Traits
 
 **+2 [Constitution], +2 [Charisma], –2 [Strength]**: Gnomes are
 physically weak but surprisingly hardy, and their attitude makes
@@ -288,7 +290,7 @@ skill checks.
 Sylvan. Gnomes with high [Intelligence] scores can choose from
 the following: Draconic, Dwarven, Elven, Giant, Goblin, and Orc.
 
-# Half-elves
+## Half-elves
 
 Elves have long drawn the covetous gazes of other races. Their
 generous life spans, magical affinity, and inherent grace each
@@ -350,7 +352,7 @@ desire to prove oneself to the community and establish a personal
 identity—or even a legacy—drives many half-elf adventurers to
 lives of bravery.
 
-## Half-Elf Racial Traits
+### Half-Elf Racial Traits
 
 **+2 to One [Ability Score]**: Half-elf characters get a +2 bonus
 to one ability score of their choice at creation to represent
@@ -386,7 +388,7 @@ more information about favored classes.
 Half-elves with high [Intelligence] scores can choose any
 languages they want (except secret languages, such as Druidic).
 
-# Half-orcs
+## Half-orcs
 
 Half-orcs are monstrosities, their tragic births the result of
 perversion and violence—or at least, that's how other races see
@@ -441,7 +443,7 @@ painful pasts or improve their lot through force of arms. Others,
 more optimistic or desperate for acceptance, take up the mantle
 of crusaders in order to prove their worth to the world.
 
-## Half-Orc Racial Traits
+### Half-Orc Racial Traits
 
 **+2 to One [Ability Score]**: Half-orc characters get a +2 bonus
 to one ability score of their choice at creation to represent
@@ -474,7 +476,7 @@ name as a martial weapon.
 Half-orcs with high [Intelligence] scores can choose from the
 following: Abyssal, Draconic, Giant, Gnoll, and Goblin.
 
-# Halflings
+## Halflings
 
 Optimistic and cheerful by nature, blessed with uncanny luck and
 driven by a powerful wanderlust, halflings make up for their
@@ -542,7 +544,7 @@ insatiable wanderlust makes halflings ideal for lives of
 adventure. Other such vagabonds tend to put up with the curious
 race in hopes that some of their mystical luck will rub off.
 
-## Halfling Racial Traits
+### Halfling Racial Traits
 
 **+2 [Dexterity], +2 [Charisma], –2 [Strength]**: Halflings are
 nimble and strong-willed, but their small stature makes them
@@ -576,7 +578,7 @@ martial weapon.
 Halflings with high [Intelligence] scores can choose from the
 following: Dwarven, Elven, Gnome, and Goblin.
 
-# Humans
+## Humans
 
 Humans possess exceptional drive and a great capacity to endure
 and expand, and as such are currently the dominant race in the
@@ -645,7 +647,7 @@ hailing from a subtropical nation of sailors and tradesmen.
 Throughout most of the world humans speak Common, yet their names
 are as varied as their beliefs and appearances.
 
-## Human Racial Traits
+### Human Racial Traits
 
 **+2 to One [Ability Score]**: Human characters get a +2 bonus to
 one ability score of their choice at creation to represent their
