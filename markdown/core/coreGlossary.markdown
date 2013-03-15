@@ -1,6 +1,6 @@
 # Glossary
 
-## Special Abilities {#appendix-1-special-abilities}
+## Special Abilities (glossary)
 
 The following special abilities include rules commonly used by a
 number of creatures, spells, and traps.
@@ -1330,7 +1330,7 @@ of such an odor completely spoils the ability to properly detect
 or identify creatures, and the base Survival DC to track becomes
 20 rather than 10.
 
-### Spell Resistance
+### Spell Resistance (glossary)
 
 Spell resistance is the extraordinary ability to avoid being
 affected by spells. Some spells also grant spell resistance.

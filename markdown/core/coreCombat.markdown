@@ -1,4 +1,6 @@
-# How Combat Works
+# Combat
+
+## How Combat Works
 
 Combat is cyclical; everybody acts in turn in a regular cycle of
 rounds. Combat follows this sequence:
@@ -19,7 +21,7 @@ being the first normal round of combat.
 combatant with the highest initiative, and steps 3 and 4 repeat
 until combat ends.
 
-## The Combat Round
+### The Combat Round
 
 Each round represents 6 seconds in the game world; there are 10
 rounds in a minute of combat. A round normally allows each
@@ -37,10 +39,10 @@ same initiative count in the next round. Effects that last a
 certain number of rounds end just before the same initiative
 count that they began on.
 
-## Initiative
+### Initiative
 
 At the start of a battle, each combatant makes an initiative
-check. An initiative check is a [Dexterity] check. Each character
+vcheck. An initiative check is a [Dexterity] check. Each character
 applies his or her [Dexterity] modifier to the roll, as well as
 other modifiers from feats, spells, and other effects. Characters
 act in order, counting down from the highest result to the
@@ -70,7 +72,7 @@ opportunity, unless he has the [Combat Reflexes] feat.
 **Inaction**: Even if you can't take actions, you retain your
 initiative score for the duration of the encounter.
 
-## Surprise
+### Surprise
 
 When a combat starts, if you are not aware of your opponents and
 they are aware of you, you're surprised.
@@ -96,12 +98,12 @@ of battle don't get to act in the surprise round. Unaware
 combatants are [flat-footed] because they have not acted yet, so
 they lose any [Dexterity] bonus to [AC].
 
-# Combat Statistics
+## Combat Statistics
 
 This section summarizes the statistics that determine success in
 combat, then details how to use them.
 
-## Attack Roll
+### Attack Roll
 
 An attack roll represents your attempt to strike your opponent on
 your turn in a round. When you make an attack roll, you roll a
@@ -114,7 +116,7 @@ on an attack roll is always a miss. A natural 20 (the d20 comes
 up 20) is always a hit. A natural 20 is also a threat—a possible
 critical hit ).
 
-## Attack Bonus
+### Attack Bonus
 
 Your attack bonus with a melee weapon is the following:
 
@@ -125,7 +127,7 @@ With a ranged weapon, your attack bonus is the following:
 **Base attack bonus + [Dexterity] modifier + size modifier +
 range penalty**
 
-## Armor Class
+### Armor Class
 
 Your Armor Class (AC) represents how hard it is for opponents to
 land a solid, damaging blow on you. It's the attack roll result
@@ -193,7 +195,7 @@ attacks except that they also ignore cover bonuses. [Incorporeal]
 touch attacks do not ignore armor bonuses granted by force
 effects, such as *mage armor* and *bracers of armor*.
 
-## Damage
+### Damage
 
 If your attack succeeds, you deal damage. The type of weapon used
 determines the amount of damage you deal.
@@ -234,14 +236,14 @@ damage are never multiplied.
 cause temporary or permanent [ability damage] (a reduction to an
 ability score).
 
-## Hit Points
+### Hit Points
 
 When your hit point total reaches 0, you're disabled. When it
 reaches –1, you're [dying]. When it gets to a negative amount
 equal to your [Constitution] score, you're dead. See [Injury and
 Death], for more information.
 
-## Attacks of Opportunity
+### Attacks of Opportunity
 
 Sometimes a combatant in a melee lets her guard down or takes a
 reckless action. In this case, combatants near her can take
@@ -322,7 +324,7 @@ provokes an attack of opportunity from the ogre (who has 10 feet
 of reach). She could instead limit her movement to a 5-foot step,
 as a free action, and not provoke any attacks of opportunity.
 
-## Speed
+### Speed
 
 Your speed tells you how far you can move in a round and still do
 something, such as attack or cast a spell. Your speed depends
@@ -341,7 +343,7 @@ If you use two move actions in a round (sometimes called a
 you spend the entire round running, you can move up to quadruple
 your speed (or triple if you are in heavy armor).
 
-## Saving Throws
+### Saving Throws
 
 Generally, when you are subject to an unusual or magical attack,
 you get a saving throw to avoid or reduce the effect. Like an
@@ -375,7 +377,7 @@ up 1) on a saving throw is always a failure (and may cause damage
 to exposed items; see [Items Surviving after a Saving Throw]). A
 natural 20 (the d20 comes up 20) is always a success.
 
-# Actions In Combat
+## Actions In Combat
 
 Table: Actions in Combat
 
@@ -383,7 +385,7 @@ Standard Action
 
 Attack of Opportunity^1^
 
-Attack )
+Attack
 
 No
 
@@ -391,7 +393,7 @@ Attack )
 
 Yes
 
-Attack )
+Attack
 
 Yes
 
@@ -681,7 +683,7 @@ action.\
 During one turn, there are a wide variety of actions that your
 character can perform, from swinging a sword to casting a spell.
 
-## Action Types
+### Action Types
 
 An action's type essentially tells you how long the action takes
 to perform (within the framework of the 6-second combat round)
@@ -752,12 +754,12 @@ move action (plus free and swift actions as normal). You can't
 take a full-round action (though you can start or complete a
 full-round action by using a standard action; see below).
 
-## Standard Actions {#standard-actions-list}
+### Standard Actions {#standard-actions-list}
 
 Most of the common actions characters take, aside from movement,
 fall into the realm of standard actions.
 
-### Attack
+#### Attack
 
 Making an attack is a standard action.
 
@@ -909,7 +911,7 @@ roll cannot score a critical hit. If a spell causes ability
 damage or drain (see [Special Abilities]), the damage or drain is
 doubled on a critical hit.
 
-### Activate Magic Item
+#### Activate Magic Item
 
 Many magic items don't need to be activated. Certain magic items,
 however, do need to be activated, especially potions, scrolls,
@@ -926,7 +928,7 @@ while on the defensive, as with casting a spell.
 Activating any of these kinds of items does not require
 concentration and does not provoke attacks of opportunity.
 
-### Cast a Spell
+#### Cast a Spell
 
 Most spells require 1 standard action to cast. You can cast such
 a spell either before or after you take a move action.
@@ -1034,7 +1036,7 @@ be held until a later turn.
 **Dismiss a Spell**: Dismissing an active spell is a standard
 action that doesn't provoke attacks of opportunity.
 
-### Start/Complete Full-Round Action
+#### Start/Complete Full-Round Action
     {#start-complete-full-round-action}
 
 The “start full-round action” standard action lets you start
@@ -1043,7 +1045,7 @@ following round by using another standard action. You can't use
 this action to start or complete a full attack, charge, run, or
 withdraw.
 
-### Total Defense
+#### Total Defense
 
 You can defend yourself as a standard action. You get a +4 [dodge
 bonus] to your [AC] for 1 round.  Your [AC] improves at the start
@@ -1052,7 +1054,7 @@ defensively or with the benefit of the [Combat Expertise]
 feat. You can't make attacks of opportunity while using total
 defense.
 
-### Use Special Ability
+#### Use Special Ability
 
 Using a special ability is usually a standard action, but whether
 it is a standard action, a full-round action, or not an action at
@@ -1085,12 +1087,12 @@ abilities that are actions are usually standard actions that
 cannot be disrupted, do not require concentration, and do not
 provoke attacks of opportunity.
 
-## Move Actions {#move-actions-list}
+### Move Actions {#move-actions-list}
 
 With the exception of specific movement-related skills, most move
 actions don't require a check.
 
-### Move
+#### Move
 
 The simplest move action is moving your speed. If you take this
 kind of move action during your turn, you can't also take a
@@ -1109,14 +1111,14 @@ at any point of your crawl. A crawling character is considered
 [prone] and must take a move action to stand up, provoking an
 attack of opportunity.
 
-### Direct or Redirect a Spell
+#### Direct or Redirect a Spell
 
 Some spells allow you to redirect the effect to new targets or
 areas after you cast the spell. Redirecting a spell requires a
 move action and does not provoke attacks of opportunity or
 require concentration.
 
-### Draw or Sheathe a Weapon
+#### Draw or Sheathe a Weapon
 
 Drawing a weapon so that you can use it in combat, or putting it
 away so that you have a free hand, requires a move action. This
@@ -1134,7 +1136,7 @@ one.
 Drawing ammunition for use with a ranged weapon (such as arrows,
 bolts, sling bullets, or shuriken) is a free action.
 
-### Manipulate an Item
+#### Manipulate an Item
 
 Moving or manipulating an item is usually a move action.
 
@@ -1143,7 +1145,7 @@ up an item, moving a heavy object, and opening a door. Examples
 of this kind of action, along with whether they incur an attack
 of opportunity, are given in Table: Actions in Combat.
 
-### Mount/Dismount a Steed {#mount-dismount-a-steed}
+#### Mount/Dismount a Steed {#mount-dismount-a-steed}
 
 Mounting or dismounting a steed requires a move action.
 
@@ -1153,7 +1155,7 @@ or dismounting is a move action instead. You can't attempt a fast
 mount or fast dismount unless you can perform the mount or
 dismount as a move action in the current round.
 
-### Ready or Drop a Shield
+#### Ready or Drop a Shield
 
 Strapping a shield to your arm to gain its shield bonus to your
 [AC], or unstrapping and dropping a shield so you can use your
@@ -1163,19 +1165,19 @@ shield as a free action combined with a regular move.
 
 Dropping a carried (but not worn) shield is a free action.
 
-### Stand Up
+#### Stand Up
 
 Standing up from a [prone] position requires a move action and
 provokes attacks of opportunity.
 
-## Full-Round Actions {#full-round-actions-list}
+### Full-Round Actions {#full-round-actions-list}
 
 A full-round action requires an entire round to complete. Thus,
 it can't be coupled with a standard or a move action, though if
 it does not involve moving any distance, you can take a 5-foot
 step.
 
-### Full Attack {#full-attack-action}
+#### Full Attack {#full-attack-action}
 
 If you get more than one attack per round because your base
 attack bonus is high enough (see Base Attack Bonus in [Classes]),
@@ -1208,7 +1210,7 @@ to fight defensively when taking a full-attack action. If you do
 so, you take a –4 penalty on all attacks in a round to gain a +2
 [dodge bonus] to [AC] for until the start your next turn.
 
-### Cast a Spell {#cast-a-spell-full-round}
+#### Cast a Spell (Full Round)
 
 A spell that takes one round to cast is a full-round action. It
 comes into effect just before the beginning of your turn in the
@@ -1255,7 +1257,7 @@ casting time of 1 standard action is a full-round action, and
 spells with longer casting times take an extra full-round action
 to cast.
 
-### Move 5 Feet through Difficult Terrain
+#### Move 5 Feet through Difficult Terrain
     {#move-5-feet-through-difficult-terrain-111}
 
 In some situations, your movement may be so hampered that you
@@ -1265,7 +1267,7 @@ move 5 feet (1 square) in any direction, even diagonally. Even
 though this looks like a 5-foot step, it's not, and thus it
 provokes attacks of opportunity normally.
 
-### Run
+#### Run
 
 You can run as a full-round action. If you do, you do not also
 get a 5-foot step. When you run, you can move up to four times
@@ -1288,12 +1290,12 @@ you're going.
 A run represents a speed of about 13 miles per hour for an
 unencumbered human.
 
-### [Use Special Ability]
+#### [Use Special Ability]
 
 Using a special ability is usually a standard action, but some
 may be full-round actions, as defined by the ability.
 
-### Withdraw
+#### Withdraw
 
 Withdrawing from melee combat is a full-round action. When you
 withdraw, you can move up to double your speed. The square you
@@ -1318,33 +1320,33 @@ have to leave combat entirely.
 standard action each round you can withdraw as a standard action.
 In this case, you may move up to your speed.
 
-## Free Actions {#free-actions-list}
+### Free Actions {#free-actions-list}
 
 Free actions don't take any time at all, though there may be
 limits to the number of free actions you can perform in a turn.
 Free actions rarely incur attacks of opportunity. Some common
 free actions are described below.
 
-### Cease Concentration on Spell
+#### Cease Concentration on Spell
 
 You can stop concentrating on a spell as a free action.
 
-### Drop an Item
+#### Drop an Item
 
 Dropping an item in your space or into an adjacent square is a
 free action.
 
-### Drop Prone
+#### Drop Prone
 
 Dropping to a [prone] position in your space is a free action.
 
-### Speak
+#### Speak
 
 In general, speaking is a free action that you can perform even
 when it isn't your turn. Speaking more than a few sentences is
 generally beyond the limit of a free action.
 
-## Swift Actions {#swift-actions-list}
+### Swift Actions {#swift-actions-list}
 
 A swift action consumes a very small amount of time, but
 represents a larger expenditure of effort than a free action. You
@@ -1357,7 +1359,7 @@ to take a free action. Swift actions usually involve
 spellcasting, activating a feat, or the activation of magic
 items.
 
-### Cast a Quickened Spell {#cast-a-quickened-spell-swift-action}
+#### Cast a Quickened Spell {#cast-a-quickened-spell-swift-action}
 
 You can cast a quickened spell (see the Quicken Spell feat), or
 any spell whose casting time is designated as a free or swift
@@ -1366,7 +1368,7 @@ round, and such spells don't count toward your normal limit of
 one spell per round. Casting a spell as a swift action doesn't
 incur an attack of opportunity.
 
-## Immediate Actions {#immediate-actions-list}
+### Immediate Actions {#immediate-actions-list}
 
 Much like a swift action, an immediate action consumes a very
 small amount of time but represents a larger expenditure of
@@ -1384,12 +1386,12 @@ before your turn is equivalent to using your swift action for the
 coming turn). You also cannot use an immediate action if you are
 [flat-footed].
 
-## Miscellaneous Actions {#miscellaneous-actions-list}
+### Miscellaneous Actions {#miscellaneous-actions-list}
 
 The following actions take a variable amount of time to
 accomplish or otherwise work differently than other actions.
 
-### Take 5-Foot Step
+#### Take 5-Foot Step
 
 You can move 5 feet in any round when you don't perform any other
 kind of movement. Taking this 5-foot step never provokes an
@@ -1408,7 +1410,7 @@ requires a move action for such a slow creature.
 You may not take a 5-foot step using a form of movement for which
 you do not have a listed speed.
 
-### Use Feat
+#### Use Feat
 
 Certain feats let you take special actions in combat. Other feats
 do not require actions themselves, but they give you a bonus when
@@ -1416,7 +1418,7 @@ attempting something you can already do. Some feats are not meant
 to be used within the framework of combat. The individual feat
 descriptions tell you what you need to know about them.
 
-### Use Skill
+#### Use Skill
 
 Most skill uses are standard actions, but some might be move
 actions, full-round actions, free actions, or something else
@@ -1425,13 +1427,13 @@ entirely.
 The individual skill descriptions in [Using Skills] tell you what
 sorts of actions are required to perform skills.
 
-# Injury and Death
+## Injury and Death
 
 Your hit points measure how hard you are to kill. No matter how
 many hit points you lose, your character isn't hindered in any
 way until your hit points drop to 0 or lower.
 
-## Loss of Hit Points
+### Loss of Hit Points
 
 The most common way that your character gets hurt is to take
 lethal damage and lose hit points.
@@ -1462,7 +1464,7 @@ from multiple attacks, no one of which dealt more than half your
 total hit points (minimum 50), the massive damage rule does not
 apply.
 
-## Disabled (0 Hit Points) {#disabled}
+### Disabled (0 Hit Points) {#disabled}
 
 When your current hit point total drops to exactly 0, you are
 disabled.
@@ -1483,7 +1485,7 @@ You can also become disabled when recovering from [dying]. In
 this case, it's a step toward recovery, and you can have fewer
 than 0 hit points (see [Stable] Characters and Recovery).
 
-## Dying (Negative Hit Points) {#dying}
+### Dying (Negative Hit Points) {#dying}
 
 If your hit point total is negative, but not equal to or greater
 than your [Constitution] score, you're dying.
@@ -1494,7 +1496,7 @@ actions.
 A dying character loses 1 hit point every round. This continues
 until the character dies or becomes [stable].
 
-## Dead {#dead-status}
+### Dead {#dead-status}
 
 When your character's current hit points drop to a negative
 amount equal to his [Constitution] score or lower, or if he
@@ -1506,7 +1508,7 @@ Certain types of powerful magic, such as *raise dead* and
 *resurrection*, can restore life to a dead character. See [Magic]
 for more information.
 
-## Stable Characters and Recovery
+### Stable Characters and Recovery
 
 On the character's next turn, after being reduced to negative hit
 points (but not dead), and on all subsequent turns, the character
@@ -1570,7 +1572,7 @@ character to become [unconscious].  Once a character makes this
 check, he continues to heal naturally and is no longer in danger
 of losing hit points naturally.
 
-## Healing
+### Healing
 
 After taking damage, you can recover hit points through natural
 healing or through magical healing. In any case, you can't regain
@@ -1596,7 +1598,7 @@ the rate of 1 point per night of rest (8 hours) for each affected
 ability score. Complete bed rest restores 2 points per day (24
 hours) for each affected ability score.
 
-## Temporary Hit Points
+### Temporary Hit Points
 
 Certain effects give a character temporary hit points. These hit
 points are in addition to the character's current hit point total
@@ -1618,7 +1620,7 @@ increase), but these are not temporary hit points. They can be
 restored, and they are not lost first as temporary hit points
 are.
 
-## Nonlethal Damage {#nonlethal-damage-description}
+### Nonlethal Damage {#nonlethal-damage-description}
 
 Nonlethal damage represents harm to a character that is not
 life-threatening. Unlike normal damage, nonlethal damage is
@@ -1667,13 +1669,13 @@ rate of 1 hit point per hour per character level. When a spell or
 ability cures hit point damage, it also removes an equal amount
 of nonlethal damage.
 
-# Movement, Position, And Distance
+## Movement, Position, And Distance
 
 Miniatures are on the 30mm scale—a miniature of a 6-foot-tall man
 is approximately 30mm tall. A square on the battle grid is 1 inch
 across, representing a 5-foot-by-5-foot area.
 
-## Tactical Movement
+### Tactical Movement
 
   Race                             No Armor or Light Armor   Medium or Heavy Armor
   -------------------------------- ------------------------- -----------------------
@@ -1689,7 +1691,7 @@ speed.
 
 **Encumbrance**: A character encumbered by carrying treasure. a
 large amount of gear, or fallen comrades may move slower than
-normal ).
+normal.
 
 **Hampered Movement**: Difficult terrain, obstacles, or poor
 visibility can hamper movement.
@@ -1716,7 +1718,7 @@ adjusting the character's speed based on armor or encumbrance,
 and remember that multiple bonuses of the same type to a
 character's speed don't stack.
 
-## Measuring Distance
+### Measuring Distance
 
 As a general rule, distance is measured assuming that 1 square
 equals 5 feet.
@@ -1736,7 +1738,7 @@ closest square or creature to a location, if two squares or
 creatures are equally close, randomly determine which one counts
 as closest by rolling a die.
 
-## Moving Through a Square
+### Moving Through a Square
 
 You can move through an unoccupied square without difficulty in
 most circumstances. Difficult terrain and a number of spell
@@ -1782,7 +1784,7 @@ A creature that completely fills the squares it occupies cannot
 be moved past, even with the Acrobatics skill or similar special
 abilities.
 
-## Terrain and Obstacles
+### Terrain and Obstacles
 
 From tangled plants to broken stone, there are a number of
 terrain features that can affect your movement.
@@ -1839,7 +1841,7 @@ while using Escape Artist to squeeze through or into a narrow
 space, you take a –4 penalty to [AC], and you lose any
 [Dexterity] bonus to [AC].
 
-## Special Movement Rules
+### Special Movement Rules
 
 These rules cover special movement situations.
 
@@ -1882,7 +1884,7 @@ worth of movement (or 4 squares). The ogre cannot cut across the
 corner to get to that location, and must fully move around it, as
 indicated.
 
-# Big And Little Creatures In Combat
+## Big And Little Creatures In Combat
   {#big-and-little-creatures-in-combat-146}
 
 Table: Creature Size and Scale
@@ -2011,7 +2013,7 @@ Large or larger creatures using reach weapons can strike up to
 double their natural reach but can't strike at their natural
 reach or less.
 
-# Combat Modifiers
+## Combat Modifiers
 
 Table: Attack Roll Modifiers
 
@@ -2173,7 +2175,7 @@ A number of factors and conditions can influence an attack roll.
 Many of these situations grant a bonus or penalty on attack rolls
 or to a defender's [Armor Class].
 
-## Cover
+### Cover
 
 To determine whether your target has cover from your ranged
 attack, choose a corner of your square. If any line from this
@@ -2257,7 +2259,7 @@ has cover.\ \#4: The sorcerer attacks at range as well, but her
 lines reveal that she can clearly see more than half of the
 ogre. This gives the ogre partial cover.
 
-## Concealment
+### Concealment
 
 To determine whether your target has concealment from your ranged
 attack, choose a corner of your square. If any line from this
@@ -2313,7 +2315,7 @@ to figure out where you are from other visual or auditory clues).
 provide more or less than typical concealment, and modify the
 miss chance accordingly.
 
-## Flanking
+### Flanking
 
 When making a melee attack, you get a +2 flanking bonus if your
 opponent is threatened by another enemy character or creature on
@@ -2348,7 +2350,7 @@ a line between them that passes through opposite sides of the
 sorcerer's square. If the ogre didn't have reach to the sorcerer,
 though, he and the goblin would not be flanking her.
 
-## Helpless Defenders
+### Helpless Defenders
 
 A helpless opponent is someone who is bound, sleeping,
 [paralyzed], [unconscious], or otherwise at your mercy.
@@ -2381,7 +2383,7 @@ consecutive full-round actions (one to “find” the creature once
 you've determined what square it's in, and one to deliver the
 coup de grace).
 
-# Special Attacks
+## Special Attacks
 
 This section discusses all of the various standard maneuvers you
 can perform during combat other than normal attacks, casting
@@ -2389,7 +2391,7 @@ spells, or using other class abilities. Some of these special
 attacks can be made as part of another action (such as an attack)
 or as a attack of opportunity.
 
-## Aid Another
+### Aid Another
 
 In melee combat, you can help a friend attack or defend by
 distracting or interfering with an opponent. If you're in
@@ -2406,7 +2408,7 @@ You can also use this standard action to help a friend in other
 ways, such as when he is affected by a spell, or to assist
 another character's skill check.
 
-## Charge
+### Charge
 
 Charging is a special full-round action that allows you to move
 up to twice your speed and attack during the action. Charging,
@@ -2458,7 +2460,7 @@ employed by a mounted character in a charge.
 weapons with the brace feature deal double damage when readied
 (set) and used against a charging character.
 
-## Combat Maneuvers
+### Combat Maneuvers
 
 During combat, you can attempt to perform a number of maneuvers
 that can hinder or even cripple your foe, including bull rush,
@@ -2534,7 +2536,7 @@ target's CMD. Rolling a natural 20 while attempting a combat
 maneuver is always a success (except when attempting to escape
 from bonds), while rolling a natural 1 is always a failure.
 
-### Bull Rush
+#### Bull Rush
 
 You can make a bull rush as a standard action or as part of a
 charge, in place of the melee attack. You can only bull rush an
@@ -2568,7 +2570,7 @@ reveals that he can push the second goblin a total of 20 feet, he
 can continue to push both goblins another 10 feet (since the
 first goblin will have moved a total of 15 feet).
 
-### Disarm
+#### Disarm
 
 You can attempt to disarm your opponent in place of a melee
 attack. If you do not have the [Improved Disarm] feat, or a
@@ -2586,7 +2588,7 @@ were using to attempt the disarm. If you successfully disarm your
 opponent without using a weapon, you may automatically pick up
 the item dropped.
 
-### Grapple
+#### Grapple
 
 As a standard action, you can attempt to grapple a foe, hindering
 his combat options. If you do not have [Improved Grapple], grab,
@@ -2665,7 +2667,7 @@ free from a grapple, with each creature that assists (using the
 Aid Another action) granting a +2 bonus on the [grappled]
 creature's combat maneuver check.
 
-### Overrun
+#### Overrun
 
 As a standard action, taken during your move or as part of a
 charge, you can attempt to overrun your target, moving through
@@ -2688,7 +2690,7 @@ is knocked [prone]. If the target has more than two legs, add +2
 to the DC of the combat maneuver attack roll for each additional
 leg it has.
 
-### Sunder
+#### Sunder
 
 You can attempt to sunder an item held or worn by your opponent
 as part of an attack action in place of a melee attack. If you do
@@ -2705,7 +2707,7 @@ hit points, you can choose to destroy it. If you do not choose to
 destroy it, the object is left with only 1 hit point and the
 broken condition.
 
-### Trip
+#### Trip
 
 You can attempt to trip your opponent in place of a melee attack.
 You can only trip an opponent who is no more than one size
@@ -2720,7 +2722,7 @@ the DC of the combat maneuver attack roll for each additional leg
 it has. Some creatures—such as oozes, creatures without legs, and
 flying creatures—cannot be tripped.
 
-## Feint
+### Feint
 
 Feinting is a standard action. To feint, make a Bluff skill
 check. The DC of this check is equal to 10 + your opponent's base
@@ -2740,7 +2742,7 @@ opportunity.
 **Feinting as a Move Action**: With the Improved Feint feat, you
 can attempt a feint as a move action.
 
-## Mounted Combat
+### Mounted Combat
 
 These rules cover being mounted on a horse in combat but can also
 be applied to more unusual steeds, such as a griffon or dragon.
@@ -2806,7 +2808,7 @@ have a 50% chance to stay in the saddle (75% if you're in a
 military saddle).  Otherwise you fall and take 1d6 points of
 damage. Without you to guide it, your mount avoids combat.
 
-## Throw Splash Weapon
+### Throw Splash Weapon
 
 A splash weapon is a ranged weapon that breaks on impact,
 splashing or scattering its contents over its target and nearby
@@ -2838,7 +2840,7 @@ increment of the throw. After you determine where the weapon
 landed, it deals splash damage to all creatures in that square
 and in all adjacent squares.
 
-## Two-Weapon Fighting
+### Two-Weapon Fighting
 
 If you wield a second weapon in your off hand, you can get one
 extra attack per round with that weapon. You suffer a –6 penalty
@@ -2872,12 +2874,12 @@ a one-handed weapon.
 
   : Table: Two-Weapon Fighting Penalties
 
-# Special Initiative Actions
+## Special Initiative Actions
 
 Here are ways to change when you act during combat by altering
 your place in the initiative order.
 
-## Delay
+### Delay
 
 By choosing to delay, you take no action and then act normally on
 whatever initiative count you decide to act. When you delay, you
@@ -2903,7 +2905,7 @@ regular turn comes up, your initiative count rises to that new
 point in the order of battle, and you do not get your regular
 action that round.
 
-## Ready
+### Ready
 
 The ready action lets you prepare to take an action later, after
 your turn is over but before your next one has begun. Readying is

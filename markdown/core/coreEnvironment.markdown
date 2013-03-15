@@ -1,4 +1,6 @@
-# Dungeons
+# Environments
+
+## Dungeons
 
 Of all the strange places that an adventurer might explore, none
 is deadlier than the dungeon. These labyrinths, full of deadly
@@ -6,7 +8,7 @@ traps, hungry monsters, and priceless treasure, test every skill
 a character possesses. These rules can apply to dungeons of any
 type, from the wreck of a sunken ship to a vast cave complex.
 
-## Types of Dungeons
+### Types of Dungeons
 
 The four basic dungeon types are defined by their current status.
 Many dungeons are variations on these basic types or combinations
@@ -86,12 +88,12 @@ environment. A natural cavern complex joined with another dungeon
 often provides a route by which subterranean creatures find their
 way into a manufactured dungeon and populate it.
 
-## Dungeon Terrain
+### Dungeon Terrain
 
 The following rules cover the basics of terrain that can be found
 in a dungeon.
 
-### Walls
+#### Walls
 
 Masonry walls—stones piled on top of each other, usually but not
 always held in place with mortar—often divide dungeons into
@@ -297,7 +299,7 @@ behind arrow slits have improved cover that gives them a +8 bonus
 to [Armor Class], a +4 bonus on [Reflex] saves, and the benefits
 of the improved evasion class feature.
 
-### Floors
+#### Floors
 
 As with walls, dungeon floors come in many types.
 
@@ -398,7 +400,7 @@ holes, or the entire floor tilts. These strange floors are
 sometimes found in arenas, designed to make combats more exciting
 and deadly. Construct these floors as you would any other trap.
 
-### Doors
+#### Doors
 
 Doors in dungeons are much more than mere entrances and exits.
 Often they can be encounters all by themselves. Dungeon doors
@@ -708,7 +710,7 @@ Once it is dropped, a portcullis locks, unless it is so large
 that no normal person could lift it anyway. In any event, lifting
 a typical portcullis requires a DC 25 Strength check.
 
-### Walls, Doors, and Detect Spells
+#### Walls, Doors, and Detect Spells
 
 Stone walls, iron walls, and iron doors are usually thick enough
 to block most detect spells, such as *detect thoughts.*Wooden
@@ -716,7 +718,7 @@ walls, wooden doors, and stone doors are usually not thick enough
 to do so. A secret stone door built into a wall and as thick as
 the wall itself (at least 1 foot) does block most detect spells.
 
-### Stairs
+#### Stairs
 
 Stairs are the most common means of traveling up and down within
 a dungeon. A character can move up or down stairs as part of
@@ -725,7 +727,7 @@ Increase the DC of any Acrobatics skill check made on stairs by
 4. Some stairs are particularly steep and are treated as
 difficult terrain.
 
-### Cave-Ins and Collapses (CR 8) {#cave-ins-and-collapses}
+#### Cave-Ins and Collapses (CR 8) {#cave-ins-and-collapses}
 
 Cave-ins and collapsing tunnels are extremely dangerous. Not only
 do dungeon explorers face the danger of being crushed by tons of
@@ -766,7 +768,7 @@ crowbar, or shovel, a digger can clear loose stone twice as
 quickly as by hand. A buried character can attempt to free
 himself with a DC 25 Strength check.
 
-### Slimes, Molds, and Fungi
+#### Slimes, Molds, and Fungi
 
 In a dungeon's damp, dark recesses, molds and fungi thrive. For
 purposes of spells and other special effects, all slimes, molds,
@@ -832,20 +834,20 @@ is required once per round for the next 5 rounds, to avoid taking
 [Fortitude] save ends this effect. Fire destroys yellow mold, and
 sunlight renders it dormant.
 
-# Traps
+## Traps
 
 Traps are a common danger in dungeon environments. From gouts of
 white-hot flame to hails of poisoned darts, traps can serve to
 protect valuable treasure or stop intruders from proceeding.
 
-## Elements of a Trap
+### Elements of a Trap
 
 All traps—mechanical or magical—have the following elements: CR,
 type, Perception DC, Disable Device DC, trigger, reset, and
 effect. Some traps might also include optional elements, such as
 poison or a bypass. These characteristics are described below.
 
-### Type
+#### Type
 
 A trap can be either mechanical or magical in nature.
 
@@ -892,7 +894,7 @@ character who can cast the needed spell or spells, who is usually
 either the character creating the trap or an NPC spellcaster
 hired for that purpose.
 
-### Perception and Disable Device DCs
+#### Perception and Disable Device DCs
 
 The builder sets the Perception and Disable Device DCs for a
 mechanical trap. For a magic trap, the values depend on the
@@ -907,7 +909,7 @@ checks is equal to 25 + the spell level of the highest-level
 spell used. Only characters with the trapfinding class feature
 can attempt a Disable Device check involving a magic trap.
 
-### Trigger
+#### Trigger
 
 A trap's trigger determines how it is sprung.
 
@@ -975,7 +977,7 @@ certain duration has passed.
 appropriate spell descriptions explain the trigger conditions for
 traps that contain spell triggers.
 
-### Duration
+#### Duration
 
 Unless otherwise stated, most traps have a duration of
 instantaneous; once triggered, they have their effect and then
@@ -984,7 +986,7 @@ Such traps continue to have their listed effect each round at the
 top of the initiative order (or whenever they were activated, if
 they were triggered during combat).
 
-### Reset
+#### Reset
 
 A reset element is the set of conditions under which a trap
 becomes ready to trigger again. Resetting a trap usually takes
@@ -1010,7 +1012,7 @@ mechanical traps have.
 **Automatic**: The trap resets itself, either immediately or
 after a timed interval.
 
-### Bypass (Optional Element) {#bypass}
+#### Bypass (Optional Element) {#bypass}
 
 If the builder of a trap wants to be able to move past the trap
 after it is created or placed, it's a good idea to build in a
@@ -1029,7 +1031,7 @@ check to locate.
 requiring a DC 25 Perception check to locate and a DC 30 Disable
 Device check to open.
 
-### Effect
+#### Effect
 
 The effect of a trap is what happens to those who spring it. This
 often takes the form of either damage or a spell effect, but some
@@ -1126,7 +1128,7 @@ special effects, such as drowning for a water trap or ability
 damage for poison. Saving throws and damage depend on the poison
 or are set by the builder, as appropriate.
 
-### Miscellaneous Trap Features
+#### Miscellaneous Trap Features
 
 Some traps include optional features that can make them
 considerably more deadly. The most common features are discussed
@@ -1186,7 +1188,7 @@ significant impact, such as a falling character.
 **Touch Attack**: This feature applies to any trap that needs
 only a successful touch attack (melee or ranged) to hit.
 
-# Sample Traps
+## Sample Traps
 
 The following sample traps represent just some of the
 possibilities when constructing traps to challenge the player
@@ -1591,7 +1593,7 @@ apart)
 **Effect**spell effect (heightened *destruction,*190 damage, DC
 23 [Fortitude] save reduces damage to 10d6)
 
-## Designing a Trap
+### Designing a Trap
 
 Designing new traps is a simple process. Start by deciding what
 type of trap you want to create.
@@ -1880,7 +1882,7 @@ Wondrous Item] feat. In addition, he must be able to cast the
 spell or spells that the trap requires—or he must be able to hire
 an NPC to cast the spells for him.
 
-### Challenge Rating of a Trap
+#### Challenge Rating of a Trap
 
 To calculate the Challenge Rating of a trap, add all the CR
 modifiers (see Table: CR Modifiers for Mechanical Traps or CR
@@ -1924,7 +1926,7 @@ sprung.
 independently (they do not depend on one another to activate),
 characters only earn XP for traps that they defeat.
 
-### Mechanical Trap Cost
+#### Mechanical Trap Cost
 
 The cost of a mechanical trap is 1,000 gp × the trap's Challenge
 Rating. If the trap uses spells in its trigger or reset, add
@@ -1946,7 +1948,7 @@ traps, determine the final cost of each separately, then add
 those values together. This holds for both multiple dependent and
 multiple independent traps.
 
-### Magic Device Trap Cost
+#### Magic Device Trap Cost
 
 Building a magic device trap involves the expenditure of gp and
 requires the services of a spellcaster. Table: Cost Modifiers for
@@ -1965,12 +1967,12 @@ costs must be factored in as well (see [Equipment]).
 A magic device trap takes 1 day to construct per 500 gp of its
 cost.
 
-### Spell Trap Cost
+#### Spell Trap Cost
 
 A spell trap has a cost only if the builder must hire an NPC
 spellcaster to cast it.
 
-### Craft DCs for Mechanical Traps
+#### Craft DCs for Mechanical Traps
 
 Once you know the Challenge Rating of a trap, determine the Craft
 (traps) DC by referring to the values and modifiers given on
@@ -1981,7 +1983,7 @@ makes on building a trap each week, that character makes a Craft
 (traps) check. See the Craft skill description for details on
 Craft checks and the circumstances that can affect them.
 
-# Wilderness
+## Wilderness
 
 Outside the safety of city walls, the wilderness is a dangerous
 place, and many adventurers have gotten lost in its trackless
@@ -1989,7 +1991,7 @@ wilds or fallen victim to deadly weather. The following rules
 give you guidelines on running adventures in a wilderness
 setting.
 
-## Getting Lost
+### Getting Lost
 
 There are many ways to get lost in the wilderness. Following an
 obvious road, trail, or feature such as a stream or shoreline
@@ -2113,7 +2115,7 @@ improve—the fog lifts or the sun comes up—lost characters may
 attempt to set a new course, as described above, with a +4 bonus
 on the Survival check.
 
-## Forest Terrain
+### Forest Terrain
 
 Forest terrain can be divided into three categories: sparse,
 medium, and dense. An immense forest could have all three
@@ -2224,7 +2226,7 @@ The background noise in the forest makes Perception checks that
 rely on sound more difficult, increasing the DC of the check by 2
 per 10 feet, not 1.
 
-### Forest Fires (CR 6) {#forest-fires}
+#### Forest Fires (CR 6) {#forest-fires}
 
 Most campfire sparks ignite nothing, but if conditions are dry,
 winds are strong, or the forest floor is dried out and flammable,
@@ -2280,7 +2282,7 @@ spend that round choking and coughing. A character who chokes for
 2 consecutive rounds takes 1d6 points of nonlethal damage. Smoke
 also provides concealment to characters within it.
 
-## Marsh Terrain
+### Marsh Terrain
 
 Two categories of marsh exist: relatively dry moors and watery
 swamps. Both are often bordered by lakes (described in Aquatic
@@ -2399,7 +2401,7 @@ distance is 2d8 × 10 feet.
 Undergrowth and deep bogs provide plentiful concealment, so it's
 easy to use Stealth in a marsh.
 
-## Hills Terrain
+### Hills Terrain
 
 A hill can exist in most other types of terrain, but hills can
 also dominate the landscape. Hills terrain is divided into two
@@ -2478,7 +2480,7 @@ Hiding in hills terrain can be difficult if there isn't
 undergrowth around. A hilltop or ridge provides enough cover to
 hide from anyone below the hilltop or ridge.
 
-## Mountain Terrain
+### Mountain Terrain
 
 The three mountain terrain categories are alpine meadows, rugged
 mountains, and forbidding mountains. As characters ascend into a
@@ -2620,7 +2622,7 @@ It's easier to hear faraway sounds in the mountains. The DC of
 Perception checks that rely on sound increase by 1 per 20 feet
 between listener and source, not per 10 feet.
 
-### Avalanches (CR 7) {#avalanches}
+#### Avalanches (CR 7) {#avalanches}
 
 The combination of high peaks and heavy snowfalls means that
 avalanches are a deadly peril in many mountainous areas. While
@@ -2669,7 +2671,7 @@ the party's location. Avalanches of snow and ice advance at a
 speed of 500 feet per round, while rock and soil avalanches
 travel at a speed of 250 feet per round.
 
-### Mountain Travel
+#### Mountain Travel
 
 High altitude travel can be extremely fatiguing—and sometimes
 deadly—to creatures that aren't used to it. Cold becomes extreme,
@@ -2718,7 +2720,7 @@ competence bonus on their saving throws to resist high altitude
 effects and altitude sickness, but eventually even seasoned
 mountaineers must abandon these dangerous elevations.
 
-## Desert Terrain
+### Desert Terrain
 
 Desert terrain exists in warm, temperate, and cold climates, but
 all deserts share one common trait: little rain. The three
@@ -2832,7 +2834,7 @@ presence of dunes in sandy deserts limits spotting distance to
 6d6 × 10 feet. The scarcity of undergrowth or other elements that
 offer concealment or cover makes using Stealth more difficult.
 
-### Sandstorms
+#### Sandstorms
 
 A sandstorm reduces visibility to 1d10 × 5 feet and provides a –4
 penalty on Perception checks. A sandstorm deals 1d3 points of
@@ -2841,7 +2843,7 @@ and leaves a thin coating of sand in its wake. Driving sand
 creeps in through all but the most secure seals and seams,
 chafing skin and contaminating carried gear.
 
-## Plains Terrain
+### Plains Terrain
 
 Plains come in three categories: farms, grasslands, and
 battlefields. Farms are common in settled areas, while grasslands
@@ -2958,7 +2960,7 @@ the specifics of your map might restrict line of sight. Cover and
 concealment are not uncommon, so a good place of refuge is often
 nearby, if not right at hand.
 
-## Aquatic Terrain {#aquatic-terrain-103}
+### Aquatic Terrain {#aquatic-terrain-103}
 
 Aquatic terrain is the least hospitable to most PCs, because they
 can't breathe there. Aquatic terrain doesn't offer the variety
@@ -3016,7 +3018,7 @@ leaves a visible, body-shaped “bubble” where the water was
 displaced. The creature still has concealment (20% miss chance),
 but not total concealment (50% miss chance).
 
-### Underwater Combat
+#### Underwater Combat
 
 Land-based creatures can have considerable difficulty when
 fighting in water. Water affects a creature's attack rolls,
@@ -3148,7 +3150,7 @@ underwater). Creatures that can breathe water are unaffected and
 can cast spells normally. Some spells might function differently
 underwater, subject to GM discretion.
 
-### Floods
+#### Floods
 
 In many wilderness areas, river floods are a common occurrence.
 
@@ -3165,7 +3167,7 @@ river in flood makes Swim checks one category harder (calm water
 becomes rough, and rough water becomes stormy). Rivers also
 become 50% swifter.
 
-# Urban Adventures
+## Urban Adventures
 
 At first glance, a city is much like a dungeon, made up of walls,
 doors, rooms, and corridors. Adventures that take place in cities
@@ -3214,13 +3216,13 @@ isn't hampered at all by a law about peace-bonding weapons, but a
 cleric is reduced to a fraction of his power if all holy symbols
 are confiscated at the city's gates.
 
-## Urban Features
+### Urban Features
 
 Walls, doors, poor lighting, and uneven footing: in many ways a
 city is much like a dungeon. Some special considerations for an
 urban setting are covered below.
 
-### Walls and Gates
+#### Walls and Gates
 
 Many cities are surrounded by walls. A typical small city wall is
 a fortified stone wall 5 feet thick and 20 feet high. Such a wall
@@ -3279,7 +3281,7 @@ staffed by guards who will open it for someone who seems honest,
 presents proper papers, or offers a large enough bribe (depending
 on the city and the guards).
 
-### Guards and Soldiers
+#### Guards and Soldiers
 
 A city typically has full-time military personnel equal to 1% of
 its adult population, in addition to militia or conscript
@@ -3304,7 +3306,7 @@ The majority of a city guard force is made up of warriors, mostly
 fair number of clerics, and wizards or sorcerers, as well as
 multiclass fighter/spellcasters.
 
-### Siege Engines
+#### Siege Engines
 
 Siege engines are large weapons, temporary structures, or pieces
 of equipment traditionally used in besieging castles or
@@ -3488,7 +3490,7 @@ siege tower can't run). The eight creatures pushing on the ground
 floor have total cover, and those on higher floors get improved
 cover and can fire through arrow slits.
 
-### City Streets
+#### City Streets
 
 Typical city streets are narrow and twisting. Most streets
 average 15 to 20 feet wide, while alleys range from 10 feet wide
@@ -3529,7 +3531,7 @@ checks to determine to whom the crowd listens. The crowd ignores
 everyone if none of the characters' check results beat the DCs
 given above.
 
-### Above and Beneath the Streets
+#### Above and Beneath the Streets
 
 **Rooftops**: Getting to a roof usually requires climbing a
 [wall], unless the character can reach a roof by jumping down
@@ -3559,7 +3561,7 @@ encountered therein. Some cities were built atop the ruins of
 older civilizations, so their sewers sometimes lead to treasures
 and dangers from a bygone age.
 
-### City Buildings
+#### City Buildings
 
 Most city buildings fall into three categories. The majority of
 buildings in the city are two to five stories high, built
@@ -3586,7 +3588,7 @@ and a Climb DC of 25. Upper-story walls are 6 inches thick, with
 on most buildings are good wooden doors that are usually kept
 locked, except on public buildings such as shops and taverns.
 
-### City Lights
+#### City Lights
 
 If a city has main thoroughfares, they are lined with lanterns
 hanging at a height of 7 feet from building awnings. These
@@ -3600,7 +3602,7 @@ of the tall buildings that surround them. A dark alley in
 daylight is rarely dark enough to afford true concealment, but it
 can lend a +2 circumstance bonus on Stealth checks.
 
-# Weather
+## Weather
 
 Weather can play an important role in an adventure.
 
@@ -4004,7 +4006,7 @@ average of 30 mph (roughly 250 feet per round). A tornado uproots
 trees, destroys buildings, and causes similar forms of major
 destruction.
 
-# The Planes
+## The Planes
 
 While endless adventure awaits out in the game—there are other
 worlds beyond these—other continents, other planets, other
@@ -4125,7 +4127,7 @@ Ethereal Plane, some are cut off entirely from the transitive
 planes and can only be accessed by well-hidden portals or obscure
 magic spells.
 
-## Layered Planes
+### Layered Planes
 
 Infinities may be broken into smaller infinities, and planes into
 smaller, related planes. These layers are effectively separate
@@ -4141,7 +4143,7 @@ makes it the gateway for other layers of the plane. The *plane
 shift* spell generally deposits the spellcaster on the first
 layer of the plane.
 
-## How Planes Interact
+### How Planes Interact
 
 Two planes that are separate do not overlap or directly connect
 to each other. They are like planets in different orbits. The
@@ -4159,13 +4161,13 @@ from anywhere on the plane it overlaps. When moving on a
 coexistent plane, it is often possible to see into or interact
 with the plane with which it coexists.
 
-# Environmental Rules
+## Environmental Rules
 
 Environmental hazards specific to one kind of terrain are
 described in the [Wilderness] section. Environmental hazards
 common to more than one setting are detailed below.
 
-## Acid Effects
+### Acid Effects
 
 Corrosive acids deals 1d6 points of damage per round of exposure
 except in the case of total immersion (such as in a vat of acid),
@@ -4182,7 +4184,7 @@ it moves away from the acid.
 Creatures immune to acid's caustic properties might still drown
 in it if they are totally immersed (see Drowning).
 
-## Cold Dangers
+### Cold Dangers
 
 Cold and exposure deal nonlethal damage to the victim. A
 character cannot recover from the damage dealt by a cold
@@ -4217,14 +4219,14 @@ minute (no save). In addition, a character must make a
 [Fortitude] save (DC 15, +1 per previous check) or take 1d4
 points of nonlethal damage.
 
-### Ice Effects
+#### Ice Effects
 
 Characters walking on ice must spend 2 squares of movement to
 enter a square covered by ice, and the DC for Acrobatics checks
 increases by +5. Characters in prolonged contact with ice might
 run the risk of taking damage from severe cold.
 
-## Darkness
+### Darkness
 
 Darkvision allows many characters and monsters to see perfectly
 well without any light at all, but characters with normal or
@@ -4297,7 +4299,7 @@ the foe, but not his location).
 A creature with the scent ability automatically pinpoints unseen
 creatures within 5 feet of its location.
 
-## Falling
+### Falling
 
 Creatures that fall take 1d6 points of damage per 10 feet fallen,
 to a maximum of 20d6. Creatures that take lethal damage from a
@@ -4341,7 +4343,7 @@ the water is at least 10 feet deep for every 30 feet fallen. The
 DC of the check, however, increases by 5 for every 50 feet of the
 dive.
 
-## Falling Objects
+### Falling Objects
 
   Object Size   Damage
   ------------- --------
@@ -4377,7 +4379,7 @@ creature can make a DC 15 [Reflex] save to halve the damage if he
 is aware of the object. Falling objects that are part of a trap
 use the trap rules instead of these general guidelines.
 
-## Heat Dangers
+### Heat Dangers
 
 Heat deals nonlethal damage that cannot be recovered from until
 the character gets cooled off (reaches shade, survives until
@@ -4424,7 +4426,7 @@ Boiling water deals 1d6 points of scalding damage, unless the
 character is fully immersed, in which case it deals 10d6 points
 of damage per round of exposure.
 
-### Catching on Fire
+#### Catching on Fire
 
 Characters exposed to burning oil, bonfires, and
 non-instantaneous magic fires might find their clothes, hair, or
@@ -4451,7 +4453,7 @@ Those whose clothes or equipment catch fire must make DC 15
 [Reflex] saves for each item. Flammable items that fail take the
 same amount of damage as the character.
 
-### Lava Effects
+#### Lava Effects
 
 Lava or magma deals 2d6 points of fire damage per round of
 exposure, except in the case of total immersion (such as when a
@@ -4465,7 +4467,7 @@ or resistance to fire serves as an immunity or resistance to
 fire, lava or magma. A creature immune to fire might still drown
 if completely immersed in lava (see Drowning).
 
-## Smoke Effects
+### Smoke Effects
 
 A character who breathes heavy smoke must make a [Fortitude] save
 each round (DC 15, +1 per previous check) or spend that round
@@ -4474,7 +4476,7 @@ rounds takes 1d6 points of nonlethal damage. Smoke obscures
 vision, giving concealment (20% miss chance) to characters within
 it.
 
-## Starvation and Thirst
+### Starvation and Thirst
 
 Characters might find themselves without food or water and with
 no means to obtain them. In normal climates, Medium characters
@@ -4502,7 +4504,7 @@ water are [fatigued]. Nonlethal damage from thirst or starvation
 cannot be recovered until the character gets food or water, as
 needed—not even magic that restores hit points heals this damage.
 
-## Suffocation
+### Suffocation
 
 A character who has no air to breathe can hold her breath for 2
 rounds per point of [Constitution]. If a character takes a
@@ -4528,7 +4530,7 @@ accumulation of nonlethal damage, the character begins to take
 lethal damage at the same rate. Small characters consume half as
 much air as Medium characters.
 
-## Water Dangers
+### Water Dangers
 
 Any character can wade in relatively calm water that isn't over
 his head, no check required. Similarly, swimming in calm water
@@ -4551,7 +4553,7 @@ previous check) means the diver takes no damage in that
 minute. Very cold water deals 1d6 points of nonlethal damage from
 hypothermia per minute of exposure.
 
-### Drowning
+#### Drowning
 
 Any character can hold her breath for a number of rounds equal to
 twice her [Constitution] score. If a character takes a standard

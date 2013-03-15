@@ -990,7 +990,7 @@ opening means that the 5-foot length of wall containing the hole
 is no longer considered a barrier for purposes of a spell's line
 of effect.
 
-### Duration
+### Spell Duration
 
 A spell's duration entry tells you how long the magical energy of
 the spell lasts.

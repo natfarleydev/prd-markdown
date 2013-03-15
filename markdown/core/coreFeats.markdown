@@ -3650,7 +3650,7 @@ You are skilled at making ranged attacks while mounted.
 while mounted is halved: –2 instead of –4 if your mount is taking
 a double move, and –4 instead of –8 if your mount is running.
 
-### Mounted Combat
+### Mounted Combat (feat)
 
 Type of Feat: Combat
 
@@ -3870,7 +3870,7 @@ movement for the round can't exceed double your mounted speed.
 You and your mount do not provoke an attack of opportunity from
 the opponent that you attack.
 
-### Run
+### Run (feat)
 
 You are swift of foot.
 
@@ -4428,7 +4428,7 @@ shield bonus to your [AC].
 When you are fighting defensively or using the total defense
 action, this shield bonus increases to +2.
 
-### Two-Weapon Fighting
+### Two-Weapon Fighting (feat)
 
 Type of Feat: Combat
 

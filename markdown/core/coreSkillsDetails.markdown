@@ -1,6 +1,6 @@
-# Acrobatics
+## Acrobatics
 
-## ([Dex]; Armor Check Penalty)
+Uses: ([Dex]; Armor Check Penalty)
 
 You can keep your balance while traversing narrow or treacherous
 surfaces. You can also dive, flip, jump, and roll to avoid
@@ -189,11 +189,9 @@ action instead of the usual +4.
 If you have the [Acrobatic] feat, you
 get a bonus on Acrobatics checks (see [Feats]).
 
-Appraise
+## Appraise
 
-# Appraise
-
-## ([Int])
+Uses: ([Int])
 
 You can evaluate the monetary value of an object.
 
@@ -221,11 +219,9 @@ same result.
 **Special**: A spellcaster with a raven familiar gains a +3 bonus
 on Appraise checks.
 
-Bluff
+## Bluff
 
-# Bluff
-
-## ([Cha])
+Uses: ([Cha])
 
 You know how to tell a lie.
 
@@ -292,11 +288,9 @@ on Bluff checks.
 If you have the [Deceitful] feat, you
 get a bonus on Bluff checks (see [Feats]).
 
-Climb
+## Climb
 
-# Climb
-
-## ([Str]; Armor Check Penalty)
+Uses: ([Str]; Armor Check Penalty)
 
 You are skilled at scaling vertical surfaces, from smooth city
 walls to rocky cliffs.
@@ -450,11 +444,9 @@ cannot, however, use the run action while climbing.
 If you have the [Athletic] feat, you get
 a bonus on Climb checks (see [Feats]).
 
-Craft
+## Craft
 
-# Craft
-
-## ([Int])
+Uses: ([Int])
 
 You are skilled in the creation of a specific group of items,
 such as armor or weapons. Like Knowledge, Perform, and
@@ -681,11 +673,9 @@ cost of any items made using the skill.
 A gnome receives a +2 bonus on a Craft or Profession skill of her
 choice.
 
-Diplomacy
+## Diplomacy
 
-# Diplomacy
-
-## ([Cha])
+Uses: ([Cha])
 
 You can use this skill to persuade others to agree with your
 arguments, to resolve differences, and to gather valuable
@@ -771,11 +761,9 @@ Diplomacy checks made to gather information.
 [Persuasive] feat, you gain a bonus on
 Diplomacy checks (see [Feats]).
 
-Disable Device
+## Disable Device
 
-# Disable Device
-
-## ([Dex]; Armor Check Penalty; Trained Only)
+Uses: ([Dex]; Armor Check Penalty; Trained Only)
 
 You are skilled at disarming traps and opening locks. In
 addition, this skill lets you sabotage simple mechanical devices,
@@ -881,11 +869,9 @@ stones,*however, create magic hazards against which Disable
 Device checks do not succeed. See the individual spell
 descriptions for details.
 
-Disguise
+## Disguise
 
-# Disguise
-
-## ([Cha])
+Uses: ([Cha])
 
 You are skilled at changing your appearance.
 
@@ -983,11 +969,9 @@ to determine how good the likeness is.
 If you have the [Deceitful] feat, you
 gain a bonus on Disguise checks (see [Feats]).
 
-Escape Artist
+## Escape Artist
 
-# Escape Artist
-
-## ([Dex]; Armor Check Penalty)
+Uses: ([Dex]; Armor Check Penalty)
 
 Your training allows you to slip out of bonds and escape from
 grapples.
@@ -1040,11 +1024,9 @@ escape from the bonds using Escape Artist.
 feat, you gain a bonus on Escape Artist checks (see
 [Feats]).
 
-Fly
+## Fly
 
-# Fly
-
-## ([Dex]; Armor Check Penalty)
+Uses: ([Dex]; Armor Check Penalty)
 
 You are skilled at flying, through either the use of wings or
 magic, and can perform daring or complex maneuvers while
@@ -1143,11 +1125,9 @@ spell or other special ability).
 If you have the [Acrobatic] feat, you
 get a bonus on Fly checks (see [Feats]).
 
-Handle Animal
+## Handle Animal
 
-# Handle Animal
-
-## ([Cha]; Trained Only)
+Uses: ([Cha]; Trained Only)
 
 You are trained at working with animals, and can teach them
 tricks, get them to follow your simple commands, or even
@@ -1339,11 +1319,9 @@ can use a [Charisma] check
 to handle and push her animal companion, but she can't teach,
 rear, or train other nondomestic animals.
 
-Heal
+## Heal
 
-# Heal
-
-## ([Wis])
+Uses: ([Wis])
 
 You are skilled at tending to wounds and ailments.
 
@@ -1438,11 +1416,9 @@ bonus on Heal checks (see [Feats]).
 
 A healer's kit gives you a +2 circumstance bonus on Heal checks.
 
-Intimidate
+## Intimidate
 
-# Intimidate
-
-## ([Cha])
+Uses: ([Cha])
 
 You can use this skill to frighten an opponent or to get them to
 act in a way that benefits you. This skill includes verbal
@@ -1487,11 +1463,9 @@ get a bonus on Intimidate checks (see [Feats]).
 
 A half-orc gets a +2 bonus on Intimidate checks.
 
-Knowledge
+## Knowledge
 
-# Knowledge
-
-## (Int; Trained Only)
+Uses: (Int; Trained Only)
 
 You are educated in a field of study and can answer both simple
 and complex questions. Like the Craft, Perform, and Profession
@@ -1584,11 +1558,9 @@ make checks using a library, however, increases to 1d4 hours.
 Particularly complete libraries might even grant a bonus on
 Knowledge checks in the fields that they cover.
 
-Linguistics
+## Linguistics
 
-# Linguistics
-
-## (Int; Trained Only)
+Uses: (Int; Trained Only)
 
 You are skilled at working with language, in both its spoken and
 written forms. You can speak multiple languages, and can decipher
@@ -1677,11 +1649,9 @@ always attempt to read archaic and strange forms of your own
 racial bonus languages. In addition, you can also always attempt
 to detect a forgery.
 
-Perception
+## Perception
 
-# Perception
-
-## ([Wis])
+Uses: ([Wis])
 
 Your senses allow you to notice fine details and alert you to
 danger. Perception covers all five senses, including sight,
@@ -1844,11 +1814,9 @@ Perception checks. If you have the
 [Alertness] feat, you get a bonus on
 Perception checks (see [Feats]).
 
-Perform
+## Perform
 
-# Perform
-
-## ([Cha])
+Uses: ([Cha])
 
 You are skilled at one form of entertainment, from singing to
 acting to playing an instrument. Like Craft, Knowledge, and
@@ -1897,11 +1865,9 @@ the past is likely to be prejudiced against future performances.
 categories to use some of his [Bardic
 Performance] abilities.
 
-Profession
+## Profession
 
-# Profession
-
-## ([Wis]; Trained Only)
+Uses: ([Wis]; Trained Only)
 
 You are skilled at a specific job. Like Craft, Knowledge, and
 Perform, Profession is actually a number of separate skills. You
@@ -1940,11 +1906,9 @@ silver piece per day.
 **Special**: A gnome gets a +2 bonus on a Craft or Profession
 skill of her choice.
 
-Ride
+## Ride
 
-# Ride
-
-## ([Dex]; Armor Check Penalty)
+Uses: ([Dex]; Armor Check Penalty)
 
 You are skilled at riding mounts, usually a horse, but possibly
 something more exotic, like a griffon or pegasus. If you attempt
@@ -2042,11 +2006,9 @@ Attack], [Spirited
 Charge], and
 [Trample].
 
-Sense Motive
+## Sense Motive
 
-# Sense Motive
-
-## ([Wis])
+Uses: ([Wis])
 
 You are skilled at detecting falsehoods and true intentions.
 
@@ -2099,11 +2061,9 @@ using this skill against a favored enemy.
 If you have the [Alertness] feat, you
 get a bonus on Sense Motive checks (see [Feats]).
 
-Sleight of Hand
+## Sleight of Hand
 
-# Sleight of Hand
-
-## ([Dex]; Armor Check Penalty; Trained Only)
+Uses: ([Dex]; Armor Check Penalty; Trained Only)
 
 Your training allows you to pick pockets, draw hidden weapons,
 and take a variety of actions without being noticed.
@@ -2172,11 +2132,9 @@ body.
 Hands] feat, you get a bonus on
 Sleight of Hand checks (see [Feats]).
 
-Spellcraft
+## Spellcraft
 
-# Spellcraft
-
-## ([Int]; Trained Only)
+Uses: ([Int]; Trained Only)
 
 You are skilled at the art of casting spells, identifying magic
 items, crafting magic items, and identifying spells as they are
@@ -2234,11 +2192,9 @@ on Spellcraft checks (see [Feats]).
 
   : Table: Spellcraft DCs
 
-Stealth
+## Stealth
 
-# Stealth
-
-## ([Dex]; Armor Check Penalty)
+Uses: ([Dex]; Armor Check Penalty)
 
 You are skilled at avoiding detection, allowing you to slip past
 foes or strike from an unseen position. This skill covers hiding
@@ -2287,11 +2243,9 @@ checks if you're moving.
 If you have the [Stealthy] feat, you get
 a bonus on Stealth checks (see [Feats]).
 
-Survival
+## Survival
 
-# Survival
-
-## ([Wis])
+Uses: ([Wis])
 
 You are skilled at surviving in the wild and at navigating in the
 wilderness. You also excel at following trails and tracks left by
@@ -2462,11 +2416,9 @@ If you have the [Self-Sufficient]
 feat, you get a bonus on Survival checks (see
 [Feats]).
 
-Swim
+## Swim
 
-# Swim
-
-## ([Str]; Armor Check Penalty)
+Uses: ([Str]; Armor Check Penalty)
 
 You know how to swim and can do so even in stormy water.
 
@@ -2531,11 +2483,9 @@ it swims in a straight line.
 If you have the [Athletic] feat, you get
 a bonus on Swim checks (see [Feats]).
 
-Use Magic Device
+## Use Magic Device
 
-# Use Magic Device
-
-## ([Cha]; Trained Only)
+Uses: ([Cha]; Trained Only)
 
 You are skilled at activating magic items, even if you are not
 otherwise trained in their use.

@@ -1,4 +1,6 @@
-# Designing Encounters
+# Game Mastering
+
+## Designing Encounters
 
 The heart of any adventure is its encounters. An encounter is any
 event that puts a specific problem before the PCs that they must
@@ -455,7 +457,7 @@ CR. Be careful awarding NPCs this extra gear, though—especially
 at high levels, where you can blow out your entire adventure's
 treasure budget in one fell swoop!
 
-## Awarding Experience
+### Awarding Experience
 
 PF Roleplaying Game characters advance in level by defeating
 monsters, overcoming challenges, and completing adventures—in so
@@ -499,7 +501,7 @@ These awards should be worth double the amount of experience
 points for a CR equal to the APL. Particularly long or difficult
 story arcs might award even more, at your discretion as GM.
 
-## Placing Treasure
+### Placing Treasure
 
 Table: Character Wealth by Level
 
@@ -813,7 +815,7 @@ Fast
 
 100,000 gp
 
-## Building a Treasure Hoard
+### Building a Treasure Hoard
 
 While it's often enough to simply tell your players they've found
 5,000 gp in gems and 10,000 gp in jewelry, it's generally more
@@ -943,7 +945,7 @@ dice to bloat your game with too much treasure or deprive it of
 the same. Random magic item placement should always be tempered
 with good common sense by the GM.
 
-# Cost of Living
+## Cost of Living
 
 An adventurer's primary source of income is treasure, and his
 primary purchases are tools and items he needs to continue
@@ -990,7 +992,7 @@ secure any nonmagical item worth 25 gp or less from his
 belongings in his home in 1d10 minutes. He need only track
 purchases of meals or taxes in excess of 100 gp.
 
-# Beyond 20th Level
+## Beyond 20th Level
 
 Although [Classes] doesn't describe what happens after 20th
 level, this isn't to say that there are no resources available to

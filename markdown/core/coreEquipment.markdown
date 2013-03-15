@@ -1,4 +1,6 @@
-# Wealth And Money
+# Equipment
+
+## Wealth And Money
 
 Each character begins play with a number of gold pieces that he
 can spend on weapons, armor, and other equipment. As a character
@@ -24,7 +26,7 @@ characters above 1st level, see Table: Character Wealth by Level.
 
   : Table: Starting Character Wealth
 
-## Coins
+### Coins
 
 The most common coin is the gold piece (gp). A gold piece is
 worth 10 silver pieces (sp). Each silver piece is worth 10 copper
@@ -43,7 +45,7 @@ pound).
 
   : Table: Coins
 
-## Other Wealth
+### Other Wealth
 
 Merchants commonly exchange trade goods without using currency.
 As a means of comparison, some trade goods are detailed on Table:
@@ -67,7 +69,7 @@ Trade Goods.
 
   : Table: Trade Goods
 
-## Selling Treasure
+### Selling Treasure
 
 In general, a character can sell something for half its listed
 price, including weapons, armor, gear, and magic items. This also
@@ -77,7 +79,7 @@ Trade goods are the exception to the half-price rule. A trade
 good, in this sense, is a valuable good that can be easily
 exchanged almost as if it were cash itself.
 
-# Weapons
+## Weapons
 
 From the common longsword to the exotic dwarven urgrosh, weapons
 come in a wide variety of shapes and sizes.
@@ -250,7 +252,7 @@ weapon scores a threat on a natural roll of 20 and deals double
 damage on a critical hit. An improvised thrown weapon has a range
 increment of 10 feet.
 
-## Weapon Qualities
+### Weapon Qualities
 
 Here is the format for weapon entries (given as column headings
 on Table: Weapons).
@@ -371,7 +373,7 @@ but you can't use it against an adjacent foe.
 are tripped during your own trip attempt, you can drop the weapon
 to avoid being tripped.
 
-## Weapon Descriptions
+### Weapon Descriptions
 
 Table: Weapons
 
@@ -2453,7 +2455,7 @@ You can use the [Weapon Finesse] feat to apply your [Dexterity]
 modifier instead of your [Strength] modifier to attack rolls with
 a whip sized for you, even though it isn't a light weapon.
 
-## Masterwork Weapons
+### Masterwork Weapons
 
 A masterwork weapon is a finely crafted version of a normal
 weapon. Wielding it provides a +1 enhancement bonus on attack
@@ -2481,7 +2483,7 @@ weapons, you can't create a masterwork version of such an item
 that confers an enhancement bonus on attack rolls. Instead,
 masterwork armor and shields have lessened armor check penalties.
 
-# Armor
+## Armor
 
 For most, armor is the simplest way to protect oneself in a world
 of rampant threats and dangers. Many characters can wear only the
@@ -2578,7 +2580,7 @@ or when carrying a medium or heavy load.
 Medium wearer. Armor fitted for Small characters weighs half as
 much, and armor for Large characters weighs twice as much.
 
-## Armor Descriptions
+### Armor Descriptions
 
 Table: Armor and Shields
 
@@ -3159,7 +3161,7 @@ banded mail. The suit includes gauntlets.
 **Studded Leather**: Similar to leather armor, this suit is
 reinforced with small metal studs.
 
-## Masterwork Armor
+### Masterwork Armor
 
 Just as with weapons, you can purchase or craft masterwork
 versions of armor or shields. Such a well-made item functions
@@ -3179,7 +3181,7 @@ of masterwork quality.
 You can't add the masterwork quality to armor or a shield after
 it is created; it must be crafted as a masterwork item.
 
-## Armor for Unusual Creatures
+### Armor for Unusual Creatures
 
 Table: Armor for Unusual Creatures
 
@@ -3276,7 +3278,7 @@ Shields. Refer to the appropriate line on Table: Armor for
 Unusual Creatures and apply the multipliers to cost and weight
 for the armor type in question.
 
-## Getting Into and Out of Armor
+### Getting Into and Out of Armor
 
 The time required to don armor depends on its type; see Table:
 Donning Armor.
@@ -3343,7 +3345,7 @@ same time.
 2 The wearer must have help to don this armor. Without help, it
 can be donned only hastily.
 
-# Special Materials
+## Special Materials
 
 Weapons and armor can be crafted using materials that possess
 innate special properties. If you make a suit of armor or weapon
@@ -3502,7 +3504,7 @@ hardness 8.
   One-handed weapon, or one head of a double weapon     +90 gp
   Two-handed weapon, or both heads of a double weapon   +180 gp
 
-# Goods And Services
+## Goods And Services
 
 Table: Goods and Services
 
@@ -4557,7 +4559,7 @@ of gear, from rations (to sustain him on long travels), to rope
 gear carried by adventurers is summarized on Table: Goods and
 Services.
 
-## Adventuring Gear
+### Adventuring Gear
 
 Some of the pieces of adventuring gear found on Table: Goods and
 Services are described below, along with any special benefits
@@ -4717,7 +4719,7 @@ accurately to within half an hour per day since it was last set.
 It requires a source of water, and it must be kept still because
 it marks time by the regulated flow of droplets of water.
 
-## Special Substances and Items
+### Special Substances and Items
 
 Any of these substances except for the everburning torch and holy
 water can be made by a character with the Craft (alchemy) skill.
@@ -4838,7 +4840,7 @@ Lighting a torch with a tindertwig is a standard action (rather
 than a full-round action), and lighting any other fire with one
 is at least a standard action.
 
-## Tools and Skill Kits
+### Tools and Skill Kits
 
 These items are particularly useful to characters with certain
 skills and class abilities.
@@ -4923,7 +4925,7 @@ the job. It grants a +2 circumstance bonus on a related skill
 check (if any). Bonuses provided by multiple masterwork items do
 not stack.
 
-## Clothing
+### Clothing
 
 All characters begin play with one outfit, valued at 10 gp or
 less. Additional outfits can be purchased normally.
@@ -4991,7 +4993,7 @@ a robe, a belt, a cap, soft shoes, and possibly a cloak.
 wool skirt or breeches, a sturdy belt, a shirt (perhaps with a
 vest or jacket), and an ample cloak with a hood.
 
-## Food, Drink, and Lodging
+### Food, Drink, and Lodging
 
 These prices are for meals and accommodations at establishments
 in an average city.
@@ -5007,7 +5009,7 @@ onions, and water. Common meals might consist of bread, chicken
 stew, carrots, and watered-down ale or wine. Good meals might be
 composed of bread and pastries, beef, peas, and ale or wine.
 
-## Mounts and Related Gear
+### Mounts and Related Gear
 
 These are the common mounts available in most cities. Some
 markets might have additional creatures available, such as camels
@@ -5101,7 +5103,7 @@ a rider. It holds as much gear as the mount can carry.
 **Saddle, Riding**: If you are knocked unconscious while in a
 riding saddle, you have a 50% chance to stay in the saddle.
 
-## Transport
+### Transport
 
 The prices listed are to purchase the vehicle. These prices
 generally exclude crew or animals.
@@ -5159,7 +5161,7 @@ warship cannot make sea voyages and sticks to the coast. It is
 not used for cargo. It moves about 2-1/2 miles per hour when
 being rowed or under sail.
 
-## Spellcasting and Services
+### Spellcasting and Services
 
 Sometimes the best solution to a problem is to hire someone else
 to take care of it.

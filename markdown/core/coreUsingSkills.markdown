@@ -138,7 +138,7 @@ attempting to find traps).
 and take 20 rules apply for ability checks. Neither rule applies
 to concentration checks or caster level checks.
 
-### Aid Another
+### Aid Another (Using Skills)
 
 You can help someone achieve success on a skill check by making
 the same kind of skill check in a cooperative effort. If you roll
