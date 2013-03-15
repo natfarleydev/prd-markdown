@@ -5,7 +5,7 @@ abilities your character possesses. As your character advances in
 level, he can gain new skills and improve his existing skills
 dramatically.
 
-# Acquiring Skills
+## Acquiring Skills
 
 Each level, your character gains a number of skill ranks
 dependent upon your class plus your [Intelligence] modifier.
@@ -44,7 +44,7 @@ a level in a new class, all of its class skills are automatically
 added to your list of class skills, and you gain a +3 bonus on
 these skills if you have ranks in them.
 
-## Skill Checks
+### Skill Checks
 
 When your character uses a skill, he isn't guaranteed success. In
 order to determine success, whenever you attempt to use a skill,
@@ -94,7 +94,7 @@ skill checks are opposed by the target's skill check. When making
 an opposed skill check, the attempt is successful if your check
 result exceeds the result of the target.
 
-## Taking 10 and Taking 20
+### Taking 10 and Taking 20
 
 A skill check represents an attempt to accomplish some goal,
 usually while under some sort of time pressure or distraction.
@@ -138,7 +138,7 @@ attempting to find traps).
 and take 20 rules apply for ability checks. Neither rule applies
 to concentration checks or caster level checks.
 
-## Aid Another
+### Aid Another
 
 You can help someone achieve success on a skill check by making
 the same kind of skill check in a cooperative effort. If you roll
