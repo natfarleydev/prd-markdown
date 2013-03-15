@@ -1,5 +1,3 @@
-
-
 ## Arcane Archer
 
 Many who seek to perfect the use of the bow sometimes pursue the
@@ -40,23 +38,16 @@ all the following criteria.
 
 **Base Attack Bonus**: +6.
 
-**Feats**: [Point Blank Shot],
-[Precise Shot], [Weapon
-Focus] (longbow or shortbow).
+**Feats**: [Point Blank Shot], [Precise Shot], [Weapon Focus]
+(longbow or shortbow).
 
 **Spells**: Ability to cast 1st-level arcane spells.
 
 ### Arcane Archer Class Skills
 
 The arcane archer's class skills (and the key ability for each
-skill) are [Perception]
-([Wis]),
-[Ride]
-([Dex]),
-[Stealth]
-([Dex]), and
-[Survival]
-([Wis]).
+skill) are [Perception] ([Wis]), [Ride] ([Dex]), [Stealth]
+([Dex]), and [Survival] ([Wis]).
 
 **Skill Ranks at Each Level**: 4 +
 [Int] modifier.
@@ -82,11 +73,8 @@ All of the following are class features of the arcane archer
 prestige class.
 
 **Weapon and Armor Proficiency**: An arcane archer is proficient
-with all
-[simple]
-and [martial
-weapons],
-light armor, medium armor, and shields.
+with all [simple] and [martial weapons], light armor, medium
+armor, and shields.
 
 **Spells per Day**: At the indicated levels, an arcane archer
 gains new spells per day as if he had also gained a level in an
@@ -113,34 +101,22 @@ case of spontaneous spellcasters, after 8 hours of rest.
 
 At 3rd level, every nonmagical arrow fired by an arcane archer
 gains one of the following elemental themed weapon qualities:
-*[flaming]*,*[frost]*,
-or *[shock]*.
+*[flaming]*,*[frost]*, or *[shock]*.
 
 At 5th level, every nonmagical arrow fired by an arcane archer
-gains the
-*[distance]* weapon
-quality.
+gains the *[distance]* weapon quality.
 
 At 7th level, every nonmagical arrow fired by an arcane archer
 gains one of the following elemental burst weapon qualities:
-*[flaming
-burst]*, *[icy
-burst]*, or
-*[shocking
-burst]*. This
+*[flaming burst]*, *[icy burst]*, or *[shocking burst]*. This
 ability replaces the ability gained at 3rd level.
 
 At 9th level, every nonmagical arrow fired by an arcane archer
 gains one of the following aligned weapon qualities:
-*[anarchic]*,
-*[axiomatic]*,
-*[holy]*, or
-*[unholy]*. The arcane archer
-cannot choose an ability that is the opposite of his alignment
-(for example, a lawful good arcane archer could not choose
-*[anarchic]* or
-*[unholy]* as his weapon
-quality).
+*[anarchic]*, *[axiomatic]*, *[holy]*, or *[unholy]*. The arcane
+archer cannot choose an ability that is the opposite of his
+alignment (for example, a lawful good arcane archer could not
+choose *[anarchic]* or *[unholy]* as his weapon quality).
 
 The bonuses granted by a magic bow apply as normal to arrows that
 have been enhanced with this ability. Only the larger enhancement
@@ -189,20 +165,14 @@ the archer's primary attack bonus, and each enemy may only be
 targeted by a single arrow.
 
 **Arrow of Death** **(Sp)**: At 10th level, an arcane archer can
-create a special type of*[slaying
-arrow]*that forces the
-target, if damaged by the arrow's attack, to make a
-[Fortitude] save or be slain
-immediately. The DC of this save is equal to 20 + the arcane
-archer's [Charisma]
-modifier. It takes 1 day to make a *[slaying
-arrow]*, and the arrow
-only functions for the arcane archer who created it. The
-*[slaying arrow]*lasts
-no longer than 1 year, and the archer can only have one such
-arrow in existence at a time.
-
-Arcane Trickster
+create a special type of*[slaying arrow]*that forces the target,
+if damaged by the arrow's attack, to make a [Fortitude] save or
+be slain immediately. The DC of this save is equal to 20 + the
+arcane archer's [Charisma] modifier. It takes 1 day to make a
+*[slaying arrow]*, and the arrow only functions for the arcane
+archer who created it. The *[slaying arrow]*lasts no longer than
+1 year, and the archer can only have one such arrow in existence
+at a time.
 
 ## Arcane Trickster
 
@@ -227,9 +197,8 @@ and stealing from the unwary.
 **Role**: With their mastery of magic, arcane tricksters can make
 for even more subtle or confounding opponents than standard
 rogues. Ranged legerdemain enhances their skill as thieves, and
-their ability to make sneak attacks
-without[flanking] or as part of a spell
-can make arcane tricksters formidable damage-dealers.
+their ability to make sneak attacks without[flanking] or as part
+of a spell can make arcane tricksters formidable damage-dealers.
 
 **Alignment**: All arcane tricksters have a penchant for mischief
 and thievery, and are therefore never lawful. Although they
@@ -247,56 +216,25 @@ fulfill all of the following criteria.
 
 **Alignment**: Any nonlawful.
 
-**Skills**: [Disable
-Device] 4 ranks,
-[Escape Artist] 4
-ranks, [Knowledge] (arcana)
-4 ranks.
+**Skills**: [Disable Device] 4 ranks, [Escape Artist] 4 ranks,
+[Knowledge] (arcana) 4 ranks.
 
-**Spells**: Ability to cast *[mage
-hand]*and at least one arcane
+**Spells**: Ability to cast *[mage hand]*and at least one arcane
 spell of 2nd level or higher.
 
-**Special**: [Sneak attack]
-+2d6.
+**Special**: [Sneak attack] +2d6.
 
 ### Arcane Trickster Class Skills
 
 The arcane trickster's class skills (and the key ability for each
-skill) are [Acrobatics]
-([Dex]),
-[Appraise]
-([Int]),
-[Bluff]
-([Cha]),
-[Climb]
-([Str]),
-[Diplomacy]
-([Cha]), [Disable
-Device]
-([Int]),
-[Disguise]
-([Cha]), [Escape
-Artist]
-([Dex]),
-[Knowledge] (all skills
-taken individually)
-([Int]),
-[Perception]
-([Wis]), [Sense
-Motive]
-([Wis]), [Sleight of
-Hand]
-([Dex]),
-[Spellcraft]
-([Int]),
-[Stealth]
-([Dex]), and
-[Swim]
-([Str]).
+skill) are [Acrobatics] ([Dex]), [Appraise] ([Int]), [Bluff]
+([Cha]), [Climb] ([Str]), [Diplomacy] ([Cha]), [Disable Device]
+([Int]), [Disguise] ([Cha]), [Escape Artist] ([Dex]), [Knowledge]
+(all skills taken individually) ([Int]), [Perception] ([Wis]),
+[Sense Motive] ([Wis]), [Sleight of Hand] ([Dex]), [Spellcraft]
+([Int]), [Stealth] ([Dex]), and [Swim] ([Str]).
 
-**Skill Ranks at Each Level**: 4 +
-[Int] modifier.
+**Skill Ranks at Each Level**: 4 + [Int] modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special                                                                                          Spells per Day
   ------- ------------------- ----------- ---------- ----------- ------------------------------------------------------------------------------------------------ ----------------------------
@@ -333,67 +271,55 @@ becoming an arcane trickster, she must decide to which class she
 adds the new level for purposes of determining spells per day.
 
 **Ranged Legerdemain (Su)**: An arcane trickster can use [Disable
-Device] and
-[Sleight of Hand]
-at a range of 30 feet. Working at a distance increases the normal
-skill check DC by 5, and an arcane trickster cannot take 10 on
-this check. Any object to be manipulated must weigh 5 pounds or
-less. She can only use this ability if she has at least 1 rank in
-the skill being used.
+Device] and [Sleight of Hand] at a range of 30 feet. Working at a
+distance increases the normal skill check DC by 5, and an arcane
+trickster cannot take 10 on this check. Any object to be
+manipulated must weigh 5 pounds or less. She can only use this
+ability if she has at least 1 rank in the skill being used.
 
 **Sneak Attack**: This is exactly like the rogue ability of the
 same name. The extra damage dealt increases by +1d6 every other
 level (2nd, 4th, 6th, 8th, and 10th). If an arcane trickster gets
-a [sneak attack] bonus from
-another source, the bonuses on damage stack.
+a [sneak attack] bonus from another source, the bonuses on damage
+stack.
 
 **Impromptu Sneak Attack (Ex)**: Beginning at 3rd level, once per
 day an arcane trickster can declare one melee or ranged attack
-she makes to be a [sneak
-attack] (the target can be
-no more than 30 feet distant if the impromptu sneak attack is a
-ranged attack). The target of an impromptu sneak attack loses any
-[Dexterity] bonus to
-[AC], but only against that attack.
-The power can be used against any target, but creatures that are
-not subject to [critical hit]s
-take no extra damage (though they still lose any
-[Dexterity] bonus to
-[AC] against the attack).
+she makes to be a [sneak attack] (the target can be no more than
+30 feet distant if the impromptu sneak attack is a ranged
+attack). The target of an impromptu sneak attack loses any
+[Dexterity] bonus to [AC], but only against that attack.  The
+power can be used against any target, but creatures that are not
+subject to [critical hit]s take no extra damage (though they
+still lose any [Dexterity] bonus to [AC] against the attack).
 
 At 7th level, an arcane trickster can use this ability twice per
 day.
 
 **Tricky Spells (Su)**: Starting at 5th level, an arcane
 trickster can cast her spells without their somatic or verbal
-components, as if using the [Still
-Spell] and [Silent
-Spell] feats. Spells cast using this
-ability do not increase in spell level or casting time. She can
-use this ability 3 times per day at 5th level and one additional
-time per every two levels thereafter, to a maximum of 5 times per
-day at 9th level. The arcane trickster decides to use this
-ability at the time of casting.
+components, as if using the [Still Spell] and [Silent Spell]
+feats. Spells cast using this ability do not increase in spell
+level or casting time. She can use this ability 3 times per day
+at 5th level and one additional time per every two levels
+thereafter, to a maximum of 5 times per day at 9th level. The
+arcane trickster decides to use this ability at the time of
+casting.
 
 **Invisible Thief (Su)**: At 9th level, an arcane trickster can
-become [invisible], as if under the
-effects of *[greater
-invisibility],*
-as a free action. She can remain
-[invisible] for a number of rounds
-per day equal to her arcane trickster level. Her caster level for
-this effect is equal to her caster level. These rounds need not
-be consecutive.
+become [invisible], as if under the effects of *[greater
+invisibility],* as a free action. She can remain [invisible] for
+a number of rounds per day equal to her arcane trickster
+level. Her caster level for this effect is equal to her caster
+level. These rounds need not be consecutive.
 
 **Surprise Spells**: At 10th level, an arcane trickster can add
 her sneak attack damage to any spell that deals damage, if the
-targets are [flat-footed]. This
-additional damage only applies to spells that deal hit point
-damage, and the additional damage is of the same type as the
-spell. If the spell allows a saving throw to negate or halve the
-damage, it also negates or halves the sneak attack damage.
-
-Assassin
+targets are [flat-footed]. This additional damage only applies to
+spells that deal hit point damage, and the additional damage is
+of the same type as the spell. If the spell allows a saving throw
+to negate or halve the damage, it also negates or halves the
+sneak attack damage.
 
 ## Assassin
 
@@ -435,8 +361,7 @@ the following criteria.
 
 **Alignment**: Any evil.
 
-**Skills**: [Disguise] 2
-ranks, [Stealth] 5 ranks.
+**Skills**: [Disguise] 2 ranks, [Stealth] 5 ranks.
 
 **Special**: The character must kill someone for no other reason
 than to become an assassin.
@@ -444,42 +369,17 @@ than to become an assassin.
 ### Assassin Class Skills
 
 The assassin's class skills (and the key ability for each skill)
-are [Acrobatics]
-([Dex]),
-[Bluff]
-([Cha]),
-[Climb]
-([Str]),
-[Diplomacy]
-([Cha]), [Disable
-Device]
-([Int]),
-[Disguise]
-([Cha]), [Escape
-Artist]
-([Dex]),
-[Intimidate]
-([Cha]),
-[Linguistics]
-([Int]),
-[Perception]
-([Wis]), [Sense
-Motive]
-([Wis]), [Sleight of
-Hand]
-([Dex]),
-[Stealth]
-([Dex]),
-[Swim]
-([Str]), and [Use Magic
-Device]
-([Cha]).
+are [Acrobatics] ([Dex]), [Bluff] ([Cha]), [Climb] ([Str]),
+[Diplomacy] ([Cha]), [Disable Device] ([Int]), [Disguise]
+([Cha]), [Escape Artist] ([Dex]), [Intimidate] ([Cha]),
+[Linguistics] ([Int]), [Perception] ([Wis]), [Sense Motive]
+([Wis]), [Sleight of Hand] ([Dex]), [Stealth] ([Dex]), [Swim]
+([Str]), and [Use Magic Device] ([Cha]).
 
-**Skill Ranks at Each Level**: 4 +
-[Int] modifier.
+**Skill Ranks at Each Level**: 4 + [Int] modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special
-  ------- ------------------- ----------- ---------- ----------- ---------------------------------------------------------------------------------------------------------------------------------------------------------
+  ------- ------------------- ----------- ---------- ----------- ---------------------------------------------------
   1st     +0                  +0          +1         +0          [Sneak attack] +1d6, [death attack]
   2nd     +1                  +1          +1         +1          +1 save bonus against poison,[uncanny dodge]
   3rd     +2                  +1          +2         +1          [Sneak attack] +2d6
@@ -506,8 +406,7 @@ Assassins are proficient with light armor but not with shields.
 **Sneak Attack**: This is exactly like the rogue ability of the
 same name. The extra damage dealt increases by +1d6 every other
 level (1st, 3rd, 5th, 7th, and 9th). If an assassin gets a [sneak
-attack] bonus from another
-source, the bonuses on damage stack.
+attack] bonus from another source, the bonuses on damage stack.
 
 **Death Attack (Ex)**: If an assassin studies his victim for 3
 rounds and then makes a sneak attack with a melee weapon that
@@ -516,20 +415,16 @@ effect of possibly either paralyzing or killing the target
 (assassin's choice). Studying the victim is a standard action.
 The death attack fails if the target detects the assassin or
 recognizes the assassin as an enemy (although the attack might
-still be a sneak attack if the target is denied his
-[Dexterity] bonus to his
-[Armor Class] or
-is[flanked]). If the victim of such a
-death attack fails a [Fortitude] save
-(DC 10 + the assassin's class level + the assassin's
-[Int] modifier) against the
-kill effect, she dies. If the saving throw fails against the
-paralysis effect, the victim is rendered
-[helpless] and unable to act for 1d6
-rounds plus 1 round per level of the assassin. If the victim's
-saving throw succeeds, the attack is just a normal sneak attack.
-Once the assassin has completed the 3 rounds of study, he must
-make the death attack within the next 3 rounds.
+still be a sneak attack if the target is denied his [Dexterity]
+bonus to his [Armor Class] or is[flanked]). If the victim of such
+a death attack fails a [Fortitude] save (DC 10 + the assassin's
+class level + the assassin's [Int] modifier) against the kill
+effect, she dies. If the saving throw fails against the paralysis
+effect, the victim is rendered [helpless] and unable to act for
+1d6 rounds plus 1 round per level of the assassin. If the
+victim's saving throw succeeds, the attack is just a normal sneak
+attack.  Once the assassin has completed the 3 rounds of study,
+he must make the death attack within the next 3 rounds.
 
 If a death attack is attempted and fails (the victim makes her
 save) or if the assassin does not launch the attack within 3
@@ -537,97 +432,77 @@ rounds of completing the study, 3 new rounds of study are
 required before he can attempt another death attack.
 
 **Poison Use**: Assassins are trained in the use of poison and
-cannot accidentally poison themselves when applying
-[poison] to a blade (see
-[Poison]).
+cannot accidentally poison themselves when applying [poison] to a
+blade (see [Poison]).
 
 **Save Bonus against Poison**: At 2nd level, the assassin gains a
 +1 saving throw bonus against poisons. This bonus increase by +1
 every two levels.
 
 **Uncanny Dodge (Ex)**: At 2nd level, an assassin cannot be
-caught [flat-footed], even if the
-attacker is [invisible]. He still
-loses his [Dexterity] bonus to
-[AC] if immobilized. An assassin
-with this ability can still lose his
-[Dexterity] bonus to
-[AC] if an opponent successfully
-uses the feint action against him.
+caught [flat-footed], even if the attacker is [invisible]. He
+still loses his [Dexterity] bonus to [AC] if immobilized. An
+assassin with this ability can still lose his [Dexterity] bonus
+to [AC] if an opponent successfully uses the feint action against
+him.
 
 If an assassin already has uncanny dodge from a different class,
-he automatically gains [improved uncanny
-dodge] instead.
+he automatically gains [improved uncanny dodge] instead.
 
 **Hidden Weapons (Ex)**: At 4th level, an assassin becomes a
 master at hiding weapons on his body. He adds his assassin level
-to all [Sleight of
-Hand] skill checks
-made to prevent others from noticing them.
+to all [Sleight of Hand] skill checks made to prevent others from
+noticing them.
 
 **True Death (Su)**: Starting at 4th level, anyone slain by an
 assassin's death attack becomes more difficult to bring back from
 the dead. Spellcasters attempting to bring a creature back from
-the dead using *[raise
-dead]* or similar magic
-must make a caster level check with a DC equal to 15 + the
-assassin's level or the spell fails and the material component is
-wasted. Casting *[remove
-curse]* the round
-before attempting to bring the creature back from the dead
-negates this chance. The DC of the *[remove
-curse]* is 10 + the
-assassin's level.
+the dead using *[raise dead]* or similar magic must make a caster
+level check with a DC equal to 15 + the assassin's level or the
+spell fails and the material component is wasted. Casting
+*[remove curse]* the round before attempting to bring the
+creature back from the dead negates this chance. The DC of the
+*[remove curse]* is 10 + the assassin's level.
 
 **Improved Uncanny Dodge (Ex)**: At 5th level and higher, an
-assassin can no longer be[flanked].
-This defense denies a [rogue] the
-ability to sneak attack the assassin
-by[flanking] him, unless the attacker
-has at least four more [rogue]
-levels than the target has assassin levels.
+assassin can no longer be[flanked].  This defense denies a
+[rogue] the ability to sneak attack the assassin by[flanking]
+him, unless the attacker has at least four more [rogue] levels
+than the target has assassin levels.
 
 If a character already has uncanny dodge from another class, the
 levels from the classes that grant uncanny dodge stack to
-determine the minimum [rogue] level
-required to[flank] the character.
+determine the minimum [rogue] level required to[flank] the
+character.
 
 **Quiet Death (Ex)**: At 6th level, whenever an assassin kills a
 creature using his death attack during a surprise round, he can
-also make a [Stealth] check,
-opposed by [Perception]
-checks of those in the vicinity to prevent them from identifying
-him as the assailant. If successful, those nearby might not even
-notice that the target is dead for a few moments, allowing the
-assassin to avoid detection.
+also make a [Stealth] check, opposed by [Perception] checks of
+those in the vicinity to prevent them from identifying him as the
+assailant. If successful, those nearby might not even notice that
+the target is dead for a few moments, allowing the assassin to
+avoid detection.
 
 **Hide in Plain Sight (Su)**: At 8th level, an assassin can use
-the [Stealth] skill even while
-being observed. As long as he is within 10 feet of some sort of
-shadow, an assassin can hide himself from view in the open
-without having anything to actually hide behind. He cannot,
-however, hide in his own shadow.
+the [Stealth] skill even while being observed. As long as he is
+within 10 feet of some sort of shadow, an assassin can hide
+himself from view in the open without having anything to actually
+hide behind. He cannot, however, hide in his own shadow.
 
 **Swift Death (Ex)**: At 9th level, once per day, an assassin can
 make a death attack against a foe without studying the foe
-beforehand. He must still [sneak
-attack] his foe using a
-melee weapon that deals damage.
+beforehand. He must still [sneak attack] his foe using a melee
+weapon that deals damage.
 
 **Angel of Death (Su)**: At 10th level, the assassin becomes a
 master of death. Once per day, when the assassin makes a
 successful death attack, he can cause the target's body to
-crumble to dust. This prevents *[raise
-dead]* and
-*[resurrection]*
-(although *[true
-resurrection]*
-works as normal). The assassin must declare the use of this
-ability before the attack is made. If the attack misses or the
-target successfully saves against the death attack, this ability
-is wasted with no effect.
-
-Dragon Disciple
+crumble to dust. This prevents *[raise dead]* and
+*[resurrection]* (although *[true resurrection]* works as
+normal). The assassin must declare the use of this ability before
+the attack is made. If the attack misses or the target
+successfully saves against the death attack, this ability is
+wasted with no effect.
 
 ## Dragon Disciple
 
@@ -677,39 +552,24 @@ all the following criteria.
 
 **Race**: Any nondragon.
 
-**Skills**: [Knowledge]
-(arcana) 5 ranks.
+**Skills**: [Knowledge] (arcana) 5 ranks.
 
 **Languages**: Draconic.
 
 **Spellcasting**: Ability to cast 1st-level arcane spells without
-preparation. If the character has
-[sorcerer] levels, he must
-have the [draconic
-bloodline]. If the character
-gains levels of [sorcerer]
-after taking this class, he must take the [draconic
+preparation. If the character has [sorcerer] levels, he must have
+the [draconic bloodline]. If the character gains levels of
+[sorcerer] after taking this class, he must take the [draconic
 bloodline].
 
 ### Dragon Disciple Class Skills
 
 The dragon disciple's class skills (and the key ability for each
-skill) are [Diplomacy]
-([Cha]), [Escape
-Artist]
-([Dex]),
-[Fly]
-([Dex]),
-[Knowledge] (all skills
-taken individually)
-([Int]),
-[Perception]
-([Wis]), and
-[Spellcraft]
-([Int]).
+skill) are [Diplomacy] ([Cha]), [Escape Artist] ([Dex]), [Fly]
+([Dex]), [Knowledge] (all skills taken individually) ([Int]),
+[Perception] ([Wis]), and [Spellcraft] ([Int]).
 
-**Skill Ranks at Each Level**: 2 +
-[Int] modifier.
+**Skill Ranks at Each Level**: 2 + [Int] modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special                                                                                                    Spells per Day
   ------- ------------------- ----------- ---------- ----------- ---------------------------------------------------------------------------------------------------------- ------------------------------------------------
@@ -746,40 +606,31 @@ becoming a dragon disciple, he must decide to which class he adds
 the new level for purposes of determining spells per day.
 
 **Blood of Dragons**: A dragon disciple adds his level to his
-[sorcerer] levels when
-determining the powers gained from his bloodline. If the dragon
-disciple does not have levels of
-[sorcerer], he instead gains
-bloodline powers of the [draconic
-bloodline], using his dragon
-disciple level as his sorcerer level to determine the bonuses
-gained. He must choose a dragon type upon gaining his first level
-in this class and that type must be the same as his
-[sorcerer] type. This ability
-does not grant bonus spells to a
-[sorcerer] unless he
-possesses spell slots of an appropriate level. Such bonus spells
-are automatically granted if the
-[sorcerer] gains spell slots
-of the spell's level.
+[sorcerer] levels when determining the powers gained from his
+bloodline. If the dragon disciple does not have levels of
+[sorcerer], he instead gains bloodline powers of the [draconic
+bloodline], using his dragon disciple level as his sorcerer level
+to determine the bonuses gained. He must choose a dragon type
+upon gaining his first level in this class and that type must be
+the same as his [sorcerer] type. This ability does not grant
+bonus spells to a [sorcerer] unless he possesses spell slots of
+an appropriate level. Such bonus spells are automatically granted
+if the [sorcerer] gains spell slots of the spell's level.
 
 **Natural Armor Increase (Ex)**: As his skin thickens, a dragon
 disciple takes on more and more of his progenitor's physical
 aspect. At 1st, 4th, and 7th level, a dragon disciple gains an
 increase to the character's existing natural armor (if any), as
-indicated on [Table: Dragon
-Disciple]. These armor bonuses
-stack.
+indicated on [Table: Dragon Disciple]. These armor bonuses stack.
 
 **Ability Boost (Ex)**: As a dragon disciple gains levels in this
 prestige class, his ability scores increase as noted on [Table:
-Dragon Disciple]. These increases
-stack and are gained as if through level advancement.
+Dragon Disciple]. These increases stack and are gained as if
+through level advancement.
 
 **Bloodline Feat**: Upon reaching 2nd level, and every three
 levels thereafter, a dragon disciple receives one bonus feat,
-chosen from the draconic bloodline's [bonus feat
-list].
+chosen from the draconic bloodline's [bonus feat list].
 
 **Dragon Bite (Ex)**: At 2nd level, whenever the dragon disciple
 uses his bloodline to grow claws, he also gains a bite attack.
@@ -799,45 +650,34 @@ the dragon disciple, as detailed under the [Draconic sorcerer
 bloodline] description.
 
 **Blindsense (Ex)**: At 5th level, the dragon disciple gains
-[blindsense] with a
-range of 30 feet. Using nonvisual senses the dragon disciple
-notices things he cannot see. He usually does not need to make
-[Perception] checks to
-notice and pinpoint the location of creatures within range of his
-[blindsense]
-ability, provided that he has [line of
-effect] to that creature.
+[blindsense] with a range of 30 feet. Using nonvisual senses the
+dragon disciple notices things he cannot see. He usually does not
+need to make [Perception] checks to notice and pinpoint the
+location of creatures within range of his [blindsense] ability,
+provided that he has [line of effect] to that creature.
 
 Any opponent the dragon disciple cannot see still has total
 concealment against him, and the dragon disciple still has the
 normal miss chance when attacking foes that have concealment.
 Visibility still affects the movement of a creature with
-[blindsense]. A
-creature with
-[blindsense] is
-still denied its [Dexterity]
-bonus to [Armor Class] against
-attacks from creatures it cannot see. At 10th level, the range of
-this ability increases to 60 feet.
+[blindsense]. A creature with [blindsense] is still denied its
+[Dexterity] bonus to [Armor Class] against attacks from creatures
+it cannot see. At 10th level, the range of this ability increases
+to 60 feet.
 
 **Dragon Form** **(Sp)**: At 7th level, a dragon disciple can
 assume the form of a dragon. This ability works like *[form of
-the dragon
-I]*. At
-10th level, this ability functions as *[form of the dragon
-II]* and
-the dragon disciple can use this ability twice per day. His
-caster level for this effect is equal to his effective sorcerer
-levels for his draconic bloodline. Whenever he casts *form of the
-dragon,* he must assume the form of a dragon of the same type as
-his bloodline.
+the dragon I]*. At 10th level, this ability functions as *[form
+of the dragon II]* and the dragon disciple can use this ability
+twice per day. His caster level for this effect is equal to his
+effective sorcerer levels for his draconic bloodline. Whenever he
+casts *form of the dragon,* he must assume the form of a dragon
+of the same type as his bloodline.
 
 **Wings (Su)**: At 9th level, a dragon disciple gains the wings
 bloodline power, even if his level does not yet grant that power.
 Once his level is high enough to grant this ability through the
 bloodline, the dragon disciple's speed increases to 90 feet.
-
-Duelist
 
 ## Duelist
 
@@ -881,31 +721,18 @@ following criteria.
 
 **Base Attack Bonus**: +6.
 
-**Skills**: [Acrobatics] 2
-ranks, [Perform] 2 ranks.
+**Skills**: [Acrobatics] 2 ranks, [Perform] 2 ranks.
 
-**Feats**: [Dodge],
-[Mobility], [Weapon
-Finesse].
+**Feats**: [Dodge], [Mobility], [Weapon Finesse].
 
 ### Duelist Class Skills
 
 The duelist's class skills (and the key ability for each skill)
-are [Acrobatics]
-([Dex]),
-[Bluff]
-([Cha]), [Escape
-Artist]
-([Dex]),
-[Perception]
-([Wis]),
-[Perform]
-([Cha]), and [Sense
-Motive]
-([Wis]).
+are [Acrobatics] ([Dex]), [Bluff] ([Cha]), [Escape Artist]
+([Dex]), [Perception] ([Wis]), [Perform] ([Cha]), and [Sense
+Motive] ([Wis]).
 
-**Skill Ranks at Each Level**: 4 +
-[Int] modifier.
+**Skill Ranks at Each Level**: 4 + [Int] modifier.
 
 Table: Duelist
 
@@ -931,8 +758,7 @@ Special
 
 +0
 
-[Canny defense], [precise
-strike]
+[Canny defense], [precise strike]
 
 td\>
 
@@ -1050,21 +876,15 @@ All of the following are class features of the duelist prestige
 class.
 
 **Weapon and Armor Proficiency**: The duelist is proficient with
-all
-[simple][and][martial
-weapons].
-Duelists are proficient with light armor but not with shields.
+all [simple][and][martial weapons].  Duelists are proficient with
+light armor but not with shields.
 
 **Canny Defense (Ex)**: When wearing light or no armor and not
-using a shield, a duelist adds 1 point of
-[Intelligence] bonus (if
-any) per duelist class level to her
-[Dexterity] bonus to modify
-[Armor Class] while wielding a melee
-weapon. If a duelist is caught
-[flat-footed] or otherwise denied
-her [Dexterity] bonus, she
-also loses this bonus.
+using a shield, a duelist adds 1 point of [Intelligence] bonus
+(if any) per duelist class level to her [Dexterity] bonus to
+modify [Armor Class] while wielding a melee weapon. If a duelist
+is caught [flat-footed] or otherwise denied her [Dexterity]
+bonus, she also loses this bonus.
 
 **Precise Strike (Ex)**: A duelist gains the ability to strike
 precisely with a light or one-handed piercing weapon, adding her
@@ -1073,11 +893,10 @@ duelist level to her damage roll.
 When making a precise strike, a duelist cannot attack with a
 weapon in her other hand or use a shield. A duelist's precise
 strike only works against living creatures with discernible
-anatomies. Any creature that is immune to [critical
-hit]s is also immune to a precise
-strike, and any item or ability that protects a creature from
-[critical hit]s also protects a
-creature from a precise strike.
+anatomies. Any creature that is immune to [critical hit]s is also
+immune to a precise strike, and any item or ability that protects
+a creature from [critical hit]s also protects a creature from a
+precise strike.
 
 **Improved Reaction (Ex)**: At 2nd level, a duelist gains a +2
 bonus on initiative checks. At 8th level, the bonus increases to
@@ -1103,18 +922,17 @@ the roll is made.
 
 **Enhanced Mobility (Ex)**: Starting at 3rd level, when wearing
 light or no armor and not using a shield, a duelist gains an
-additional +4 bonus to [AC] against
-attacks of opportunity caused when she moves out of a threatened
-square.
+additional +4 bonus to [AC] against attacks of opportunity caused
+when she moves out of a threatened square.
 
 **Combat Reflexes**: At 4th level, a duelist gains the benefit of
-the [Combat Reflexes] feat when
-using a light or one-handed piercing weapon.
+the [Combat Reflexes] feat when using a light or one-handed
+piercing weapon.
 
 **Grace (Ex)**: At 4th level, a duelist gains an additional +2
-competence bonus on all [Reflex] saving
-throws. This ability functions for a duelist only when she is
-wearing light or no armor and not using a shield.
+competence bonus on all [Reflex] saving throws. This ability
+functions for a duelist only when she is wearing light or no
+armor and not using a shield.
 
 **Riposte (Ex)**: Starting at 5th level, a duelist can make an
 attack of opportunity against any creature whose attack she
@@ -1129,34 +947,28 @@ appropriate checks to successfully move over the terrain.
 
 **Elaborate Defense (Ex)**: At 7th level and higher, if a duelist
 chooses to fight defensively or use total defense in melee
-combat, she gains an additional +1 [dodge
-bonus] to
-[AC] for every 3 levels of duelist
-she has attained.
+combat, she gains an additional +1 [dodge bonus] to [AC] for
+every 3 levels of duelist she has attained.
 
 **Deflect Arrows**: At 9th level, a duelist gains the benefit of
-the [Deflect Arrows] feat when
-using a light or one-handed piercing weapon. The duelist does not
-need a free hand to use this feat.
+the [Deflect Arrows] feat when using a light or one-handed
+piercing weapon. The duelist does not need a free hand to use
+this feat.
 
 **No Retreat (Ex)**: At 9th level, enemies adjacent to the
 duelist that take a withdraw action provoke an attack of
 opportunity from the duelist.
 
-**Crippling Critical (Ex)**: When you confirm a [critical
-hit] using a light or one-handed
-piercing weapon, you can apply one of the following penalties in
-addition to the damage dealt: reduce all of the target's speeds
-by 10 feet (minimum 5 feet), 1d4 points of Strength or
-[Dexterity] damage, –4 penalty
-on all saving throws, –4 penalty to [Armor
-Class], or 2d6 points of bleed
-damage. These penalties last for 1 minute, except for ability
-damage, which must be healed normally, and bleed damage, which
-continues until the target receives magic healing or a DC 15
-[Heal] skill check.
-
-Eldritch Knight
+**Crippling Critical (Ex)**: When you confirm a [critical hit]
+using a light or one-handed piercing weapon, you can apply one of
+the following penalties in addition to the damage dealt: reduce
+all of the target's speeds by 10 feet (minimum 5 feet), 1d4
+points of Strength or [Dexterity] damage, –4 penalty on all
+saving throws, –4 penalty to [Armor Class], or 2d6 points of
+bleed damage. These penalties last for 1 minute, except for
+ability damage, which must be healed normally, and bleed damage,
+which continues until the target receives magic healing or a DC
+15 [Heal] skill check.
 
 ## Eldritch Knight
 
@@ -1205,25 +1017,12 @@ weapons].
 ### Eldritch Knight Class Skills
 
 The eldritch knight's class skills (and the key ability for each
-skill) are [Climb]
-([Str]),
-[Knowledge] (arcana)
-([Int]),
-[Knowledge] (nobility and
-royalty) ([Int]),
-[Linguistics]
-([Int]),
-[Ride]
-([Dex]), [Sense
-Motive]
-([Wis]),
-[Spellcraft]
-([Int]), and
-[Swim]
-([Str]).
+skill) are [Climb] ([Str]), [Knowledge] (arcana) ([Int]),
+[Knowledge] (nobility and royalty) ([Int]), [Linguistics]
+([Int]), [Ride] ([Dex]), [Sense Motive] ([Wis]), [Spellcraft]
+([Int]), and [Swim] ([Str]).
 
-**Skill Ranks at Each Level**: 2 +
-[Int] modifier.
+**Skill Ranks at Each Level**: 2 + [Int] modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special                                                                                   Spells per Day
   ------- ------------------- ----------- ---------- ----------- ----------------------------------------------------------------------------------------- ------------------------------------------------
@@ -1249,20 +1048,18 @@ class.
 proficiency with any weapon or armor.
 
 **Bonus Feat**: At 1st level, an eldritch knight may choose a
-bonus [combat feat]. This is in
-addition to the feats that a character of any class normally gets
-from advancing levels. The character must still meet any
-prerequisites for these bonus feats. An eldritch knight gains an
-additional [combat feat] at 5th and
-9th level.
+bonus [combat feat]. This is in addition to the feats that a
+character of any class normally gets from advancing levels. The
+character must still meet any prerequisites for these bonus
+feats. An eldritch knight gains an additional [combat feat] at
+5th and 9th level.
 
 **Diverse Training**: An eldritch knight adds his level to any
-levels of [fighter] he might
-have for the purpose of meeting the prerequisites for feats (if
-he has no fighter levels, treat his eldritch knight levels as
-levels of fighter). He also adds his level to any levels in an
-arcane spellcasting class for the purpose of meeting the
-prerequisites for feats.
+levels of [fighter] he might have for the purpose of meeting the
+prerequisites for feats (if he has no fighter levels, treat his
+eldritch knight levels as levels of fighter). He also adds his
+level to any levels in an arcane spellcasting class for the
+purpose of meeting the prerequisites for feats.
 
 **Spells per Day**: At the indicated levels, an eldritch knight
 gains new spells per day as if he had also gained a level in an
@@ -1276,15 +1073,12 @@ becoming an eldritch knight, he must decide to which class he
 adds the new level for purposes of determining spells per day.
 
 **Spell Critical (Su)**: At 10th level, whenever an eldritch
-knight successfully confirms a [critical
-hit], he can cast a spell as a
-swift action. The spell must include the target of the attack as
-one of its targets or in its area of effect. Casting this spell
-does not provoke an attack of opportunity. The caster must still
-meet all of the spell's components and must roll for arcane spell
-failure if necessary.
-
-Loremaster
+knight successfully confirms a [critical hit], he can cast a
+spell as a swift action. The spell must include the target of the
+attack as one of its targets or in its area of effect. Casting
+this spell does not provoke an attack of opportunity. The caster
+must still meet all of the spell's components and must roll for
+arcane spell failure if necessary.
 
 ## Loremaster
 
@@ -1336,14 +1130,10 @@ tend to be neutral, neutral good, or neutral evil.
 To qualify to become a loremaster, a character must fulfill all
 the following criteria.
 
-**Skills**: [Knowledge] (any
-two) 7 ranks in each.
+**Skills**: [Knowledge] (any two) 7 ranks in each.
 
-**Feats**: Any three [metamagic]
-or [item creation feats],
-plus [Skill Focus]
-([Knowledge] [any individual
-[Knowledge] skill]).
+**Feats**: Any three [metamagic] or [item creation feats], plus
+[Skill Focus] ([Knowledge] [any individual [Knowledge] skill]).
 
 **Spells**: Able to cast seven different divination spells, one
 of which must be 3rd level or higher.
@@ -1351,28 +1141,12 @@ of which must be 3rd level or higher.
 ### Loremaster Class Skills
 
 The loremaster's class skills (and the key ability for each
-skill) are [Appraise]
-([Int]),
-[Diplomacy]
-([Cha]), [Handle
-Animals]
-([Cha]),
-[Heal]
-([Wis]),
-[Knowledge] (all skills
-taken individually)
-([Int]),
-[Linguistics]
-([Int]),
-[Perform]
-([Cha]),
-[Spellcraft]
-([Int]), and [Use Magic
-Device]
-([Cha]).
+skill) are [Appraise] ([Int]), [Diplomacy] ([Cha]), [Handle
+Animals] ([Cha]), [Heal] ([Wis]), [Knowledge] (all skills taken
+individually) ([Int]), [Linguistics] ([Int]), [Perform] ([Cha]),
+[Spellcraft] ([Int]), and [Use Magic Device] ([Cha]).
 
-**Skill Ranks at Each Level**: 4 +
-[Int] modifier.
+**Skill Ranks at Each Level**: 4 + [Int] modifier.
 
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special                                         Spells per Day
   ------- ------------------- ----------- ---------- ----------- ----------------------------------------------- ----------------------------
@@ -1410,10 +1184,9 @@ new level for purposes of determining spells per day.
 
 **Secret**: At 1st level and every two levels higher than 1st
 (3rd, 5th, 7th, and 9th), the loremaster chooses one secret from
-the Loremaster Secrets table. His level plus
-[Intelligence] modifier
-determines which secrets he can choose. He can't choose the same
-secret twice.
+the Loremaster Secrets table. His level plus [Intelligence]
+modifier determines which secrets he can choose. He can't choose
+the same secret twice.
 
 Loremaster Secrets
 
@@ -1486,10 +1259,9 @@ More newfound arcana
 \* As if gained through having a high ability score.
 
 **Lore**: At 2nd level, a loremaster adds half his level to all
-[Knowledge] skill checks and
-may make such checks untrained. The bonuses gained from this
-ability stack with those gained from [Bardic
-Knowledge].
+[Knowledge] skill checks and may make such checks untrained. The
+bonuses gained from this ability stack with those gained from
+[Bardic Knowledge].
 
 **Bonus Languages**: A loremaster can learn any new language at
 4th and 8th level.
@@ -1497,19 +1269,15 @@ Knowledge].
 **Greater Lore (Ex)**: At 6th level, a loremaster gains the
 ability to understand magic items. Whenever a loremaster examines
 a magic item to determine its properties, he gains a +10
-circumstance bonus on his
-[Spellcraft] skill check.
+circumstance bonus on his [Spellcraft] skill check.
 
 **True Lore (Ex)**: At 10th level, a loremaster's knowledge
 becomes vast indeed. Once per day a loremaster can use his
-knowledge to gain the effect of a *[legend
-lore]*spell or an
-*[analyze
-dweomer]*spell.
-If used to create a *[legend
-lore]* effect, this
-ability has a casting time of 1 minute, regardless of how much
-information is already known about the subject in question.
+knowledge to gain the effect of a *[legend lore]*spell or an
+*[analyze dweomer]*spell.  If used to create a *[legend lore]*
+effect, this ability has a casting time of 1 minute, regardless
+of how much information is already known about the subject in
+question.
 
 Mystic Theurge
 
@@ -1552,10 +1320,8 @@ requires great personal discipline.
 To qualify to become a mystic theurge, a character must fulfill
 all the following criteria.
 
-**Skills**: [Knowledge]
-(arcana) 3 ranks,
-[Knowledge] (religion) 3
-ranks.
+**Skills**: [Knowledge] (arcana) 3 ranks, [Knowledge] (religion)
+3 ranks.
 
 **Spells**: Able to cast 2nd-level divine spells and 2nd-level
 arcane spells.
@@ -1563,17 +1329,10 @@ arcane spells.
 ### Mystic Theurge Class Skills
 
 The mystic theurge's class skills (and the key ability for each
-skill) are [Knowledge]
-),
-[Knowledge] (religion)
-([Int]), [Sense
-Motive]
-([Wis]), and
-[Spellcraft]
-([Int]).
+skill) are [Knowledge] ), [Knowledge] (religion) ([Int]), [Sense
+Motive] ([Wis]), and [Spellcraft] ([Int]).
 
-**Skill Ranks at Each Level**: 2 +
-[Int] modifier.
+**Skill Ranks at Each Level**: 2 + [Int] modifier.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
   Level   Base Attack Bonus   Fort Save   Ref Save   Will Save   Special                                     Spells per Day
@@ -2030,120 +1789,100 @@ shortbow (normal and composite), and short sword. Shadowdancers
 are proficient with light armor but not with shields.
 
 **Hide in Plain Sight (Su)**: A shadowdancer can use the
-[Stealth] skill even while being
-observed. As long as she is within 10 feet of an area of dim
-light, a shadowdancer can hide herself from view in the open
-without anything to actually hide behind. She cannot, however,
-hide in her own shadow.
+[Stealth] skill even while being observed. As long as she is
+within 10 feet of an area of dim light, a shadowdancer can hide
+herself from view in the open without anything to actually hide
+behind. She cannot, however, hide in her own shadow.
 
 **Evasion (Ex)**: At 2nd level, a shadowdancer gains evasion. If
 exposed to any effect that normally allows her to attempt a
-[Reflex] saving throw for half damage,
-she takes no damage with a successful saving throw. The evasion
-ability can only be used if the shadowdancer is wearing light
-armor or no armor.
+[Reflex] saving throw for half damage, she takes no damage with a
+successful saving throw. The evasion ability can only be used if
+the shadowdancer is wearing light armor or no armor.
 
 **Darkvision (Ex)**: At 2nd level, a shadowdancer gains
-[darkvision] out to a range of 60
-feet. If she already has
-[darkvision], the range increases
-by 30 feet.
+[darkvision] out to a range of 60 feet. If she already has
+[darkvision], the range increases by 30 feet.
 
 **Uncanny Dodge (Ex)**: At 2nd level, a shadowdancer cannot be
-caught [flat-footed], even if the
-attacker is [invisible]. He still
-loses her [Dexterity] bonus to
-[AC] if immobilized. An shadowdancer
-with this ability can still lose his
-[Dexterity] bonus to
-[AC] if an opponent successfully
-uses the feint action against him.
+caught [flat-footed], even if the attacker is [invisible]. He
+still loses her [Dexterity] bonus to [AC] if immobilized. An
+shadowdancer with this ability can still lose his [Dexterity]
+bonus to [AC] if an opponent successfully uses the feint action
+against him.
 
 If a shadowdancer already has uncanny dodge from a different
-class, he automatically gains [improved uncanny
-dodge] instead.
+class, he automatically gains [improved uncanny dodge] instead.
 
 **Rogue Talent**: At 3rd level, and every three levels
 thereafter, a shadowdancer gains a special ability that allows
-her to confound her foes. This functions as the [rogue
-talent] class feature. A
-shadowdancer cannot select an individual talent more than once.
-If a shadowdancer has the [advanced
-talents] rogue class
-feature, she can chose from the [advanced
-talents] list instead.
+her to confound her foes. This functions as the [rogue talent]
+class feature. A shadowdancer cannot select an individual talent
+more than once.  If a shadowdancer has the [advanced talents]
+rogue class feature, she can chose from the [advanced talents]
+list instead.
 
 **Shadow Illusion** **(Sp)**: When a shadowdancer reaches 3rd
 level, she can create visual illusions. This ability functions as
-*[silent image],* using
-the shadowdancer's level as the caster level. A shadowdancer can
-use this ability once per day for every two shadowdancer levels
-she has attained. The DC for this ability is
-[Charisma]-based.
+*[silent image],* using the shadowdancer's level as the caster
+level. A shadowdancer can use this ability once per day for every
+two shadowdancer levels she has attained. The DC for this ability
+is [Charisma]-based.
 
 **Summon Shadow (Su)**: At 3rd level, a shadowdancer can summon a
 shadow, an undead shade. Unlike a normal shadow, this shadow's
 alignment matches that of the shadowdancer, and the creature
 cannot create spawn. The summoned shadow receives a +4 bonus on
-[Will] saves made to halve the damage from
-positive channeled energy and the shadow cannot be turned or
-commanded. This shadow serves as a companion to the shadowdancer
-and can communicate intelligibly with the shadowdancer. This
-shadow has a number of [hit points]
-equal to half the shadowdancer's total. The shadow uses the
-shadowdancer's base attack bonus and base save bonuses.
+[Will] saves made to halve the damage from positive channeled
+energy and the shadow cannot be turned or commanded. This shadow
+serves as a companion to the shadowdancer and can communicate
+intelligibly with the shadowdancer. This shadow has a number of
+[hit points] equal to half the shadowdancer's total. The shadow
+uses the shadowdancer's base attack bonus and base save bonuses.
 
 If a shadow companion is destroyed, or the shadowdancer chooses
-to dismiss it, the shadowdancer must attempt a DC 15
-[Fortitude] save. If the saving throw
-fails, the shadowdancer gains one permanent negative level. A
-successful saving throw avoids this negative level. A destroyed
-or dismissed shadow companion cannot be replaced for 30 days.
+to dismiss it, the shadowdancer must attempt a DC 15 [Fortitude]
+save. If the saving throw fails, the shadowdancer gains one
+permanent negative level. A successful saving throw avoids this
+negative level. A destroyed or dismissed shadow companion cannot
+be replaced for 30 days.
 
 **Shadow Call (Sp)**: At 4th level, a shadowdancer can create
 creatures and effects out of raw shadow. This ability functions
-as *[shadow
-conjuration],*
-using the shadowdancer's level as the caster level. A
-shadowdancer can use this ability once per day at 4th level, plus
-one additional time per day for every two levels attained beyond
-4th (2/day at 6th level, 3/day at 8th level, and 4/day at 10th
-level). Upon reaching 10th level, this ability functions as
-*[greater shadow
-conjuration]*.
-The DC for this ability is
-[Charisma]-based.
+as *[shadow conjuration],* using the shadowdancer's level as the
+caster level. A shadowdancer can use this ability once per day at
+4th level, plus one additional time per day for every two levels
+attained beyond 4th (2/day at 6th level, 3/day at 8th level, and
+4/day at 10th level). Upon reaching 10th level, this ability
+functions as *[greater shadow conjuration]*.  The DC for this
+ability is [Charisma]-based.
 
 **Shadow Jump (Su)**: At 4th level, a shadowdancer gains the
 ability to travel between shadows as if by means of a *[dimension
-door]*spell. The
-limitation is that the magical transport must begin and end in an
-area with at least some dim light. A shadowdancer can jump up to
-a total of 40 feet each day in this way; this may be a single
-jump of 40 feet or four jumps of 10 feet each. Every two levels
-higher than 4th, the distance a shadowdancer can jump each day
-doubles (80 feet at 6th, 160 feet at 8th, and 320 feet at 10th).
-This amount can be split among many jumps, but each one, no
-matter how small, counts as a 10-foot increment.
+door]*spell. The limitation is that the magical transport must
+begin and end in an area with at least some dim light. A
+shadowdancer can jump up to a total of 40 feet each day in this
+way; this may be a single jump of 40 feet or four jumps of 10
+feet each. Every two levels higher than 4th, the distance a
+shadowdancer can jump each day doubles (80 feet at 6th, 160 feet
+at 8th, and 320 feet at 10th).  This amount can be split among
+many jumps, but each one, no matter how small, counts as a
+10-foot increment.
 
-**[Defensive
-Roll]
-(Ex)**: Starting at 5th level, once per day, a shadowdancer can
-attempt to avoid a lethal blow. This functions as the rogue's
-advanced talent of the same name.
+**[Defensive Roll] (Ex)**: Starting at 5th level, once per day, a
+shadowdancer can attempt to avoid a lethal blow. This functions
+as the rogue's advanced talent of the same name.
 
 **Improved Uncanny Dodge (Ex)**: At 5th level and higher,
-shadowdancer can no longer be[flanked].
-This defense denies a [rogue] the
-ability to [sneak attack]
-the assassin by[flanking] him, unless
-the attacker has at least four more rogue levels than the target
-has assassin levels.
+shadowdancer can no longer be[flanked].  This defense denies a
+[rogue] the ability to [sneak attack] the assassin by[flanking]
+him, unless the attacker has at least four more rogue levels than
+the target has assassin levels.
 
 If a character already has uncanny dodge from another class, the
 levels from the classes that grant uncanny dodge stack to
-determine the minimum [rogue] level
-required to[flank] the character.
+determine the minimum [rogue] level required to[flank] the
+character.
 
 **Slippery Mind (Ex)**: At 7th level, a shadowdancer becomes
 resilient to enchantment spells. This functions as the rogue's
@@ -2151,24 +1890,19 @@ advanced talent of the same name.
 
 **Shadow Power (Sp)**: At 8th level, a shadowdancer can use raw
 shadow to damage her foes. This ability functions as *[shadow
-evocation],*
-using the shadowdancer's level as the caster level. A
-shadowdancer can use this ability once per day at 8th level, and
-one additional time per day upon reaching 10th level. The DC for
-this ability is
-[Charisma]-based.
+evocation],* using the shadowdancer's level as the caster
+level. A shadowdancer can use this ability once per day at 8th
+level, and one additional time per day upon reaching 10th
+level. The DC for this ability is [Charisma]-based.
 
 **Improved Evasion (Ex)**: This ability, gained at 10th level,
-works like [evasion] (see above). A
-shadowdancer takes no damage at all on successful saving throws
-against attacks that allow a [Reflex]
-saving throw for half damage. What's more, she takes only half
-damage even if she fails her saving throw.
+works like [evasion] (see above). A shadowdancer takes no damage
+at all on successful saving throws against attacks that allow a
+[Reflex] saving throw for half damage. What's more, she takes
+only half damage even if she fails her saving throw.
 
 **Shadow Master (Su)**: At 10th level, whenever a shadowdancer is
-in an area of dim light, she gains
-[DR] 10/— and a +2 luck bonus
+in an area of dim light, she gains [DR] 10/— and a +2 luck bonus
 on all saving throws. In addition, whenever she successfully
-scores a [critical hit] against a
-foe who is in an area of dim light, that foe is blinded for 1d6
-rounds.
+scores a [critical hit] against a foe who is in an area of dim
+light, that foe is blinded for 1d6 rounds.
