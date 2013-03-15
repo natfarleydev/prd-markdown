@@ -2,9 +2,10 @@
 [Wands] [Wondrous Items] [Intelligent Items] [Cursed Items]
 [Specific Cursed Items] [Artifacts] [Magic Item Creation]
 
-## Magic Items and Detect Magic
 
-When *[detect magic]*identifies a magic item's school of magic,
+# Magic Items and Detect Magic
+
+When *[detect magic]* identifies a magic item's school of magic,
 this information refers to the school of the spell placed within
 the potion, scroll, or wand, or the prerequisite given for the
 item. The description of each item provides its aura strength and
@@ -20,7 +21,7 @@ prerequisites, use the following default guidelines.
   Weapons or offensive items                  Evocation
   Bonus to ability score, skill check, etc.   Transmutation
 
-# Using Items
+## Using Items
 
   Minor    Medium   Major    Item
   -------- -------- -------- ----------------------
@@ -135,7 +136,7 @@ guess) what the item can do and then use the item in order to
 activate it, unless the benefit of the item comes automatically,
 such as from drinking a potion or swinging a sword.
 
-## Size and Magic Items
+### Size and Magic Items
 
 When an article of magic clothing or jewelry is discovered, most
 of the time size shouldn't be an issue. Many magic garments are
@@ -151,7 +152,7 @@ random have a 30% chance of being Small (01–30), a 60% chance of
 being Medium (31–90), and a 10% chance of being any other size
 (91–100).
 
-# Magic Items on the Body
+## Magic Items on the Body
 
 Many magic items need to be donned by a character who wants to
 employ them or benefit from their abilities. It's possible for a
@@ -200,7 +201,7 @@ Some items can be worn or carried without taking up a slot on a
 character's body. The description of an item indicates when an
 item has this property.
 
-# Saving Throws Against Magic Item Powers
+## Saving Throws Against Magic Item Powers
 
 Magic items produce spells or spell-like effects. For a saving
 throw against a spell or spell-like effect from a magic item, the
@@ -216,7 +217,7 @@ Most item descriptions give saving throw DCs for various effects,
 particularly when the effect has no exact spell equivalent
 (making its level otherwise difficult to determine quickly).
 
-# Damaging Magic Items
+## Damaging Magic Items
 
 A magic item doesn't need to make a saving throw unless it is
 unattended, it is specifically targeted by the effect, or its
@@ -237,14 +238,14 @@ Magic items that take damage in excess of half their total hit
 points, but not more than their total hit points, gain the
 [broken] condition, and might not function properly.
 
-## Repairing Magic Items
+### Repairing Magic Items
 
 Repairing a magic item requires material components equal to half
 the cost to create the item, and requires half the time. The
 *[make whole]*spell can also repair a damaged (or even a
 destroyed) magic items—if the caster is high enough level.
 
-## Charges, Doses, and Multiple Uses
+### Charges, Doses, and Multiple Uses
 
 Many items, particularly wands and staves, are limited in power
 by the number of charges they hold. Normally, charged items have
@@ -262,7 +263,7 @@ proportional to the number of charges left. For an item that has
 usefulness in addition to its charges, only part of the item's
 value is based on the number of charges left.
 
-# Purchasing Magic Items
+## Purchasing Magic Items
 
 Table: Available Magic Items
 
@@ -406,7 +407,7 @@ full plate, or made of an unusual material, such as an
 guidelines to determine their availability, subject to GM
 discretion.
 
-# Magic Item Descriptions
+## Magic Item Descriptions
 
 Each general type of magic item gets an overall description,
 followed by descriptions of specific items.
