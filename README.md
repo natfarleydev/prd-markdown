@@ -32,7 +32,8 @@ Simply go into the build folders of the markdown folder
 dodgy tables (tables that didn't render properly etc.), more logical layout for
 an ebook etc. If an issue is found, use github's built in issue tracking system
 to report it. If there are many minor bugs (e.g. missing a space between two 
-words) then just file one report with all of the bugs listed.
+words) then just file one report with all of the bugs listed (but don't wait 
+to report it; someone might get there before you!).
 
 In the future, the markdown will also be formatted to be 'prettier' but this is a
 secondary objective to creating the ebook, so will probably start happening after 
