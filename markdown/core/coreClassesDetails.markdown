@@ -8682,7 +8682,7 @@ any danger.
 
 **Hit Die**: d6.
 
-#### Wizard Class Skills
+### Wizard Class Skills
 
 The wizard's class skills are [Appraise] ([Int]), [Craft]
 ([Int]), [Fly] ([Dex]), [Knowledge] (all) ([Int]), [Linguistics]
@@ -9337,7 +9337,7 @@ Scroll]
 
 4
 
-#### Wizard Class Features
+### Wizard Class Features
 
 The following are the class features of the wizard.
 
@@ -9747,7 +9747,7 @@ spell's actual level, you cannot use this ability to cast a spell
 whose modified spell level would be above the level of the
 highest-level spell that you are capable of casting.
 
-#### Familiars
+### Familiars
 
 A familiar is an animal chosen by a spellcaster to aid him in his
 study of magic.  It retains the appearance, Hit Dice, base attack
@@ -9930,7 +9930,7 @@ familiar's spell resistance.
 may scry on his familiar (as if casting the *scrying*spell) once
 per day.
 
-#### Arcane Spells and Armor
+### Arcane Spells and Armor
 
 Armor restricts the complicated gestures required while casting
 any spell that has a somatic component.  The [armor and shield
