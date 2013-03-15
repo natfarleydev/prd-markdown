@@ -1,3 +1,5 @@
+# Prestige Classes
+
 Prestige classes allow characters to become truly exceptional,
 gaining powers beyond the ken of their peers. Unlike the core
 classes*,*characters must meet specific requirements before they
