@@ -1,4 +1,6 @@
-# Playing the Game
+# Getting Started
+
+## Playing the Game
 
 While playing the PF RPG*,*the Game Master describes the events
 that occur in the game world, and the players take turns
@@ -42,7 +44,7 @@ character has earned enough experience points, he increases his
 character level by one, granting him new powers and abilities
 that allow him to take on even greater challenges.
 
-## The Most Important Rule
+### The Most Important Rule
 
 The rules presented are here to help you breathe life into your
 characters and the world they explore. While they are designed to
@@ -57,7 +59,7 @@ is the final arbiter of the rules, the PF RPG is a shared
 experience, and all of the players should contribute their
 thoughts when the rules are in doubt.
 
-# Common Terms
+## Common Terms
 
 The PF RPG uses a number of terms, abbreviations, and definitions
 in presenting the rules of the game. The following are among the
@@ -297,7 +299,7 @@ move action, one swift action, and a number of free actions.
 Less-common combinations of actions are permissible as well, see
 [Combat] for more details.
 
-# Generating a Character
+## Generating a Character
 
 From the sly rogue to the stalwart paladin, the PF RPG allows you
 to make the character you want to play. When generating a
@@ -363,7 +365,7 @@ well, to help you play the character during the game. Additional
 rules (like age and alignment) are described in [Additional
 Rules].
 
-# Ability Scores
+## Ability Scores
 
 Each character has six ability scores that represent his
 character's most basic attributes. They are his raw talent and
@@ -374,7 +376,7 @@ Each ability score generally ranges from 3 to 18, although racial
 bonuses and penalties can alter this; an average ability score is
 10.
 
-## Generating Ability Scores
+### Generating Ability Scores
 
 There are a number of different methods used to generate [ability
 score]s. Each of these methods gives a different level of
@@ -457,7 +459,7 @@ events, such as the PF Society (visit
 **[paizo.com/PFSociety](http://paizo.com/PFSociety)** for more
 details on this exciting campaign).
 
-### Determine Bonuses
+#### Determine Bonuses
 
 Each ability, after changes made because of race, has a modifier
 ranging from –5 to +5. [Table: Ability Modifiers and Bonus
@@ -469,7 +471,7 @@ a bonus, and a negative modifier is called a penalty. The table
 also shows bonus spells, which you'll need to know about if your
 character is a spellcaster.
 
-## Abilities and Spellcasters
+### Abilities and Spellcasters
 
 The ability that governs bonus spells depends on what type of
 spellcaster your character is: [Intelligence] for wizards;
@@ -969,12 +971,12 @@ Can't cast spells tied to this ability
 
 3
 
-## The Abilities
+### The Abilities
 
 Each ability partially describes your character and affects some
 of his actions.
 
-### Strength ) {#strength}
+#### Strength ) {#strength}
 
 Strength measures muscle and physical power. This ability is
 important for those who engage in hand-to-hand (or “melee”)
@@ -997,7 +999,7 @@ You apply your character's Strength modifier to:
 - [Climb] and [Swim] checks.  Strength checks (for breaking down
     doors and the like).
 
-### Dexterity (Dex) {#dexterity}
+#### Dexterity (Dex) {#dexterity}
 
 Dexterity measures agility, reflexes, and balance. This ability
 is the most important one for rogues, but it's also useful for
@@ -1019,7 +1021,7 @@ attacks that you can escape by moving quickly.
 - [Acrobatics], [Disable Device], [Escape Artist], [Fly], [Ride],
     [Sleight of Hand], and [Stealth] checks.
 
-### Constitution (Con) {#constitution}
+#### Constitution (Con) {#constitution}
 
 Constitution represents your character's health and stamina. A
 Constitution bonus increases a character's hit points, so the
@@ -1040,7 +1042,7 @@ If a character's Constitution score changes enough to alter his
 or her Constitution modifier, the character's hit points also
 increase or decrease accordingly.
 
-### Intelligence (Int) {#intelligence}
+#### Intelligence (Int) {#intelligence}
 
 Intelligence determines how well your character learns and
 reasons. This ability is important for wizards because it affects
@@ -1067,7 +1069,7 @@ A [wizard] gains bonus spells based on his Intelligence
 score. The minimum Intelligence score needed to cast a wizard
 spell is 10 + the spell's level.
 
-### Wisdom (Wis) {#wisdom}
+#### Wisdom (Wis) {#wisdom}
 
 Wisdom describes a character's willpower, common sense,
 awareness, and intuition. Wisdom is the most important ability
@@ -1088,7 +1090,7 @@ You apply your character's Wisdom modifier to:
 their Wisdom scores. The minimum Wisdom score needed to cast a
 cleric, druid, or ranger spell is 10 + the spell's level.
 
-### Charisma (Cha) {#charisma-new}
+#### Charisma (Cha) {#charisma-new}
 
 Charisma measures a character's personality, personal magnetism,
 ability to lead, and appearance. It is the most important ability
