@@ -17,7 +17,7 @@ epub: *.markdown # style.css Makefile
 
 info: *markdown
 	pandoc -o $(BUILDDIR)/test.texi $(FILES_ALL)
-	makeinfo $(BUILDDIR)/test.texi -o test.info --force
+	-makeinfo $(BUILDDIR)/test.texi -o test.info --force --error-limit=10000
 
 clean:
 	rm -f $(BUILDDIR)/*.html
