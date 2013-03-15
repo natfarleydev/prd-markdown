@@ -30,7 +30,7 @@ battle and ruin all who would stand in their way.
 
 The barbarian's class skills are [Acrobatics] ([Dex]), [Climb]
 ([Str]), [Craft] ([Int]), [Handle Animal] ([Cha]), [Intimidate]
-([Cha]), [Knowledge] ([Int]), [Perception] ([Wis]), [Ride]
+([Cha]), [Knowledge] (nature) ([Int]), [Perception] ([Wis]), [Ride]
 ([Dex]), [Survival] ([Wis]), and [Swim] ([Str]).
 
 **Skill Ranks per Level**: 4 +
@@ -374,7 +374,7 @@ performances.
 The bard's class skills are [Acrobatics] ([Dex]), [Appraise]
 ([Int]), [Bluff] ([Cha]), [Climb] ([Str]), [Craft] ([Int]),
 [Diplomacy] ([Cha]), [Disguise] ([Cha]), [Escape Artist] ([Dex]),
-[Intimidate] ([Cha]), [Knowledge] ([Int]), [Linguistics] ([Int]),
+[Intimidate] ([Cha]), [Knowledge] (all) ([Int]), [Linguistics] ([Int]),
 [Perception] ([Wis]), [Perform] ([Cha]), [Profession] ([Wis]),
 [Sense Motive] ([Wis]), [Sleight of Hand] ([Dex]), [Spellcraft]
 ([Int]), [Stealth] ([Dex]), and [Use Magic Device] ([Cha]).
@@ -1582,11 +1582,11 @@ axis.
 
 ### Cleric Class Skills
 
-The cleric's class skills are [Appraise] ([Int]), [Craft]
-([Int]), [Diplomacy] ([Cha]), Heal ([Wis]), [Knowledge] (arcana)
-([Int]), [Knowledge] ([Int]), [Knowledge] ([Int]), [Knowledge]
-([Int]), [Knowledge] ([Int]), [Linguistics] ([Int]), [Profession]
-([Wis]), [Sense Motive] ([Wis]), and [Spellcraft] ([Int]).
+The cleric's class skills are [Appraise] ([Int]), [Craft] ([Int]), [Diplomacy]
+([Cha]), Heal ([Wis]), [Knowledge] (arcana) ([Int]), [Knowledge] (history)
+([Int]), [Knowledge] (nobility) ([Int]), [Knowledge] (planes) ([Int]),
+[Knowledge] (religion) ([Int]), [Linguistics] ([Int]), [Profession] ([Wis]),
+[Sense Motive] ([Wis]), and [Spellcraft] ([Int]).
 
 **Skill Ranks per Level:**2 + [Int] modifier.
 
@@ -3242,9 +3242,9 @@ demigods, or even specific awe-inspiring natural wonders.
 
 The druid's class skills are [Climb] ([Str]), [Craft] ([Int]),
 [Fly] ([Dex]), [Handle Animal] ([Cha]), Heal ([Wis]), [Knowledge]
-([Int]), [Knowledge] ([Int]), [Perception] ([Wis]), [Profession]
-([Wis]), [Ride] ([Dex]), [Spellcraft] ([Int]), [Survival]
-([Wis]), and [Swim] ([Str]).
+(geography) ([Int]), [Knowledge] (nature) ([Int]), [Perception] ([Wis]),
+[Profession] ([Wis]), [Ride] ([Dex]), [Spellcraft] ([Int]),
+[Survival] ([Wis]), and [Swim] ([Str]).
 
 **Skill Ranks per Level**: 4 + [Int] modifier.
 
@@ -4018,8 +4018,8 @@ prayer in the environment where the new companion typically
 lives.  This ceremony can also replace an animal companion that
 has perished.
 
-**Nature Sense**: A druid gains a +2 bonus on [Knowledge] and
-[Survival] checks.
+**Nature Sense**: A druid gains a +2 bonus on [Knowledge]
+(nature) and [Survival] checks.
 
 **Wild Empathy**: A druid can improve the attitude of an
 animal.  This ability functions just like a [Diplomacy] check made
@@ -4507,8 +4507,9 @@ prowess.
 
 The fighter's class skills are [Climb] ([Str]), [Craft] ([Int]),
 [Handle Animal] ([Cha]), [Intimidate] ([Cha]), [Knowledge]
-([Int]), [Knowledge] ([Int]), [Profession] ([Wis]), [Ride]
-([Dex]), [Survival] ([Wis]), and [Swim] ([Str]).
+(dungeoneering) ([Int]), [Knowledge] (engineering) ([Int]),
+[Profession] ([Wis]), [Ride] ([Dex]), [Survival] ([Wis]), and
+[Swim] ([Str]).
 
 **Skill Ranks per Level**: 2 + [Int] modifier.
 
@@ -4685,7 +4686,7 @@ wherever they are needed most.
 
 The monk's class skills are [Acrobatics] ([Dex]), [Climb]
 ([Str]), [Craft] ([Int]), [Escape Artist] ([Dex]), [Intimidate]
-([Cha]), [Knowledge] ([Int]), [Knowledge] ([Int]), [Perception]
+([Cha]), [Knowledge] (history) ([Int]), [Knowledge] (religion) ([Int]), [Perception]
 ([Wis]), [Perform] ([Cha]), [Profession] ([Wis]), [Ride] ([Dex]),
 [Sense Motive] ([Wis]), [Stealth] ([Dex]), and [Swim] ([Str]).
 
@@ -5012,8 +5013,9 @@ blessing the fallen with the strength to continue fighting.
 
 The paladin's class skills are [Craft] ([Int]), [Diplomacy]
 ([Cha]), [Handle Animal] ([Cha]), Heal ([Wis]), [Knowledge]
-([Int]), [Knowledge] ([Int]), [Profession] ([Wis]), [Ride]
-([Dex]), [Sense Motive] ([Wis]), and [Spellcraft] ([Int]).
+(nobility) ([Int]), [Knowledge] (religion) ([Int]), [Profession]
+([Wis]), [Ride] ([Dex]), [Sense Motive] ([Wis]), and [Spellcraft]
+([Int]).
 
 **Skill Ranks per Level**: 2 + [Int] modifier.
 
@@ -5780,10 +5782,10 @@ enemies.
 
 The ranger's class skills are [Climb] ([Str]), [Craft] ([Int]),
 [Handle Animal] ([Cha]), Heal ([Wis]), [Intimidate] ([Cha]),
-[Knowledge] ([Int]), [Knowledge] ([Int]), [Knowledge] ([Int]),
-[Perception] ([Wis]), [Profession] ([Wis]), [Ride] ([Dex]),
-[Spellcraft] ([Int]), [Stealth] ([Dex]), [Survival] ([Wis]), and
-[Swim] ([Str]).
+[Knowledge] (dungeoneering) ([Int]), [Knowledge] (geography)
+([Int]), [Knowledge] (nature) ([Int]), [Perception] ([Wis]),
+[Profession] ([Wis]), [Ride] ([Dex]), [Spellcraft] ([Int]),
+[Stealth] ([Dex]), [Survival] ([Wis]), and [Swim] ([Str]).
 
 **Skill Ranks per Level**: 6 + [Int] modifier.
 
@@ -6344,7 +6346,7 @@ level.
 
 **Favored Terrain**: At 3rd level, a ranger may select a type
 of terrain from the Favored Terrains table.  The ranger gains a +2
-bonus on initiative checks and [Knowledge] , [Perception],
+bonus on initiative checks and [Knowledge] (geography), [Perception],
 [Stealth], and [Survival] [skill checks] when he is in this
 terrain.  A ranger traveling through his favored terrain normally
 leaves no trail and cannot be tracked (though he may leave a
@@ -6522,10 +6524,11 @@ The rogue's class skills are [Acrobatics] ([Dex]), [Appraise]
 ([Int]), [Bluff] ([Cha]), [Climb] ([Str]), [Craft] ([Int]),
 [Diplomacy] ([Cha]), [Disable Device] ([Dex]), [Disguise]
 ([Cha]), [Escape Artist] ([Dex]), [Intimidate] ([Cha]),
-[Knowledge] ([Int]), [Knowledge] ([Int]), [Linguistics] ([Int]),
-[Perception] ([Wis]), [Perform] ([Cha]), [Profession] ([Wis]),
-[Sense Motive] ([Wis]), [Sleight of Hand] ([Dex]), [Stealth]
-([Dex]), [Swim] ([Str]), and [Use Magic Device] ([Cha]).
+[Knowledge] (dungeoneering) ([Int]), [Knowledge] (local) ([Int]),
+[Linguistics] ([Int]), [Perception] ([Wis]), [Perform] ([Cha]),
+[Profession] ([Wis]), [Sense Motive] ([Wis]), [Sleight of Hand]
+([Dex]), [Stealth] ([Dex]), [Swim] ([Str]), and [Use Magic
+Device] ([Cha]).
 
 **Skill Ranks per Level**: 8 + [Int] modifier.
 
@@ -8019,7 +8022,7 @@ You tend to think in odd ways, approaching problems from an angle
 that most would not expect.  Over time, this taint manifests
 itself in your physical form.
 
-**Class Skill**: [Knowledge] .
+**Class Skill**: [Knowledge] (dungeoneering).
 
 **Bonus Spells**: *[enlarge person]* (3rd), *[see invisibility]*
 , *[tongues]* , *[black tentacles]* , *[feeblemind]* , *[veil]*,
@@ -8071,7 +8074,7 @@ While it does not manifest in all of your kin, for you it is
 particularly strong.  You might sometimes have urges to chaos or
 evil, but your destiny (and [alignment]) is up to you.
 
-**Class Skill**: [Knowledge] .
+**Class Skill**: [Knowledge] (planes).
 
 **Bonus Spells**: *[cause fear]* (3rd), *[bull's strength]* ,
 *[rage]* , *[stoneskin]* , *[dismissal]* , *[transformation]* ,
@@ -8257,7 +8260,7 @@ during an especially auspicious event, such as a solar eclipse.
 Regardless of your bloodline's origin, you have a great future
 ahead.
 
-**Class Skill**: [Knowledge] .
+**Class Skill**: [Knowledge] (history).
 
 **Bonus Spells**:*[alarm]* (3rd), [blur]* , *[protection from
 *energy]* , *[freedom of movement]* , *[break enchantment]*,
@@ -8396,7 +8399,7 @@ hardly control its fury.  This influence comes from an elemental
 outsider in your family history or a time when you or your
 relatives were exposed to a powerful elemental force.
 
-**Class Skill**: [Knowledge] .
+**Class Skill**: [Knowledge] (planes).
 
 **Bonus Spells**: *[burning hands]*\* (3rd), *[scorching ray]*\*
 , *[protection from energy]* , *[elemental body I]* , *[elemental
@@ -8467,7 +8470,7 @@ The capricious nature of the fey runs in your family due to some
 intermingling of fey blood or magic.  You are more emotional than
 most, prone to bouts of joy and rage.
 
-**Class Skill**: [Knowledge] .
+**Class Skill**: [Knowledge] (nature).
 
 **Bonus Spells**: [entangle]*(3rd), *[hideous laughter]* , *[deep
 *slumber]* , *[poison]* , *[tree stride]* , [mislead]* , *[phase
@@ -8586,7 +8589,7 @@ your ancestors became a powerful lich or vampire, or maybe you
 were born dead before suddenly returning to life.  Either way, the
 forces of death move through you and touch your every action.
 
-**Class Skill**: [Knowledge] .
+**Class Skill**: [Knowledge] (religion).
 
 **Bonus Spells**: *[chill touch]* (3rd), *[false life]* ,
 *[vampiric touch]* , *[animate dead]* , *[waves of fatigue]* ,
@@ -8682,7 +8685,7 @@ any danger.
 #### Wizard Class Skills
 
 The wizard's class skills are [Appraise] ([Int]), [Craft]
-([Int]), [Fly] ([Dex]), [Knowledge] ([Int]), [Linguistics]
+([Int]), [Fly] ([Dex]), [Knowledge] (all) ([Int]), [Linguistics]
 ([Int]), [Profession] ([Wis]), and [Spellcraft] ([Int]).
 
 **Skill Ranks per Level**: 2 + [Int] modifier.
