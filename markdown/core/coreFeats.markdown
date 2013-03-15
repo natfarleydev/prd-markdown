@@ -16,7 +16,7 @@ ability to take actions otherwise prohibited to you. By selecting
 feats, you can customize and adapt your character to be uniquely
 yours.
 
-# Prerequisites
+## Prerequisites
 
 Some feats have prerequisites. Your character must have the
 indicated ability score, class feature, feat, skill, base attack
@@ -29,7 +29,7 @@ does not lose the feat itself. If, at a later time, he regains
 the lost prerequisite, he immediately regains full use of the
 feat that prerequisite enables.
 
-# Types of Feats
+## Types of Feats
 
 Some feats are general, meaning that no special rules govern them
 as a group. Others are item creation feats, which allow
@@ -38,14 +38,14 @@ lets a spellcaster prepare and cast a spell with greater effect,
 albeit as if the spell were of a higher spell level than it
 actually is.
 
-## Combat Feats
+### Combat Feats
 
 Any feat designated as a combat feat can be selected as a
 fighter's bonus feat. This designation does not restrict
 characters of other classes from selecting these feats, assuming
 that they meet the prerequisites.
 
-## Critical Feats
+### Critical Feats
 
 Critical feats modify the effects of a critical hit by inflicting
 an additional condition on the victim of the critical hit.
@@ -54,7 +54,7 @@ effects of one critical feat to an individual critical hit.
 Characters with multiple critical feats can decide which feat to
 apply after the critical hit has been confirmed.
 
-## [Item Creation Feats]
+### [Item Creation Feats]
 
 An item creation feat lets a character create a magic item of a
 certain type. Regardless of the type of item each involves, the
@@ -111,7 +111,7 @@ rushed or does not meet all of the prerequisites. A failed check
 ruins the materials used, while a check that fails by 5 or more
 results in a cursed item. See [Magic Items] for more details.
 
-## [Metamagic Feats]
+### [Metamagic Feats]
 
 As a spellcaster's knowledge of magic grows, he can learn to cast
 spells in ways slightly different from the norm. Preparing and
@@ -193,7 +193,7 @@ been enhanced by a metamagic feat does not affect its
 vulnerability to counterspelling or its ability to counterspell
 another spell ).
 
-# Feat Descriptions
+## Feat Descriptions
 
 Feats are summarized on Table: Feats below. Note that the
 prerequisites and benefits of the feats on this table are
@@ -1307,7 +1307,7 @@ Double spell area
 \* This is a combat feat and can be selected as a fighter bonus
 feat
 
-## Acrobatic
+### Acrobatic
 
 You are skilled at leaping, jumping, and flying.
 
@@ -1315,7 +1315,7 @@ You are skilled at leaping, jumping, and flying.
 skill checks. If you have 10 or more ranks in one of these
 skills, the bonus increases to +4 for that skill.
 
-## Acrobatic Steps
+### Acrobatic Steps
 
 You can easily move over and through obstacles.
 
@@ -1327,7 +1327,9 @@ terrain. The effects of this feat stack with those provided by
 [Nimble Moves] (allowing you to move normally through a total of
 20 feet of difficult terrain each round).
 
-## Agile Maneuvers (Combat) {#agile-maneuvers}
+### Agile Maneuvers
+
+Type of Feat: Combat
 
 You've learned to use your quickness in place of brute force when
 performing combat maneuvers.
@@ -1339,7 +1341,7 @@ Bonus] (see [Combat]) instead of your Strength bonus.
 **Normal:** You add your Strength bonus to your base attack bonus
 and size bonus when determining your [Combat Maneuver Bonus].
 
-## Alertness
+### Alertness
 
 You often notice things that others might miss.
 
@@ -1347,7 +1349,7 @@ You often notice things that others might miss.
 Motive] skill checks. If you have 10 or more ranks in one of
 these skills, the bonus increases to +4 for that skill.
 
-## Alignment Channel
+### Alignment Channel
 
 Choose chaos, evil, good, or law. You can channel divine energy
 to affect outsiders that possess this subtype.
@@ -1367,7 +1369,7 @@ do not stack. Each time you take this feat, it applies to a new
 alignment subtype. Whenever you channel energy, you must choose
 which type to effect.
 
-## Animal Affinity
+### Animal Affinity
 
 You are skilled at working with animals and mounts.
 
@@ -1375,7 +1377,9 @@ You are skilled at working with animals and mounts.
 skill checks. If you have 10 or more ranks in one of these
 skills, the bonus increases to +4 for that skill.
 
-## Arcane Armor Mastery (Combat) {#arcane-armor-mastery}
+### Arcane Armor Mastery
+
+Type of Feat: Combat
 
 You have mastered the ability to cast spells while wearing armor.
 
@@ -1387,7 +1391,9 @@ chance due to the armor you are wearing by 20% for any spells you
 cast this round. This bonus replaces, and does not stack with,
 the bonus granted by [Arcane Armor Training].
 
-## Arcane Armor Training (Combat) {#arcane-armor-training}
+### Arcane Armor Training
+
+Type of Feat: Combat
 
 You have learned how to cast spells while wearing armor.
 
@@ -1397,7 +1403,9 @@ You have learned how to cast spells while wearing armor.
 chance due to the armor you are wearing by 10% for any spells you
 cast this round.
 
-## Arcane Strike (Combat) {#arcane-strike}
+### Arcane Strike
+
+Type of Feat: Combat
 
 You draw upon your arcane power to enhance your weapons with
 magical energy.
@@ -1410,7 +1418,9 @@ and are treated as magic for the purpose of overcoming damage
 reduction. For every five caster levels you possess, this bonus
 increases by +1, to a maximum of +5 at 20th level.
 
-## Armor Proficiency, Heavy (Combat) {#armor-proficiency-heavy}
+### Armor Proficiency, Heavy
+
+Type of Feat: Combat
 
 You are skilled at wearing heavy armor.
 
@@ -1424,7 +1434,9 @@ You are skilled at wearing heavy armor.
 **Special:** Fighters and paladins automatically have Heavy Armor
 Proficiency as a bonus feat. They need not select it.
 
-## Armor Proficiency, Light (Combat) {#armor-proficiency-light}
+### Armor Proficiency, Light
+
+Type of Feat: Combat
 
 You are skilled at wearing light armor.
 
@@ -1440,7 +1452,9 @@ all skill checks that involve moving.
 automatically have Light Armor Proficiency as a bonus feat. They
 need not select it.
 
-## Armor Proficiency, Medium (Combat) {#armor-proficiency-medium}
+### Armor Proficiency, Medium
+
+Type of Feat: Combat
 
 You are skilled at wearing medium armor.
 
@@ -1454,7 +1468,7 @@ You are skilled at wearing medium armor.
 rangers automatically have Medium Armor Proficiency as a bonus
 feat. They need not select it.
 
-## Athletic
+### Athletic
 
 You possess inherent physical prowess.
 
@@ -1462,7 +1476,7 @@ You possess inherent physical prowess.
 checks. If you have 10 or more ranks in one of these skills, the
 bonus increases to +4 for that skill.
 
-## Augment Summoning
+### Augment Summoning
 
 Your summoned creatures are more powerful and robust.
 
@@ -1472,7 +1486,9 @@ Your summoned creatures are more powerful and robust.
 gains a +4 enhancement bonus to Strength and [Constitution] for
 the duration of the spell that summoned it.
 
-## Bleeding Critical (Combat, Critical) {#bleeding-critical}
+### Bleeding Critical
+
+Type of Feat: Combat, Critical
 
 Your critical hits cause opponents to bleed profusely.
 
@@ -1488,7 +1504,9 @@ stack.
 **Special:** You can only apply the effects of one critical feat
 to a given critical hit unless you possess Critical Mastery.
 
-## Blind-Fight (Combat) {#blind-fight}
+### Blind-Fight
+
+Type of Feat: Combat
 
 You are skilled at attacking opponents that you cannot clearly
 perceive.
@@ -1514,7 +1532,9 @@ visibility also applies.
 **Special:** The Blind-Fight feat is of no use against a
 character who is the subject of a *blink*spell.
 
-## Blinding Critical (Combat, Critical) {#blinding-critical}
+### Blinding Critical
+
+Type of Feat: Combat, Critical
 
 Your critical hits blind your opponents.
 
@@ -1532,7 +1552,9 @@ blindness, at the GM's discretion). Blindness can be cured by
 **Special:** You can only apply the effects of one critical feat
 to a given critical hit unless you possess Critical Mastery.
 
-## Brew Potion (Item Creation) {#brew-potion}
+### Brew Potion
+
+Type of Feat: Item Creation
 
 You can create magic potions.
 
@@ -1553,7 +1575,9 @@ When you create a potion, you make any choices that you would
 normally make when casting the spell. Whoever drinks the potion
 is the target of the spell.
 
-## Catch Off-Guard (Combat) {#catch-off-guard}
+### Catch Off-Guard
+
+Type of Feat: Combat
 
 Foes are surprised by your skilled use of unorthodox and
 improvised weapons.
@@ -1565,7 +1589,9 @@ against any attacks you make with an improvised melee weapon.
 **Normal:** You take a –4 penalty on attack rolls made with an
 improvised weapon.
 
-## Channel Smite (Combat) {#channel-smite}
+### Channel Smite
+
+Type of Feat: Combat
 
 You can channel your divine energy through a melee weapon you
 wield.
@@ -1584,7 +1610,9 @@ ability. Your target can make a [Will] save, as normal, to halve
 this additional damage. If your attack misses, the channel energy
 ability is still expended with no effect.
 
-## Cleave (Combat) {#cleave}
+### Cleave
+
+Type of Feat: Combat
 
 You can strike two adjacent foes with a single swing.
 
@@ -1600,7 +1628,7 @@ one additional attack per round with this feat. When you use this
 feat, you take a –2 penalty to your [Armor Class] until your next
 turn.
 
-## Combat Casting
+### Combat Casting
 
 You are adept at spellcasting when threatened or distracted.
 
@@ -1608,7 +1636,9 @@ You are adept at spellcasting when threatened or distracted.
 cast a spell or use a spell-like ability when casting on the
 defensive or while [grappled].
 
-## Combat Expertise (Combat) {#combat-expertise}
+### Combat Expertise
+
+Type of Feat: Combat
 
 You can increase your defense at the expense of your accuracy.
 
@@ -1623,7 +1653,9 @@ you declare that you are making an attack or a full-attack action
 with a melee weapon. The effects of this feat last until your
 next turn.
 
-## Combat Reflexes (Combat) {#combat-reflexes}
+### Combat Reflexes
+
+Type of Feat: Combat
 
 You can make additional attacks of opportunity.
 
@@ -1639,7 +1671,7 @@ opportunity while [flat-footed].
 **Special:** The Combat Reflexes feat does not allow a rogue to
 use her opportunist ability more than once per round.
 
-## Command Undead
+### Command Undead
 
 Using foul powers of necromancy, you can command undead
 creatures, making them into your servants.
@@ -1661,8 +1693,10 @@ creatures). If an undead creature is under the control of another
 creature, you must make an opposed [Charisma] check whenever your
 orders conflict.
 
-## Craft Magic Arms and Armor (Item Creation)
-   {#craft-magic-arms-and-armor}
+### Craft Magic Arms and Armor 
+
+Type of Feat: Item Creation
+ 
 
 You can create magic armor, shields, and weapons.
 
@@ -1684,7 +1718,9 @@ if it is one that you could make. Doing so costs half the raw
 materials and half the time it would take to craft that item in
 the first place.
 
-## Craft Rod (Item Creation) {#craft-rod}
+### Craft Rod
+
+Type of Feat: Item Creation
 
 You can create magic rods.
 
@@ -1695,7 +1731,9 @@ day for each 1,000 gp in its base price. To craft a rod, you must
 use up raw materials costing half of its base price. See the
 magic item creation rules in [Magic Items] for more information.
 
-## Craft Staff (Item Creation) {#craft-staff}
+### Craft Staff
+
+Type of Feat: Item Creation
 
 You can create magic staves.
 
@@ -1708,7 +1746,9 @@ half of its base price. A newly created staff has 10 charges. See
 the magic item creation rules in [Magic Items] for more
 information.
 
-## Craft Wand (Item Creation) {#craft-wand}
+### Craft Wand
+
+Type of Feat: Item Creation
 
 You can create magic wands.
 
@@ -1721,7 +1761,9 @@ materials costing half of this base price. A newly created wand
 has 50 charges. See the magic item creation rules in [Magic
 Items] for more information.
 
-## Craft Wondrous Item (Item Creation) {#craft-wondrous-item}
+### Craft Wondrous Item
+
+Type of Feat: Item Creation
 
 You can create wondrous items, a type of magic item.
 
@@ -1737,7 +1779,9 @@ You can also mend a broken wondrous item if it is one that you
 could make. Doing so costs half the raw materials and half the
 time it would take to craft that item.
 
-## Critical Focus (Combat) {#critical-focus}
+### Critical Focus
+
+Type of Feat: Combat
 
 You are trained in the art of causing pain.
 
@@ -1746,7 +1790,9 @@ You are trained in the art of causing pain.
 **Benefit:** You receive a +4 circumstance bonus on attack rolls
 made to confirm critical hits.
 
-## Critical Mastery (Combat) {#critical-mastery}
+### Critical Mastery
+
+Type of Feat: Combat
 
 Your critical hits cause two additional effects.
 
@@ -1759,7 +1805,9 @@ effects of two critical feats in addition to the damage dealt.
 **Normal:** You can only apply the effects of one critical feat
 to a given critical hit in addition to the damage dealt.
 
-## Dazzling Display (Combat) {#dazzling-display}
+### Dazzling Display
+
+Type of Feat: Combat
 
 Your skill with your favored weapon can frighten enemies.
 
@@ -1771,7 +1819,9 @@ Focus], you can perform a bewildering show of prowess as a
 full-round action. Make an [Intimidate] check to demoralize all
 foes within 30 feet who can see your display.
 
-## Deadly Aim (Combat) {#deadly-aim}
+### Deadly Aim
+
+Type of Feat: Combat
 
 You can make exceptionally deadly ranged attacks by pinpointing a
 foe's weak spot, at the expense of making the attack less likely
@@ -1788,7 +1838,9 @@ its effects last until your next turn. The bonus damage does not
 apply to touch attacks or effects that do not deal hit point
 damage.
 
-## Deadly Stroke (Combat) {#deadly-stroke}
+### Deadly Stroke
+
+Type of Feat: Combat
 
 With a well-placed strike, you can bring a swift and painful end
 to most foes.
@@ -1804,7 +1856,9 @@ the normal damage and the target takes 1 point of [Constitution]
 [bleed] (see [Conditions]). The additional damage and [bleed] is
 not multiplied on a critical hit.
 
-## Deafening Critical (Combat, Critical) {#deafening-critical}
+### Deafening Critical
+
+Type of Feat: Combat, Critical
 
 Your critical hits cause enemies to lose their hearing.
 
@@ -1820,7 +1874,7 @@ by *heal, regeneration, remove deafness,*or a similar ability.
 **Special:** You can only apply the effects of one critical feat
 to a given critical hit unless you possess Critical Mastery.
 
-## Deceitful
+### Deceitful
 
 You are skilled at deceiving others, both with the spoken word
 and with physical disguises.
@@ -1829,8 +1883,10 @@ and with physical disguises.
 skill checks. If you have 10 or more ranks in one of these
 skills, the bonus increases to +4 for that skill.
 
-## Defensive Combat Training (Combat)
-   {#defensive-combat-training}
+### Defensive Combat Training 
+
+Type of Feat: Combat
+ 
 
 You excel at defending yourself from all manner of combat
 maneuvers.
@@ -1839,7 +1895,9 @@ maneuvers.
 bonus when calculating your [Combat Maneuver Defense] (see
 [Combat]).
 
-## Deflect Arrows (Combat) {#deflect-arrows}
+### Deflect Arrows
+
+Type of Feat: Combat
 
 You can knock arrows and other projectiles off course, preventing
 them from hitting you.
@@ -1855,7 +1913,7 @@ doesn't count as an action. Unusually massive ranged weapons
 (such as boulders or ballista bolts) and ranged attacks generated
 by natural attacks or spell effects can't be deflected.
 
-## Deft Hands
+### Deft Hands
 
 You have exceptional manual dexterity.
 
@@ -1863,7 +1921,7 @@ You have exceptional manual dexterity.
 of Hand] skill checks. If you have 10 or more ranks in one of
 these skills, the bonus increases to +4 for that skill.
 
-## Diehard
+### Diehard
 
 You are especially hard to kill. Not only do your wounds
 automatically stabilize when grievously injured, but you can
@@ -1891,7 +1949,9 @@ negative hit points are equal to or greater than your
 **Normal:** A character without this feat who is reduced to
 negative hit points is [unconscious] and [dying].
 
-## Disruptive (Combat) {#disruptive}
+### Disruptive
+
+Type of Feat: Combat
 
 Your training makes it difficult for enemy spellcasters to safely
 cast spells near you.
@@ -1906,7 +1966,9 @@ of opportunity. If you can only take one attack of opportunity
 per round and have already used that attack, this increase does
 not apply.
 
-## Dodge (Combat) {#dodge}
+### Dodge
+
+Type of Feat: Combat
 
 Your training and reflexes allow you to react swiftly to avoid an
 opponents' attacks.
@@ -1917,7 +1979,9 @@ opponents' attacks.
 condition that makes you lose your [Dex] bonus to [AC] also makes
 you lose the benefits of this feat.
 
-## Double Slice (Combat) {#double-slice}
+### Double Slice
+
+Type of Feat: Combat
 
 Your off-hand weapon while dual-wielding strikes with greater
 power.
@@ -1930,7 +1994,7 @@ your off-hand weapon.
 **Normal:** You normally add only half of your Strength modifier
 to damage rolls made with a weapon wielded in your off-hand.
 
-## Elemental Channel
+### Elemental Channel
 
 Choose one elemental subtype, such as air, earth, fire, or water.
 You can channel your divine energy to harm or heal outsiders that
@@ -1950,7 +2014,9 @@ halve the damage is otherwise unchanged.
 do not stack. Each time you take this feat, it applies to a new
 elemental subtype.
 
-## Empower Spell (Metamagic) {#empower-spell}
+### Empower Spell
+
+Type of Feat: Metamagic
 
 You can increase the power of your spells, causing them to deal
 more damage.
@@ -1962,7 +2028,7 @@ Saving throws and opposed rolls are not affected, nor are spells
 without random variables. An empowered spell uses up a spell slot
 two levels higher than the spell’s actual level.
 
-## Endurance
+### Endurance
 
 Harsh conditions or long exertions do not easily tire you.
 
@@ -1982,7 +2048,9 @@ You may sleep in light or medium armor without becoming
 **Normal:** A character without this feat who sleeps in medium or
 heavier armor is [fatigued] the next day.
 
-## Enlarge Spell (Metamagic) {#enlarge-spell}
+### Enlarge Spell
+
+Type of Feat: Metamagic
 
 You can increase the range of your spells.
 
@@ -1998,7 +2066,7 @@ Spells whose ranges are not defined by distance, as well as
 spells whose ranges are not close, medium, or long, do not
 benefit from this feat.
 
-## Eschew Materials
+### Eschew Materials
 
 You can cast many spells without needing to utilize minor
 material components.
@@ -2010,7 +2078,9 @@ the spell requires a material component that costs more than 1
 gp, you must have the material component on hand to cast the
 spell, as normal.
 
-## Exhausting Critical (Combat, Critical) {#exhausting-critical}
+### Exhausting Critical
+
+Type of Feat: Combat, Critical
 
 Your critical hits cause opponents to become exhausted.
 
@@ -2025,8 +2095,10 @@ exhausted creatures.
 to a given critical hit unless you possess the Critical Mastery
 feat.
 
-## Exotic Weapon Proficiency (Combat)
-   {#exotic-weapon-proficiency}
+### Exotic Weapon Proficiency 
+
+Type of Feat: Combat
+ 
 
 Choose one type of exotic weapon, such as the spiked chain or
 whip. You understand how to use that type of exotic weapon in
@@ -2044,7 +2116,9 @@ proficient takes a –4 penalty on attack rolls.
 times. Each time you take the feat, it applies to a new type of
 exotic weapon.
 
-## Extend Spell (Metamagic) {#extend-spell}
+### Extend Spell
+
+Type of Feat: Metamagic
 
 You can make your spells last twice as long.
 
@@ -2053,7 +2127,7 @@ spell with a duration of concentration, instantaneous, or
 permanent is not affected by this feat. An extended spell uses up
 a spell slot one level higher than the spell's actual level.
 
-## Extra Channel
+### Extra Channel
 
 You can channel divine energy more often.
 
@@ -2065,7 +2139,7 @@ You can channel divine energy more often.
 energy takes this feat, she can use lay on hands four additional
 times a day, but only to channel positive energy.
 
-## Extra Ki
+### Extra Ki
 
 You can use your *ki* pool more times per day than most.
 
@@ -2076,7 +2150,7 @@ You can use your *ki* pool more times per day than most.
 **Special:** You can gain Extra *Ki* multiple times. Its effects
   stack.
 
-## Extra Lay On Hands
+### Extra Lay On Hands
 
 You can use your lay on hands ability more often.
 
@@ -2088,7 +2162,7 @@ You can use your lay on hands ability more often.
 **Special:** You can gain Extra Lay On Hands multiple times. Its
   effects stack.
 
-## Extra Mercy
+### Extra Mercy
 
 Your lay on hands ability adds an additional mercy.
 
@@ -2102,7 +2176,7 @@ receives the additional effects of this mercy.
 **Special:** You can gain this feat multiple times. Its effects
 do not stack. Each time you take this feat, select a new mercy.
 
-## Extra Performance
+### Extra Performance
 
 You can use your bardic performance ability more often than
 normal.
@@ -2115,7 +2189,7 @@ normal.
 **Special:** You can gain Extra Performance multiple times. Its
   effects stack.
 
-## Extra Rage
+### Extra Rage
 
 You can use your rage ability more than normal.
 
@@ -2126,7 +2200,9 @@ You can use your rage ability more than normal.
 **Special:** You can gain Extra Rage multiple times. Its effects
   stack.
 
-## Far Shot (Combat) {#far-shot}
+### Far Shot
+
+Type of Feat: Combat
 
 You are more accurate at longer ranges.
 
@@ -2138,7 +2214,7 @@ increment between you and your target when using a ranged weapon.
 **Normal:** You suffer a –2 penalty per full range increment
 between you and your target.
 
-## Fleet
+### Fleet
 
 You are faster than most.
 
@@ -2149,7 +2225,9 @@ you carry a medium or heavy load.
 **Special:** You can take this feat multiple times. The effects
   stack.
 
-## Forge Ring (Item Creation) {#forge-ring}
+### Forge Ring
+
+Type of Feat: Item Creation
 
 You can create magic rings.
 
@@ -2164,7 +2242,9 @@ You can also mend a broken ring if it is one that you could make.
 Doing so costs half the raw materials and half the time it would
 take to forge that ring in the first place.
 
-## Gorgon's Fist (Combat) {#gorgon-s-fist}
+### Gorgon's Fist
+
+Type of Feat: Combat
 
 With one well-placed blow, you leave your target reeling.
 
@@ -2179,7 +2259,9 @@ unless it makes a [Fortitude] saving throw (DC 10 + 1/2 your
 character level + your [Wis] modifier). This feat has no effect
 on targets that are staggered.
 
-## Great Cleave (Combat) {#great-cleave}
+### Great Cleave
+
+Type of Feat: Combat
 
 You can strike many adjacent foes with a single blow.
 
@@ -2197,13 +2279,15 @@ attack an individual foe more than once during this attack
 action. When you use this feat, you take a –2 penalty to your
 [Armor Class] until your next turn.
 
-## Great Fortitude
+### Great Fortitude
 
 You are resistant to poisons, diseases, and other maladies.
 
 **Benefit:** You get a +2 bonus on all [Fortitude] saving throws.
 
-## Greater Bull Rush (Combat) {#greater-bull-rush}
+### Greater Bull Rush
+
+Type of Feat: Combat
 
 Your bull rush attacks throw enemies off balance.
 
@@ -2219,7 +2303,9 @@ you).
 **Normal:** Creatures moved by [bull rush] do not provoke attacks
 of opportunity.
 
-## Greater Disarm (Combat) {#greater-disarm}
+### Greater Disarm
+
+Type of Feat: Combat
 
 You can knock weapons far from an enemy's grasp.
 
@@ -2235,7 +2321,9 @@ direction.
 **Normal:** Disarmed weapons and gear land at the feet of the
   disarmed creature.
 
-## Greater Feint (Combat) {#greater-feint}
+### Greater Feint
+
+Type of Feat: Combat
 
 You are skilled at making foes overreact to your attacks.
 
@@ -2250,7 +2338,9 @@ against your next attack.
 **Normal:** A creature you feint loses its [Dexterity] bonus
 against your next attack.
 
-## Greater Grapple (Combat) {#greater-grapple}
+### Greater Grapple
+
+Type of Feat: Combat
 
 Maintaining a grapple is second nature to you.
 
@@ -2267,7 +2357,9 @@ need to succeed at one of these checks to maintain the [grapple].
 
 **Normal:** Maintaining a [grapple] is a standard action.
 
-## Greater Overrun (Combat) {#greater-overrun}
+### Greater Overrun
+
+Type of Feat: Combat
 
 Enemies must dive to avoid your dangerous move.
 
@@ -2282,8 +2374,10 @@ of opportunity if they are knocked [prone] by your [overrun].
 **Normal:** Creatures knocked [prone] by your [overrun] do not
 provoke an attack of opportunity.
 
-## Greater Penetrating Strike (Combat)
-   {#greater-penetrating-strike}
+### Greater Penetrating Strike 
+
+Type of Feat: Combat
+ 
 
 Your attacks penetrate the defenses of most foes.
 
@@ -2295,7 +2389,9 @@ Focus] ignore up to 10 points of damage reduction. This amount is
 reduced to 5 points for damage reduction without a type (such as
 DR 10/—).
 
-## Greater Shield Focus (Combat) {#greater-shield-focus}
+### Greater Shield Focus
+
+Type of Feat: Combat
 
 You are skilled at deflecting blows with your shield.
 
@@ -2306,7 +2402,7 @@ attack bonus +1, 8th-level fighter.
 are using by 1. This bonus stacks with the bonus granted by
 [Shield Focus].
 
-## Greater Spell Focus
+### Greater Spell Focus
 
 Choose a school of magic to which you have already applied the
 [Spell Focus] feat. Any spells you cast of this school are very
@@ -2322,7 +2418,7 @@ stacks with the bonus from [Spell Focus].
 do not stack. Each time you take the feat, it applies to a new
 school to which you already have applied the [Spell Focus] feat.
 
-## Greater Spell Penetration
+### Greater Spell Penetration
 
 Your spells break through spell resistance much more easily than
 most.
@@ -2333,7 +2429,9 @@ most.
 caster level) made to overcome a creature's spell resistance.
 This bonus stacks with the one from [Spell Penetration].
 
-## Greater Sunder (Combat) {#greater-sunder}
+### Greater Sunder
+
+Type of Feat: Combat
 
 Your devastating strikes cleave through weapons and armor and
 into their wielders, damaging both item and wielder alike in a
@@ -2349,7 +2447,9 @@ suit of armor, any excess damage is applied to the item's
 wielder. No damage is transferred if you decide to leave the item
 with 1 hit point.
 
-## Greater Trip (Combat) {#greater-trip}
+### Greater Trip
+
+Type of Feat: Combat
 
 You can make free attacks on foes that you knock down.
 
@@ -2364,8 +2464,10 @@ provokes attacks of opportunity.
 **Normal:** Creatures do not provoke attacks of opportunity from
   being tripped.
 
-## Greater Two-Weapon Fighting (Combat)
-   {#greater-two-weapon-fighting}
+### Greater Two-Weapon Fighting 
+
+Type of Feat: Combat
+ 
 
 You are incredibly skilled at fighting with two weapons at the
 same time.
@@ -2376,7 +2478,9 @@ same time.
 **Benefit:** You get a third attack with your off-hand weapon,
 albeit at a –10 penalty.
 
-## Greater Vital Strike (Combat) {#greater-vital-strike}
+### Greater Vital Strike
+
+Type of Feat: Combat
 
 You can make a single attack that deals incredible damage.
 
@@ -2391,7 +2495,9 @@ weapon abilities (such as [*flaming*]), precision based damage,
 and other damage bonuses. These extra weapon damage dice are not
 multiplied on a critical hit, but are added to the total.
 
-## Greater Weapon Focus (Combat) {#greater-weapon-focus}
+### Greater Weapon Focus
+
+Type of Feat: Combat
 
 Choose one type of weapon (including unarmed strike or [grapple])
 for which you have already selected [Weapon Focus]. You are a
@@ -2409,8 +2515,10 @@ attack rolls, including those from [Weapon Focus].
 Its effects do not stack. Each time you take the feat, it applies
 to a new type of weapon.
 
-## Greater Weapon Specialization (Combat)
-   {#greater-weapon-specialization}
+### Greater Weapon Specialization 
+
+Type of Feat: Combat
+ 
 
 Choose one type of weapon (including unarmed strike or [grapple])
 for which you possess the [Weapon Specialization] feat. Your
@@ -2430,7 +2538,9 @@ Specialization].
 times. Its effects do not stack. Each time you take the feat, it
 applies to a new type of weapon.
 
-## Heighten Spell (Metamagic) {#heighten-spell}
+### Heighten Spell
+
+Type of Feat: Metamagic
 
 You can cast spells as if they were a higher level.
 
@@ -2443,7 +2553,9 @@ globe of invulnerability*) are calculated according to the
 heightened level. The heightened spell is as difficult to prepare
 and cast as a spell of its effective level.
 
-## Improved Bull Rush (Combat) {#improved-bull-rush}
+### Improved Bull Rush
+
+Type of Feat: Combat
 
 You are skilled at pushing your foes around.
 
@@ -2458,7 +2570,7 @@ opponent tries to [bull rush] you.
 **Normal:** You provoke an attack of opportunity when performing
 a [bull rush] combat maneuver.
 
-## Improved Channel
+### Improved Channel
 
 Your channeled energy is harder to resist.
 
@@ -2467,7 +2579,7 @@ Your channeled energy is harder to resist.
 **Benefit:** Add 2 to the DC of saving throws made to resist the
 effects of your channel energy ability.
 
-## Improved Counterspell
+### Improved Counterspell
 
 You are skilled at countering the spells of others using similar
 spells.
@@ -2480,7 +2592,9 @@ target spell.
 the same spell or with a spell specifically designated as
 countering the target spell.
 
-## Improved Critical (Combat) {#improved-critical}
+### Improved Critical
+
+Type of Feat: Combat
 
 Attacks made with your chosen weapon are quite deadly.
 
@@ -2496,7 +2610,9 @@ a new type of weapon.
 This effect doesn't stack with any other effect that expands the
 threat range of a weapon.
 
-## Improved Disarm (Combat) {#improved-disarm}
+### Improved Disarm
+
+Type of Feat: Combat
 
 You are skilled at knocking weapons from a foe's grasp.
 
@@ -2511,7 +2627,7 @@ tries to disarm you.
 **Normal:** You provoke an attack of opportunity when performing
 a disarm combat maneuver.
 
-## Improved Familiar
+### Improved Familiar
 
 This feat allows you to acquire a powerful familiar, but only
 when you could normally acquire a new familiar.
@@ -2603,7 +2719,9 @@ improved familiars do not gain the ability to speak with other
 creatures of their kind (although many of them already have the
 ability to communicate).
 
-## Improved Feint (Combat) {#improved-feint}
+### Improved Feint
+
+Type of Feat: Combat
 
 You are skilled at fooling your opponents in combat.
 
@@ -2614,7 +2732,9 @@ You are skilled at fooling your opponents in combat.
 
 **Normal:** Feinting in combat is a standard action.
 
-## Improved Grapple (Combat) {#improved-grapple}
+### Improved Grapple
+
+Type of Feat: Combat
 
 You are skilled at grappling opponents.
 
@@ -2629,7 +2749,7 @@ tries to [grapple] you.
 **Normal:** You provoke an attack of opportunity when performing
 a [grapple] combat maneuver.
 
-## Improved Great Fortitude
+### Improved Great Fortitude
 
 You can draw upon an inner reserve to resist diseases, poisons,
 and other grievous harm.
@@ -2640,13 +2760,15 @@ and other grievous harm.
 must decide to use this ability before the results are
 revealed. You must take the second roll, even if it is worse.
 
-## Improved Initiative (Combat) {#improved-initiative}
+### Improved Initiative
+
+Type of Feat: Combat
 
 Your quick reflexes allow you to react rapidly to danger.
 
 **Benefit:** You get a +4 bonus on initiative checks.
 
-## Improved Iron Will
+### Improved Iron Will
 
 Your clarity of thought allows you to resist mental attacks.
 
@@ -2656,7 +2778,7 @@ Your clarity of thought allows you to resist mental attacks.
 decide to use this ability before the results are revealed. You
 must take the second roll, even if it is worse.
 
-## Improved Lightning Reflexes
+### Improved Lightning Reflexes
 
 You have a knack for avoiding danger all around you.
 
@@ -2666,7 +2788,9 @@ You have a knack for avoiding danger all around you.
 must decide to use this ability before the results are
 revealed. You must take the second roll, even if it is worse.
 
-## Improved Overrun (Combat) {#improved-overrun}
+### Improved Overrun
+
+Type of Feat: Combat
 
 You are skilled at running down your foes.
 
@@ -2682,7 +2806,9 @@ chose to avoid you.
 **Normal:** You provoke an attack of opportunity when performing
 an [overrun] combat maneuver.
 
-## Improved Precise Shot (Combat) {#improved-precise-shot}
+### Improved Precise Shot
+
+Type of Feat: Combat
 
 Your ranged attacks ignore anything but total concealment and
 cover.
@@ -2699,7 +2825,9 @@ your ranged attacks.
 **Normal:** See the normal rules on the effects of cover and
 concealment in [Combat].
 
-## Improved Shield Bash (Combat) {#improved-shield-bash}
+### Improved Shield Bash
+
+Type of Feat: Combat
 
 You can protect yourself with your shield, even if you use it to
 attack.
@@ -2713,7 +2841,9 @@ the shield's shield bonus to your [AC].
 bash loses the shield's shield bonus to [AC] until his next turn
 (see [Equipment]).
 
-## Improved Sunder (Combat) {#improved-sunder}
+### Improved Sunder
+
+Type of Feat: Combat
 
 You are skilled at damaging your foes' weapons and armor.
 
@@ -2728,7 +2858,9 @@ tries to [sunder] your gear.
 **Normal:** You provoke an attack of opportunity when performing
 a [sunder] combat maneuver.
 
-## Improved Trip (Combat) {#improved-trip}
+### Improved Trip
+
+Type of Feat: Combat
 
 You are skilled at sending your opponents to the ground.
 
@@ -2743,8 +2875,10 @@ tries to [trip] you.
 **Normal:** You provoke an attack of opportunity when performing
 a [trip] combat maneuver.
 
-## Improved Two-Weapon Fighting (Combat)
-   {#improved-two-weapon-fighting}
+### Improved Two-Weapon Fighting 
+
+Type of Feat: Combat
+ 
 
 You are skilled at fighting with two weapons.
 
@@ -2758,7 +2892,9 @@ albeit at a –5 penalty.
 **Normal:** Without this feat, you can only get a single extra
 attack with an off-hand weapon.
 
-## Improved Unarmed Strike (Combat) {#improved-unarmed-strike}
+### Improved Unarmed Strike
+
+Type of Feat: Combat
 
 You are skilled at fighting while unarmed.
 
@@ -2771,7 +2907,9 @@ damage, at your choice.
 attacking with an unarmed strike, and you can deal only nonlethal
 damage with such an attack.
 
-## Improved Vital Strike (Combat) {#improved-vital-strike}
+### Improved Vital Strike
+
+Type of Feat: Combat
 
 You can make a single attack that deals a large amount of damage.
 
@@ -2785,8 +2923,10 @@ weapon abilities (such as [*flaming*]), precision based damage,
 and other damage bonuses. These extra weapon damage dice are not
 multiplied on a critical hit, but are added to the total.
 
-## Improvised Weapon Mastery (Combat)
-   {#improvised-weapon-mastery}
+### Improvised Weapon Mastery 
+
+Type of Feat: Combat
+ 
 
 You can turn nearly any object into a deadly weapon, from a
 razor-sharp chair leg to a sack of flour.
@@ -2801,20 +2941,22 @@ maximum of 1d8 (2d6 if the improvised weapon is two-handed). The
 improvised weapon has a critical threat range of 19–20, with a
 critical multiplier of ×2.
 
-## Intimidating Prowess (Combat) {#intimidating-prowess}
+### Intimidating Prowess
+
+Type of Feat: Combat
 
 Your physical might is intimidating to others.
 
 **Benefit:** Add your Strength modifier to [Intimidate] skill
 checks in addition to your [Charisma] modifier.
 
-## Iron Will
+### Iron Will
 
 You are more resistant to mental effects.
 
 **Benefit:** You get a +2 bonus on all [Will] saving throws.
 
-## Leadership
+### Leadership
 
 Table: Leadership
 
@@ -3346,13 +3488,15 @@ the existing followers. Don't consult the table to see if your
 cohort gains levels, however, because cohorts earn experience on
 their own.
 
-## Lightning Reflexes
+### Lightning Reflexes
 
 You have faster reflexes than normal.
 
 **Benefit:** You get a +2 bonus on all [Reflex] saving throws.
 
-## Lightning Stance (Combat) {#lightning-stance}
+### Lightning Stance
+
+Type of Feat: Combat
 
 The speed at which you move makes it nearly impossible for
 opponents to strike you.
@@ -3363,7 +3507,9 @@ bonus +11.
 **Benefit:** If you take two actions to move or a withdraw action
 in a turn, you gain 50% concealment for 1 round.
 
-## Lunge (Combat) {#lunge}
+### Lunge
+
+Type of Feat: Combat
 
 You can strike foes that would normally be out of reach.
 
@@ -3374,7 +3520,7 @@ You can strike foes that would normally be out of reach.
 [AC] until your next turn. You must decide to use this ability
 before any attacks are made.
 
-## Magical Aptitude
+### Magical Aptitude
 
 You are skilled at spellcasting and using magic items.
 
@@ -3382,7 +3528,9 @@ You are skilled at spellcasting and using magic items.
 [Use Magic Device] checks. If you have 10 or more ranks in one of
 these skills, the bonus increases to +4 for that skill.
 
-## Manyshot (Combat) {#manyshot}
+### Manyshot
+
+Type of Feat: Combat
 
 You can fire multiple arrows at a single target.
 
@@ -3398,8 +3546,10 @@ each arrow, as do other damage bonuses, such as a ranger's
 favored enemy bonus. Damage reduction and resistances apply
 separately to each arrow.
 
-## Martial Weapon Proficiency (Combat)
-   {#martial-weapon-proficiency}
+### Martial Weapon Proficiency 
+
+Type of Feat: Combat
+ 
 
 Choose a type of martial weapon. You understand how to use that
 type of martial weapon in combat.
@@ -3417,7 +3567,7 @@ feat.
 You can gain Martial Weapon Proficiency multiple times. Each time
 you take the feat, it applies to a new type of weapon.
 
-## Master Craftsman
+### Master Craftsman
 
 Your superior crafting skills allow you to create simple magic
 items.
@@ -3440,7 +3590,9 @@ item.
 **Normal:** Only spellcasters can qualify for the [Craft Magic
 Arms and Armor] and [Craft Wondrous Item] feats.
 
-## Maximize Spell (Metamagic) {#maximize-spell}
+### Maximize Spell
+
+Type of Feat: Metamagic
 
 Your spells have the maximum possible effect.
 
@@ -3453,7 +3605,9 @@ actual level.
 An empowered, maximized spell gains the separate benefits of each
 feat: the maximum result plus half the normally rolled result.
 
-## Medusa's Wrath (Combat) {#medusa-s-wrath}
+### Medusa's Wrath
+
+Type of Feat: Combat
 
 You can take advantage of your opponent's confusion, delivering
 multiple blows.
@@ -3467,7 +3621,9 @@ strikes at your highest base attack bonus. These bonus attacks
 must be made against a [dazed], [flat-footed], [paralyzed],
 [staggered], [stunned], or [unconscious] foe.
 
-## Mobility (Combat) {#mobility}
+### Mobility
+
+Type of Feat: Combat
 
 You can easily move through a dangerous melee.
 
@@ -3482,7 +3638,9 @@ bonus]es.
 [Dodge bonus]es stack with each other, unlike most types of
 bonuses.
 
-## Mounted Archery (Combat) {#mounted-archery}
+### Mounted Archery
+
+Type of Feat: Combat
 
 You are skilled at making ranged attacks while mounted.
 
@@ -3492,7 +3650,9 @@ You are skilled at making ranged attacks while mounted.
 while mounted is halved: –2 instead of –4 if your mount is taking
 a double move, and –4 instead of –8 if your mount is running.
 
-## Mounted Combat (Combat) {#mounted-combat}
+### Mounted Combat
+
+Type of Feat: Combat
 
 You are adept at guiding your mount through combat.
 
@@ -3503,7 +3663,7 @@ may attempt a Ride check (as an immediate action) to negate the
 hit. The hit is negated if your Ride check result is greater than
 the opponent's attack roll.
 
-## Natural Spell
+### Natural Spell
 
 You can cast spells even while in a form that cannot normally
 cast spells.
@@ -3521,7 +3681,7 @@ does not permit the use of magic items while you are in a form
 that could not ordinarily use them, and you do not gain the
 ability to speak while using wild shape.
 
-## Nimble Moves
+### Nimble Moves
 
 You can move across a single obstacle with ease.
 
@@ -3531,7 +3691,9 @@ You can move across a single obstacle with ease.
 difficult terrain each round as if it were normal terrain. This
 feat allows you to take a 5-foot step into difficult terrain.
 
-## Penetrating Strike (Combat) {#penetrating-strike}
+### Penetrating Strike
+
+Type of Feat: Combat
 
 Your attacks are capable of penetrating the defenses of some
 creatures.
@@ -3543,7 +3705,7 @@ creatures.
 Focus] ignore up to 5 points of damage reduction.  This feat does
 not apply to damage reduction without a type (such as DR 10/—).
 
-## Persuasive
+### Persuasive
 
 You are skilled at swaying attitudes and intimidating others into
 your way of thinking.
@@ -3552,7 +3714,9 @@ your way of thinking.
 skill checks. If you have 10 or more ranks in one of these
 skills, the bonus increases to +4 for that skill.
 
-## Pinpoint Targeting (Combat) {#pinpoint-targeting}
+### Pinpoint Targeting
+
+Type of Feat: Combat
 
 You can target the weak points in your opponent's armor.
 
@@ -3564,7 +3728,9 @@ The target does not gain any armor, natural armor, or shield
 bonuses to its [Armor Class]. You do not gain the benefit of this
 feat if you move this round.
 
-## Point-Blank Shot (Combat) {#point-blank-shot}
+### Point-Blank Shot
+
+Type of Feat: Combat
 
 You are especially accurate when making ranged attacks against
 close targets.
@@ -3572,7 +3738,9 @@ close targets.
 **Benefit:** You get a +1 bonus on attack and damage rolls with
 ranged weapons at ranges of up to 30 feet.
 
-## Power Attack (Combat) {#power-attack}
+### Power Attack
+
+Type of Feat: Combat
 
 You can make exceptionally deadly melee attacks by sacrificing
 accuracy for strength.
@@ -3594,7 +3762,9 @@ and its effects last until your next turn. The bonus damage does
 not apply to touch attacks or effects that do not deal hit point
 damage.
 
-## Precise Shot (Combat) {#precise-shot}
+### Precise Shot
+
+Type of Feat: Combat
 
 You are adept at firing ranged attacks into melee.
 
@@ -3604,7 +3774,9 @@ You are adept at firing ranged attacks into melee.
 engaged in melee without taking the standard –4 penalty on your
 attack roll.
 
-## Quick Draw (Combat) {#quick-draw}
+### Quick Draw
+
+Type of Feat: Combat
 
 You can draw weapons faster than most.
 
@@ -3625,7 +3797,9 @@ action, or (if your base attack bonus is +1 or higher) as a free
 action as part of movement. Without this feat, you can draw a
 hidden weapon as a standard action.
 
-## Quicken Spell (Metamagic) {#quicken-spell}
+### Quicken Spell
+
+Type of Feat: Metamagic
 
 You can cast spells in a fraction of the normal time.
 
@@ -3643,7 +3817,9 @@ cast spontaneously, so long as it has a casting time that is not
 more than 1 full-round action, without increasing the spell's
 casting time.
 
-## Rapid Reload (Combat) {#rapid-reload}
+### Rapid Reload
+
+Type of Feat: Combat
 
 Choose a type of crossbow (hand, light, or heavy). You can reload
 such weapons quickly.
@@ -3666,7 +3842,9 @@ a heavy crossbow.
 **Special:** You can gain Rapid Reload multiple times. Each time
 you take the feat, it applies to a new type of crossbow.
 
-## Rapid Shot (Combat) {#rapid-shot}
+### Rapid Shot
+
+Type of Feat: Combat
 
 You can make an additional ranged attack.
 
@@ -3676,7 +3854,9 @@ You can make an additional ranged attack.
 weapon, you can fire one additional time this round. All of your
 attack rolls take a –2 penalty when using Rapid Shot.
 
-## Ride-By Attack (Combat) {#ride-by-attack}
+### Ride-By Attack
+
+Type of Feat: Combat
 
 While mounted and charging, you can move, strike at a foe, and
 then continue moving.
@@ -3690,7 +3870,7 @@ movement for the round can't exceed double your mounted speed.
 You and your mount do not provoke an attack of opportunity from
 the opponent that you attack.
 
-## Run
+### Run
 
 You are swift of foot.
 
@@ -3708,7 +3888,9 @@ medium load) or three times your speed (if wearing heavy armor or
 carrying a heavy load), and you lose your [Dexterity] bonus to
 [AC].
 
-## Scorpion Style (Combat) {#scorpion-style}
+### Scorpion Style
+
+Type of Feat: Combat
 
 You can perform an unarmed strike that greatly hampers your
 target's movement.
@@ -3722,7 +3904,9 @@ to 5 feet for a number of rounds equal to your [Wisdom] modifier
 unless it makes a [Fortitude] saving throw (DC 10 + 1/2 your
 character level + your [Wis] modifier).
 
-## Scribe Scroll (Item Creation) {#scribe-scroll}
+### Scribe Scroll
+
+Type of Feat: Item Creation
 
 You can create magic scrolls.
 
@@ -3735,7 +3919,7 @@ in its base price. To scribe a scroll, you must use up raw
 materials costing half of this base price. See the magic item
 creation rules in [Magic Items] for more information.
 
-## Selective Channeling
+### Selective Channeling
 
 You can choose whom to affect when you channel energy.
 
@@ -3749,7 +3933,7 @@ are not affected by your channeled energy.
 channel energy. You can only choose whether or not you are
 affected.
 
-## Self-Sufficient
+### Self-Sufficient
 
 You know how to get along in the wild and how to effectively
 treat wounds.
@@ -3758,7 +3942,9 @@ treat wounds.
 [Survival] checks. If you have 10 or more ranks in one of these
 skills, the bonus increases to +4 for that skill.
 
-## Shatter Defenses (Combat) {#shatter-defenses}
+### Shatter Defenses
+
+Type of Feat: Combat
 
 Your skill with your chosen weapon leaves opponents unable to
 defend themselves if you strike them when their defenses are
@@ -3772,7 +3958,9 @@ hit by you this round is [flat-footed] to your attacks until the
 end of your next turn. This includes any additional attacks you
 make this round.
 
-## Shield Focus (Combat) {#shield-focus}
+### Shield Focus
+
+Type of Feat: Combat
 
 You are skilled at deflecting blows with your shield.
 
@@ -3781,7 +3969,9 @@ You are skilled at deflecting blows with your shield.
 **Benefit:** Increase the [AC] bonus granted by any shield you
 are using by 1.
 
-## Shield Master (Combat) {#shield-master}
+### Shield Master
+
+Type of Feat: Combat
 
 Your mastery of the shield allows you to fight with it without
 hindrance.
@@ -3794,7 +3984,9 @@ with a shield while you are wielding another weapon. Add your
 shield's enhancement bonus to attacks and damage rolls made with
 the shield as if it was a weapon enhancement bonus.
 
-## Shield Proficiency (Combat) {#shield-proficiency}
+### Shield Proficiency
+
+Type of Feat: Combat
 
 You are trained in how to properly use a shield.
 
@@ -3810,7 +4002,9 @@ rolls and on all skill checks that involve moving.
 paladins, and rangers all automatically have Shield Proficiency
 as a bonus feat. They need not select it.
 
-## Shield Slam (Combat) {#shield-slam}
+### Shield Slam
+
+Type of Feat: Combat
 
 In the right position, your shield can be used to send opponents
 flying.
@@ -3827,7 +4021,9 @@ maximum possible distance. You may choose to move with your
 target if you are able to take a 5-foot step or to spend an
 action to move this turn.
 
-## Shot on the Run (Combat) {#shot-on-the-run}
+### Shot on the Run
+
+Type of Feat: Combat
 
 You can move, fire a ranged weapon, and move again before your
 foes can react.
@@ -3842,7 +4038,9 @@ movement.
 **Normal:** You cannot move before and after an attack with a
 ranged weapon.
 
-## Sickening Critical (Combat, Critical) {#sickening-critical}
+### Sickening Critical
+
+Type of Feat: Combat, Critical
 
 Your critical hits cause opponents to become sickened.
 
@@ -3855,7 +4053,9 @@ stack. Additional hits instead add to the effect's duration.
 **Special:** You can only apply the effects of one critical feat
 to a given critical hit unless you possess Critical Mastery.
 
-## Silent Spell (Metamagic) {#silent-spell}
+### Silent Spell
+
+Type of Feat: Metamagic
 
 You can cast your spells without making any sound.
 
@@ -3866,8 +4066,10 @@ spell's actual level.
 
 **Special:** Bard spells cannot be enhanced by this feat.
 
-## Simple Weapon Proficiency (Combat)
-   {#simple-weapon-proficiency}
+### Simple Weapon Proficiency 
+
+Type of Feat: Combat
+ 
 
 You are trained in the use of basic weapons.
 
@@ -3881,7 +4083,7 @@ proficient, you take a –4 penalty on attack rolls.
 are automatically proficient with all simple weapons. They need
 not select this feat.
 
-## Skill Focus
+### Skill Focus
 
 Choose a skill. You are particularly adept at that skill.
 
@@ -3893,7 +4095,9 @@ bonus increases to +6.
 do not stack. Each time you take the feat, it applies to a new
 skill.
 
-## Snatch Arrows (Combat) {#snatch-arrows}
+### Snatch Arrows
+
+Type of Feat: Combat
 
 Instead of knocking an arrow or ranged attack aside, you can
 catch it in mid-flight.
@@ -3909,7 +4113,7 @@ attacker (even though it isn't your turn) or kept for later use.
 You must have at least one hand free (holding nothing) to use
 this feat.
 
-## Spell Focus
+### Spell Focus
 
 Choose a school of magic. Any spells you cast of that school are
 more difficult to resist.
@@ -3921,7 +4125,7 @@ against spells from the school of magic you select.
 do not stack. Each time you take the feat, it applies to a new
 school of magic.
 
-## Spell Mastery
+### Spell Mastery
 
 You have mastered a small handful of spells, and can prepare
 these spells without referencing your spellbooks at all.
@@ -3936,14 +4140,16 @@ without referring to a spellbook.
 **Normal:** Without this feat, you must use a spellbook to
 prepare all your spells, except *read magic.*
 
-## Spell Penetration
+### Spell Penetration
 
 Your spells break through spell resistance more easily than most.
 
 **Benefit:** You get a +2 bonus on caster level checks (1d20 +
 caster level) made to overcome a creature's [spell resistance].
 
-## Spellbreaker (Combat) {#spellbreaker}
+### Spellbreaker
+
+Type of Feat: Combat
 
 You can strike at enemy spellcasters who fail to cast defensively
 when you threaten them.
@@ -3957,7 +4163,9 @@ from you.
 **Normal:** Enemies that fail to cast spells defensively do not
 provoke attacks of opportunity.
 
-## Spirited Charge (Combat) {#spirited-charge}
+### Spirited Charge
+
+Type of Feat: Combat
 
 Your mounted charge attacks deal a tremendous amount of damage.
 
@@ -3967,7 +4175,9 @@ Your mounted charge attacks deal a tremendous amount of damage.
 double damage with a melee weapon (or triple damage with a
 lance).
 
-## Spring Attack (Combat) {#spring-attack}
+### Spring Attack
+
+Type of Feat: Combat
 
 You can deftly move up to a foe, strike, and withdraw before he
 can react.
@@ -3985,7 +4195,9 @@ attack a foe that is adjacent to you at the start of your turn.
 
 **Normal:** You cannot move before and after an attack.
 
-## Staggering Critical (Combat, Critical) {#staggering-critical}
+### Staggering Critical
+
+Type of Feat: Combat, Critical
 
 Your critical hits cause opponents to slow down.
 
@@ -4000,7 +4212,9 @@ feat do not stack.  Additional hits instead add to the duration.
 **Special:** You can only apply the effects of one critical feat
 to a given critical hit unless you possess Critical Mastery.
 
-## Stand Still (Combat) {#stand-still}
+### Stand Still
+
+Type of Feat: Combat
 
 You can stop foes that try to move past you.
 
@@ -4015,7 +4229,7 @@ applies to any creature that attempts to move from a square that
 is adjacent to you if such movement provokes an attack of
 opportunity.
 
-## Stealthy
+### Stealthy
 
 You are good at avoiding unwanted attention and slipping out of
 bonds.
@@ -4024,7 +4238,9 @@ bonds.
 [Stealth] skill checks. If you have 10 or more ranks in one of
 these skills, the bonus increases to +4 for that skill.
 
-## Step Up (Combat) {#step-up}
+### Step Up
+
+Type of Feat: Combat
 
 You can close the distance when a foe tries to move away.
 
@@ -4037,7 +4253,9 @@ triggered this ability. If you take this step, you cannot take a
 5-foot step during your next turn. If you take an action to move
 during your next turn, subtract 5 feet from your total movement.
 
-## Still Spell (Metamagic) {#still-spell}
+### Still Spell
+
+Type of Feat: Metamagic
 
 You can cast spells without moving.
 
@@ -4046,7 +4264,9 @@ components. Spells without somatic components are not affected. A
 stilled spell uses up a spell slot one level higher than the
 spell's actual level.
 
-## Strike Back (Combat) {#strike-back}
+### Strike Back
+
+Type of Feat: Combat
 
 You can strike at foes that attack you using their superior
 reach, by targeting their limbs or weapons as they come at you.
@@ -4057,7 +4277,9 @@ reach, by targeting their limbs or weapons as they come at you.
 against any foe that attacks you in melee, even if the foe is
 outside of your reach.
 
-## Stunning Critical (Combat, Critical) {#stunning-critical}
+### Stunning Critical
+
+Type of Feat: Combat, Critical
 
 Your critical hits cause opponents to become stunned.
 
@@ -4074,7 +4296,9 @@ to the duration.
 **Special:** You can only apply the effects of one critical feat
 to a given critical hit unless you possess Critical Mastery.
 
-## Stunning Fist (Combat) {#stunning-fist}
+### Stunning Fist
+
+Type of Feat: Combat
 
 You know just where to strike to temporarily stun a foe.
 
@@ -4102,7 +4326,9 @@ attempt a stunning attack a number of times per day equal to his
 monk level, plus one more time per day for every four levels he
 has in classes other than monk.
 
-## Throw Anything (Combat) {#throw-anything}
+### Throw Anything
+
+Type of Feat: Combat
 
 You are used to throwing things you have on hand.
 
@@ -4113,7 +4339,9 @@ attack rolls made with thrown splash weapons.
 **Normal:** You take a –4 penalty on attack rolls made with an
 improvised weapon.
 
-## Tiring Critical (Combat, Critical) {#tiring-critical}
+### Tiring Critical
+
+Type of Feat: Combat, Critical
 
 Your critical hits cause opponents to become fatigued.
 
@@ -4126,7 +4354,7 @@ becomes [fatigued]. This feat has no additional effect on a
 **Special:** You can only apply the effects of one critical feat
 to a given critical hit unless you possess Critical Mastery.
 
-## Toughness
+### Toughness
 
 You have enhanced physical stamina.
 
@@ -4135,7 +4363,9 @@ possess beyond 3, you gain an additional +1 hit point. If you
 have more than 3 Hit Dice, you gain +1 hit points whenever you
 gain a Hit Die (such as when you gain a level).
 
-## Tower Shield Proficiency (Combat) {#tower-shield-proficiency}
+### Tower Shield Proficiency
+
+Type of Feat: Combat
 
 You are trained in how to properly use a tower shield.
 
@@ -4152,7 +4382,9 @@ and on all skill checks that involve moving, including Ride.
 **Special:** Fighters automatically have Tower Shield Proficiency
 as a bonus feat. They need not select it.
 
-## Trample (Combat) {#trample}
+### Trample
+
+Type of Feat: Combat
 
 While mounted, you can ride down opponents and trample them under
 your mount.
@@ -4164,7 +4396,7 @@ mounted, your target may not choose to avoid you. Your mount may
 make one hoof attack against any target you knock down, gaining
 the standard +4 bonus on attack rolls against prone targets.
 
-## Turn Undead
+### Turn Undead
 
 Calling upon higher powers, you cause undead to flee from the
 might of your unleashed divine energy.
@@ -4181,7 +4413,9 @@ new saving throw each round to end the effect. If you use channel
 energy in this way, it has no other effect (it does not heal or
 harm nearby creatures).
 
-## Two-Weapon Defense (Combat) {#two-weapon-defense}
+### Two-Weapon Defense
+
+Type of Feat: Combat
 
 You are skilled at defending yourself while dual-wielding.
 
@@ -4194,7 +4428,9 @@ shield bonus to your [AC].
 When you are fighting defensively or using the total defense
 action, this shield bonus increases to +2.
 
-## Two-Weapon Fighting (Combat) {#two-weapon-fighting}
+### Two-Weapon Fighting
+
+Type of Feat: Combat
 
 You can fight with a weapon wielded in each of your hands. You
 can make one extra attack each round with the secondary weapon.
@@ -4214,7 +4450,9 @@ attack with your off hand. If your off-hand weapon is light, the
 penalties are reduced by 2 each. An unarmed strike is always
 considered light.
 
-## Two-Weapon Rend (Combat) {#two-weapon-rend}
+### Two-Weapon Rend
+
+Type of Feat: Combat
 
 Striking with both of your weapons simultaneously, you can use
 them to deliver devastating wounds.
@@ -4227,7 +4465,9 @@ and your off-hand weapon, you deal an additional 1d10 points of
 damage plus 1-1/2 times your Strength modifier. You can only deal
 this additional damage once each round.
 
-## Unseat (Combat) {#unseat}
+### Unseat
+
+Type of Feat: Combat
 
 You are skilled at unseating your mounted opponents.
 
@@ -4241,7 +4481,9 @@ the normal damage. If successful, the target is knocked off his
 horse and lands [prone] in a space adjacent to his mount that is
 directly away from you.
 
-## Vital Strike (Combat) {#vital-strike}
+### Vital Strike
+
+Type of Feat: Combat
 
 You make a single attack that deals significantly more damage
 than normal.
@@ -4256,7 +4498,9 @@ weapon abilities (such as [*flaming*]), precision based damage,
 and other damage bonuses. These extra weapon damage dice are not
 multiplied on a critical hit, but are added to the total.
 
-## Weapon Finesse (Combat) {#weapon-finesse}
+### Weapon Finesse
+
+Type of Feat: Combat
 
 You are trained in using your agility in melee combat, as opposed
 to brute strength.
@@ -4269,7 +4513,9 @@ your attack rolls.
 
 **Special:** Natural weapons are considered light weapons.
 
-## Weapon Focus (Combat) {#weapon-focus}
+### Weapon Focus
+
+Type of Feat: Combat
 
 Choose one type of weapon. You can also choose unarmed strike or
 [grapple] (or ray, if you are a spellcaster) as your weapon for
@@ -4285,7 +4531,9 @@ using the selected weapon.
 do not stack. Each time you take the feat, it applies to a new
 type of weapon.
 
-## Weapon Specialization (Combat) {#weapon-specialization}
+### Weapon Specialization
+
+Type of Feat: Combat
 
 You are skilled at dealing damage with one weapon. Choose one
 type of weapon (including unarmed strike or [grapple]) for which
@@ -4302,7 +4550,9 @@ using the selected weapon.
 do not stack. Each time you take the feat, it applies to a new
 type of weapon.
 
-## Whirlwind Attack (Combat) {#whirlwind-attack}
+### Whirlwind Attack
+
+Type of Feat: Combat
 
 You can strike out at every foe within reach.
 
@@ -4318,7 +4568,9 @@ When you use the Whirlwind Attack feat, you also forfeit any
 bonus or extra attacks granted by other feats, spells, or
 abilities.
 
-## Widen Spell (Metamagic) {#widen-spell}
+### Widen Spell
+
+Type of Feat: Metamagic
 
 You can cast your spells so that they occupy a larger space.
 
@@ -4330,7 +4582,9 @@ slot three levels higher than the spell's actual level.
 Spells that do not have an area of one of these four sorts are
 not affected by this feat.
 
-## Wind Stance (Combat) {#wind-stance}
+### Wind Stance
+
+Type of Feat: Combat
 
 Your erratic movements make it difficult for enemies to pinpoint
 your location.
