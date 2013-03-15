@@ -1,4 +1,6 @@
-# Special Abilities {#appendix-1-special-abilities}
+# Glossary
+
+## Special Abilities {#appendix-1-special-abilities}
 
 The following special abilities include rules commonly used by a
 number of creatures, spells, and traps.
@@ -79,7 +81,7 @@ of opportunity the way that casting a spell does?
 
 \
 
-## Ability Score Bonuses
+### Ability Score Bonuses
 
 Some spells and abilities increase your ability scores. Ability
 score increases with a duration of 1 day or less give only
@@ -126,7 +128,7 @@ This might cause you to gain skill points, [hit points], and
 other bonuses.  These bonuses should be noted separately in case
 they are removed.
 
-## Ability Score Damage, Penalty, and Drain
+### Ability Score Damage, Penalty, and Drain
 
 Diseases, poisons, spells, and other abilities can all deal
 damage directly to your ability scores. This damage does not
@@ -191,7 +193,7 @@ ability. This might cause you to lose skill points, [hit points],
 and other bonuses.  Ability drain can be healed through the use
 of spells such as *[restoration].*
 
-## Afflictions
+### Afflictions
 
 From curses to poisons to diseases, there are a number of
 afflictions that can affect a creature. While each of these
@@ -282,7 +284,7 @@ to avoid further [Strength] damage. If, on two consecutive days,
 he makes his [Fortitude] saves, he is cured of the disease and
 any damage it caused begins to heal as normal.
 
-## Curses
+### Curses
 
 Careless rogues plundering a tomb, drunken heroes insulting a
 powerful wizard, and foolhardy adventurers who pick up ancient
@@ -356,7 +358,7 @@ full moon or whenever the target is injured
 **Effect**target transforms into a wolf under the GM's control
 until the next morning
 
-## Diseases
+### Diseases
 
 From a widespread plague to the bite of a dire rat, disease is a
 serious threat to common folk and adventurers alike. Diseases
@@ -465,7 +467,7 @@ consecutive saves
 or 1 point of the damage is drain instead;**Cure** 2 consecutive
 saves
 
-## Poison
+### Poison
 
 No other affliction is so prevalent as poison. From the fangs of
 a viper to the ichor-stained assassin's blade, poison is a
@@ -860,7 +862,7 @@ damage;**Cure** 1 save
 
 **Effect**1d4 [Con] damage;**Cure** 2 consecutive saves
 
-## Blindsight and Blindsense
+### Blindsight and Blindsense
 
 Some creatures possess blindsight, the extraordinary ability to
 use a nonvisual sense (or a combination senses) to operate
@@ -894,13 +896,13 @@ with blindsense. A creature with blindsense is still denied its
 [Dexterity] bonus to [Armor Class] against attacks from creatures
 it cannot see.
 
-## Channel Resistance
+### Channel Resistance
 
 Creatures with channel resistance gain a bonus on [Will] saves
 made against channeled energy.  They add their bonus to any
 [Will] saves made to halve the damage and resist the effect.
 
-## Charm and Compulsion
+### Charm and Compulsion
 
 Many abilities and spells can cloud the minds of characters and
 monsters, leaving them unable to tell friend from foe—or worse
@@ -952,7 +954,7 @@ Regardless of whether a character is charmed or compelled, he
 does not volunteer information or tactics that his master doesn't
 ask for.
 
-## Damage Reduction
+### Damage Reduction
 
 Some magic creatures have the supernatural ability to instantly
 heal damage from weapons or ignore blows altogether as though
@@ -1029,7 +1031,7 @@ alignment-based
 \* Note that this does not give the ability to ignore hardness,
 like an actual adamantine weapon does
 
-## Darkvision
+### Darkvision
 
 Darkvision is the extraordinary ability to see with no light
 source at all, out to a range specified for the creature.
@@ -1040,7 +1042,7 @@ illusions are still visible as what they seem to be. Likewise,
 darkvision subjects a creature to gaze attacks normally. The
 presence of light does not spoil darkvision.
 
-## Death Attacks
+### Death Attacks
 
 In most cases, a death attack allows the victim a [Fortitude]
 save to avoid the effect, but if the save fails, the character
@@ -1055,7 +1057,7 @@ dies instantly.
     [Constitution] score.
 - The spell *[death ward]*protects against these attacks.
 
-## Energy Drain and Negative Levels
+### Energy Drain and Negative Levels
 
 Some spells and a number of undead creatures have the ability to
 drain away life and energy; this dreadful attack results in
@@ -1088,7 +1090,7 @@ spells like *[raise dead]* and *[resurrection]* without also
 receiving a *[restoration]*spell, cast the round after it is
 restored to life.
 
-## Energy Immunity and Vulnerability
+### Energy Immunity and Vulnerability
 
 A creature with energy immunity never takes damage from that
 energy type. Vulnerability means the creature takes half again as
@@ -1096,7 +1098,7 @@ much (+50%) damage as normal from that energy type, regardless of
 whether a saving throw is allowed or if the save is a success or
 failure.
 
-## Energy Resistance
+### Energy Resistance
 
 A creature with resistance to energy has the ability (usually
 extraordinary) to ignore some damage of a certain type per
@@ -1110,7 +1112,7 @@ When resistance completely negates the damage from an energy
 attack, the attack does not disrupt a spell. This resistance does
 not stack with the resistance that a spell might provide.
 
-## Fear
+### Fear
 
 Spells, magic items, and certain monsters can affect characters
 with fear. In most cases, the character makes a [Will] saving
@@ -1145,7 +1147,7 @@ a shaken character who is made frightened becomes panicked
 instead. A frightened character who is made shaken or frightened
 becomes panicked instead.
 
-## Invisibility
+### Invisibility
 
 The ability to move about unseen is not foolproof. While they
 can't be seen, invisible creatures can be heard, smelled, or
@@ -1258,7 +1260,7 @@ Invisibility does not thwart divination spells.
 Since some creatures can detect or even see invisible creatures,
 it is helpful to be able to hide even when invisible.
 
-## Low-Light Vision
+### Low-Light Vision
 
 Characters with low-light vision have eyes that are so sensitive
 to light that they can see twice as far as normal in dim light.
@@ -1269,7 +1271,7 @@ is next to him as a source of light.
 Characters with low-light vision can see outdoors on a moonlit
 night as well as they can during the day.
 
-## Paralysis
+### Paralysis
 
 Some monsters and spells have the supernatural or spell-like
 ability to paralyze their victims, immobilizing them through
@@ -1285,7 +1287,7 @@ A winged creature flying in the air at the time that it becomes
 paralyzed cannot flap its wings and falls. A swimmer can't swim
 and may drown.
 
-## Scent
+### Scent
 
 This extraordinary ability lets a creature detect approaching
 enemies, sniff out hidden foes, and track by sense of smell.
@@ -1328,7 +1330,7 @@ of such an odor completely spoils the ability to properly detect
 or identify creatures, and the base Survival DC to track becomes
 20 rather than 10.
 
-## Spell Resistance
+### Spell Resistance
 
 Spell resistance is the extraordinary ability to avoid being
 affected by spells. Some spells also grant spell resistance.
@@ -1368,7 +1370,7 @@ bestow spell resistance upon another.
 
 Spell resistance does not stack, but rather overlaps.
 
-## When Spell Resistance Applies
+### When Spell Resistance Applies
 
 Each spell includes an entry that indicates whether spell
 resistance applies to the spell. In general, whether spell
@@ -1419,7 +1421,7 @@ Spells that have instantaneous durations but lasting results
 aren't subject to spell resistance unless the resistant creature
 is exposed to the spell the instant it is cast.
 
-## Successful Spell Resistance
+### Successful Spell Resistance
 
 Spell resistance prevents a spell or a spell-like ability from
 affecting or harming the resistant creature, but it never removes
@@ -1432,7 +1434,7 @@ check against spell resistance allows the resistant creature to
 ignore any effect the spell might have. The magic continues to
 affect others normally.
 
-# Conditions
+## Conditions
 
 If more than one condition affects a character, apply them all.
 If effects can't combine, apply the most severe effect.
